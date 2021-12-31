@@ -1,0 +1,44 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name="theme-color" content="#000000"><link rel="manifest" href="/webapp/manifest.json"><link rel="shortcut icon" href="/webapp/favicon.ico"><link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"><link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/><script>function testGoogleMapsPlacesAPI() {
+            if (window.localStorage.getItem('mm_test_google_places_api') != null) {
+                window.localStorage.removeItem('mm_test_google_places_api');
+                window.MMPlacesSearch.testSearchSource('4');
+            }
+        }
+        function loadGoogleMapsPlacesAPIWithKey() {
+            let uiStateStoreString = window.localStorage.getItem('@MMUIStateStore');
+            if (uiStateStoreString == null) {
+                return;
+            }
+            let loadedStoreState = null;
+            try {
+                loadedStoreState = JSON.parse(uiStateStoreString);
+            } catch (error) {
+                return;
+            }
+
+            if (loadedStoreState == null
+                || loadedStoreState.settings == null
+                || loadedStoreState.settings.searchSourcesConfig == null
+                || loadedStoreState.settings.searchSourcesConfig['4'] == null
+            ) {
+                return;
+            }
+
+            let userGoogleMapsApiKey = loadedStoreState.settings.searchSourcesConfig['4'].google_places_api_key;
+
+            if (userGoogleMapsApiKey == null || userGoogleMapsApiKey === '') {
+                return;
+            }
+
+            // Google Places Search needs a 'map' div item to work
+            let gpsDivTag = document.createElement('div');
+            gpsDivTag.id = 'map';
+            document.body.appendChild(gpsDivTag);
+
+            // Injecting the script tag with the API key for Google Places Search
+            let gpsScriptTag = document.createElement('script');
+            gpsScriptTag.type = 'text/javascript';
+            gpsScriptTag.src = 'https://maps.googleapis.com/maps/api/js?key=' + userGoogleMapsApiKey + '&libraries=places&callback=testGoogleMapsPlacesAPI';
+            document.body.appendChild(gpsScriptTag);
+        }
+        window.onload = loadGoogleMapsPlacesAPIWithKey;</script><script>window.__MUI_USE_NEXT_TYPOGRAPHY_VARIANTS__=!0</script><title>Map Marker</title><link href="/webapp/static/css/main.8b87609a.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div><script type="text/javascript" src="/webapp/static/js/main.8350a26e.js"></script></body></html>

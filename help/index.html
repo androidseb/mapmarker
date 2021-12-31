@@ -1,0 +1,1974 @@
+<html>
+
+<head>
+	<meta charset="utf-8" />
+	<link rel="icon" type="image/png" href="../favicon.png" />
+	<link rel="stylesheet" type="text/css" href="index.css">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<title>Map Marker help center</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link href="http://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet" type="text/css"
+	/>
+	<meta name="description" content="The Map Marker help center" />
+	<meta name="keywords" content="Map Marker, places, organizer ,help center" />
+	<script type="text/javascript">
+		function getURLParameter(sParam) {
+			let sPageURL = window.location.search.substring(1);
+			let sURLVariables = sPageURL.split('&');
+			for (let i = 0; i < sURLVariables.length; i++) {
+				var sParameterName = sURLVariables[i].split('=');
+				if (sParameterName[0] === sParam) {
+					return sParameterName[1];
+				}
+			}
+			return null;
+		}
+
+		function isNoDevice() {
+			let deviceParam = getURLParameter('device');
+			return deviceParam == null || !isDeviceAndroid() && !isDeviceIOS() && !isDeviceWeb();
+		}
+
+		function isDeviceAll() {
+			return isDeviceAndroid() || isDeviceIOS() || isDeviceWeb();
+		}
+
+		function isDeviceAndroid() {
+			let deviceParam = getURLParameter('device');
+			return deviceParam === 'android';
+		}
+
+		function isDeviceIOS() {
+			let deviceParam = getURLParameter('device');
+			return deviceParam === 'ios';
+		}
+
+		function isDeviceWeb() {
+			let deviceParam = getURLParameter('device');
+			return deviceParam === 'web';
+		}
+
+		function getCssStyleForVisible(_isVisibleFunc) {
+			if (_isVisibleFunc()) {
+				return '{ display: block; } ';
+			} else {
+				return '{ display: none; } ';
+			}
+		}
+	</script>
+
+</head>
+
+<body>
+	<div id="google_translate_element"></div>
+	<script type="text/javascript">
+		function googleTranslateElementInit() {
+			new google.translate.TranslateElement({ pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL }, 'google_translate_element');
+		}
+	</script>
+	<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+	<script type="text/javascript">
+		let css = '';
+		css += '.devices_no ' + getCssStyleForVisible(isNoDevice);
+		css += '.devices_all ' + getCssStyleForVisible(isDeviceAll);
+		css += '.devices_android ' + getCssStyleForVisible(isDeviceAndroid);
+		css += '.devices_ios ' + getCssStyleForVisible(isDeviceIOS);
+		css += '.devices_web' + getCssStyleForVisible(isDeviceWeb);
+		let head = document.head || document.getElementsByTagName('head')[0];
+		let style = document.createElement('style');
+		style.type = 'text/css';
+		if (style.styleSheet) {
+			style.styleSheet.cssText = css;
+		} else {
+			style.appendChild(document.createTextNode(css));
+		}
+		head.appendChild(style);
+	</script>
+	<div style="min-width: 300px; max-width: 1280px; padding-bottom: 200px;">
+		<a href="../index.html">Home</a>
+		<a class="devices_all" href="./index.html">Help Center</a>
+		<h1 class="devices_no">Map Marker Help Center</h1>
+		<div class="devices_no">
+			To get started with the help center, choose the platform you are using:
+			<br>
+			<ul>
+				<li>
+					<a href="./index.html?device=android">Android</a>
+				</li>
+				<li>
+					<a href="./index.html?device=ios">iOS</a>
+				</li>
+				<li>
+					<a href="./index.html?device=web">Web App</a>
+				</li>
+			</ul>
+		</div>
+		<div class="devices_all" style="padding: 16px;">
+			<h1 class="devices_android">Map Marker help center for Android</h1>
+			<h1 class="devices_ios">Map Marker help center for iOS</h1>
+			<h1 class="devices_web">Map Marker web app help center</h1>
+			<div class="devices_android">
+				<a style="display:inline-block;" href="#devices_android_User_interface_description"><b>User interface description</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Main_map_interface">Main map interface</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Main_menu_interface">Main menu interface</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Marker_info_window">Marker info window</a><br>
+				<a style="display:inline-block;" href="#devices_android_Using_markers_lines_and_polygons"><b>Using markers, lines and polygons</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Creating_markers">Creating markers</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Creating_lines">Creating lines</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Creating_polygons">Creating polygons</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Editing_markers_lines_and_polygons">Editing markers, lines and polygons</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Deleting_markers_lines_and_polygons">Deleting markers, lines and polygons</a><br>
+				<a style="display:inline-block;" href="#devices_android_Using_the_organizer"><b>Using the organizer</b></a><br>
+				<a style="display:inline-block;" href="#devices_android_Using_map_folders"><b>Using map folders</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Create_a_folder">Create a folder</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Edit_a_folder">Edit a folder</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Marker_templates_custom_fields">Marker templates: custom fields</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Mass_assign_color_and_custom_fields">Mass assign color and custom fields</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Presets_templates_and_bulk_icons_with_folders">Presets, templates and bulk icons with folders</a><br>
+				<a style="display:inline-block;" href="#devices_android_Cloud_and_collaborating"><b>Cloud and collaborating</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_How_to_sync_a_local_map_folder_on_the_cloud">How to sync a local map folder on the cloud</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_How_to_create_a_new_map_folder_on_the_cloud">How to create a new map folder on the cloud</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_How_to_share_your_map_cloud_folder_with_other_people_on_the_cloud">How to share your map cloud folder with other people on the cloud</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_How_to_open_an_existing_map_file_from_the_cloud">How to open an existing map file from the cloud?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_How_to_restore_a_previous_version_from_history">How to restore a previous version from history?</a><br>
+				<a style="display:inline-block;" href="#devices_android_Importing_and_exporting_markers"><b>Importing and exporting markers</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_How_to_exportshare_your_markers">How to export/share your markers?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_How_to_import_your_markers_from_a_KML_KMZ_or_CSV_file">How to import your markers from a KML, KMZ or CSV file?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Migrating_your_data_to_a_new_device">Migrating your data to a new device</a><br>
+				<a style="display:inline-block;" href="#devices_android_Advanced_features"><b>Advanced features</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Configuring_third_party_search_sources">Configuring third party search sources</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_How_to_use_offline_maps">How to use offline maps?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_How_can_I_import_my_starred_locations_from_Google_Maps_locations_marked_with_a_star_on_Google_Maps">How can I import my starred locations from Google Maps (locations marked with a star on Google Maps)?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_How_can_I_extract_POI_images_from_Map_Marker">How can I extract POI images from Map Marker?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Amazon_Web_Service_S3_setup">Amazon Web Service S3 setup</a><br>
+				<a style="display:inline-block;" href="#devices_android_FAQ"><b>FAQ</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_I_want_to_try_early_features_how_can_I_use_the_beta">I want to try early features, how can I use the beta?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_How_can_I_help_with_translations">How can I help with translations?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_I_have_a_feature_idea_how_should_I_submit_the_idea">I have a feature idea, how should I submit the idea?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_How_can_I_stay_tuned_about_whatrsquos_coming_soon_for_Map_Marker">How can I stay tuned about what&rsquo;s coming soon for Map Marker?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Why_is_Map_Marker_not_a_navigation_app">Why is Map Marker not a navigation app?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_How_do_I_add_locations_on_Google_Maps">How do I add locations on Google Maps?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_A_place_in_Google_Maps_has_wronginaccurate_data_how_do_I_fix_it">A place in Google Maps has wrong/inaccurate data, how do I fix it?</a><br>
+				<a style="display:inline-block;" href="#devices_android_Troubleshooting_and_known_problems"><b>Troubleshooting and known problems</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Cloud_sync_error_404_file_not_found">Cloud sync error: 404 file not found</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_GPS_location_inaccurate">GPS location inaccurate</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Problems_with_Google_My_Maps">Problems with Google My Maps</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Premium_troubleshooting">Premium troubleshooting</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Problems_with_corrupted_files_on_app_launch_code_14_SQLITE_CANTOPEN">Problems with corrupted files on app launch (code 14 SQLITE_CANTOPEN)</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Problems_with_Google_Play_Services">Problems with Google Play Services</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Problems_with_map_display_blank_map">Problems with map display: blank map</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Problems_with_blocked_internet_access">Problems with blocked internet access</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Collecting_log_files_when_encountering_errors">Collecting log files when encountering errors</a><br>
+
+
+				<a name="devices_android_User_interface_description"></a>
+				<h1>User interface description</h1>
+
+				<a name="devices_android_Main_map_interface"></a>
+				<h2>Main map interface</h2>
+
+				<p>In the screenshot below, from left to right and from top to bottom, we have:</p>
+				<ul>
+					<li>The action bar (top left)</li>
+					<li>menu button</li>
+					<li>&lrm;jump button</li>
+					<li>&lrm;organize button</li>
+					<li>&lrm;search button</li>
+					<li>share button</li>
+					<li>The &ldquo;my location&rdquo; button (top right)</li>
+					<li>The add button (bottom right)</li>
+				</ul>
+				<img src="images/android_screenshot_1.png" style="width: 200px" />
+
+				<a name="devices_android_Main_menu_interface"></a>
+				<h2>Main menu interface</h2>
+				<p>Clicking the menu button will open the main menu. The main menu has the following elements (from top to bottom):</p>
+				<ul>
+					<li>Map file header</li>
+					<li>Folders</li>
+					<li>Add folder button</li>
+					<li>Map type button</li>
+					<li>Settings button</li>
+					<li>About button</li>
+					<li>Premium-related elements</li>
+				</ul>
+				<img src="images/android_screenshot_2.png" style="width: 200px" />
+
+				<a name="devices_android_Marker_info_window"></a>
+				<h2>Marker info window</h2>
+				<p>When you select a marker (when clicking on it for example), you will see the marker info window. The info window has
+					4 buttons:</p>
+				<ul>
+					<li>Marker edit button (top left)</li>
+					<li>Copy to clipboard button (top right)</li>
+					<li>Navigation button (bottom left)</li>
+					<li>Call button (bottom right)</li>
+				</ul>
+				<img src="images/android_screenshot_3.png" style="width: 200px" />
+
+
+				<a name="devices_android_Using_markers_lines_and_polygons"></a>
+				<h1>Using markers, lines and polygons</h1>
+
+
+				<a name="devices_android_Creating_markers"></a>
+				<h2>Creating markers</h2>
+				<p>To create a new marker, click on the add button from the main map interface, then move the map around to place the target
+					where you want to place the marker. When the target is at the desired location, click &ldquo;OK&rdquo; to place the
+					marker.
+				</p>
+
+				<a name="devices_android_Creating_lines"></a>
+				<h2>Creating lines</h2>
+				<p>To create a new line, click on the add button from the main map interface and then click the line button on the left.
+					Place new points with the &ldquo;+&rdquo; button, move from one point to another with the arrow buttons and click the
+					save button when you&rsquo;re done.</p>
+
+				<a name="devices_android_Creating_polygons"></a>
+				<h2>Creating polygons</h2>
+				<p>To create a new polygon, click on the add button from the main map interface and then click the polygon button on the
+					left. Place new points with the &ldquo;+&rdquo; button, move from one point to another with the arrow buttons and click
+					the save button when you&rsquo;re done.</p>
+
+				<a name="devices_android_Editing_markers_lines_and_polygons"></a>
+				<h2>Editing markers, lines and polygons</h2>
+				<p>To edit a marker, a line or a polygon, start by selecting it (by clicking on it for example) and hit the edit button
+					of the info window showing up. This will open the marker edit page. From there you will be able to edit all the attributes
+					of the marker. Note: if you&rsquo;re editing a line or polygon, you will have the option to edit the points of the line
+					or polygons from this page by clicking the &ldquo;edit&rdquo; button in the &ldquo;Coordinates&rdquo; section.</p>
+
+				<a name="devices_android_Deleting_markers_lines_and_polygons"></a>
+				<h2>Deleting markers, lines and polygons</h2>
+				<p>To delete one marker:</p>
+				<ul>
+					<li>select the marker (by clicking it for example)</li>
+					<li>click the edit button in the info window, this will open the marker edit page</li>
+					<li>click the 3 dots at the top to bring up the menu</li>
+					<li>select the delete option</li>
+					<li>confirm the deletion</li>
+				</ul>
+				<p>To delete multiple markers at once, you can use the organizer (see the "organizer" section from this help page)</p>
+
+
+				<a name="devices_android_Using_the_organizer"></a>
+				<h1>Using the organizer</h1>
+				<p>You can open the organizer by clicking the organize button from the top bar of the main page. The organizer will allow you to perform actions on multiple markers at once.</p>
+				<p>At the top of the screenshot below, we can see from left to right:</p>
+				<ul>
+					<li>Select all button: select all the markers in the list</li>
+					<li>Move to folder button: move the selected markers to another folder</li>
+					<li>Copy to folder button: move the selected markers to another folder</li>
+					<li>Delete button: delete the selected markers</li>
+				</ul>
+				<img src="images/android_screenshot_4.png" style="width: 200px" />
+
+
+				<a name="devices_android_Using_map_folders"></a>
+				<h1>Using map folders</h1>
+				<p>You can use map folders to organize your markers into different sections. Things you can do with folders:</p>
+				<ul>
+					<li>create a folder</li>
+					<li>&lrm;edit a folder</li>
+					<li>&lrm;marker templates: custom fields</li>
+					<li>&lrm;mass assign color</li>
+					<li>&lrm;mass assign custom fields</li>
+				</ul>
+
+				<a name="devices_android_Create_a_folder"></a>
+				<h2>Create a folder</h2>
+				<p>To create a folder:</p>
+				<ol>
+					<li>open the sidebar</li>
+					<li>&lrm;click "Add folder"</li>
+					<li>&lrm;enter the desired folder information</li>
+					<li>&lrm;click ok to save the new folder</li>
+				</ol>
+
+				<a name="devices_android_Edit_a_folder"></a>
+				<h2>Edit a folder</h2>
+				<p>To edit a folder:</p>
+				<ol>
+					<li>open the sidebar</li>
+					<li>&lrm;long press on the folder you wish to edit</li>
+					<li>&lrm;modify the folder to your liking</li>
+					<li>&lrm;click ok to save the changes</li>
+				</ol>
+
+				<a name="devices_android_Marker_templates_custom_fields"></a>
+				<h2>Marker templates: custom fields</h2>
+				<p>While creating or editing a folder, you can define custom fields into the folder. Those folder custom fields will act
+					as a template: when creating a new marker with only one folder selected, if that folder has custom fields then the folder's
+					custom fields will automatically be added to the newly created marker.</p>
+				<p>To create a folder's custom fields from the folder create/edit page:</p>
+				<ol>
+					<li>click "more options"</li>
+					<li>&lrm;select "add custom field"</li>
+					<li>&lrm;edit the custom field to your liking and save it</li>
+				</ol>
+				<p>To edit a folder's custom fields from the folder create/edit page:</p>
+				<ol>
+					<li>click on the custom field from the custom fields list</li>
+					<li>&lrm;edit the custom field to your liking and save it</li>
+				</ol>
+
+				<a name="devices_android_Mass_assign_color_and_custom_fields"></a>
+				<h2>Mass assign color and custom fields</h2>
+				<p>When changing a folder&rsquo;s color or custom fields, a prompt will offer you to mass-assign the color or custom fields
+					to the markers inside that folder.</p>
+
+				<a name="devices_android_Presets_templates_and_bulk_icons_with_folders"></a>
+				<h2>Presets, templates and bulk icons with folders</h2>
+				<p>If you want markers to be automatically created with a specific combination of icon, color and custom fields you can
+					achieve this through folders. Folders will act as templates for their children markers. To do this:</p>
+				<ol>
+					<li>Create a folder</li>
+					<li>Choose the icon, color and custom fields that you would like to see by default for new markers</li>
+					<li>Save the folder</li>
+					<li>Double click on the folder from the main menu to select only that folder</li>
+					<li>And any new marker that you create will inherit its parent folder&rsquo;s attributes</li>
+				</ol>
+
+
+				<a name="devices_android_Cloud_and_collaborating"></a>
+				<h1>Cloud and collaborating</h1>
+
+				<a name="devices_android_How_to_sync_a_local_map_folder_on_the_cloud"></a>
+				<h2>How to sync a local map folder on the cloud</h2>
+				<p>If your map file is local and has not been synced on the cloud yet, follow those steps:</p>
+				<ol>
+					<li>Open the left drawer</li>
+					<li>Click on the map file to open the file options menu</li>
+					<li>Select the "cloud sync" option</li>
+					<li>Select "Google Drive"</li>
+					<li>Select your account</li>
+					<li>Click ok</li>
+				</ol>
+
+				<a name="devices_android_How_to_create_a_new_map_folder_on_the_cloud"></a>
+				<h2>How to create a new map folder on the cloud</h2>
+				<ol>
+					<li>Open the left drawer</li>
+					<li>Click on the map file to open the file options menu</li>
+					<li>Select the "create map file" option</li>
+					<li>Select "create cloud map"</li>
+					<li>Select "Google Drive"</li>
+					<li>Select your account</li>
+					<li>select the folder where you want the cloud folder to be saved</li>
+					<li>Click ok</li>
+				</ol>
+
+				<a name="devices_android_How_to_share_your_map_cloud_folder_with_other_people_on_the_cloud"></a>
+				<h2>How to share your map cloud folder with other people on the cloud</h2>
+				<ol>
+					<li>Open the left drawer</li>
+					<li>Click on the map file to open the file options menu</li>
+					<li>Select "share cloud map"</li>
+					<li>Open with the Google Drive app</li>
+					<li>Open the cloud folder details</li>
+					<li>Select "add people" and add give "write permissions" to your friends</li>
+					<li>Have your friends install Map Marker</li>
+					<li>Your friends will then need to open the existing map file from the cloud</li>
+				</ol>
+
+				<a name="devices_android_How_to_open_an_existing_map_file_from_the_cloud"></a>
+				<h2>How to open an existing map file from the cloud?</h2>
+				<ol>
+					<li>Open the left drawer</li>
+					<li>Select the "open map file" option</li>
+					<li>Select the "open cloud map" option</li>
+					<li>Select "Google Drive"</li>
+					<li>Select the cloud map you want to open</li>
+				</ol>
+
+				<a name="devices_android_How_to_restore_a_previous_version_from_history"></a>
+				<h2>How to restore a previous version from history?</h2>
+				<ol>
+					<li>open the left drawer</li>
+					<li>click on the map file to open the file options menu</li>
+					<li>select the "advanced" option</li>
+					<li>select the "view history/restore" option</li>
+					<li>select the version to restore from the list</li>
+				</ol>
+
+
+				<a name="devices_android_Importing_and_exporting_markers"></a>
+				<h1>Importing and exporting markers</h1>
+
+				<a name="devices_android_How_to_exportshare_your_markers"></a>
+				<h2>How to export/share your markers?</h2>
+				<ol>
+					<li>Click the "share" button of the main action bar (last button)</li>
+					<li>Select "All markers and folders"</li>
+					<li>Select the format of export</li>
+					<li>Select the app to export to (Gmail, Google Drive, Dropbox, etc.)</li>
+				</ol>
+
+				<a name="devices_android_How_to_import_your_markers_from_a_KML_KMZ_or_CSV_file"></a>
+				<h2>How to import your markers from a KML, KMZ or CSV file?</h2>
+				<ol>
+					<li>Download the file to your device</li>
+					<li>Open the side drawer by clicking the left button of the main action bar</li>
+					<li>Open the settings by clicking "settings"</li>
+					<li>Scroll down and click "Import/Export"</li>
+					<li>Select "Import"</li>
+					<li>Select the file to import from the in-app file explorer</li>
+				</ol>
+				<p>
+					Note: the CSV file import will only work if the file has "Latitude" and "Longitude" columns.
+					To see an example of how the file should look like, you can export a CSV file from Map Marker
+					and send it to yourself.
+				</p>
+
+				<a name="devices_android_Migrating_your_data_to_a_new_device"></a>
+				<h2>Migrating your data to a new device</h2>
+				<p>If you lost your device or did a factory reset or simply got a new device, you might need to migrate your previous markers data to this new device. Depending on your case, there are several ways to do this...</p>
+				<p><b>Case 1:</b> You were using the premium cloud sync on your previous device</p>
+				<p>&rArr; Simply open the existing cloud map by following the instructions in this section: <a href="#devices_android_How_to_open_an_existing_map_file_from_the_cloud">How to open an existing map file from the cloud?</a></p>
+				<p><b>Case 2:</b> You were not using the cloud sync, but you saved your markers into a file with the export feature</p>
+				<p>&rArr; To import your markers into the new device, follow the instructions in this section: <a href="#devices_android_Importing_and_exporting_markers">Importing and exporting markers</a></p>
+				<p><b>Case 3:</b> You created no backup but you still have access to the previous device's data</p>
+				<p>&rArr; You will need to export the markers data from your previous device, and then import your markers data into your new device. For more information on how to export and import data, see the following section: <a href="#devices_android_Importing_and_exporting_markers">Importing and exporting markers</a></p>
+				<p><b>Case 4:</b> You created no backup and you do not have access to your previous device's data</p>
+				<p>&rArr; If your previous device had Android 6 or up installed, it might have backed up some app data automatically through Google Drive, depending on your settings at the time. Upon installing the app on your new device, the data might be restored automatically. If that's not the case, there is no other way to retrieve the data to my knowledge :'(</p>
+				<a name="devices_android_Advanced_features"></a>
+				<h1>Advanced features</h1>
+
+				<a name="devices_android_Configuring_third_party_search_sources"></a>
+				<h2>Configuring third party search sources</h2>
+				<p>For the users who used the search feature in Map Marker before, you're probably wondering why it changed that way. Please see the <a href="./search_experience_changes_faq.html">Map Marker Search Feature Changes FAQ</a> for more details.</p>
+				<p>You can add or configure third party search sources in Map Marker from the "Places search sources" section menu.</p>
+				<p>Once you have obtained a third party search source configuration, you can re-use this same configuration on any device running Map Marker.</p>
+				<p>To use a configuration, from the search source menu in Map Marker:</p>
+				<ol>
+					<li>Click "Add or configure search source"</li>
+					<li>Click on the search source that you want to add/configure</li>
+					<li>Enter/paste the requested configuration values</li>
+					<li>Check the displayed result (success/failure)</li>
+				</ol>
+				<p>Below are the different third party sources that can be configured with instructions on how to obtain the configuration values, by increasing order of difficulty. <b>Microsoft Bing Places Search</b> seems like the best option because it's easy to setup and the search result quality is pretty good.</p>
+				<b>Bing Places Search API (very easy)</b>
+				<p>Notes:</p>
+				<ul>
+					<li>You will need to use or create a free microsoft account to retrieve the configuration values</li>
+					<li>There is no need for a credit card</li>
+					<li>The free quota is plenty for a single user</li>
+					<li>The configuration value you will need to obtain is a <b>Bing Places API Key</b></li>
+				</ul>
+				<p>Steps:</p>
+				<ol>
+					<li>Follow the instructions here: <a href="https://docs.microsoft.com/en-us/bingmaps/getting-started/bing-maps-dev-center-help/getting-a-bing-maps-key">https://docs.microsoft.com/en-us/bingmaps/getting-started/bing-maps-dev-center-help/getting-a-bing-maps-key</a></li>
+					<li>Use the following key type: "Bing Maps Keys for Business and Personal Use"</li>
+					<li>Use the following application type: "Website"</li>
+					<li>You can then create/retrieve the key from here: <a href="https://www.bingmapsportal.com/Application">https://www.bingmapsportal.com/Application</a> under "My Account" &gt; "My Keys"</li>
+				</ol>
+				<b>"Here" Places Search API (very easy)</b>
+				<p>Notes:</p>
+				<ul>
+					<li>You will need to use or create a free HERE account to retrieve the configuration values</li>
+					<li>There is no need for a credit card</li>
+					<li>The free quota is plenty for a single user</li>
+					<li>The configuration values you will need to obtain are <b>App ID</b> and <b>App Code</b></li>
+				</ul>
+				<p>Steps:</p>
+				<ol>
+					<li>Create an account here: <a href="https://developer.here.com/authenticationpage">https://developer.here.com/authenticationpage</a></li>
+					<li>Open the projects page here: <a href="https://developer.here.com/projects">https://developer.here.com/projects</a></li>
+					<li>Click "Select a plan for a new project"</li>
+					<li>Select the "Fremium" plan and create your new project</li>
+					<li>Go back to the projects page here: <a href="https://developer.here.com/projects">https://developer.here.com/projects</a></li>
+					<li>Click on your project</li>
+					<li>Under "JS REST" / "REST & XYZ HUB API/CLI" click on "Generate App ID and App Code"</li>
+					<li>Under "JS REST" / "REST & XYZ HUB API/CLI" find your App ID under "APP ID" and your App Code under "APP CODE"</li>
+					<li>Save the App ID and the App Code in a way that you can paste them into Map Marker</li>
+				</ol>
+				<b>"Google" Places Search API (very hard)</b>
+				<p>Notes:</p>
+				<ul>
+					<li>!!!FOR ADVANCED USERS ONLY!!!</li>
+					<li>You will need to use or create a free Google account to retrieve the configuration values</li>
+					<li>The free quota should be enough for a single user</li>
+					<li>The configuration value you will need to obtain is the <b>API key</b></li>
+					<li>To get a functional API key, you will need to give your credit card information to Google</li>
+					<li>Google may charge you on the API usage</li>
+					<li>There are ways to limit the usage to only the free quota, to avoid being charged, but they depend on your configuration</li>
+					<li>It is impossible to use the free quota without providing a credit card</li>
+					<li>It is impossible to guarantee no expenses due to an accidental bad configuration</li>
+					<li>I will not provide support for this, you will have to interact with Google directly: <a href="https://developers.google.com/places/web-service/support">https://developers.google.com/places/web-service/support</a></li>
+				</ul>
+				<p>Steps:</p>
+				<ol>
+					<li>Get an API key here: <a href="https://developers.google.com/places/web-service/get-api-key">https://developers.google.com/places/web-service/get-api-key</a></li>
+					<li>Enable billing for your google cloud console account</li>
+					<li>Set a limit on your Places API usage</li>
+					<li>Save the API key in a way that you can paste it into Map Marker</li>
+				</ol>
+
+				<a name="devices_android_How_to_use_offline_maps"></a>
+				<h2>How to use offline maps?</h2>
+				<ol>
+					<li>Download map files manually from here:
+						<a href="http://ftp-stud.hs-esslingen.de/pub/Mirrors/download.mapsforge.org/maps/v3/" target="_blank" rel="noopener">http://ftp-stud.hs-esslingen.de/pub/Mirrors/download.mapsforge.org/maps/v3/</a>
+					</li>
+					<li>Once you have downloaded the map files, put them in a specific folder</li>
+					<li>Open Map Marker</li>
+					<li>Open the side drawer</li>
+					<li>Click settings</li>
+					<li>Scroll down to the "Offline maps" section</li>
+					<li>Click "Storage folder"</li>
+					<li>Select the folder where the offline map files are</li>
+					<li>Go back to the main view and open the side drawer</li>
+					<li>Click "Map type"</li>
+					<li>Select "Offline (Mapsforge BETA)"</li>
+				</ol>
+
+				<a name="devices_android_How_can_I_import_my_starred_locations_from_Google_Maps_locations_marked_with_a_star_on_Google_Maps"></a>
+				<h2>How can I import my starred locations from Google Maps (locations marked with a star on Google Maps)?</h2>
+				<ol>
+					<li>Open the Google Takout page here:
+						<a href="https://takeout.google.com/settings/takeout" target="_blank" rel="noopener">https://takeout.google.com/settings/takeout</a>
+					</li>
+					<li>Click "Select None" to uncheck everything</li>
+					<li>Scroll down and toggle "Maps (your places)"</li>
+					<li>Scroll to the bottom</li>
+					<li>Click "Next"</li>
+					<li>Select a convenient way for you get the files and click "Create archive"</li>
+					<li>Click "Download" to download the created archive</li>
+					<li>Unzip the archive file and retrieve the file named "Saved Places.json"</li>
+					<li>Convert the file to KMZ with this page:
+						<a href="https://mygeodata.cloud/converter/" target="_blank" rel="noopener">https://mygeodata.cloud/converter/</a>
+					</li>
+					<li>Import the resulting KMZ file into Map Marker</li>	
+				</ol>
+				<p>
+					<b>Important note:</b>
+					This only works for starred locations, not other lists. Unfortunately, at the moment, it seems Google does not provide a way to export those.
+				</p>
+
+				<a name="devices_android_How_can_I_extract_POI_images_from_Map_Marker"></a>
+				<h2>How can I extract POI images from Map Marker?</h2>
+				<p>
+					If you want to extract POI images from Map Marker, there are several ways you can go about this.
+				</p>
+				<b>Image extraction - Method 1: the KMZ export</b>
+				<p>
+					<ol>
+						<li>Find out how to change a file extension on your system (Linux / Windows / MacOS / etc.): if you don't know how to do this, search for "How to change a file extention in Linux/Windows/MacOS/WhatEverYourSystemIs" in your favorite search engine</li>
+                                                <li>Export your map as a KMZ file</li>
+						<li>Change the KMZ file extension from .kmz to .zip</li>
+						<li>Extract the zip file with a zip files manager</li>
+                                                <li>Image files will be in the extracted "local_media" and "cloud_media" folders, without extensions</li>
+						<li>Depending on your system, for the system to detect and open these files as images, you might have to change the extension of image files as well to ".png" or ".jpg"</li>
+					</ol>
+				</p>
+				<b>Image extraction - Method 2: the premium cloud sync (paid)</b>
+				<p>
+					<ol>
+						<li>Sync your map file to the cloud with the premium cloud sync</li>
+						<li>Open the map file menu by clicking at the top of the left drawer menu</li>
+						<li>Click "Share cloud map" to open the Google Drive folder of the cloud map</li>
+						<li>Filter the view to only see image files, they should all be there</li>
+					</ol>
+				</p>
+				<b>Image extraction - Method 3: the image share feature</b>
+				<p>
+					When viewing an image from the app, you can share it externally by clicking the "share" button at the top right.
+					However you can only extract images one by one that way.
+				</p>
+				<ol>
+					<li>Open the image from within the app</li>
+					<li>Click the share button at the top right</li>
+				</ol>
+				<b>Image extraction - Method 4: app files extraction</b>
+				<p>
+					You can extract all the app files (including images) from the troubleshooting menu.
+				</p>
+				<ol>
+					<li>Open the left menu in Map Marker</li>
+					<li>Click about</li>
+					<li>Click troubleshooting</li>
+					<li>Extract app files to SD</li>
+					<li>Your images should be in the exported folder</li>
+				</ol>
+
+				<a name="devices_android_Amazon_Web_Service_S3_setup"></a>
+				<h2>Amazon Web Service S3 setup</h2>
+				<p>
+					Using the AWS S3 cloud sync requires you to create an <b>S3 bucket</b>, an <b>access policy</b> defining access to it, and an <b>S3 user's access key</b> to access the bucket with that policy.<br>
+					The full configuation steps are outlined here:
+				</p>
+				<ol type="A">
+					<li>If you don't have one already, create an AWS account: <a href="https://aws.amazon.com/console/" target="_blank" rel="noopener">https://aws.amazon.com/console/</a></li>
+					<li>Create the S3 bucket by following the instructions here: <a href="https://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html" target="_blank" rel="noopener">https://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html</a></li>
+					<li>Unless you have a special use case and you know what you're doing, ensure you followed the instructions to <b>block all public access</b> during the bucket setup</li>
+					<li>Create an IAM policy to define access to your S3 bucket:
+						<ol>
+							<li>Open the IAM policies page: <a href="https://console.aws.amazon.com/iam/home#/policies" target="_blank" rel="noopener">https://console.aws.amazon.com/iam/home#/policies</a></li>
+							<li>Click "Create policy" at the top, this will open the policy creation page</li>
+							<li>Switch to the JSON tab</li>
+							<li>Paste the following JSON text after replacing "MY_S3_BUCKET_NAME" with your bucket name:
+								<textarea cols="80" rows="17" readonly>{
+	"Version": "2012-10-17",
+	"Statement": [
+		{
+			"Effect": "Allow",
+			"Action": [
+				"s3:PutObject",
+				"s3:GetObject",
+				"s3:ListBucket"
+			],
+			"Resource": [
+				"arn:aws:s3:::MY_S3_BUCKET_NAME",
+				"arn:aws:s3:::MY_S3_BUCKET_NAME/*"
+			]
+		}
+	]
+}
+								</textarea>
+							</li>
+							<li>Click "Review policy" at the bottom</li>
+							<li>Enter the policy name at the top (e.g. "map_marker_sync_policy")</li>
+							<li>Click "Create policy" at the bottom</li>
+						</ol>
+					</li>
+					<li>Create a bucket user with their access key:
+						<ol>
+							<li>Open the IAM users page: <a href="https://console.aws.amazon.com/iam/home?#/users" target="_blank" rel="noopener">https://console.aws.amazon.com/iam/home?#/users</a></li>
+							<li>Click "Add User"</li>
+							<li>Enter the user name you want: this is only used for later reference, so pick something that makes sense to you</li>
+							<li>Under "Access type", tick the "Programatic access" checkbox</li>
+							<li>Click "Next: Permissions"</li>
+							<li>On the permissions page, select "Attach existing policies directly"</li>
+							<li>Search for the policy you created (e.g. "map_marker_sync_policy") and check its checkbox</li>
+							<li>Click "Next: Tags"</li>
+							<li>Click "Next: Review"</li>
+							<li>Click "Create user"</li>
+							<li>You will land on the confirmation page where the <b>Access key ID</b> and the <b>Secret access key</b> will be available</li>
+							<li>Copy and save the information somewhere safe</li>
+							<li>Click "Close"</li>
+						</ol>
+					</li>
+					<li>All set! To use the AWS S3 cloud sync in Map Marker, you will need to enter:
+						<ol>
+							<li>The S3 bucket name</li>
+							<li>The access key ID</li>
+							<li>The access key secret</li>
+						</ol>
+					</li>
+				</ol>
+				<p>
+					<b>IMPORTANT NOTES:</b>
+					<ol>
+						<li>The Map Marker cloud sync for AWS <b>will not detect</b> concurrent devices writing sync data simultaneously. You should only sync-write one device at a time: if two devices sync-write at the same time, there is a chance that the changes coming from one of the two devices will be ignored and lost. This is due to the way AWS S3 is built as a distributed system, and only applies to devices writing data. Read-only sync doesn't have a limit on number of devices at the same time.</li>
+						<li>You can create a read-only policy with an associated read-only user by following these steps and removing the line containing "s3:PutObject" in the JSON sample. This is great if you want to grant read-only access to some people and read-write access to other people.</li>
+					</ol>
+				</p>
+
+				<a name="devices_android_FAQ"></a>
+				<h1>FAQ</h1>
+
+				<a name="devices_android_I_want_to_try_early_features_how_can_I_use_the_beta"></a>
+				<h2>I want to try early features, how can I use the beta?</h2>
+				<p>
+					If you're impatient to test new upcoming features and you are not afraid to encounter bugs in the app, you can join the beta.<br>
+					Note that it is <b>HIGHLY RECOMMENDED</b> that you know how to save/restore your markers via the manual export/import or the cloud sync <b>BEFORE</b> joining the beta.<br>
+					Also note that if I'm not working on any special feature, the beta might not have anything different from the production app.<br>
+					With all that being noted, you can join the beta here:
+				</p>
+				</p>
+				<p>
+					<a href="https://play.google.com/apps/testing/com.exlyo.mapmarker" target="_blank" rel="noopener">https://play.google.com/apps/testing/com.exlyo.mapmarker</a>
+				</p>
+				</p>
+
+				<a name="devices_android_How_can_I_help_with_translations"></a>
+				<h2>How can I help with translations?</h2>
+				<p>Follow the instructions on the github page for translations:
+					<a href="https://github.com/androidseb/mapmarkerapptranslations" target="_blank" rel="noopener">https://github.com/androidseb/mapmarkerapptranslations</a>
+				</p>
+
+				<a name="devices_android_I_have_a_feature_idea_how_should_I_submit_the_idea"></a>
+				<h2>I have a feature idea, how should I submit the idea?</h2>
+				<p>First you should take a look at the Map Marker roadmap to see if the idea is not already there:</p>
+				<p>
+					<a href="http://mapmarkerapp.com/wip.html" target="_blank" rel="noopener">http://mapmarkerapp.com/wip.html</a>
+				</p>
+				<p>Then if the idea is not already submitted, you can send me an email and I&rsquo;ll check it out :-)</p>
+
+				<a name="devices_android_How_can_I_stay_tuned_about_whatrsquos_coming_soon_for_Map_Marker"></a>
+				<h2>How can I stay tuned about what&rsquo;s coming soon for Map Marker?</h2>
+				<p>If you want to know what&rsquo;s coming next you can check this page:</p>
+				<p>
+					<a href="http://mapmarkerapp.com/wip.html" target="_blank" rel="noopener">http://mapmarkerapp.com/wip.html</a>
+				</p>
+				<p>If you want to be notified when new features come out, follow me on twitter:</p>
+				<p>
+					<a href="https://twitter.com/mapmarkerapp" target="_blank" rel="noopener">https://twitter.com/mapmarkerapp</a>
+				</p>
+
+				<a name="devices_android_Why_is_Map_Marker_not_a_navigation_app"></a>
+				<h2>Why is Map Marker not a navigation app?</h2>
+				<p>Navigation apps are complex and hard to get right, and there are already a lot of good navigation apps out there. I believe
+					that as a single developer, the way I can provide most value with Map Marker is by focusing on the ability to organize
+					your places, and have an easy way to start navigation into navigation-focused apps. Map Marker&rsquo;s focus is different
+					from navigation.</p>
+
+				<a name="devices_android_How_do_I_add_locations_on_Google_Maps"></a>
+				<h2>How do I add locations on Google Maps?</h2>
+				<p>Map Marker does not provide such features. Instead, try using one of those links:</p>
+				<ul>
+					<li>
+						<a href="https://www.google.ca/mybusiness" target="_blank" rel="noopener">https://www.google.ca/mybusiness</a>
+					</li>
+					<li>
+						<a href="https://play.google.com/store/apps/details?id=com.google.android.apps.vega" target="_blank" rel="noopener">https://play.google.com/store/apps/details?id=com.google.android.apps.vega</a>
+					</li>
+				</ul>
+
+				<a name="devices_android_A_place_in_Google_Maps_has_wronginaccurate_data_how_do_I_fix_it"></a>
+				<h2>A place in Google Maps has wrong/inaccurate data, how do I fix it?</h2>
+				<p>Map Marker does not interact with Google Maps data, instead, try using the Google platform:</p>
+				<ul>
+					<li>go on Google Maps from a desktop computer: </li>
+					<li>click the location that needs fixing</li>
+					<li>click "suggest an edit"</li>
+				</ul>
+
+				<a name="devices_android_Troubleshooting_and_known_problems"></a>
+				<h1>Troubleshooting and known problems</h1>
+
+				<a name="devices_android_Cloud_sync_error_404_file_not_found"></a>
+				<h2>Cloud sync error: 404 file not found</h2>
+				<p>
+					When performing cloud sync, this error can occur if some remote cloud files have been deleted.<br>
+					This can happen if you (or one of your collaborators if you're sharing access) have deleted the cloud files from your cloud storage account.<br>
+					When this error happens, you can no longer sync to the cloud map and it also probably means that the only copy of your data is on your device, since the cloud data is gone.<br>
+					The recommended way to proceed in case you encounter this error is the following:
+					<ol>
+						<li>Export your markers as a KMZ file</li>
+						<li>To minimize the risks of losing the data, create a copy of that exported file somewhere like a secondary device, or a cloud storage account</li>
+						<li>By default, Map Marker creates a dedicated folder in your cloud storage account called "Map Marker Places Organizer": identify the source of the cloud data deletion so that it doesn't happen again, for example, if one of your collaborators deleted some file accidentally (e.g. "accidental cleanup"), explain them why not deleting these files is important</li>
+						<li>Create a new cloud map</li>
+						<li>Import the data from the KMZ file</li>
+						<li>Sync your cloud map</li>
+					</ol>
+				</p>
+
+				<a name="devices_android_GPS_location_inaccurate"></a>
+				<h2>GPS location inaccurate</h2>
+				<p>
+					On some Android devices, it can happen that the GPS location becomes inaccurate over time. In some cases,
+					it's even possible to see a correct accurate location in one app and a completely inaccurate location in another app.
+					This is due to the way location tracking works at the system level and can sometimes be resolved by restarting your device.
+					Note that only restarting your device can be insufficient, as some components like the GPS chip might not have been fully powered off in the process.
+					The following steps can often work to resolve the issue:<br>
+					<ol>
+						<li>Power off your device completely</li>
+						<li>Wait for 10 seconds</li>
+						<li>Power your device back on</li>
+					</ol>
+				</p>
+				<a name="devices_android_Problems_with_Google_My_Maps"></a>
+				<h2>Problems with Google My Maps</h2>
+				<p>Google My Maps cannot import the KML/KMZ files produced by Map Marker if they contain the default folder, because it
+					cannot handle an empty folder name. To work around this, you will need to import only one folder at a time, that is
+					not the default folder.</p>
+
+				<a name="devices_android_Premium_troubleshooting"></a>
+				<h2>Premium troubleshooting</h2>
+				<p>When you purchase the premium, it becomes available for life for your Google account. The Google account granted with
+					the premium access is the one used to perform the purchase. Upon purchasing the premium, you will receive a confirmation
+					email with an order number. From then on, you can use the premium on as many devices as you want. However you will need
+					to use the exact same Google account to perform the installation of Map Marker on your other device.</p>
+				<p>If you cannot use the premium:</p>
+				<ol>
+					<li>Backup your markers outside of the app</li>
+					<li>Un-install the app</li>
+					<li>&lrm;Open the Google play app</li>
+					<li>Make sure you are signed in with your Google account owning the premium in the left drawer of the Google Play app</li>
+					<li>Download and install Map Marker again</li>
+				</ol>
+				<p>If these steps don't work you can send me your order number for confirmation and I will help you.</p>
+
+				<a name="devices_android_Problems_with_corrupted_files_on_app_launch_code_14_SQLITE_CANTOPEN"></a>
+				<h2>Problems with corrupted files on app launch (code 14 SQLITE_CANTOPEN)</h2>
+				<p>
+					This problem typically indicates a problem with the system data restoring from Google Drive on app install.
+					After installing the app, the app data has been restored in a corrupted state causing this issue.
+				</p>
+				<p>If you encounter this problem:</p>
+				<ol>
+					<li>IMPORTANT: make sure you have backed up your data because this involves deleting the app data from the device</li>
+					<li>Open the system settings</li>
+					<li>Applications</li>
+					<li>Map Marker</li>
+					<li>Storage</li>
+					<li>CLEAR STORAGE</li>
+				</ol>
+
+				<a name="devices_android_Problems_with_Google_Play_Services"></a>
+				<h2>Problems with Google Play Services</h2>
+				<p>
+					Some problems with the Google Play Services app can cause various issues with Google-related services.<br>
+					Sometimes, you can fix this by clearing the Google Play Services app data:
+				</p>
+				<ol>
+					<li>Open the system settings</li>
+					<li>Applications</li>
+					<li>Google Play Services</li>
+					<li>Storage</li>
+					<li>CLEAR STORAGE</li>
+					<li>CLEAR ALL DATA</li>
+				</ol>
+
+				<a name="devices_android_Problems_with_map_display_blank_map"></a>
+				<h2>Problems with map display: blank map</h2>
+				<p>
+					Some problems with the Google Maps component can prevent the map display from loading properly, resulting in an empty blank map.<br>
+					Sometimes you can fix this by <a href="#devices_android_Problems_with_Google_Play_Services">clearing the Google Play Services app data</a>.<br>
+					Unfortunaltey sometimes this will not be enough and you will need to clear the app data completely to resolve the issue.
+					Since clearing the app data will result in all your markers being deleted, you have to careful follow these steps to avoid losing your data:
+				</p>
+				<ol>
+					<li>Export your markers as a KMZ file</li>
+					<li>Copy the KMZ file to an other device</li>
+					<li>Confirm you can import back your markers from the KMZ file</li>
+					<li><b>Keep the KMZ file in a safe location</b></li>
+					<li><b>ONLY after your markers data is secured</b>, proceed with next steps</li>
+					<li>Turn on the problematic device</li>
+					<li>Open the system settings</li>
+					<li>Applications</li>
+					<li>Map Marker</li>
+					<li>Storage</li>
+					<li>CLEAR STORAGE</li>
+					<li>CLEAR ALL DATA</li>
+					<li>Restart the app</li>
+					<li>Import your markers back from the KMZ file</li>
+				</ol>
+
+				<a name="devices_android_Problems_with_blocked_internet_access"></a>
+				<h2>Problems with blocked internet access</h2>
+				<p>
+					In some cases, even though your device has correct internet access, the system can block internet access to Map Marker,
+					preventing the app from accessing internet, and preventing sync and causing the map not to load.
+					This can be caused by battery savers and/or incorrect system parameters.
+					If that happens, you can try the following steps to troubleshoot:
+				</p>
+				<ul>
+					<li>Check for any power-saving / network blocking apps and ensure that Map Marker is allowed to use the network</li>
+					<li>If that doesn't work, reset your network settings:</li>
+					<ol>
+						<li>Open the system settings</li>
+						<li>Navigate to network settings</li>
+						<li>Select "Reset network settings"</li>
+						<li>Restart your device</li>
+					</ol>
+					<li>If that doesn't work, back-up your data and re-install the app:</li>
+					<ol>
+						<li><a href="#devices_android_How_to_exportshare_your_markers">Export your markers</a></li>
+						<li><a href="#devices_android_How_to_exportshare_your_markers">Import your markers</a> back to another device to confirm that the backup worked</li>
+						<li>Once you're confident your data is safely backed-up, uninstall the app</li>
+						<li>Restart your device</li>
+						<li>Install the app again</li>
+					</ol>
+				</ul>
+
+				<a name="devices_android_Collecting_log_files_when_encountering_errors"></a>
+				<h2>Collecting log files when encountering errors</h2>
+				<p>
+					If you're encountering an error and there is a need for more detailed error information, you can collect log files for your error the following way:
+				</p>
+				<ol>
+					<li>In the app side drawer click "About"</li>
+					<li>Click "Troubleshooting"</li>
+					<li>Click "Enable error file dump"</li>
+					<li>Reproduce the error</li>
+					<li>Go in your SD card under the MapMarker/error_log_files</li>
+					<li>Send all the error log files to help debug the issue</li>
+				</ol>
+
+			</div>
+			<div class="devices_ios">
+				<a style="display:inline-block;" href="#devices_ios_User_interface_description"><b>User interface description</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Main_map_interface">Main map interface</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Main_menu_interface">Main menu interface</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Marker_info_window">Marker info window</a><br>
+				<a style="display:inline-block;" href="#devices_ios_Using_markers_lines_and_polygons"><b>Using markers, lines and polygons</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Creating_markers">Creating markers</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Creating_lines">Creating lines</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Creating_polygons">Creating polygons</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Editing_markers_lines_and_polygons">Editing markers, lines and polygons</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Deleting_markers_lines_and_polygons">Deleting markers, lines and polygons</a><br>
+				<a style="display:inline-block;" href="#devices_ios_Using_the_organizer"><b>Using the organizer</b></a><br>
+				<a style="display:inline-block;" href="#devices_ios_Using_map_folders"><b>Using map folders</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Create_a_folder">Create a folder</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Edit_a_folder">Edit a folder</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Marker_templates_custom_fields">Marker templates: custom fields</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Presets_templates_and_bulk_icons_with_folders">Presets, templates and bulk icons with folders</a><br>
+				<a style="display:inline-block;" href="#devices_ios_Cloud_and_collaborating"><b>Cloud and collaborating</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_How_to_sync_a_local_map_folder_on_the_cloud">How to sync a local map folder on the cloud</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_How_to_create_a_new_map_folder_on_the_cloud">How to create a new map folder on the cloud</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_How_to_share_your_map_cloud_folder_with_other_people_on_the_cloud">How to share your map cloud folder with other people on the cloud</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_How_to_open_an_existing_map_file_from_the_cloud">How to open an existing map file from the cloud?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_How_to_restore_a_previous_version_from_history">How to restore a previous version from history?</a><br>
+				<a style="display:inline-block;" href="#devices_ios_Importing_and_exporting_markers"><b>Importing and exporting markers</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_How_to_exportshare_your_markers">How to export/share your markers?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_How_to_import_your_markers_from_a_KML_KMZ_or_CSV_file">How to import your markers from a KML, KMZ or CSV file?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Migrating_your_data_to_a_new_device">Migrating your data to a new device</a><br>
+				<a style="display:inline-block;" href="#devices_ios_Advanced_features"><b>Advanced features</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Configuring_third_party_search_sources">Configuring third party search sources</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_How_can_I_import_my_starred_locations_from_Google_Maps_locations_marked_with_a_star_on_Google_Maps">How can I import my starred locations from Google Maps (locations marked with a star on Google Maps)?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_How_can_I_extract_POI_images_from_Map_Marker">How can I extract POI images from Map Marker?</a><br>
+				<a style="display:inline-block;" href="#devices_ios_FAQ"><b>FAQ</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_I_want_to_try_early_features_how_can_I_use_the_beta">I want to try early features, how can I use the beta?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_How_can_I_help_with_translations">How can I help with translations?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_I_have_a_feature_idea_how_should_I_submit_the_idea">I have a feature idea, how should I submit the idea?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_How_can_I_stay_tuned_about_whatrsquos_coming_soon_for_Map_Marker">How can I stay tuned about what&rsquo;s coming soon for Map Marker?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Why_is_Map_Marker_not_a_navigation_app">Why is Map Marker not a navigation app?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_How_do_I_add_locations_on_Google_Maps">How do I add locations on Google Maps?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_A_place_in_Google_Maps_has_wronginaccurate_data_how_do_I_fix_it">A place in Google Maps has wrong/inaccurate data, how do I fix it?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_What_should_I_know_about_the_premium_upgrade">What should I know about the premium upgrade?</a><br>
+				<a style="display:inline-block;" href="#devices_ios_Troubleshooting_and_known_problems"><b>Troubleshooting and known problems</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Cloud_sync_error_404_file_not_found">Cloud sync error: 404 file not found</a><br>
+
+
+				<a name="devices_ios_User_interface_description"></a>
+				<h1>User interface description</h1>
+
+				<a name="devices_ios_Main_map_interface"></a>
+				<h2>Main map interface</h2>
+
+				<p>In the screenshot below, from left to right and from top to bottom, we have:</p>
+				<ul>
+					<li>The action bar (top left)</li>
+					<li>menu button</li>
+					<li>&lrm;jump button</li>
+					<li>&lrm;search button</li>
+					<li>share button</li>
+					<li>The &ldquo;my location&rdquo; button (top right)</li>
+					<li>The add button (bottom right)</li>
+				</ul>
+				<img src="images/ios_screenshot_1.png" style="width: 200px" />
+
+				<a name="devices_ios_Main_menu_interface"></a>
+				<h2>Main menu interface</h2>
+				<p>Clicking the menu button will open the main menu. The main menu has the following elements (from top to bottom):</p>
+				<ul>
+					<li>Map file header</li>
+					<li>Folders</li>
+					<li>Add folder button</li>
+					<li>Map type button</li>
+					<li>Settings button</li>
+					<li>About button</li>
+					<li>Premium-related elements</li>
+				</ul>
+				<img src="images/ios_screenshot_2.png" style="width: 200px" />
+
+				<a name="devices_ios_Marker_info_window"></a>
+				<h2>Marker info window</h2>
+				<p>When you select a marker (when clicking on it for example), you will see the marker info window. The info window has
+					4 buttons:</p>
+				<ul>
+					<li>Marker edit button (top left)</li>
+					<li>Copy to clipboard button (top right)</li>
+					<li>Navigation button (bottom left)</li>
+					<li>Call button (bottom right)</li>
+				</ul>
+				<img src="images/ios_screenshot_3.png" style="width: 200px" />
+
+
+				<a name="devices_ios_Using_markers_lines_and_polygons"></a>
+				<h1>Using markers, lines and polygons</h1>
+
+
+				<a name="devices_ios_Creating_markers"></a>
+				<h2>Creating markers</h2>
+				<p>To create a new marker, click on the add button from the main map interface, then move the map around to place the target
+					where you want to place the marker. When the target is at the desired location, click &ldquo;OK&rdquo; to place the
+					marker.
+				</p>
+
+				<a name="devices_ios_Creating_lines"></a>
+				<h2>Creating lines</h2>
+				<p>To create a new line, click on the add button from the main map interface and then click the line button on the left.
+					Place new points with the &ldquo;+&rdquo; button, move from one point to another with the arrow buttons and click the
+					save button when you&rsquo;re done.</p>
+
+				<a name="devices_ios_Creating_polygons"></a>
+				<h2>Creating polygons</h2>
+				<p>To create a new polygon, click on the add button from the main map interface and then click the polygon button on the
+					left. Place new points with the &ldquo;+&rdquo; button, move from one point to another with the arrow buttons and click
+					the save button when you&rsquo;re done.</p>
+
+				<a name="devices_ios_Editing_markers_lines_and_polygons"></a>
+				<h2>Editing markers, lines and polygons</h2>
+				<p>To edit a marker, a line or a polygon, start by selecting it (by clicking on it for example) and hit the edit button
+					of the info window showing up. This will open the marker edit page. From there you will be able to edit all the attributes
+					of the marker. Note: if you&rsquo;re editing a line or polygon, you will have the option to edit the points of the line
+					or polygons from this page by clicking the &ldquo;edit&rdquo; button in the &ldquo;Coordinates&rdquo; section.</p>
+
+				<a name="devices_ios_Deleting_markers_lines_and_polygons"></a>
+				<h2>Deleting markers, lines and polygons</h2>
+				<p>To delete one marker:</p>
+				<ul>
+					<li>select the marker (by clicking it for example)</li>
+					<li>click the edit button in the info window, this will open the marker edit page</li>
+					<li>scroll down to click on the delete button</li>
+					<li>confirm the deletion</li>
+				</ul>
+				<p>To delete multiple markers at once, you can use the organizer (see the "organizer" section from this help page)</p>
+
+
+				<a name="devices_ios_Using_the_organizer"></a>
+				<h1>Using the organizer</h1>
+				<p>You can open the organizer by clicking the organize button from the top bar of the main page. The organizer will allow you to perform actions on multiple markers at once.</p>
+				<p>At the top of the screenshot below, we can see from left to right:</p>
+				<ul>
+					<li>Select all button: select all the markers in the list</li>
+					<li>Move to folder button: move the selected markers to another folder</li>
+					<li>Copy to folder button: move the selected markers to another folder</li>
+					<li>Delete button: delete the selected markers</li>
+				</ul>
+				<img src="images/ios_screenshot_4.png" style="width: 200px" />
+
+
+				<a name="devices_ios_Using_map_folders"></a>
+				<h1>Using map folders</h1>
+				<p>You can use map folders to organize your markers into different sections. Things you can do with folders:</p>
+				<ul>
+					<li>create a folder</li>
+					<li>&lrm;edit a folder</li>
+					<li>&lrm;marker templates: custom fields</li>
+					<li>&lrm;mass assign color</li>
+					<li>&lrm;mass assign custom fields</li>
+				</ul>
+
+				<a name="devices_ios_Create_a_folder"></a>
+				<h2>Create a folder</h2>
+				<p>To create a folder:</p>
+				<ol>
+					<li>open the sidebar</li>
+					<li>&lrm;click "Add folder"</li>
+					<li>&lrm;enter the desired folder information</li>
+					<li>&lrm;click ok to save the new folder</li>
+				</ol>
+
+				<a name="devices_ios_Edit_a_folder"></a>
+				<h2>Edit a folder</h2>
+				<p>To edit a folder:</p>
+				<ol>
+					<li>open the sidebar</li>
+					<li>&lrm;long press on the folder you wish to edit</li>
+					<li>&lrm;modify the folder to your liking</li>
+					<li>&lrm;click ok to save the changes</li>
+				</ol>
+
+				<a name="devices_ios_Marker_templates_custom_fields"></a>
+				<h2>Marker templates: custom fields</h2>
+				<p>While creating or editing a folder, you can define custom fields into the folder. Those folder custom fields will act
+					as a template: when creating a new marker with only one folder selected, if that folder has custom fields then the folder's
+					custom fields will automatically be added to the newly created marker.</p>
+				<p>To create a folder's custom fields from the folder create/edit page:</p>
+				<ol>
+					<li>click "more options"</li>
+					<li>&lrm;select "add custom field"</li>
+					<li>&lrm;edit the custom field to your liking and save it</li>
+				</ol>
+				<p>To edit a folder's custom fields from the folder create/edit page:</p>
+				<ol>
+					<li>click on the custom field from the custom fields list</li>
+					<li>&lrm;edit the custom field to your liking and save it</li>
+				</ol>
+
+				<a name="devices_ios_Presets_templates_and_bulk_icons_with_folders"></a>
+				<h2>Presets, templates and bulk icons with folders</h2>
+				<p>If you want markers to be automatically created with a specific combination of icon, color and custom fields you can
+					achieve this through folders. Folders will act as templates for their children markers. To do this:</p>
+				<ol>
+					<li>Create a folder</li>
+					<li>Choose the icon, color and custom fields that you would like to see by default for new markers</li>
+					<li>Save the folder</li>
+					<li>Double click on the folder from the main menu to select only that folder</li>
+					<li>And any new marker that you create will inherit its parent folder&rsquo;s attributes</li>
+				</ol>
+
+
+				<a name="devices_ios_Cloud_and_collaborating"></a>
+				<h1>Cloud and collaborating</h1>
+
+				<a name="devices_ios_How_to_sync_a_local_map_folder_on_the_cloud"></a>
+				<h2>How to sync a local map folder on the cloud</h2>
+				<p>If your map file is local and has not been synced on the cloud yet, follow those steps:</p>
+				<ol>
+					<li>Open the left drawer</li>
+					<li>Click on the map file to open the file options menu</li>
+					<li>Select the "cloud sync" option</li>
+					<li>Select your account</li>
+					<li>Click ok</li>
+				</ol>
+
+				<a name="devices_ios_How_to_create_a_new_map_folder_on_the_cloud"></a>
+				<h2>How to create a new map folder on the cloud</h2>
+				<ol>
+					<li>Open the left drawer</li>
+					<li>Click on the map file to open the file options menu</li>
+					<li>Select the "create map file" option</li>
+					<li>Select "create cloud map"</li>
+					<li>Select your account</li>
+					<li>Click ok</li>
+				</ol>
+
+				<a name="devices_ios_How_to_share_your_map_cloud_folder_with_other_people_on_the_cloud"></a>
+				<h2>How to share your map cloud folder with other people on the cloud</h2>
+				<ol>
+					<li>Open the left drawer</li>
+					<li>Click on the map file to open the file options menu</li>
+					<li>Select "share cloud map"</li>
+					<li>Open with the Google Drive app</li>
+					<li>Open the cloud folder details</li>
+					<li>Select "add people" and add give "write permissions" to your friends</li>
+					<li>Have your friends install Map Marker</li>
+					<li>Your friends will then need to open the existing map file from the cloud</li>
+				</ol>
+
+				<a name="devices_ios_How_to_open_an_existing_map_file_from_the_cloud"></a>
+				<h2>How to open an existing map file from the cloud?</h2>
+				<ol>
+					<li>Open the left drawer</li>
+					<li>Select the "open map file" option</li>
+					<li>Select the "open cloud map" option</li>
+					<li>Select the cloud map you want to open</li>
+				</ol>
+
+				<a name="devices_ios_How_to_restore_a_previous_version_from_history"></a>
+				<h2>How to restore a previous version from history?</h2>
+				<ol>
+					<li>open the left drawer</li>
+					<li>click on the map file to open the file options menu</li>
+					<li>select the "view history/restore" option</li>
+					<li>select the version to restore from the list</li>
+				</ol>
+
+
+				<a name="devices_ios_Importing_and_exporting_markers"></a>
+				<h1>Importing and exporting markers</h1>
+
+				<a name="devices_ios_How_to_exportshare_your_markers"></a>
+				<h2>How to export/share your markers?</h2>
+				<ol>
+					<li>Click the "share" button of the main action bar (last button)</li>
+					<li>Select "All markers and folders"</li>
+					<li>Select the app to export to (Gmail, Google Drive, Dropbox, etc.)</li>
+				</ol>
+
+				<a name="devices_ios_How_to_import_your_markers_from_a_KML_KMZ_or_CSV_file"></a>
+				<h2>How to import your markers from a KML, KMZ or CSV file?</h2>
+				<ol>
+					<li>Open the file details</li>
+					<li>Find the "open with" option</li>
+					<li>You should see a list of apps to open the file with</li>
+					<li>In the list of apps, select Map Marker</li>
+					<li>Map Marker will start and you will show a confirmation prompt</li>
+					<li>Click yes to import the file</li>
+				</ol>
+				<p>
+					Note: the CSV file import will only work if the file has "Latitude" and "Longitude" columns.
+					To see an example of how the file should look like, you can export a CSV file from Map Marker
+					and send it to yourself.
+				</p>
+
+				<a name="devices_ios_Migrating_your_data_to_a_new_device"></a>
+				<h2>Migrating your data to a new device</h2>
+				<p>If you lost your device or did a factory reset or simply got a new device, you might need to migrate your previous markers data to this new device. Depending on your case, there are several ways to do this...</p>
+				<p><b>Case 1:</b> You were using the premium cloud sync on your previous device</p>
+				<p>&rArr; Simply open the existing cloud map by following the instructions in this section: <a href="#devices_ios_How_to_open_an_existing_map_file_from_the_cloud">How to open an existing map file from the cloud?</a></p>
+				<p><b>Case 2:</b> You were not using the cloud sync, but you saved your markers into a file with the export feature</p>
+				<p>&rArr; To import your markers into the new device, follow the instructions in this section: <a href="#devices_ios_Importing_and_exporting_markers">Importing and exporting markers</a></p>
+				<p><b>Case 3:</b> You created no backup but you still have access to the previous device's data</p>
+				<p>&rArr; You will need to export the markers data from your previous device, and then import your markers data into your new device. For more information on how to export and import data, see the following section: <a href="#devices_ios_Importing_and_exporting_markers">Importing and exporting markers</a></p>
+				<p><b>Case 4:</b> You created no backup and you do not have access to your previous device's data</p>
+				<p>&rArr; Depending on your iCloud settings, the app data might have been backed up. If that wasn't the case, then there is no other way to retrieve the data to my knowledge :'(</p>
+				<a name="devices_ios_Advanced_features"></a>
+				<h1>Advanced features</h1>
+
+				<a name="devices_ios_Configuring_third_party_search_sources"></a>
+				<h2>Configuring third party search sources</h2>
+				<p>For the users who used the search feature in Map Marker before, you're probably wondering why it changed that way. Please see the <a href="./search_experience_changes_faq.html">Map Marker Search Feature Changes FAQ</a> for more details.</p>
+				<p>You can add or configure third party search sources in Map Marker from the "Places search sources" section menu.</p>
+				<p>Once you have obtained a third party search source configuration, you can re-use this same configuration on any device running Map Marker.</p>
+				<p>To use a configuration, from the search source menu in Map Marker:</p>
+				<ol>
+					<li>Click "Add or configure search source"</li>
+					<li>Click on the search source that you want to add/configure</li>
+					<li>Enter/paste the requested configuration values</li>
+					<li>Check the displayed result (success/failure)</li>
+				</ol>
+				<p>Below are the different third party sources that can be configured with instructions on how to obtain the configuration values, by increasing order of difficulty. <b>Microsoft Bing Places Search</b> seems like the best option because it's easy to setup and the search result quality is pretty good.</p>
+				<b>Bing Places Search API (very easy)</b>
+				<p>Notes:</p>
+				<ul>
+					<li>You will need to use or create a free microsoft account to retrieve the configuration values</li>
+					<li>There is no need for a credit card</li>
+					<li>The free quota is plenty for a single user</li>
+					<li>The configuration value you will need to obtain is a <b>Bing Places API Key</b></li>
+				</ul>
+				<p>Steps:</p>
+				<ol>
+					<li>Follow the instructions here: <a href="https://docs.microsoft.com/en-us/bingmaps/getting-started/bing-maps-dev-center-help/getting-a-bing-maps-key">https://docs.microsoft.com/en-us/bingmaps/getting-started/bing-maps-dev-center-help/getting-a-bing-maps-key</a></li>
+					<li>Use the following key type: "Bing Maps Keys for Business and Personal Use"</li>
+					<li>Use the following application type: "Website"</li>
+					<li>You can then create/retrieve the key from here: <a href="https://www.bingmapsportal.com/Application">https://www.bingmapsportal.com/Application</a> under "My Account" &gt; "My Keys"</li>
+				</ol>
+				<b>"Here" Places Search API (very easy)</b>
+				<p>Notes:</p>
+				<ul>
+					<li>You will need to use or create a free HERE account to retrieve the configuration values</li>
+					<li>There is no need for a credit card</li>
+					<li>The free quota is plenty for a single user</li>
+					<li>The configuration values you will need to obtain are <b>App ID</b> and <b>App Code</b></li>
+				</ul>
+				<p>Steps:</p>
+				<ol>
+					<li>Create an account here: <a href="https://developer.here.com/authenticationpage">https://developer.here.com/authenticationpage</a></li>
+					<li>Open the projects page here: <a href="https://developer.here.com/projects">https://developer.here.com/projects</a></li>
+					<li>Click "Select a plan for a new project"</li>
+					<li>Select the "Fremium" plan and create your new project</li>
+					<li>Go back to the projects page here: <a href="https://developer.here.com/projects">https://developer.here.com/projects</a></li>
+					<li>Click on your project</li>
+					<li>Under "JS REST" / "REST & XYZ HUB API/CLI" click on "Generate App ID and App Code"</li>
+					<li>Under "JS REST" / "REST & XYZ HUB API/CLI" find your App ID under "APP ID" and your App Code under "APP CODE"</li>
+					<li>Save the App ID and the App Code in a way that you can paste them into Map Marker</li>
+				</ol>
+				<b>"Google" Places Search API (very hard)</b>
+				<p>Notes:</p>
+				<ul>
+					<li>!!!FOR ADVANCED USERS ONLY!!!</li>
+					<li>You will need to use or create a free Google account to retrieve the configuration values</li>
+					<li>The free quota should be enough for a single user</li>
+					<li>The configuration value you will need to obtain is the <b>API key</b></li>
+					<li>To get a functional API key, you will need to give your credit card information to Google</li>
+					<li>Google may charge you on the API usage</li>
+					<li>There are ways to limit the usage to only the free quota, to avoid being charged, but they depend on your configuration</li>
+					<li>It is impossible to use the free quota without providing a credit card</li>
+					<li>It is impossible to guarantee no expenses due to an accidental bad configuration</li>
+					<li>I will not provide support for this, you will have to interact with Google directly: <a href="https://developers.google.com/places/web-service/support">https://developers.google.com/places/web-service/support</a></li>
+				</ul>
+				<p>Steps:</p>
+				<ol>
+					<li>Get an API key here: <a href="https://developers.google.com/places/web-service/get-api-key">https://developers.google.com/places/web-service/get-api-key</a></li>
+					<li>Enable billing for your google cloud console account</li>
+					<li>Set a limit on your Places API usage</li>
+					<li>Save the API key in a way that you can paste it into Map Marker</li>
+				</ol>
+
+				<a name="devices_ios_How_can_I_import_my_starred_locations_from_Google_Maps_locations_marked_with_a_star_on_Google_Maps"></a>
+				<h2>How can I import my starred locations from Google Maps (locations marked with a star on Google Maps)?</h2>
+				<ol>
+					<li>Open the Google Takout page here:
+						<a href="https://takeout.google.com/settings/takeout" target="_blank" rel="noopener">https://takeout.google.com/settings/takeout</a>
+					</li>
+					<li>Click "Select None" to uncheck everything</li>
+					<li>Scroll down and toggle "Maps (your places)"</li>
+					<li>Scroll to the bottom</li>
+					<li>Click "Next"</li>
+					<li>Select a convenient way for you get the files and click "Create archive"</li>
+					<li>Click "Download" to download the created archive</li>
+					<li>Unzip the archive file and retrieve the file named "Saved Places.json"</li>
+					<li>Convert the file to KMZ with this page:
+						<a href="https://mygeodata.cloud/converter/" target="_blank" rel="noopener">https://mygeodata.cloud/converter/</a>
+					</li>
+					<li>Import the resulting KMZ file into Map Marker</li>	
+				</ol>
+				<p>
+					<b>Important note:</b>
+					This only works for starred locations, not other lists. Unfortunately, at the moment, it seems Google does not provide a way to export those.
+				</p>
+
+				<a name="devices_ios_How_can_I_extract_POI_images_from_Map_Marker"></a>
+				<h2>How can I extract POI images from Map Marker?</h2>
+				<p>
+					If you want to extract POI images from Map Marker, there are several ways you can go about this.
+				</p>
+				<b>Image extraction - Method 1: the KMZ export</b>
+				<p>
+					<ol>
+						<li>Find out how to change a file extension on your system (Linux / Windows / MacOS / etc.): if you don't know how to do this, search for "How to change a file extention in Linux/Windows/MacOS/WhatEverYourSystemIs" in your favorite search engine</li>
+                                                <li>Export your map as a KMZ file</li>
+						<li>Change the KMZ file extension from .kmz to .zip</li>
+						<li>Extract the zip file with a zip files manager</li>
+                                                <li>Image files will be in the extracted "local_media" and "cloud_media" folders, without extensions</li>
+						<li>Depending on your system, for the system to detect and open these files as images, you might have to change the extension of image files as well to ".png" or ".jpg"</li>
+					</ol>
+				</p>
+				<b>Image extraction - Method 2: the premium cloud sync (paid)</b>
+				<p>
+					<ol>
+						<li>Sync your map file to the cloud with the premium cloud sync</li>
+						<li>Open the map file menu by clicking at the top of the left drawer menu</li>
+						<li>Click "Share cloud map" to open the Google Drive folder of the cloud map</li>
+						<li>Filter the view to only see image files, they should all be there</li>
+					</ol>
+				</p>
+				</p>
+				</ol>
+				</p>
+				</ol>
+
+				<a name="devices_ios_FAQ"></a>
+				<h1>FAQ</h1>
+
+				<a name="devices_ios_I_want_to_try_early_features_how_can_I_use_the_beta"></a>
+				<h2>I want to try early features, how can I use the beta?</h2>
+				<p>
+					If you're impatient to test new upcoming features and you are not afraid to encounter bugs in the app, you can join the beta.<br>
+					Note that it is <b>HIGHLY RECOMMENDED</b> that you know how to save/restore your markers via the manual export/import or the cloud sync <b>BEFORE</b> joining the beta.<br>
+					Also note that if I'm not working on any special feature, the beta might not have anything different from the production app.<br>
+					With all that being noted, you can join the beta here:
+				</p>
+				<p>
+					<a href="https://testflight.apple.com/join/nQWmtq8I" target="_blank" rel="noopener">https://testflight.apple.com/join/nQWmtq8I</a>
+				</p>
+				</p>
+				</p>
+
+				<a name="devices_ios_How_can_I_help_with_translations"></a>
+				<h2>How can I help with translations?</h2>
+				<p>Follow the instructions on the github page for translations:
+					<a href="https://github.com/androidseb/mapmarkerapptranslations" target="_blank" rel="noopener">https://github.com/androidseb/mapmarkerapptranslations</a>
+				</p>
+
+				<a name="devices_ios_I_have_a_feature_idea_how_should_I_submit_the_idea"></a>
+				<h2>I have a feature idea, how should I submit the idea?</h2>
+				<p>First you should take a look at the Map Marker roadmap to see if the idea is not already there:</p>
+				<p>
+					<a href="http://mapmarkerapp.com/wip.html" target="_blank" rel="noopener">http://mapmarkerapp.com/wip.html</a>
+				</p>
+				<p>Then if the idea is not already submitted, you can send me an email and I&rsquo;ll check it out :-)</p>
+
+				<a name="devices_ios_How_can_I_stay_tuned_about_whatrsquos_coming_soon_for_Map_Marker"></a>
+				<h2>How can I stay tuned about what&rsquo;s coming soon for Map Marker?</h2>
+				<p>If you want to know what&rsquo;s coming next you can check this page:</p>
+				<p>
+					<a href="http://mapmarkerapp.com/wip.html" target="_blank" rel="noopener">http://mapmarkerapp.com/wip.html</a>
+				</p>
+				<p>If you want to be notified when new features come out, follow me on twitter:</p>
+				<p>
+					<a href="https://twitter.com/mapmarkerapp" target="_blank" rel="noopener">https://twitter.com/mapmarkerapp</a>
+				</p>
+
+				<a name="devices_ios_Why_is_Map_Marker_not_a_navigation_app"></a>
+				<h2>Why is Map Marker not a navigation app?</h2>
+				<p>Navigation apps are complex and hard to get right, and there are already a lot of good navigation apps out there. I believe
+					that as a single developer, the way I can provide most value with Map Marker is by focusing on the ability to organize
+					your places, and have an easy way to start navigation into navigation-focused apps. Map Marker&rsquo;s focus is different
+					from navigation.</p>
+
+				<a name="devices_ios_How_do_I_add_locations_on_Google_Maps"></a>
+				<h2>How do I add locations on Google Maps?</h2>
+				<p>Map Marker does not provide such features. Instead, try using one of those links:</p>
+				<ul>
+					<li>
+						<a href="https://www.google.ca/mybusiness" target="_blank" rel="noopener">https://www.google.ca/mybusiness</a>
+					</li>
+					<li>
+						<a href="https://play.google.com/store/apps/details?id=com.google.android.apps.vega" target="_blank" rel="noopener">https://play.google.com/store/apps/details?id=com.google.android.apps.vega</a>
+					</li>
+				</ul>
+
+				<a name="devices_ios_A_place_in_Google_Maps_has_wronginaccurate_data_how_do_I_fix_it"></a>
+				<h2>A place in Google Maps has wrong/inaccurate data, how do I fix it?</h2>
+				<p>Map Marker does not interact with Google Maps data, instead, try using the Google platform:</p>
+				<ul>
+					<li>go on Google Maps from a desktop computer: </li>
+					<li>click the location that needs fixing</li>
+					<li>click "suggest an edit"</li>
+				</ul>
+
+				<a name="devices_ios_What_should_I_know_about_the_premium_upgrade"></a>
+				<h2>What should I know about the premium upgrade?</h1>
+				<p>
+					When you purchase the premium, it becomes available for life for your Apple account.
+					The Apple account granted with the premium access is the one used to perform the purchase.
+					Upon purchasing the premium, you will receive a confirmation email with an order number.
+					From then on, you can use the premium on as many iOS devices as you want.
+					However you will need to use the exact same Apple account to perform the installation of
+					Map Marker on your other device.<br>
+					To restore the premium on a newly installed iOS device:
+				</p>
+				<ol>
+					<li>Open the side drawer by clicking the top left button on the main action bar</li>
+					<li>Click premium</li>
+					<li>Click "restore purchases"</li>
+				</ol>
+				<p>If these steps don't work you can send me your order number for confirmation and I will help you.</p>
+
+
+				<a name="devices_ios_Troubleshooting_and_known_problems"></a>
+				<h1>Troubleshooting and known problems</h1>
+
+				<a name="devices_ios_Cloud_sync_error_404_file_not_found"></a>
+				<h2>Cloud sync error: 404 file not found</h2>
+				<p>
+					When performing cloud sync, this error can occur if some remote cloud files have been deleted.<br>
+					This can happen if you (or one of your collaborators if you're sharing access) have deleted the cloud files from your cloud storage account.<br>
+					When this error happens, you can no longer sync to the cloud map and it also probably means that the only copy of your data is on your device, since the cloud data is gone.<br>
+					The recommended way to proceed in case you encounter this error is the following:
+					<ol>
+						<li>Export your markers as a KMZ file</li>
+						<li>To minimize the risks of losing the data, create a copy of that exported file somewhere like a secondary device, or a cloud storage account</li>
+						<li>By default, Map Marker creates a dedicated folder in your cloud storage account called "Map Marker Places Organizer": identify the source of the cloud data deletion so that it doesn't happen again, for example, if one of your collaborators deleted some file accidentally (e.g. "accidental cleanup"), explain them why not deleting these files is important</li>
+						<li>Create a new cloud map</li>
+						<li>Import the data from the KMZ file</li>
+						<li>Sync your cloud map</li>
+					</ol>
+				</p>
+
+			</div>
+			<div class="devices_web">
+				<a style="display:inline-block;" href="#devices_web_User_interface_description"><b>User interface description</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_How_to_open_the_Web_App">How to open the Web App</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Main_map_interface">Main map interface</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Main_menu_interface">Main menu interface</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Marker_info_window">Marker info window</a><br>
+				<a style="display:inline-block;" href="#devices_web_Using_markers_lines_and_polygons"><b>Using markers, lines and polygons</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Creating_markers">Creating markers</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Creating_lines">Creating lines</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Creating_polygons">Creating polygons</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Editing_markers_lines_and_polygons">Editing markers, lines and polygons</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Deleting_markers_lines_and_polygons">Deleting markers, lines and polygons</a><br>
+				<a style="display:inline-block;" href="#devices_web_Using_the_organizer"><b>Using the organizer</b></a><br>
+				<a style="display:inline-block;" href="#devices_web_Using_map_folders"><b>Using map folders</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Create_a_folder">Create a folder</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Edit_a_folder">Edit a folder</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Marker_templates_custom_fields">Marker templates: custom fields</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Presets_templates_and_bulk_icons_with_folders">Presets, templates and bulk icons with folders</a><br>
+				<a style="display:inline-block;" href="#devices_web_Cloud_and_collaborating"><b>Cloud and collaborating</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_How_to_sync_a_local_map_folder_on_the_cloud">How to sync a local map folder on the cloud</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_How_to_create_a_new_map_folder_on_the_cloud">How to create a new map folder on the cloud</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_How_to_share_your_map_cloud_folder_with_other_people_on_the_cloud">How to share your map cloud folder with other people on the cloud</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_How_to_open_an_existing_map_file_from_the_cloud">How to open an existing map file from the cloud?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_How_to_restore_a_previous_version_from_history">How to restore a previous version from history?</a><br>
+				<a style="display:inline-block;" href="#devices_web_Importing_and_exporting_markers"><b>Importing and exporting markers</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_How_to_exportshare_your_markers">How to export/share your markers?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_How_to_import_your_markers_from_a_KML_KMZ_or_CSV_file">How to import your markers from a KML, KMZ or CSV file?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Migrating_your_data_to_a_new_device">Migrating your data to a new device</a><br>
+				<a style="display:inline-block;" href="#devices_web_Advanced_features"><b>Advanced features</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Configuring_third_party_search_sources">Configuring third party search sources</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_How_can_I_import_my_starred_locations_from_Google_Maps_locations_marked_with_a_star_on_Google_Maps">How can I import my starred locations from Google Maps (locations marked with a star on Google Maps)?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_How_can_I_extract_POI_images_from_Map_Marker">How can I extract POI images from Map Marker?</a><br>
+				<a style="display:inline-block;" href="#devices_web_FAQ"><b>FAQ</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_I_want_to_try_early_features_how_can_I_use_the_beta">I want to try early features, how can I use the beta?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_How_can_I_help_with_translations">How can I help with translations?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_I_have_a_feature_idea_how_should_I_submit_the_idea">I have a feature idea, how should I submit the idea?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_How_can_I_stay_tuned_about_whatrsquos_coming_soon_for_Map_Marker">How can I stay tuned about what&rsquo;s coming soon for Map Marker?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Why_is_Map_Marker_not_a_navigation_app">Why is Map Marker not a navigation app?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_How_do_I_add_locations_on_Google_Maps">How do I add locations on Google Maps?</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_A_place_in_Google_Maps_has_wronginaccurate_data_how_do_I_fix_it">A place in Google Maps has wrong/inaccurate data, how do I fix it?</a><br>
+				<a style="display:inline-block;" href="#devices_web_Troubleshooting_and_known_problems"><b>Troubleshooting and known problems</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Cloud_sync_error_404_file_not_found">Cloud sync error: 404 file not found</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_QuotaExceededError">QuotaExceededError</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Various_browser_issues">Various browser issues</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Images_not_displaying_white_squares_instead">Images not displaying (white squares instead)</a><br>
+
+
+				<a name="devices_web_User_interface_description"></a>
+				<h1>User interface description</h1>
+
+				<a name="devices_web_How_to_open_the_Web_App"></a>
+				<h2>How to open the Web App</h2>
+				<p>The web app is meant to be opened from your computer's web browser. You can reach the web app from the home page by clicking "Launch the Web App" or by clicking <a href="https://www.mapmarker.app/webapp">here</a></p>
+
+				<a name="devices_web_Main_map_interface"></a>
+				<h2>Main map interface</h2>
+
+				<p>In the screenshot below, from left to right and from top to bottom, we have:</p>
+				<ul>
+					<li>The action bar (top left)</li>
+					<li>menu button</li>
+					<li>&lrm;jump button</li>
+					<li>&lrm;search button</li>
+					<li>share button</li>
+					<li>The add button (bottom right)</li>
+				</ul>
+				<img src="images/web_screenshot_1.png" style="width: 600px" />
+
+				<a name="devices_web_Main_menu_interface"></a>
+				<h2>Main menu interface</h2>
+				<p>Clicking the menu button will open the main menu. The main menu has the following elements (from top to bottom):</p>
+				<ul>
+					<li>Map file header</li>
+					<li>Folders</li>
+					<li>Add folder button</li>
+					<li>Map type button</li>
+					<li>Settings button</li>
+					<li>About button</li>
+					<li>Premium-related elements</li>
+				</ul>
+				<img src="images/web_screenshot_2.png" style="width: 600px" />
+
+				<a name="devices_web_Marker_info_window"></a>
+				<h2>Marker info window</h2>
+				<p>When you select a marker (when clicking on it for example), you will see the marker info window. The info window has
+					4 buttons:</p>
+				<ul>
+					<li>Marker edit button (top left)</li>
+					<li>Copy to clipboard button (top right)</li>
+					<li>Navigation button (bottom left)</li>
+					<li>Call button (bottom right)</li>
+				</ul>
+				<img src="images/web_screenshot_3.png" style="width: 600px" />
+
+
+				<a name="devices_web_Using_markers_lines_and_polygons"></a>
+				<h1>Using markers, lines and polygons</h1>
+
+
+				<a name="devices_web_Creating_markers"></a>
+				<h2>Creating markers</h2>
+				<p>To create a new marker, click on the add button from the main map interface, then move the map around to place the target
+					where you want to place the marker. When the target is at the desired location, click &ldquo;OK&rdquo; to place the
+					marker.
+				</p>
+
+				<a name="devices_web_Creating_lines"></a>
+				<h2>Creating lines</h2>
+				<p>To create a new line, click on the add button from the main map interface and then click the line button on the left.
+					Place new points with the &ldquo;+&rdquo; button, move from one point to another with the arrow buttons and click the
+					save button when you&rsquo;re done.</p>
+
+				<a name="devices_web_Creating_polygons"></a>
+				<h2>Creating polygons</h2>
+				<p>To create a new polygon, click on the add button from the main map interface and then click the polygon button on the
+					left. Place new points with the &ldquo;+&rdquo; button, move from one point to another with the arrow buttons and click
+					the save button when you&rsquo;re done.</p>
+
+				<a name="devices_web_Editing_markers_lines_and_polygons"></a>
+				<h2>Editing markers, lines and polygons</h2>
+				<p>To edit a marker, a line or a polygon, start by selecting it (by clicking on it for example) and hit the edit button
+					of the info window showing up. This will open the marker edit page. From there you will be able to edit all the attributes
+					of the marker. Note: if you&rsquo;re editing a line or polygon, you will have the option to edit the points of the line
+					or polygons from this page by clicking the &ldquo;edit&rdquo; button in the &ldquo;Coordinates&rdquo; section.</p>
+
+				<a name="devices_web_Deleting_markers_lines_and_polygons"></a>
+				<h2>Deleting markers, lines and polygons</h2>
+				<p>To delete one marker:</p>
+				<ul>
+					<li>select the marker (by clicking it for example)</li>
+					<li>click the edit button in the info window, this will open the marker edit page</li>
+					<li>scroll down to click on the delete button</li>
+					<li>confirm the deletion</li>
+				</ul>
+				<p>To delete multiple markers at once, you can use the organizer (see the "organizer" section from this help page)</p>
+
+
+				<a name="devices_web_Using_the_organizer"></a>
+				<h1>Using the organizer</h1>
+				<p>You can open the organizer by clicking the organize button from the top bar of the main page. The organizer will allow you to perform actions on multiple markers at once.</p>
+				<p>At the top of the screenshot below, we can see from left to right:</p>
+				<ul>
+					<li>Select all button: select all the markers in the list</li>
+					<li>Move to folder button: move the selected markers to another folder</li>
+					<li>Copy to folder button: move the selected markers to another folder</li>
+					<li>Delete button: delete the selected markers</li>
+				</ul>
+				<img src="images/web_screenshot_4.png" style="width: 600px" />
+
+
+				<a name="devices_web_Using_map_folders"></a>
+				<h1>Using map folders</h1>
+				<p>You can use map folders to organize your markers into different sections. Things you can do with folders:</p>
+				<ul>
+					<li>create a folder</li>
+					<li>&lrm;edit a folder</li>
+					<li>&lrm;marker templates: custom fields</li>
+					<li>&lrm;mass assign color</li>
+					<li>&lrm;mass assign custom fields</li>
+				</ul>
+
+				<a name="devices_web_Create_a_folder"></a>
+				<h2>Create a folder</h2>
+				<p>To create a folder:</p>
+				<ol>
+					<li>open the sidebar</li>
+					<li>&lrm;click "Add folder"</li>
+					<li>&lrm;enter the desired folder information</li>
+					<li>&lrm;click ok to save the new folder</li>
+				</ol>
+
+				<a name="devices_web_Edit_a_folder"></a>
+				<h2>Edit a folder</h2>
+				<p>To edit a folder:</p>
+				<ol>
+					<li>open the sidebar</li>
+					<li>&lrm;long press on the folder you wish to edit</li>
+					<li>&lrm;modify the folder to your liking</li>
+					<li>&lrm;click ok to save the changes</li>
+				</ol>
+
+				<a name="devices_web_Marker_templates_custom_fields"></a>
+				<h2>Marker templates: custom fields</h2>
+				<p>While creating or editing a folder, you can define custom fields into the folder. Those folder custom fields will act
+					as a template: when creating a new marker with only one folder selected, if that folder has custom fields then the folder's
+					custom fields will automatically be added to the newly created marker.</p>
+				<p>To create a folder's custom fields from the folder create/edit page:</p>
+				<ol>
+					<li>click "more options"</li>
+					<li>&lrm;select "add custom field"</li>
+					<li>&lrm;edit the custom field to your liking and save it</li>
+				</ol>
+				<p>To edit a folder's custom fields from the folder create/edit page:</p>
+				<ol>
+					<li>click on the custom field from the custom fields list</li>
+					<li>&lrm;edit the custom field to your liking and save it</li>
+				</ol>
+
+				<a name="devices_web_Presets_templates_and_bulk_icons_with_folders"></a>
+				<h2>Presets, templates and bulk icons with folders</h2>
+				<p>If you want markers to be automatically created with a specific combination of icon, color and custom fields you can
+					achieve this through folders. Folders will act as templates for their children markers. To do this:</p>
+				<ol>
+					<li>Create a folder</li>
+					<li>Choose the icon, color and custom fields that you would like to see by default for new markers</li>
+					<li>Save the folder</li>
+					<li>Double click on the folder from the main menu to select only that folder</li>
+					<li>And any new marker that you create will inherit its parent folder&rsquo;s attributes</li>
+				</ol>
+
+
+				<a name="devices_web_Cloud_and_collaborating"></a>
+				<h1>Cloud and collaborating</h1>
+
+				<a name="devices_web_How_to_sync_a_local_map_folder_on_the_cloud"></a>
+				<h2>How to sync a local map folder on the cloud</h2>
+				<p>If your map file is local and has not been synced on the cloud yet, follow those steps:</p>
+				<ol>
+					<li>Open the left drawer</li>
+					<li>Click on the map file to open the file options menu</li>
+					<li>Select the "cloud sync" option</li>
+					<li>Select your account</li>
+					<li>Click ok</li>
+				</ol>
+
+				<a name="devices_web_How_to_create_a_new_map_folder_on_the_cloud"></a>
+				<h2>How to create a new map folder on the cloud</h2>
+				<ol>
+					<li>Open the left drawer</li>
+					<li>Click on the map file to open the file options menu</li>
+					<li>Select the "create map file" option</li>
+					<li>Select "create cloud map"</li>
+					<li>Select your account</li>
+					<li>Click ok</li>
+				</ol>
+
+				<a name="devices_web_How_to_share_your_map_cloud_folder_with_other_people_on_the_cloud"></a>
+				<h2>How to share your map cloud folder with other people on the cloud</h2>
+				<ol>
+					<li>Open the left drawer</li>
+					<li>Click on the map file to open the file options menu</li>
+					<li>Select "share cloud map"</li>
+					<li>Open with the Google Drive app</li>
+					<li>Open the cloud folder details</li>
+					<li>Select "add people" and add give "write permissions" to your friends</li>
+					<li>Have your friends install Map Marker</li>
+					<li>Your friends will then need to open the existing map file from the cloud</li>
+				</ol>
+
+				<a name="devices_web_How_to_open_an_existing_map_file_from_the_cloud"></a>
+				<h2>How to open an existing map file from the cloud?</h2>
+				<ol>
+					<li>Open the left drawer</li>
+					<li>Select the "open map file" option</li>
+					<li>Select the "open cloud map" option</li>
+					<li>Select the cloud map you want to open</li>
+				</ol>
+
+				<a name="devices_web_How_to_restore_a_previous_version_from_history"></a>
+				<h2>How to restore a previous version from history?</h2>
+				<ol>
+					<li>open the left drawer</li>
+					<li>click on the map file to open the file options menu</li>
+					<li>select the "view history/restore" option</li>
+					<li>select the version to restore from the list</li>
+				</ol>
+
+
+				<a name="devices_web_Importing_and_exporting_markers"></a>
+				<h1>Importing and exporting markers</h1>
+
+				<a name="devices_web_How_to_exportshare_your_markers"></a>
+				<h2>How to export/share your markers?</h2>
+				<ol>
+					<li>Click the "share" button of the main action bar (last button)</li>
+					<li>Select "All markers and folders"</li>
+					<li>The exported file should download from your browser</li>
+				</ol>
+
+				<a name="devices_web_How_to_import_your_markers_from_a_KML_KMZ_or_CSV_file"></a>
+				<h2>How to import your markers from a KML, KMZ or CSV file?</h2>
+				<ol>
+					<li>Open the left drawer</li>
+					<li>Click on the map file to open the file options menu</li>
+					<li>Select the "import markers" option</li>
+					<li>Select the file from your computer and the import will start</li>
+				</ol>
+				<p>
+					Note: the CSV file import will only work if the file has "Latitude" and "Longitude" columns.
+					To see an example of how the file should look like, you can export a CSV file from Map Marker
+					and send it to yourself.
+				</p>
+
+				<a name="devices_web_Migrating_your_data_to_a_new_device"></a>
+				<h2>Migrating your data to a new device</h2>
+				<p>If you lost your device or did a factory reset or simply got a new device, you might need to migrate your previous markers data to this new device. Depending on your case, there are several ways to do this...</p>
+				<p><b>Case 1:</b> You were using the premium cloud sync on your previous device</p>
+				<p>&rArr; Simply open the existing cloud map by following the instructions in this section: <a href="#devices_web_How_to_open_an_existing_map_file_from_the_cloud">How to open an existing map file from the cloud?</a></p>
+				<p><b>Case 2:</b> You were not using the cloud sync, but you saved your markers into a file with the export feature</p>
+				<p>&rArr; To import your markers into the new device, follow the instructions in this section: <a href="#devices_web_Importing_and_exporting_markers">Importing and exporting markers</a></p>
+				<p><b>Case 3:</b> You created no backup but you still have access to the previous device's data</p>
+				<p>&rArr; You will need to export the markers data from your previous device, and then import your markers data into your new device. For more information on how to export and import data, see the following section: <a href="#devices_web_Importing_and_exporting_markers">Importing and exporting markers</a></p>
+				<p><b>Case 4:</b> You created no backup and you do not have access to your previous device's data</p>
+				<p>&rArr; Since the web app is on your browser only, there is no other way to retrieve the data to my knowledge :'(</p>
+
+
+				<a name="devices_web_Advanced_features"></a>
+				<h1>Advanced features</h1>
+
+				<a name="devices_web_Configuring_third_party_search_sources"></a>
+				<h2>Configuring third party search sources</h2>
+				<p>For the users who used the search feature in Map Marker before, you're probably wondering why it changed that way. Please see the <a href="./search_experience_changes_faq.html">Map Marker Search Feature Changes FAQ</a> for more details.</p>
+				<p>You can add or configure third party search sources in Map Marker from the "Places search sources" section menu.</p>
+				<p>Once you have obtained a third party search source configuration, you can re-use this same configuration on any device running Map Marker.</p>
+				<p>To use a configuration, from the search source menu in Map Marker:</p>
+				<ol>
+					<li>Click "Add or configure search source"</li>
+					<li>Click on the search source that you want to add/configure</li>
+					<li>Enter/paste the requested configuration values</li>
+					<li>Check the displayed result (success/failure)</li>
+				</ol>
+				<p>Below are the different third party sources that can be configured with instructions on how to obtain the configuration values, by increasing order of difficulty. <b>Microsoft Bing Places Search</b> seems like the best option because it's easy to setup and the search result quality is pretty good.</p>
+				<b>Bing Places Search API (very easy)</b>
+				<p>Notes:</p>
+				<ul>
+					<li>You will need to use or create a free microsoft account to retrieve the configuration values</li>
+					<li>There is no need for a credit card</li>
+					<li>The free quota is plenty for a single user</li>
+					<li>The configuration value you will need to obtain is a <b>Bing Places API Key</b></li>
+				</ul>
+				<p>Steps:</p>
+				<ol>
+					<li>Follow the instructions here: <a href="https://docs.microsoft.com/en-us/bingmaps/getting-started/bing-maps-dev-center-help/getting-a-bing-maps-key">https://docs.microsoft.com/en-us/bingmaps/getting-started/bing-maps-dev-center-help/getting-a-bing-maps-key</a></li>
+					<li>Use the following key type: "Bing Maps Keys for Business and Personal Use"</li>
+					<li>Use the following application type: "Website"</li>
+					<li>You can then create/retrieve the key from here: <a href="https://www.bingmapsportal.com/Application">https://www.bingmapsportal.com/Application</a> under "My Account" &gt; "My Keys"</li>
+				</ol>
+				<b>"Here" Places Search API (very easy)</b>
+				<p>Notes:</p>
+				<ul>
+					<li>You will need to use or create a free HERE account to retrieve the configuration values</li>
+					<li>There is no need for a credit card</li>
+					<li>The free quota is plenty for a single user</li>
+					<li>The configuration values you will need to obtain are <b>App ID</b> and <b>App Code</b></li>
+				</ul>
+				<p>Steps:</p>
+				<ol>
+					<li>Create an account here: <a href="https://developer.here.com/authenticationpage">https://developer.here.com/authenticationpage</a></li>
+					<li>Open the projects page here: <a href="https://developer.here.com/projects">https://developer.here.com/projects</a></li>
+					<li>Click "Select a plan for a new project"</li>
+					<li>Select the "Fremium" plan and create your new project</li>
+					<li>Go back to the projects page here: <a href="https://developer.here.com/projects">https://developer.here.com/projects</a></li>
+					<li>Click on your project</li>
+					<li>Under "JS REST" / "REST & XYZ HUB API/CLI" click on "Generate App ID and App Code"</li>
+					<li>Under "JS REST" / "REST & XYZ HUB API/CLI" find your App ID under "APP ID" and your App Code under "APP CODE"</li>
+					<li>Save the App ID and the App Code in a way that you can paste them into Map Marker</li>
+				</ol>
+				<b>"Google" Places Search API (very hard)</b>
+				<p>Notes:</p>
+				<ul>
+					<li>!!!FOR ADVANCED USERS ONLY!!!</li>
+					<li>You will need to use or create a free Google account to retrieve the configuration values</li>
+					<li>The free quota should be enough for a single user</li>
+					<li>The configuration value you will need to obtain is the <b>API key</b></li>
+					<li>To get a functional API key, you will need to give your credit card information to Google</li>
+					<li>Google may charge you on the API usage</li>
+					<li>There are ways to limit the usage to only the free quota, to avoid being charged, but they depend on your configuration</li>
+					<li>It is impossible to use the free quota without providing a credit card</li>
+					<li>It is impossible to guarantee no expenses due to an accidental bad configuration</li>
+					<li>I will not provide support for this, you will have to interact with Google directly: <a href="https://developers.google.com/places/web-service/support">https://developers.google.com/places/web-service/support</a></li>
+				</ul>
+				<p>Steps:</p>
+				<ol>
+					<li>Get an API key here: <a href="https://developers.google.com/places/web-service/get-api-key">https://developers.google.com/places/web-service/get-api-key</a></li>
+					<li>Enable billing for your google cloud console account</li>
+					<li>Set a limit on your Places API usage</li>
+					<li>Save the API key in a way that you can paste it into Map Marker</li>
+				</ol>
+
+				<a name="devices_web_How_can_I_import_my_starred_locations_from_Google_Maps_locations_marked_with_a_star_on_Google_Maps"></a>
+				<h2>How can I import my starred locations from Google Maps (locations marked with a star on Google Maps)?</h2>
+				<ol>
+					<li>Open the Google Takout page here:
+						<a href="https://takeout.google.com/settings/takeout" target="_blank" rel="noopener">https://takeout.google.com/settings/takeout</a>
+					</li>
+					<li>Click "Select None" to uncheck everything</li>
+					<li>Scroll down and toggle "Maps (your places)"</li>
+					<li>Scroll to the bottom</li>
+					<li>Click "Next"</li>
+					<li>Select a convenient way for you get the files and click "Create archive"</li>
+					<li>Click "Download" to download the created archive</li>
+					<li>Unzip the archive file and retrieve the file named "Saved Places.json"</li>
+					<li>Convert the file to KMZ with this page:
+						<a href="https://mygeodata.cloud/converter/" target="_blank" rel="noopener">https://mygeodata.cloud/converter/</a>
+					</li>
+					<li>Import the resulting KMZ file into Map Marker</li>	
+				</ol>
+				<p>
+					<b>Important note:</b>
+					This only works for starred locations, not other lists. Unfortunately, at the moment, it seems Google does not provide a way to export those.
+				</p>
+
+				<a name="devices_web_How_can_I_extract_POI_images_from_Map_Marker"></a>
+				<h2>How can I extract POI images from Map Marker?</h2>
+				<p>
+					If you want to extract POI images from Map Marker, there are several ways you can go about this.
+				</p>
+				<b>Image extraction - Method 1: the KMZ export</b>
+				<p>
+					<ol>
+						<li>Find out how to change a file extension on your system (Linux / Windows / MacOS / etc.): if you don't know how to do this, search for "How to change a file extention in Linux/Windows/MacOS/WhatEverYourSystemIs" in your favorite search engine</li>
+                                                <li>Export your map as a KMZ file</li>
+						<li>Change the KMZ file extension from .kmz to .zip</li>
+						<li>Extract the zip file with a zip files manager</li>
+                                                <li>Image files will be in the extracted "local_media" and "cloud_media" folders, without extensions</li>
+						<li>Depending on your system, for the system to detect and open these files as images, you might have to change the extension of image files as well to ".png" or ".jpg"</li>
+					</ol>
+				</p>
+				<b>Image extraction - Method 2: the premium cloud sync (paid)</b>
+				<p>
+					<ol>
+						<li>Sync your map file to the cloud with the premium cloud sync</li>
+						<li>Open the map file menu by clicking at the top of the left drawer menu</li>
+						<li>Click "Share cloud map" to open the Google Drive folder of the cloud map</li>
+						<li>Filter the view to only see image files, they should all be there</li>
+					</ol>
+				</p>
+				</p>
+				</ol>
+				</p>
+				</ol>
+
+				<a name="devices_web_FAQ"></a>
+				<h1>FAQ</h1>
+
+				<a name="devices_web_I_want_to_try_early_features_how_can_I_use_the_beta"></a>
+				<h2>I want to try early features, how can I use the beta?</h2>
+				<p>
+					If you're impatient to test new upcoming features and you are not afraid to encounter bugs in the app, you can join the beta.<br>
+					Note that it is <b>HIGHLY RECOMMENDED</b> that you know how to save/restore your markers via the manual export/import or the cloud sync <b>BEFORE</b> joining the beta.<br>
+					Also note that if I'm not working on any special feature, the beta might not have anything different from the production app.<br>
+					With all that being noted, you can join the beta here:
+				</p>
+				</p>
+				</p>
+				<p>
+					<a href="https://www.mapmarker.app/webapp_beta" target="_blank" rel="noopener">https://www.mapmarker.app/webapp_beta/</a>
+				</p>
+
+				<a name="devices_web_How_can_I_help_with_translations"></a>
+				<h2>How can I help with translations?</h2>
+				<p>Follow the instructions on the github page for translations:
+					<a href="https://github.com/androidseb/mapmarkerapptranslations" target="_blank" rel="noopener">https://github.com/androidseb/mapmarkerapptranslations</a>
+				</p>
+
+				<a name="devices_web_I_have_a_feature_idea_how_should_I_submit_the_idea"></a>
+				<h2>I have a feature idea, how should I submit the idea?</h2>
+				<p>First you should take a look at the Map Marker roadmap to see if the idea is not already there:</p>
+				<p>
+					<a href="http://mapmarkerapp.com/wip.html" target="_blank" rel="noopener">http://mapmarkerapp.com/wip.html</a>
+				</p>
+				<p>Then if the idea is not already submitted, you can send me an email and I&rsquo;ll check it out :-)</p>
+
+				<a name="devices_web_How_can_I_stay_tuned_about_whatrsquos_coming_soon_for_Map_Marker"></a>
+				<h2>How can I stay tuned about what&rsquo;s coming soon for Map Marker?</h2>
+				<p>If you want to know what&rsquo;s coming next you can check this page:</p>
+				<p>
+					<a href="http://mapmarkerapp.com/wip.html" target="_blank" rel="noopener">http://mapmarkerapp.com/wip.html</a>
+				</p>
+				<p>If you want to be notified when new features come out, follow me on twitter:</p>
+				<p>
+					<a href="https://twitter.com/mapmarkerapp" target="_blank" rel="noopener">https://twitter.com/mapmarkerapp</a>
+				</p>
+
+				<a name="devices_web_Why_is_Map_Marker_not_a_navigation_app"></a>
+				<h2>Why is Map Marker not a navigation app?</h2>
+				<p>Navigation apps are complex and hard to get right, and there are already a lot of good navigation apps out there. I believe
+					that as a single developer, the way I can provide most value with Map Marker is by focusing on the ability to organize
+					your places, and have an easy way to start navigation into navigation-focused apps. Map Marker&rsquo;s focus is different
+					from navigation.</p>
+
+				<a name="devices_web_How_do_I_add_locations_on_Google_Maps"></a>
+				<h2>How do I add locations on Google Maps?</h2>
+				<p>Map Marker does not provide such features. Instead, try using one of those links:</p>
+				<ul>
+					<li>
+						<a href="https://www.google.ca/mybusiness" target="_blank" rel="noopener">https://www.google.ca/mybusiness</a>
+					</li>
+					<li>
+						<a href="https://play.google.com/store/apps/details?id=com.google.android.apps.vega" target="_blank" rel="noopener">https://play.google.com/store/apps/details?id=com.google.android.apps.vega</a>
+					</li>
+				</ul>
+
+				<a name="devices_web_A_place_in_Google_Maps_has_wronginaccurate_data_how_do_I_fix_it"></a>
+				<h2>A place in Google Maps has wrong/inaccurate data, how do I fix it?</h2>
+				<p>Map Marker does not interact with Google Maps data, instead, try using the Google platform:</p>
+				<ul>
+					<li>go on Google Maps from a desktop computer: </li>
+					<li>click the location that needs fixing</li>
+					<li>click "suggest an edit"</li>
+				</ul>
+
+				<a name="devices_web_Troubleshooting_and_known_problems"></a>
+				<h1>Troubleshooting and known problems</h1>
+
+				<a name="devices_web_Cloud_sync_error_404_file_not_found"></a>
+				<h2>Cloud sync error: 404 file not found</h2>
+				<p>
+					When performing cloud sync, this error can occur if some remote cloud files have been deleted.<br>
+					This can happen if you (or one of your collaborators if you're sharing access) have deleted the cloud files from your cloud storage account.<br>
+					When this error happens, you can no longer sync to the cloud map and it also probably means that the only copy of your data is on your device, since the cloud data is gone.<br>
+					The recommended way to proceed in case you encounter this error is the following:
+					<ol>
+						<li>Export your markers as a KMZ file</li>
+						<li>To minimize the risks of losing the data, create a copy of that exported file somewhere like a secondary device, or a cloud storage account</li>
+						<li>By default, Map Marker creates a dedicated folder in your cloud storage account called "Map Marker Places Organizer": identify the source of the cloud data deletion so that it doesn't happen again, for example, if one of your collaborators deleted some file accidentally (e.g. "accidental cleanup"), explain them why not deleting these files is important</li>
+						<li>Create a new cloud map</li>
+						<li>Import the data from the KMZ file</li>
+						<li>Sync your cloud map</li>
+					</ol>
+				</p>
+
+				<a name="devices_web_QuotaExceededError"></a>
+				<h2>QuotaExceededError</h2>
+				<p>
+					You can run into this error with the message "The quota has been excedded." if you have too much data stored in your browser for the Map Marker website.
+					The web browsers limit how much data a given website can store (usually 5MB) and this error happens when attempting to write more data.
+					This usually happens when you have large map files with a lot of markers.
+					The best way to work around this issue at the moment is to make smaller map files with less markers, and delete the map files you're not using from the left menu.
+				</p>
+				<a name="devices_web_Various_browser_issues"></a>
+				<h2>Various browser issues</h2>
+				<p>
+					Right now, the only officially supported browser is Google Chrome.
+					The app is built with best effort support for other browsers as well without any guarantee.
+				</p>
+				<a name="devices_web_Images_not_displaying_white_squares_instead"></a>
+				<h2>Images not displaying (white squares instead)</h2>
+				<p>
+					This can happen if your browser has a setting of blocking third-party content.
+					Since images are coming from Google Drive (drive.google.com) instead of mapmarker.app, the browser with third party content blocked might block this, resulting in images displayed as white squares.
+					To fix this on Google Chrome, go to the browser settings and change the settings under "Cookies and other site data" to allow third party cookies on mapmarker.app.
+				</p>
+			</div>
+		</div>
+	</div>
+</body>
+
+</html>
