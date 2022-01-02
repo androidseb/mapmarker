@@ -24549,7 +24549,7 @@ return A.l(A.akb(a),$async$akc)
 case 5:p=c
 A.iw("MainController created")
 $.jB=p
-A.zs(A.bC("!!! IMPORTANT: ALPHA QUALITY DISCLAIMER !!!\n\nThis version of the app is a technical preview/prototype, and might not be stable: it might crash at any time and lose all the saved data.\nOnly use this version of the app if you're curious to see what the next major Map Marker app update will look like, or if you want to help hunting bugs.\n\nCurrently, the app has the following known limitations (working on addressing those, feel free to report anything else):\n* Very slow performance with more than 100 markers\n* No cloud sync\n* Slow image imports when importing from gallery or camera\n* Cannot import files on iOS < 11\n* Cannot import very large files (currently limited by your device memory)\n\nHappy testing!"),null)
+A.zs(A.bC("!!! IMPORTANT: ALPHA QUALITY DISCLAIMER !!!\n\nThis version of the app is a technical preview/prototype, and might not be stable: it might crash at any time and lose all the saved data, this is why this is a separate app.\n\nIf you want to use the most stable version of the app, use the regular Map Marker app, not this prototype version.\n\nOnly use this version of the app if you're curious to see what the next major Map Marker app update will look like, or if you want to help hunting bugs.\n\nCurrently, the app has the following known limitations (working on addressing those, feel free to report anything else):\n* Very slow performance with more than 100 markers\n* No cloud sync\n* Many other missing features (Offline maps, batch folder actions, etc.)\n* Slow image imports when importing from gallery or camera\n* Cannot import files on iOS &lt; 11\n* Cannot import very large files (currently limited by your device memory)\n\nHappy testing!\n"),null)
 case 4:p.x=a
 q=p
 s=1
@@ -92407,7 +92407,7 @@ r.push(new A.c0(new A.V(s,B.zP,s,s),new A.V(s,B.jW,s,s),s,A.bs(B.mC),new A.ahD()
 r.push(new A.c0(new A.V(s,B.k4,s,s),new A.V(s,B.jW,s,s),s,A.bs(B.mC),new A.ahE()))
 A.mp(new A.V(s,B.jV,s,s),r)},
 YN(){var s=this.a.x
-A.bj5(A.Cg(B.mM,32,32),A.bT(B.A9,$.b_Y(),null,null),"Map Marker","3.0.0-alpha+1",s)},
+A.bj5(A.Cg(B.mM,32,32),A.bT(B.A9,$.b_Y(),null,null),"Map Marker","3.0.0-alpha+3",s)},
 a33(){var s=A.b90(),r=A.ah(s).i("aa<1,c0>")
 A.mp(new A.V(null,B.k2,null,null),A.a0(new A.aa(s,new A.ahH(this),r),!0,r.i("aX.E")))},
 Y2(){A.l_(new A.V(null,B.c9,null,null),new A.ahx(this),t.H)},
@@ -96257,7 +96257,7 @@ g.push(new A.hU(i,A.lm(A.hg(B.Ng),i,i),new A.V(i,B.jL,i,i),i,new A.ad3()))
 g.push(new A.hF(new A.V(i,B.zL,i,i)))
 g.push(new A.hU(i,A.lm(i,B.MQ,i),new A.V(i,B.k5,i,i),i,new A.ad4()))
 g.push(new A.uk())
-r=A.bC("Map Marker 3.0.0-alpha+1")
+r=A.bC("Map Marker 3.0.0-alpha+3")
 g.push(new A.hU(i,A.lm(i,B.ME,i),new A.V(i,B.zM,i,i),r,new A.ad5()))
 g.push(new A.uk())
 return g},
