@@ -585,5 +585,7 @@
     "size_large": "Lớn",
     "size_huge": "Khổng lồ",
     "import_format_choice_question": "Bạn muốn sử dụng định dạng nào để nhập?",
+    "map_file_summary_x_folders_x_markers": "%1$s thư mục và %2$s điểm đánh dấu",
+    "open_x": "Mở '%s'",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

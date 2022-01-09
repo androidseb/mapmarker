@@ -585,5 +585,7 @@
     "size_large": "Veliki",
     "size_huge": "Ogroman",
     "import_format_choice_question": "Који формат желите да користите за увоз?",
+    "map_file_summary_x_folders_x_markers": "%1$s фасцикле и %2$s маркера",
+    "open_x": "Отвори '%s'",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

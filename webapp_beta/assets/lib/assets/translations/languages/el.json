@@ -585,5 +585,7 @@
     "size_large": "Μεγάλο",
     "size_huge": "Τεράστιος",
     "import_format_choice_question": "Ποια μορφή θέλετε να χρησιμοποιήσετε για την εισαγωγή;",
+    "map_file_summary_x_folders_x_markers": "%1$s φακέλους και %2$s δείκτες",
+    "open_x": "Άνοιγμα '%s'",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

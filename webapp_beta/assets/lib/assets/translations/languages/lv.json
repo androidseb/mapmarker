@@ -585,5 +585,7 @@
     "size_large": "Liels",
     "size_huge": "Milzīgs",
     "import_format_choice_question": "Kādu formātu vēlaties izmantot importēšanai?",
+    "map_file_summary_x_folders_x_markers": "%1$s mapes un %2$s marķieri",
+    "open_x": "Atvērt '%s'",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

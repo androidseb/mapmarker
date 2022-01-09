@@ -585,5 +585,7 @@
     "size_large": "Large",
     "size_huge": "Huge",
     "import_format_choice_question": "What format to you want to use to import?",
+    "map_file_summary_x_folders_x_markers": "%1$s folders and %2$s markers",
+    "open_x": "Open '%s'",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

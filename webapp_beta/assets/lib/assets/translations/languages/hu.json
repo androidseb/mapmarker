@@ -585,5 +585,7 @@
     "size_large": "Nagy",
     "size_huge": "Hatalmas",
     "import_format_choice_question": "Milyen formátumot szeretne használni az importáláshoz?",
+    "map_file_summary_x_folders_x_markers": "%1$s mappa és %2$s jelölő",
+    "open_x": "'%s' megnyitása",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

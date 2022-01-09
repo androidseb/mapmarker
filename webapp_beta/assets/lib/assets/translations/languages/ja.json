@@ -585,5 +585,7 @@
     "size_large": "大きい",
     "size_huge": "巨大",
     "import_format_choice_question": "インポートに使用する形式は何ですか？",
+    "map_file_summary_x_folders_x_markers": "%1$s個のフォルダーと%2$s個のマーカー",
+    "open_x": "'%s'を開く",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

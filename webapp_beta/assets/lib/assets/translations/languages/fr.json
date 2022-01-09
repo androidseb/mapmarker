@@ -585,5 +585,7 @@
     "size_large": "Grand",
     "size_huge": "Très grand",
     "import_format_choice_question": "Quel format d'import voulez-vous utiliser ?",
+    "map_file_summary_x_folders_x_markers": "%1$s dossiers et %2$s marqueurs",
+    "open_x": "Open '%s'",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

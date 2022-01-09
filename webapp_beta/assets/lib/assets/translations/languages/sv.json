@@ -585,5 +585,7 @@
     "size_large": "Stor",
     "size_huge": "Enorm",
     "import_format_choice_question": "Vilket format vill du använda för att importera?",
+    "map_file_summary_x_folders_x_markers": "%1$s mappar och %2$s markörer",
+    "open_x": "Öppna '%s'",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

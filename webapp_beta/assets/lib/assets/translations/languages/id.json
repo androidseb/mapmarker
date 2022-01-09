@@ -585,5 +585,7 @@
     "size_large": "Besar",
     "size_huge": "Sangat besar",
     "import_format_choice_question": "Format apa yang ingin Anda gunakan untuk mengimpor?",
+    "map_file_summary_x_folders_x_markers": "%1$s folder dan %2$s penanda",
+    "open_x": "Buka '%s'",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

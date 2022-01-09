@@ -585,5 +585,7 @@
     "size_large": "Grande",
     "size_huge": "Enorme",
     "import_format_choice_question": "Qual formato você deseja usar para importar?",
+    "map_file_summary_x_folders_x_markers": "%1$s pastas e %2$s marcadores",
+    "open_x": "Abra '%s'",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

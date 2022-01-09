@@ -585,5 +585,7 @@
     "size_large": "גָדוֹל",
     "size_huge": "עָצוּם",
     "import_format_choice_question": "באיזה פורמט אתה רוצה להשתמש כדי לייבא?",
+    "map_file_summary_x_folders_x_markers": "%1$s תיקיות ו-%2$s סמנים",
+    "open_x": "פתח את '%s'",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

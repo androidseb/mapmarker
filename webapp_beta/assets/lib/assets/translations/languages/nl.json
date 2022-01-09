@@ -585,5 +585,7 @@
     "size_large": "Groot",
     "size_huge": "Enorm",
     "import_format_choice_question": "Welk formaat wilt u gebruiken om te importeren?",
+    "map_file_summary_x_folders_x_markers": "%1$s mappen en %2$s markeringen",
+    "open_x": "'%s' openen",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

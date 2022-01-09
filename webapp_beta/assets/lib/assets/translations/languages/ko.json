@@ -585,5 +585,7 @@
     "size_large": "크기가 큰",
     "size_huge": "거대한",
     "import_format_choice_question": "가져오기에 어떤 형식을 사용하시겠습니까?",
+    "map_file_summary_x_folders_x_markers": "%1$s개의 폴더 및 %2$s개의 마커",
+    "open_x": "'%s' 열기",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

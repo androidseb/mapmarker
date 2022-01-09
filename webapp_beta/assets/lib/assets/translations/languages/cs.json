@@ -585,5 +585,7 @@
     "size_large": "Velký",
     "size_huge": "Obrovský",
     "import_format_choice_question": "Jaký formát chcete použít pro import?",
+    "map_file_summary_x_folders_x_markers": "%1$s složek a %2$s značek",
+    "open_x": "Otevřít '%s'",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

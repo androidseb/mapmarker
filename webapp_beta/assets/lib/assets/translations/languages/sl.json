@@ -585,5 +585,7 @@
     "size_large": "Velika",
     "size_huge": "Ogromen",
     "import_format_choice_question": "Kateri format želite uporabiti za uvoz?",
+    "map_file_summary_x_folders_x_markers": "%1$s mape in %2$s oznake",
+    "open_x": "Odpri '%s'",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

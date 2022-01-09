@@ -585,5 +585,7 @@
     "size_large": "Gran",
     "size_huge": "Enorme",
     "import_format_choice_question": "Quin format voleu utilitzar per importar?",
+    "map_file_summary_x_folders_x_markers": "%1$s carpetes i %2$s marcadors",
+    "open_x": "Obre '%s'",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

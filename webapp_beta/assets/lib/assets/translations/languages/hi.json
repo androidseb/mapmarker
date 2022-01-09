@@ -585,5 +585,7 @@
     "size_large": "बड़ा",
     "size_huge": "विशाल",
     "import_format_choice_question": "आयात करने के लिए आप किस प्रारूप का उपयोग करना चाहते हैं?",
+    "map_file_summary_x_folders_x_markers": "%1$s फ़ोल्डर और %2$s मार्कर",
+    "open_x": "'%s' खोलें",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

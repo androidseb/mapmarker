@@ -585,5 +585,7 @@
     "size_large": "Mare",
     "size_huge": "Imens",
     "import_format_choice_question": "Ce format doriți să utilizați pentru a importa?",
+    "map_file_summary_x_folders_x_markers": "%1$s foldere și %2$s marcatoare",
+    "open_x": "Deschide „%s”",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

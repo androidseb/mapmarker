@@ -585,5 +585,7 @@
     "size_large": "Didelis",
     "size_huge": "Didelis",
     "import_format_choice_question": "Kokį formatą norite naudoti importuodami?",
+    "map_file_summary_x_folders_x_markers": "%1$s aplankai ir %2$s žymekliai",
+    "open_x": "Atidaryti '%s'",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

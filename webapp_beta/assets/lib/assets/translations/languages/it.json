@@ -585,5 +585,7 @@
     "size_large": "Grande",
     "size_huge": "Enorme",
     "import_format_choice_question": "Che formato vuoi usare per importare?",
+    "map_file_summary_x_folders_x_markers": "%1$s cartelle e %2$s pennarelli",
+    "open_x": "Apri '%s'",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

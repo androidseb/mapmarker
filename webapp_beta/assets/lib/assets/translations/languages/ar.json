@@ -585,5 +585,7 @@
     "size_large": "كبير",
     "size_huge": "تسربت",
     "import_format_choice_question": "ما هو التنسيق الذي تريد استخدامه للاستيراد؟",
+    "map_file_summary_x_folders_x_markers": "%1$s مجلدات و %2$s علامات",
+    "open_x": "فتح \"%s\"",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

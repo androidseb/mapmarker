@@ -585,5 +585,7 @@
     "size_large": "Büyük",
     "size_huge": "Kocaman",
     "import_format_choice_question": "İçe aktarmak için hangi biçimi kullanmak istiyorsunuz?",
+    "map_file_summary_x_folders_x_markers": "%1$s klasör ve %2$s işaretçi",
+    "open_x": "'%s'yi aç",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
