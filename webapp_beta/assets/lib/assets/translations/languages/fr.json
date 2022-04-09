@@ -586,6 +586,15 @@
     "size_huge": "Très grand",
     "import_format_choice_question": "Quel format d'import voulez-vous utiliser ?",
     "map_file_summary_x_folders_x_markers": "%1$s dossiers et %2$s marqueurs",
-    "open_x": "Open '%s'",
+    "open_x": "Ouvrir '%s'",
+    "sync_option_google_drive_limited_title": "Google Drive - accès limité",
+    "sync_option_google_drive_limited_description": "Ceci limite l'accès de l'application seulement aux fichiers créée par elle-même sur votre Google Drive. Choisissez cette option si vous prévoyez de synchroniser seulement depuis votre compte Google sans collaborateurs. Dans le doute, choisissez cette option, vous pouvez facilement changer d'avis plus tard.",
+    "sync_option_google_drive_full_title": "Google Drive - accès complet",
+    "sync_option_google_drive_full_description": "Ceci donne à l'application un accès complet à votre Google Drive. Choisissez cette option si vous prévoyez de collaborer avec d'autres comptes Google.",
+    "sync_data_volume_limit_mobile": "Limite de volume sur données mobiles",
+    "sync_data_volume_limit_default": "Limite de volume par défaut",
+    "google_drive_web_auth_scope_change_error_message": "En raison de limitations dans le processus d'autentification de Google, il n'est pas possible de s'authentifier avec un niveau de permissions différent (accès limité / accès complet) sans recharger la page web. Veuillez effectuer l'action de rafraichissement dans votre navigateur et essayez de nouveau.",
+    "cloud_auth_error_message": "Authentification échouée, veuillez réessayer.",
+    "message_sync_error_data_volume_limit2": "La sync a été interrompue car elle dépassait la limite du volume de données autorisée. Pour augmenter ou modifier la limite, allez dans les réglages.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

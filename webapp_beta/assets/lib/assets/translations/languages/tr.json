@@ -587,5 +587,14 @@
     "import_format_choice_question": "İçe aktarmak için hangi biçimi kullanmak istiyorsunuz?",
     "map_file_summary_x_folders_x_markers": "%1$s klasör ve %2$s işaretçi",
     "open_x": "'%s'yi aç",
+    "sync_option_google_drive_limited_title": "Google Drive - sınırlı erişim",
+    "sync_option_google_drive_limited_description": "Bu, uygulamayı yalnızca Google Drive cihazınızda uygulamanın kendisi tarafından oluşturulan dosyalara erişecek şekilde sınırlar. Ortak çalışanlar olmadan yalnızca Google hesabınızdan senkronizasyon yapmayı planlıyorsanız bu seçeneği belirleyin. Şüpheniz varsa, bu seçeneği seçin, daha sonra fikrinizi kolayca değiştirebilirsiniz.",
+    "sync_option_google_drive_full_title": "Google Drive - tam erişim",
+    "sync_option_google_drive_full_description": "Bu, uygulamaya Google Drive'unuza tam erişim sağlar. Diğer Google hesaplarıyla ortak çalışmayı planlıyorsanız bu seçeneği belirleyin.",
+    "sync_data_volume_limit_mobile": "Mobil veri hacmi sınırı",
+    "sync_data_volume_limit_default": "Varsayılan veri hacmi sınırı",
+    "google_drive_web_auth_scope_change_error_message": "Google kimlik doğrulama akışındaki bazı sınırlamalar nedeniyle, web sayfasını yeniden yüklemediğiniz sürece farklı bir izin düzeyiyle (sınırlı erişim / tam erişim) kimlik doğrulaması yapmak mümkün değildir. Lütfen web tarayıcınızda yenileme işlemini gerçekleştirin ve tekrar deneyin.",
+    "cloud_auth_error_message": "Kimlik doğrulama başarısız oldu, lütfen tekrar deneyin.",
+    "message_sync_error_data_volume_limit2": "İzin verilen veri hacmi sınırını aştığı için eşitleme durduruldu. Limiti artırmak veya değiştirmek için ayarlara gidin.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

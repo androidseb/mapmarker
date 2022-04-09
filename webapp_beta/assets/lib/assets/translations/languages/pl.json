@@ -587,5 +587,14 @@
     "import_format_choice_question": "Jakiego formatu chcesz użyć do importu?",
     "map_file_summary_x_folders_x_markers": "%1$s foldery i %2$s znaczniki",
     "open_x": "Otwórz „%s”",
+    "sync_option_google_drive_limited_title": "Google Drive - ograniczony dostęp",
+    "sync_option_google_drive_limited_description": "Ogranicza to dostęp aplikacji tylko do plików utworzonych przez samą aplikację na urządzeniu Google Drive. Wybierz tę opcję, jeśli planujesz synchronizować tylko z konta Google bez współpracowników. Jeśli masz wątpliwości, wybierz tę opcję, później możesz łatwo zmienić zdanie.",
+    "sync_option_google_drive_full_title": "Google Drive - pełny dostęp",
+    "sync_option_google_drive_full_description": "Dzięki temu aplikacja ma pełny dostęp do urządzenia Google Drive. Wybierz tę opcję, jeśli planujesz współpracować z innymi kontami Google.",
+    "sync_data_volume_limit_mobile": "Limit ilości danych mobilnych",
+    "sync_data_volume_limit_default": "Domyślny limit ilości danych",
+    "google_drive_web_auth_scope_change_error_message": "Ze względu na pewne ograniczenia w przepływie uwierzytelniania Google nie jest możliwe uwierzytelnianie z innym poziomem uprawnień (ograniczony dostęp / pełny dostęp), chyba że ponownie załadujesz stronę internetową. Wykonaj akcję odświeżania w przeglądarce internetowej i spróbuj ponownie.",
+    "cloud_auth_error_message": "Uwierzytelnianie nie powiodło się, spróbuj ponownie.",
+    "message_sync_error_data_volume_limit2": "Synchronizacja została przerwana, ponieważ przekraczała dozwolony limit ilości danych. Aby zwiększyć lub zmienić limit, przejdź do ustawień.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -587,5 +587,14 @@
     "import_format_choice_question": "Kokį formatą norite naudoti importuodami?",
     "map_file_summary_x_folders_x_markers": "%1$s aplankai ir %2$s žymekliai",
     "open_x": "Atidaryti '%s'",
+    "sync_option_google_drive_limited_title": "Google Drive – ribota prieiga",
+    "sync_option_google_drive_limited_description": "Tai apriboja, kad programa galėtų pasiekti tik pačios programos sukurtus failus jūsų Google Drive. Pasirinkite šią parinktį, jei planuojate sinchronizuoti tik iš „Google“ paskyros be bendradarbių. Jei abejojate, pasirinkite šią parinktį, nes vėliau galėsite lengvai apsigalvoti.",
+    "sync_option_google_drive_full_title": "Google Drive – visa prieiga",
+    "sync_option_google_drive_full_description": "Tai suteikia programai visišką prieigą prie jūsų Google Drive. Pasirinkite šią parinktį, jei planuojate bendradarbiauti su kitomis „Google“ paskyromis.",
+    "sync_data_volume_limit_mobile": "Mobiliųjų duomenų apimties apribojimas",
+    "sync_data_volume_limit_default": "Numatytasis duomenų apimties apribojimas",
+    "google_drive_web_auth_scope_change_error_message": "Dėl kai kurių „Google“ autentifikavimo srauto apribojimų neįmanoma autentifikuoti naudojant kitą leidimo lygį (ribota prieiga / visa prieiga), nebent iš naujo įkeliate tinklalapį. Atlikite atnaujinimo veiksmą žiniatinklio naršyklėje ir bandykite dar kartą.",
+    "cloud_auth_error_message": "Autentifikavimas nepavyko, bandykite dar kartą.",
+    "message_sync_error_data_volume_limit2": "Sinchronizavimas buvo nutrauktas, nes buvo viršytas leistinas duomenų kiekis. Norėdami padidinti arba pakeisti limitą, eikite į nustatymus.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

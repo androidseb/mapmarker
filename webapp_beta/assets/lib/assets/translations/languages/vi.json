@@ -587,5 +587,14 @@
     "import_format_choice_question": "Bạn muốn sử dụng định dạng nào để nhập?",
     "map_file_summary_x_folders_x_markers": "%1$s thư mục và %2$s điểm đánh dấu",
     "open_x": "Mở '%s'",
+    "sync_option_google_drive_limited_title": "Google Drive - quyền truy cập hạn chế",
+    "sync_option_google_drive_limited_description": "Điều này giới hạn ứng dụng chỉ có thể truy cập các tệp do chính ứng dụng tạo trên Google Drive của bạn. Chọn tùy chọn này nếu bạn định chỉ đồng bộ hóa từ tài khoản Google của mình mà không cần cộng tác viên. Nếu nghi ngờ, hãy chọn tùy chọn này, bạn có thể dễ dàng thay đổi quyết định sau đó.",
+    "sync_option_google_drive_full_title": "Google Drive - toàn quyền truy cập",
+    "sync_option_google_drive_full_description": "Điều này cấp cho ứng dụng toàn quyền truy cập vào Google Drive của bạn. Chọn tùy chọn này nếu bạn định cộng tác với các tài khoản Google khác.",
+    "sync_data_volume_limit_mobile": "Giới hạn dung lượng dữ liệu di động",
+    "sync_data_volume_limit_default": "Giới hạn khối lượng dữ liệu mặc định",
+    "google_drive_web_auth_scope_change_error_message": "Do một số hạn chế trong quy trình xác thực của Google, bạn không thể xác thực với cấp độ quyền khác (quyền truy cập hạn chế / truy cập đầy đủ) trừ khi bạn tải lại trang web. Vui lòng thực hiện hành động làm mới trong trình duyệt web của bạn và thử lại.",
+    "cloud_auth_error_message": "Lỗi xảy ra trong quá trình xác thực. Xin thử lại lần nữa.",
+    "message_sync_error_data_volume_limit2": "Quá trình đồng bộ hóa đã bị hủy bỏ vì vượt quá giới hạn khối lượng dữ liệu cho phép. Để tăng hoặc thay đổi giới hạn, hãy chuyển đến cài đặt.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

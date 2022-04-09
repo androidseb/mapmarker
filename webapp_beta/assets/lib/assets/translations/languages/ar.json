@@ -587,5 +587,14 @@
     "import_format_choice_question": "ما هو التنسيق الذي تريد استخدامه للاستيراد؟",
     "map_file_summary_x_folders_x_markers": "%1$s مجلدات و %2$s علامات",
     "open_x": "فتح \"%s\"",
+    "sync_option_google_drive_limited_title": "Google Drive - وصول محدود",
+    "sync_option_google_drive_limited_description": "هذا يحد من التطبيق للوصول فقط إلى الملفات التي تم إنشاؤها بواسطة التطبيق نفسه على Google Drive. حدد هذا الخيار إذا كنت تخطط للمزامنة فقط من حساب Google الخاص بك بدون متعاونين. إذا كنت في شك ، فاختر هذا الخيار ، يمكنك بسهولة تغيير رأيك لاحقًا.",
+    "sync_option_google_drive_full_title": "Google Drive - الوصول الكامل",
+    "sync_option_google_drive_full_description": "يمنح هذا التطبيق حق الوصول الكامل إلى Google Drive. حدد هذا الخيار إذا كنت تخطط للتعاون مع حسابات Google الأخرى.",
+    "sync_data_volume_limit_mobile": "حد حجم بيانات الجوال",
+    "sync_data_volume_limit_default": "حد حجم البيانات الافتراضي",
+    "google_drive_web_auth_scope_change_error_message": "بسبب بعض القيود في تدفق مصادقة Google ، لا يمكن المصادقة بمستوى إذن مختلف (وصول محدود / وصول كامل) إلا إذا قمت بإعادة تحميل صفحة الويب. يرجى تنفيذ إجراء التحديث في متصفح الويب الخاص بك والمحاولة مرة أخرى.",
+    "cloud_auth_error_message": "فشل المصادقة. حاول مرة اخرى.",
+    "message_sync_error_data_volume_limit2": "تم إحباط المزامنة لأنها تجاوزت حد حجم البيانات المسموح به. لزيادة الحد أو تغييره ، انتقل إلى الإعدادات.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

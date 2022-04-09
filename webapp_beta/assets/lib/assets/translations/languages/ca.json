@@ -587,5 +587,14 @@
     "import_format_choice_question": "Quin format voleu utilitzar per importar?",
     "map_file_summary_x_folders_x_markers": "%1$s carpetes i %2$s marcadors",
     "open_x": "Obre '%s'",
+    "sync_option_google_drive_limited_title": "Google Drive - accés limitat",
+    "sync_option_google_drive_limited_description": "Això limita l'aplicació a accedir només als fitxers creats per l'aplicació mateixa al vostre Google Drive. Trieu aquesta opció si teniu previst sincronitzar només des del vostre compte de Google sense col·laboradors. En cas de dubte, trieu aquesta opció, podeu canviar d'opinió fàcilment més endavant.",
+    "sync_option_google_drive_full_title": "Google Drive - accés complet",
+    "sync_option_google_drive_full_description": "Això permet a l'aplicació accés complet al vostre Google Drive. Trieu aquesta opció si teniu previst col·laborar amb altres comptes de Google.",
+    "sync_data_volume_limit_mobile": "Límit de volum de dades mòbils",
+    "sync_data_volume_limit_default": "Límit de volum de dades per defecte",
+    "google_drive_web_auth_scope_change_error_message": "A causa d'algunes limitacions del flux d'autenticació de Google, no és possible autenticar-se amb un nivell de permís diferent (accés limitat/accés complet) tret que torneu a carregar la pàgina web. Realitzeu l'acció d'actualització al vostre navegador web i torneu-ho a provar.",
+    "cloud_auth_error_message": "L'autenticació ha fallat, si us plau, torna-ho a provar.",
+    "message_sync_error_data_volume_limit2": "La sincronització s'ha cancel·lat perquè superava el límit de volum de dades permès. Per augmentar o canviar el límit, aneu a la configuració.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

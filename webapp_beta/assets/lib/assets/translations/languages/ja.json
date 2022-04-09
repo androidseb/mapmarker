@@ -587,5 +587,14 @@
     "import_format_choice_question": "インポートに使用する形式は何ですか？",
     "map_file_summary_x_folders_x_markers": "%1$s個のフォルダーと%2$s個のマーカー",
     "open_x": "'%s'を開く",
+    "sync_option_google_drive_limited_title": "Google Drive-アクセスが制限されています",
+    "sync_option_google_drive_limited_description": "これにより、アプリはGoogle Driveでアプリ自体によって作成されたファイルにのみアクセスするように制限されます。共同編集者なしでGoogleアカウントからのみ同期する場合は、このオプションを選択してください。疑わしい場合は、このオプションを選択してください。後で簡単に気が変わる可能性があります。",
+    "sync_option_google_drive_full_title": "Google Drive-フルアクセス",
+    "sync_option_google_drive_full_description": "これにより、アプリにGoogle Driveへのフルアクセスが許可されます。他のGoogleアカウントとのコラボレーションを計画している場合は、このオプションを選択してください。",
+    "sync_data_volume_limit_mobile": "モバイルデータのボリューム制限",
+    "sync_data_volume_limit_default": "デフォルトのデータ量制限",
+    "google_drive_web_auth_scope_change_error_message": "Google認証フローにはいくつかの制限があるため、Webページをリロードしない限り、異なるアクセス許可レベル（制限付きアクセス/フルアクセス）で認証することはできません。 Webブラウザで更新アクションを実行して、再試行してください。",
+    "cloud_auth_error_message": "認証に失敗しました。もう一度やり直してください。",
+    "message_sync_error_data_volume_limit2": "許可されたデータ量の制限を超えていたため、同期は中止されました。制限を増減するには、設定に移動します。",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

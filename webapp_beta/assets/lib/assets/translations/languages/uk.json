@@ -587,5 +587,14 @@
     "import_format_choice_question": "Який формат ви хочете використовувати для імпорту?",
     "map_file_summary_x_folders_x_markers": "%1$s папки та %2$s маркери",
     "open_x": "Відкрити '%s'",
+    "sync_option_google_drive_limited_title": "Google Drive - обмежений доступ",
+    "sync_option_google_drive_limited_description": "Це обмежує програму доступом лише до файлів, створених самою програмою на вашому Google Drive. Виберіть цей варіант, якщо ви плануєте синхронізувати лише зі свого облікового запису Google без співавторів. Якщо ви сумніваєтеся, виберіть цей варіант, ви зможете легко змінити свою думку пізніше.",
+    "sync_option_google_drive_full_title": "Google Drive - повний доступ",
+    "sync_option_google_drive_full_description": "Це надає програмі повний доступ до вашого Google Drive. Виберіть цей варіант, якщо ви плануєте співпрацювати з іншими обліковими записами Google.",
+    "sync_data_volume_limit_mobile": "Обмеження обсягу мобільних даних",
+    "sync_data_volume_limit_default": "Обмеження обсягу даних за замовчуванням",
+    "google_drive_web_auth_scope_change_error_message": "Через деякі обмеження в процесі автентифікації Google неможливо пройти автентифікацію з іншим рівнем дозволу (обмежений доступ/повний доступ), якщо ви не перезавантажите веб-сторінку. Будь ласка, виконайте дію оновлення у своєму веб-переглядачі та повторіть спробу.",
+    "cloud_auth_error_message": "Помилка автентифікації, спробуйте ще раз.",
+    "message_sync_error_data_volume_limit2": "Синхронізацію було скасовано, оскільки вона перевищувала дозволений обсяг даних. Щоб збільшити або змінити ліміт, перейдіть до налаштувань.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

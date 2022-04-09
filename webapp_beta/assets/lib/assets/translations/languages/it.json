@@ -587,5 +587,14 @@
     "import_format_choice_question": "Che formato vuoi usare per importare?",
     "map_file_summary_x_folders_x_markers": "%1$s cartelle e %2$s pennarelli",
     "open_x": "Apri '%s'",
+    "sync_option_google_drive_limited_title": "Google Drive - accesso limitato",
+    "sync_option_google_drive_limited_description": "Ciò limita l'app ad accedere solo ai file creati dall'app stessa sul tuo Google Drive. Scegli questa opzione se prevedi di sincronizzare solo dal tuo account Google senza collaboratori. In caso di dubbio, scegli questa opzione, potrai facilmente cambiare idea in seguito.",
+    "sync_option_google_drive_full_title": "Google Drive - pieno accesso",
+    "sync_option_google_drive_full_description": "Ciò garantisce all'app l'accesso completo al tuo Google Drive. Scegli questa opzione se prevedi di collaborare con altri account Google.",
+    "sync_data_volume_limit_mobile": "Limite del volume di dati mobili",
+    "sync_data_volume_limit_default": "Limite del volume di dati predefinito",
+    "google_drive_web_auth_scope_change_error_message": "A causa di alcune limitazioni nel flusso di autenticazione di Google, non è possibile autenticarsi con un livello di autorizzazione diverso (accesso limitato/accesso completo) a meno che non si ricarichi la pagina web. Eseguire l'azione di aggiornamento nel browser Web e riprovare.",
+    "cloud_auth_error_message": "Autenticazione fallita. Per favore riprovare.",
+    "message_sync_error_data_volume_limit2": "La sincronizzazione è stata interrotta perché stava superando il limite del volume di dati consentito. Per aumentare o modificare il limite, vai alle impostazioni.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -587,5 +587,14 @@
     "import_format_choice_question": "Vilket format vill du använda för att importera?",
     "map_file_summary_x_folders_x_markers": "%1$s mappar och %2$s markörer",
     "open_x": "Öppna '%s'",
+    "sync_option_google_drive_limited_title": "Google Drive - begränsad åtkomst",
+    "sync_option_google_drive_limited_description": "Detta begränsar appen till att bara komma åt filer som skapats av appen själv på din Google Drive. Välj det här alternativet om du bara planerar att synkronisera från ditt Google-konto utan medarbetare. Om du är osäker, välj det här alternativet, du kan enkelt ändra dig senare.",
+    "sync_option_google_drive_full_title": "Google Drive - full åtkomst",
+    "sync_option_google_drive_full_description": "Detta ger appen full åtkomst till din Google Drive. Välj det här alternativet om du planerar att samarbeta med andra Google-konton.",
+    "sync_data_volume_limit_mobile": "Gräns för mobildatavolym",
+    "sync_data_volume_limit_default": "Standardgräns för datavolym",
+    "google_drive_web_auth_scope_change_error_message": "På grund av vissa begränsningar i Googles autentiseringsflöde är det inte möjligt att autentisera med en annan behörighetsnivå (begränsad åtkomst / full åtkomst) om du inte laddar om webbsidan. Utför uppdateringsåtgärden i din webbläsare och försök igen.",
+    "cloud_auth_error_message": "Autentiseringen misslyckades, försök igen.",
+    "message_sync_error_data_volume_limit2": "Synkroniseringen avbröts eftersom den överskred den tillåtna datavolymgränsen. För att öka eller ändra gränsen, gå till inställningarna.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

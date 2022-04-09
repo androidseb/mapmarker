@@ -587,5 +587,14 @@
     "import_format_choice_question": "Aký formát chcete použiť na import?",
     "map_file_summary_x_folders_x_markers": "%1$s priečinkov a %2$s značiek",
     "open_x": "Otvoriť '%s'",
+    "sync_option_google_drive_limited_title": "Google Drive - obmedzený prístup",
+    "sync_option_google_drive_limited_description": "To obmedzuje aplikáciu na prístup iba k súborom vytvoreným samotnou aplikáciou na vašom Google Drive. Túto možnosť vyberte, ak plánujete synchronizáciu iba zo svojho účtu Google bez spolupracovníkov. Ak máte pochybnosti, vyberte túto možnosť, neskôr môžete ľahko zmeniť názor.",
+    "sync_option_google_drive_full_title": "Google Drive - plný prístup",
+    "sync_option_google_drive_full_description": "To aplikácii poskytuje úplný prístup k vášmu Google Drive. Túto možnosť vyberte, ak plánujete spolupracovať s inými účtami Google.",
+    "sync_data_volume_limit_mobile": "Limit objemu mobilných dát",
+    "sync_data_volume_limit_default": "Predvolený limit objemu dát",
+    "google_drive_web_auth_scope_change_error_message": "Z dôvodu určitých obmedzení v procese overovania Google nie je možné overiť totožnosť s inou úrovňou povolenia (obmedzený prístup / úplný prístup), pokiaľ webovú stránku znova nenačítate. Vykonajte akciu obnovenia vo webovom prehliadači a skúste to znova.",
+    "cloud_auth_error_message": "Overenie zlyhalo, skúste to znova.",
+    "message_sync_error_data_volume_limit2": "Synchronizácia bola prerušená, pretože prekračovala povolený limit objemu dát. Ak chcete zvýšiť alebo zmeniť limit, prejdite do nastavení.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

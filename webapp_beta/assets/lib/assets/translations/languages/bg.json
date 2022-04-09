@@ -587,5 +587,14 @@
     "import_format_choice_question": "Какъв формат искате да използвате за импортиране?",
     "map_file_summary_x_folders_x_markers": "%1$s папки и %2$s маркера",
     "open_x": "Отворете '%s'",
+    "sync_option_google_drive_limited_title": "Google Drive - ограничен достъп",
+    "sync_option_google_drive_limited_description": "Това ограничава приложението само за достъп до файлове, създадени от самото приложение на вашия Google Drive. Изберете тази опция, ако планирате да синхронизирате само от вашия акаунт в Google без сътрудници. Ако се съмнявате, изберете тази опция, лесно можете да промените решението си по-късно.",
+    "sync_option_google_drive_full_title": "Google Drive - пълен достъп",
+    "sync_option_google_drive_full_description": "Това предоставя на приложението пълен достъп до вашия Google Drive. Изберете тази опция, ако планирате да си сътрудничите с други акаунти в Google.",
+    "sync_data_volume_limit_mobile": "Ограничение на обема на мобилните данни",
+    "sync_data_volume_limit_default": "Ограничение на обема на данните по подразбиране",
+    "google_drive_web_auth_scope_change_error_message": "Поради някои ограничения в потока за удостоверяване на Google, не е възможно да се удостоверите с различно ниво на разрешение (ограничен достъп / пълен достъп), освен ако не презаредите уеб страницата. Моля, извършете действието за опресняване във вашия уеб браузър и опитайте отново.",
+    "cloud_auth_error_message": "Удостоверяването не бе успешно, моля, опитайте отново.",
+    "message_sync_error_data_volume_limit2": "Синхронизирането бе прекратено, защото надвишава разрешения обем на данни. За да увеличите или промените лимита, отидете на настройките.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

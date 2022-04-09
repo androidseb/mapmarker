@@ -587,5 +587,14 @@
     "import_format_choice_question": "Ce format doriți să utilizați pentru a importa?",
     "map_file_summary_x_folders_x_markers": "%1$s foldere și %2$s marcatoare",
     "open_x": "Deschide „%s”",
+    "sync_option_google_drive_limited_title": "Google Drive - acces limitat",
+    "sync_option_google_drive_limited_description": "Acest lucru limitează aplicația să acceseze numai fișierele create de aplicația însăși pe Google Drive. Alegeți această opțiune dacă intenționați să sincronizați numai din contul dvs. Google fără colaboratori. Dacă aveți îndoieli, alegeți această opțiune, vă puteți răzgândi cu ușurință mai târziu.",
+    "sync_option_google_drive_full_title": "Google Drive - acces complet",
+    "sync_option_google_drive_full_description": "Acest lucru oferă aplicației acces deplin la Google Drive. Alegeți această opțiune dacă intenționați să colaborați cu alte conturi Google.",
+    "sync_data_volume_limit_mobile": "Limită de volum de date mobile",
+    "sync_data_volume_limit_default": "Limită implicită a volumului de date",
+    "google_drive_web_auth_scope_change_error_message": "Din cauza unor limitări ale fluxului de autentificare Google, nu este posibilă autentificarea cu un alt nivel de permisiune (acces limitat/acces complet) decât dacă reîncărcați pagina web. Efectuați acțiunea de reîmprospătare în browserul dvs. web și încercați din nou.",
+    "cloud_auth_error_message": "Autentificare esuata. Vă rugăm să încercați din nou.",
+    "message_sync_error_data_volume_limit2": "Sincronizarea a fost întreruptă deoarece depășea limita permisă pentru volumul de date. Pentru a crește sau modifica limita, accesați setările.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

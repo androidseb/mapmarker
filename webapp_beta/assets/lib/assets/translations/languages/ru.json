@@ -587,5 +587,14 @@
     "import_format_choice_question": "Какой формат вы хотите использовать для импорта?",
     "map_file_summary_x_folders_x_markers": "%1$s папки и %2$s маркера",
     "open_x": "Откройте \"%s\"",
+    "sync_option_google_drive_limited_title": "Google Drive - ограниченный доступ",
+    "sync_option_google_drive_limited_description": "Это ограничивает доступ приложения только к файлам, созданным самим приложением на вашем Google Drive. Выберите этот вариант, если вы планируете синхронизировать только из своей учетной записи Google без соавторов. Если вы сомневаетесь, выберите этот вариант, вы можете легко передумать позже.",
+    "sync_option_google_drive_full_title": "Google Drive - полный доступ",
+    "sync_option_google_drive_full_description": "Это предоставляет приложению полный доступ к вашему Google Drive. Выберите этот вариант, если вы планируете сотрудничать с другими учетными записями Google.",
+    "sync_data_volume_limit_mobile": "Ограничение объема мобильных данных",
+    "sync_data_volume_limit_default": "Ограничение объема данных по умолчанию",
+    "google_drive_web_auth_scope_change_error_message": "Из-за некоторых ограничений в процессе аутентификации Google невозможно пройти аутентификацию с другим уровнем разрешений (ограниченный доступ/полный доступ), если вы не перезагрузите веб-страницу. Пожалуйста, выполните действие обновления в веб-браузере и повторите попытку.",
+    "cloud_auth_error_message": "Ошибка авторизации. Пожалуйста, повторите.",
+    "message_sync_error_data_volume_limit2": "Синхронизация была прервана из-за превышения допустимого предела объема данных. Чтобы увеличить или изменить лимит, перейдите в настройки.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

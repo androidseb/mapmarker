@@ -587,5 +587,14 @@
     "import_format_choice_question": "Koji format želite koristiti za uvoz?",
     "map_file_summary_x_folders_x_markers": "%1$s mape i %2$s markera",
     "open_x": "Otvori '%s'",
+    "sync_option_google_drive_limited_title": "Google Drive - ograničen pristup",
+    "sync_option_google_drive_limited_description": "Ovo ograničava aplikaciju na pristup samo datotekama koje je kreirala sama aplikacija na vašem Google Drive. Odaberite ovu opciju ako namjeravate sinkronizirati samo sa svog Google računa bez suradnika. Ako ste u nedoumici, odaberite ovu opciju, kasnije se lako možete predomisliti.",
+    "sync_option_google_drive_full_title": "Google Drive - puni pristup",
+    "sync_option_google_drive_full_description": "Ovo aplikaciji daje puni pristup vašem Google Drive. Odaberite ovu opciju ako namjeravate surađivati s drugim Google računima.",
+    "sync_data_volume_limit_mobile": "Ograničenje količine mobilnih podataka",
+    "sync_data_volume_limit_default": "Zadano ograničenje količine podataka",
+    "google_drive_web_auth_scope_change_error_message": "Zbog nekih ograničenja u tijeku Google autentifikacije, nije moguće izvršiti autentifikaciju s drugom razinom dopuštenja (ograničeni pristup / puni pristup) osim ako ponovno učitate web-stranicu. Molimo izvršite radnju osvježavanja u svom web pregledniku i pokušajte ponovno.",
+    "cloud_auth_error_message": "Autentifikacija nije uspjela, pokušajte ponovno.",
+    "message_sync_error_data_volume_limit2": "Sinkronizacija je prekinuta jer je premašila ograničenje dopuštenog volumena podataka. Za povećanje ili promjenu ograničenja idite na postavke.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

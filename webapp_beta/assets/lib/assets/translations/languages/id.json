@@ -587,5 +587,14 @@
     "import_format_choice_question": "Format apa yang ingin Anda gunakan untuk mengimpor?",
     "map_file_summary_x_folders_x_markers": "%1$s folder dan %2$s penanda",
     "open_x": "Buka '%s'",
+    "sync_option_google_drive_limited_title": "Google Drive - akses terbatas",
+    "sync_option_google_drive_limited_description": "Ini membatasi aplikasi untuk hanya mengakses file yang dibuat oleh aplikasi itu sendiri di Google Drive. Pilih opsi ini jika Anda berencana untuk menyinkronkan hanya dari akun Google Anda tanpa kolaborator. Jika ragu, pilih opsi ini, Anda dapat dengan mudah berubah pikiran nanti.",
+    "sync_option_google_drive_full_title": "Google Drive - akses penuh",
+    "sync_option_google_drive_full_description": "Ini memberi aplikasi akses penuh ke Google Drive. Pilih opsi ini jika Anda berencana untuk berkolaborasi dengan akun Google lainnya.",
+    "sync_data_volume_limit_mobile": "Batas volume data seluler",
+    "sync_data_volume_limit_default": "Batas volume data default",
+    "google_drive_web_auth_scope_change_error_message": "Karena beberapa batasan dalam alur autentikasi Google, autentikasi dengan tingkat izin yang berbeda (akses terbatas/akses penuh) tidak mungkin dilakukan kecuali Anda memuat ulang halaman web. Harap lakukan tindakan penyegaran di browser web Anda dan coba lagi.",
+    "cloud_auth_error_message": "Autentikasi gagal, harap coba lagi.",
+    "message_sync_error_data_volume_limit2": "Sinkronisasi dibatalkan karena melebihi batas volume data yang diizinkan. Untuk menambah atau mengubah batas, buka pengaturan.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

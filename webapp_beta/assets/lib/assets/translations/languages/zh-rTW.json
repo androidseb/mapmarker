@@ -587,5 +587,14 @@
     "import_format_choice_question": "你想用什麼格式導入？",
     "map_file_summary_x_folders_x_markers": "%1$s 個文件夾和 %2$s 個標記",
     "open_x": "打開'%s'",
+    "sync_option_google_drive_limited_title": "Google Drive - 受限訪問",
+    "sync_option_google_drive_limited_description": "這將應用程序限制為僅訪問應用程序本身在您的 Google Drive 上創建的文件。如果您打算僅從您的 Google 帳戶同步，而沒有合作者，請選擇此選項。如果有疑問，請選擇此選項，您以後可以輕鬆改變主意。",
+    "sync_option_google_drive_full_title": "Google Drive - 完全訪問",
+    "sync_option_google_drive_full_description": "這將授予應用程序對您的 Google Drive 的完全訪問權限。如果您計劃與其他 Google 帳戶協作，請選擇此選項。",
+    "sync_data_volume_limit_mobile": "移動數據量限制",
+    "sync_data_volume_limit_default": "默認數據量限制",
+    "google_drive_web_auth_scope_change_error_message": "由於 Google 身份驗證流程中的一些限制，除非您重新加載網頁，否則無法使用不同的權限級別（受限訪問/完全訪問）進行身份驗證。請在您的網絡瀏覽器中執行刷新操作，然後重試。",
+    "cloud_auth_error_message": "身份驗證失敗，請重試。",
+    "message_sync_error_data_volume_limit2": "同步已中止，因為它超出了允許的數據量限制。要增加或更改限制，請轉到設置。",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

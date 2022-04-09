@@ -587,5 +587,14 @@
     "import_format_choice_question": "Mitä muotoa haluat käyttää tuontiin?",
     "map_file_summary_x_folders_x_markers": "%1$s kansiota ja %2$s merkkiä",
     "open_x": "Avaa '%s'",
+    "sync_option_google_drive_limited_title": "Google Drive - rajoitettu pääsy",
+    "sync_option_google_drive_limited_description": "Tämä rajoittaa sovelluksen pääsyn vain sovelluksen itsensä luomiin tiedostoihin Google Drive-laitteellasi. Valitse tämä vaihtoehto, jos aiot synkronoida vain Google-tililtäsi ilman yhteistyökumppaneita. Jos olet epävarma, valitse tämä vaihtoehto, voit helposti muuttaa mieltäsi myöhemmin.",
+    "sync_option_google_drive_full_title": "Google Drive - täysi käyttöoikeus",
+    "sync_option_google_drive_full_description": "Tämä antaa sovellukselle täyden pääsyn laitteeseesi Google Drive. Valitse tämä vaihtoehto, jos aiot tehdä yhteistyötä muiden Google-tilien kanssa.",
+    "sync_data_volume_limit_mobile": "Mobiilidatan määrärajoitus",
+    "sync_data_volume_limit_default": "Tietojen oletusmäärän rajoitus",
+    "google_drive_web_auth_scope_change_error_message": "Joidenkin Googlen todennusprosessin rajoitusten vuoksi ei ole mahdollista todentaa eri käyttöoikeustasoilla (rajoitettu käyttöoikeus / täysi käyttöoikeus), ellet lataa verkkosivua uudelleen. Suorita päivitystoiminto verkkoselaimessa ja yritä uudelleen.",
+    "cloud_auth_error_message": "Varmistus epäonnistui. Ole hyvä ja yritä uudelleen.",
+    "message_sync_error_data_volume_limit2": "Synkronointi keskeytettiin, koska se ylitti sallitun datamäärän rajan. Voit suurentaa tai muuttaa rajaa siirtymällä asetuksiin.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

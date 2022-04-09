@@ -587,5 +587,14 @@
     "import_format_choice_question": "Kateri format želite uporabiti za uvoz?",
     "map_file_summary_x_folders_x_markers": "%1$s mape in %2$s oznake",
     "open_x": "Odpri '%s'",
+    "sync_option_google_drive_limited_title": "Google Drive - omejen dostop",
+    "sync_option_google_drive_limited_description": "To omejuje aplikacijo na dostop samo do datotek, ki jih je ustvarila sama aplikacija na vašem Google Drive. Izberite to možnost, če nameravate sinhronizirati samo iz svojega Google Računa brez sodelavcev. Če ste v dvomih, izberite to možnost, kasneje si boste zlahka premislili.",
+    "sync_option_google_drive_full_title": "Google Drive - popoln dostop",
+    "sync_option_google_drive_full_description": "To aplikaciji omogoči popoln dostop do vašega Google Drive. Izberite to možnost, če nameravate sodelovati z drugimi Google Računi.",
+    "sync_data_volume_limit_mobile": "Omejitev količine mobilnih podatkov",
+    "sync_data_volume_limit_default": "Privzeta omejitev količine podatkov",
+    "google_drive_web_auth_scope_change_error_message": "Zaradi nekaterih omejitev v Googlovem toku preverjanja pristnosti ni mogoče preveriti pristnosti z drugačno ravnjo dovoljenja (omejen dostop/poln dostop), razen če znova naložite spletno stran. Prosimo, izvedite dejanje osvežitve v svojem spletnem brskalniku in poskusite znova.",
+    "cloud_auth_error_message": "Preverjanje pristnosti ni uspelo, poskusite znova.",
+    "message_sync_error_data_volume_limit2": "Sinhronizacija je bila prekinjena, ker je presegla dovoljeno količino podatkov. Če želite povečati ali spremeniti omejitev, pojdite v nastavitve.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

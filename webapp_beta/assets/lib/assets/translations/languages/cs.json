@@ -587,5 +587,14 @@
     "import_format_choice_question": "Jaký formát chcete použít pro import?",
     "map_file_summary_x_folders_x_markers": "%1$s složek a %2$s značek",
     "open_x": "Otevřít '%s'",
+    "sync_option_google_drive_limited_title": "Google Drive - omezený přístup",
+    "sync_option_google_drive_limited_description": "To omezuje aplikaci na přístup pouze k souborům vytvořeným samotnou aplikací na vašem Google Drive. Tuto možnost vyberte, pokud plánujete synchronizaci pouze ze svého účtu Google bez spolupracovníků. Pokud máte pochybnosti, vyberte tuto možnost, později můžete snadno změnit názor.",
+    "sync_option_google_drive_full_title": "Google Drive - plný přístup",
+    "sync_option_google_drive_full_description": "To aplikaci poskytuje plný přístup k vašemu Google Drive. Tuto možnost vyberte, pokud plánujete spolupracovat s jinými účty Google.",
+    "sync_data_volume_limit_mobile": "Limit objemu mobilních dat",
+    "sync_data_volume_limit_default": "Výchozí limit objemu dat",
+    "google_drive_web_auth_scope_change_error_message": "Kvůli určitým omezením v procesu ověřování Google není možné provést ověření s jinou úrovní oprávnění (omezený přístup / plný přístup), pokud webovou stránku znovu nenačtete. Proveďte akci obnovení ve svém webovém prohlížeči a zkuste to znovu.",
+    "cloud_auth_error_message": "Ověření se nezdařilo. Prosím zkuste to znovu.",
+    "message_sync_error_data_volume_limit2": "Synchronizace byla přerušena, protože překračovala povolený limit objemu dat. Chcete-li zvýšit nebo změnit limit, přejděte do nastavení.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

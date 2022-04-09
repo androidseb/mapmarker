@@ -587,5 +587,14 @@
     "import_format_choice_question": "คุณต้องการใช้รูปแบบใดในการนำเข้า",
     "map_file_summary_x_folders_x_markers": "%1$s โฟลเดอร์และ %2$s เครื่องหมาย",
     "open_x": "เปิด '%s'",
+    "sync_option_google_drive_limited_title": "Google Drive - จำกัดการเข้าถึง",
+    "sync_option_google_drive_limited_description": "สิ่งนี้จำกัดให้แอปเข้าถึงได้เฉพาะไฟล์ที่สร้างโดยแอปเองใน Google Drive ของคุณ เลือกตัวเลือกนี้หากคุณวางแผนที่จะซิงค์เฉพาะจากบัญชี Google ของคุณโดยไม่มีผู้ทำงานร่วมกัน หากไม่แน่ใจ ให้เลือกตัวเลือกนี้ คุณสามารถเปลี่ยนใจในภายหลังได้อย่างง่ายดาย",
+    "sync_option_google_drive_full_title": "Google Drive - การเข้าถึงแบบเต็ม",
+    "sync_option_google_drive_full_description": "สิ่งนี้ทำให้แอปเข้าถึง Google Drive ของคุณได้อย่างเต็มที่ เลือกตัวเลือกนี้หากคุณวางแผนที่จะทำงานร่วมกับบัญชี Google อื่นๆ",
+    "sync_data_volume_limit_mobile": "ขีด จำกัด ปริมาณข้อมูลมือถือ",
+    "sync_data_volume_limit_default": "ขีดจำกัดปริมาณข้อมูลเริ่มต้น",
+    "google_drive_web_auth_scope_change_error_message": "เนื่องจากข้อจำกัดบางประการในกระบวนการตรวจสอบสิทธิ์ของ Google จึงเป็นไปไม่ได้ที่จะตรวจสอบสิทธิ์ด้วยระดับการอนุญาตอื่น (การเข้าถึงแบบจำกัด / การเข้าถึงแบบเต็ม) เว้นแต่คุณจะโหลดหน้าเว็บซ้ำ โปรดดำเนินการรีเฟรชในเว็บเบราว์เซอร์ของคุณและลองอีกครั้ง",
+    "cloud_auth_error_message": "การตรวจสอบสิทธิ์ล้มเหลว โปรดลองอีกครั้ง",
+    "message_sync_error_data_volume_limit2": "การซิงค์ถูกยกเลิกเนื่องจากเกินขีดจำกัดปริมาณข้อมูลที่อนุญาต หากต้องการเพิ่มหรือเปลี่ยนขีดจำกัด ให้ไปที่การตั้งค่า",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -587,5 +587,14 @@
     "import_format_choice_question": "באיזה פורמט אתה רוצה להשתמש כדי לייבא?",
     "map_file_summary_x_folders_x_markers": "%1$s תיקיות ו-%2$s סמנים",
     "open_x": "פתח את '%s'",
+    "sync_option_google_drive_limited_title": "Google Drive - גישה מוגבלת",
+    "sync_option_google_drive_limited_description": "זה מגביל את האפליקציה לגישה רק לקבצים שנוצרו על ידי האפליקציה עצמה ב-Google Drive שלך. בחר באפשרות זו אם אתה מתכנן לסנכרן רק מחשבון Google שלך ללא שותפי עריכה. אם יש לך ספק, בחר באפשרות זו, תוכל לשנות את דעתך בקלות מאוחר יותר.",
+    "sync_option_google_drive_full_title": "Google Drive - גישה מלאה",
+    "sync_option_google_drive_full_description": "זה מעניק לאפליקציה גישה מלאה ל-Google Drive שלך. בחר באפשרות זו אם אתה מתכנן לשתף פעולה עם חשבונות Google אחרים.",
+    "sync_data_volume_limit_mobile": "מגבלת נפח נתונים לנייד",
+    "sync_data_volume_limit_default": "מגבלת ברירת המחדל של נפח הנתונים",
+    "google_drive_web_auth_scope_change_error_message": "בגלל כמה מגבלות בזרימת האימות של Google, לא ניתן לבצע אימות ברמת הרשאה אחרת (גישה מוגבלת / גישה מלאה) אלא אם כן אתה טוען מחדש את דף האינטרנט. אנא בצע את פעולת הרענון בדפדפן האינטרנט שלך ונסה שוב.",
+    "cloud_auth_error_message": "האימות נכשל, אנא נסה שוב.",
+    "message_sync_error_data_volume_limit2": "הסנכרון בוטל מכיוון שהוא חרג ממגבלת נפח הנתונים המותרת. כדי להגדיל או לשנות את המגבלה, עבור אל ההגדרות.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

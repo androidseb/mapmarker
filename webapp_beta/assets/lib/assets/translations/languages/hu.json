@@ -587,5 +587,14 @@
     "import_format_choice_question": "Milyen formátumot szeretne használni az importáláshoz?",
     "map_file_summary_x_folders_x_markers": "%1$s mappa és %2$s jelölő",
     "open_x": "'%s' megnyitása",
+    "sync_option_google_drive_limited_title": "Google Drive - korlátozott hozzáférés",
+    "sync_option_google_drive_limited_description": "Ez azt korlátozza, hogy az alkalmazás csak olyan fájlokhoz férhessen hozzá, amelyeket maga az alkalmazás hozott létre a Google Drive-en. Válassza ezt a lehetőséget, ha csak a Google-fiókjából kíván szinkronizálni együttműködők nélkül. Ha kétségei vannak, válassza ezt a lehetőséget, mert később könnyen meggondolhatja magát.",
+    "sync_option_google_drive_full_title": "Google Drive - teljes hozzáférés",
+    "sync_option_google_drive_full_description": "Ezzel az alkalmazás teljes hozzáférést biztosít a Google Drive. Válassza ezt a lehetőséget, ha más Google-fiókokkal kíván együttműködni.",
+    "sync_data_volume_limit_mobile": "Mobil adatmennyiség korlát",
+    "sync_data_volume_limit_default": "Alapértelmezett adatmennyiség-korlát",
+    "google_drive_web_auth_scope_change_error_message": "A Google hitelesítési folyamatának bizonyos korlátai miatt nem lehetséges más engedélyszinttel (korlátozott hozzáférés / teljes hozzáférés) hitelesíteni, hacsak nem tölti be újra a weboldalt. Kérjük, hajtsa végre a frissítést a böngészőjében, és próbálja újra.",
+    "cloud_auth_error_message": "Sikertelen azonosítás. Kérlek próbáld újra.",
+    "message_sync_error_data_volume_limit2": "A szinkronizálás megszakadt, mert túllépte a megengedett adatmennyiség-korlátot. A korlát növeléséhez vagy módosításához lépjen a beállításokhoz.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

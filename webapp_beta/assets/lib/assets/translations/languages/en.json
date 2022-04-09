@@ -587,5 +587,14 @@
     "import_format_choice_question": "What format to you want to use to import?",
     "map_file_summary_x_folders_x_markers": "%1$s folders and %2$s markers",
     "open_x": "Open '%s'",
+    "sync_option_google_drive_limited_title": "Google Drive - limited access",
+    "sync_option_google_drive_limited_description": "This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.",
+    "sync_option_google_drive_full_title": "Google Drive - full access",
+    "sync_option_google_drive_full_description": "This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.",
+    "sync_data_volume_limit_mobile": "Mobile data volume limit",
+    "sync_data_volume_limit_default": "Default data volume limit",
+    "google_drive_web_auth_scope_change_error_message": "Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.",
+    "cloud_auth_error_message": "Authentication failed, please try again.",
+    "message_sync_error_data_volume_limit2": "The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

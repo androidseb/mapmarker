@@ -587,5 +587,14 @@
     "import_format_choice_question": "Kādu formātu vēlaties izmantot importēšanai?",
     "map_file_summary_x_folders_x_markers": "%1$s mapes un %2$s marķieri",
     "open_x": "Atvērt '%s'",
+    "sync_option_google_drive_limited_title": "Google Drive - ierobežota piekļuve",
+    "sync_option_google_drive_limited_description": "Tādējādi lietotne var piekļūt tikai tiem failiem, kurus jūsu Google Drive ir izveidojusi pati lietotne. Izvēlieties šo opciju, ja plānojat sinhronizēt tikai no sava Google konta bez līdzstrādniekiem. Ja rodas šaubas, izvēlieties šo opciju, jo vēlāk varēsiet viegli pārdomāt.",
+    "sync_option_google_drive_full_title": "Google Drive - pilna piekļuve",
+    "sync_option_google_drive_full_description": "Tādējādi lietotnei tiek piešķirta pilnīga piekļuve jūsu Google Drive. Izvēlieties šo opciju, ja plānojat sadarboties ar citiem Google kontiem.",
+    "sync_data_volume_limit_mobile": "Mobilo datu apjoma ierobežojums",
+    "sync_data_volume_limit_default": "Noklusējuma datu apjoma ierobežojums",
+    "google_drive_web_auth_scope_change_error_message": "Dažu Google autentifikācijas plūsmas ierobežojumu dēļ nav iespējams autentificēties ar citu atļauju līmeni (ierobežota piekļuve/pilna piekļuve), ja vien atkārtoti neielādējat tīmekļa lapu. Lūdzu, veiciet atsvaidzināšanas darbību savā tīmekļa pārlūkprogrammā un mēģiniet vēlreiz.",
+    "cloud_auth_error_message": "Autentifikācija neizdevās. Lūdzu, mēģiniet vēlreiz.",
+    "message_sync_error_data_volume_limit2": "Sinhronizācija tika pārtraukta, jo tika pārsniegts atļautais datu apjoma ierobežojums. Lai palielinātu vai mainītu ierobežojumu, dodieties uz iestatījumiem.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
