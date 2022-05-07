@@ -596,5 +596,9 @@
     "google_drive_web_auth_scope_change_error_message": "En raison de limitations dans le processus d'autentification de Google, il n'est pas possible de s'authentifier avec un niveau de permissions différent (accès limité / accès complet) sans recharger la page web. Veuillez effectuer l'action de rafraichissement dans votre navigateur et essayez de nouveau.",
     "cloud_auth_error_message": "Authentification échouée, veuillez réessayer.",
     "message_sync_error_data_volume_limit2": "La sync a été interrompue car elle dépassait la limite du volume de données autorisée. Pour augmenter ou modifier la limite, allez dans les réglages.",
+    "sync_option_dropbox_limited_title": "Dropbox - accès limitéaccess",
+    "sync_option_dropbox_limited_description": "Ceci limite l'accès de l'application au dossier dédié à l'application par Dropbox. Dans le doute, choisissez cette option, vous pouvez facilement changer d'avis plus tard.",
+    "sync_option_dropbox_full_title": "Dropbox - accès complet",
+    "sync_option_dropbox_full_description": "Ceci donne à l'application un accès complet à votre Dropbox. Choisissez cette option si vous voulez que l'application aie accès à l'intégralité des fichiers de votre Dropbox.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

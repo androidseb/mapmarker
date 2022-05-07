@@ -596,5 +596,9 @@
     "google_drive_web_auth_scope_change_error_message": "Google प्रमाणीकरण प्रवाह में कुछ सीमाओं के कारण, जब तक आप वेब पृष्ठ को पुनः लोड नहीं करते, तब तक किसी भिन्न अनुमति स्तर (सीमित पहुंच/पूर्ण पहुंच) के साथ प्रमाणित करना संभव नहीं है। कृपया अपने वेब ब्राउज़र में रीफ़्रेश क्रिया करें और पुनः प्रयास करें।",
     "cloud_auth_error_message": "प्रमाणीकरण विफल। पुन: प्रयास करें।",
     "message_sync_error_data_volume_limit2": "समन्वयन निरस्त कर दिया गया था क्योंकि यह अनुमत डेटा मात्रा सीमा से अधिक था। लिमिट बढ़ाने या बदलने के लिए सेटिंग्स में जाएं।",
+    "sync_option_dropbox_limited_title": "Dropbox - सीमित पहुंच",
+    "sync_option_dropbox_limited_description": "यह ऐप को केवल ऐप-समर्पित Dropbox फ़ोल्डर तक पहुंचने के लिए सीमित करता है। यदि संदेह है, तो इस विकल्प को चुनें, आप बाद में आसानी से अपना विचार बदल सकते हैं।",
+    "sync_option_dropbox_full_title": "Dropbox - पूर्ण पहुंच",
+    "sync_option_dropbox_full_description": "यह ऐप को आपके Dropbox तक पूर्ण पहुंच प्रदान करता है। इस विकल्प को चुनें यदि आप चाहते हैं कि ऐप आपके संपूर्ण Dropbox.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

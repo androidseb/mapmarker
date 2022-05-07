@@ -596,5 +596,9 @@
     "google_drive_web_auth_scope_change_error_message": "Joidenkin Googlen todennusprosessin rajoitusten vuoksi ei ole mahdollista todentaa eri käyttöoikeustasoilla (rajoitettu käyttöoikeus / täysi käyttöoikeus), ellet lataa verkkosivua uudelleen. Suorita päivitystoiminto verkkoselaimessa ja yritä uudelleen.",
     "cloud_auth_error_message": "Varmistus epäonnistui. Ole hyvä ja yritä uudelleen.",
     "message_sync_error_data_volume_limit2": "Synkronointi keskeytettiin, koska se ylitti sallitun datamäärän rajan. Voit suurentaa tai muuttaa rajaa siirtymällä asetuksiin.",
+    "sync_option_dropbox_limited_title": "Dropbox - rajoitettu pääsy",
+    "sync_option_dropbox_limited_description": "Tämä rajoittaa sovelluksen pääsyn vain sovellukselle omistettuun Dropbox-kansioon. Jos olet epävarma, valitse tämä vaihtoehto, voit helposti muuttaa mieltäsi myöhemmin.",
+    "sync_option_dropbox_full_title": "Dropbox - täysi pääsy",
+    "sync_option_dropbox_full_description": "Tämä antaa sovellukselle täyden pääsyn laitteeseesi Dropbox. Valitse tämä vaihtoehto, jos haluat sovelluksen etsivän tiedostoja koko Dropbox:stäsi.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

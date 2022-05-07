@@ -596,5 +596,9 @@
     "google_drive_web_auth_scope_change_error_message": "På grund af nogle begrænsninger i Google-godkendelsesflowet er det ikke muligt at godkende med et andet tilladelsesniveau (begrænset adgang / fuld adgang), medmindre du genindlæser websiden. Udfør venligst opdateringshandlingen i din webbrowser, og prøv igen.",
     "cloud_auth_error_message": "Godkendelse mislykkedes. Prøv venligst igen.",
     "message_sync_error_data_volume_limit2": "Synkroniseringen blev afbrudt, fordi den overskred den tilladte datavolumengrænse. Gå til indstillingerne for at øge eller ændre grænsen.",
+    "sync_option_dropbox_limited_title": "Dropbox - begrænset adgang",
+    "sync_option_dropbox_limited_description": "Dette begrænser appen til kun at få adgang til en app-dedikeret Dropbox-mappe. Hvis du er i tvivl, så vælg denne mulighed, du kan nemt ændre mening senere.",
+    "sync_option_dropbox_full_title": "Dropbox - fuld adgang",
+    "sync_option_dropbox_full_description": "Dette giver appen fuld adgang til din Dropbox. Vælg denne mulighed, hvis du ønsker, at appen skal finde filer i hele din Dropbox.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

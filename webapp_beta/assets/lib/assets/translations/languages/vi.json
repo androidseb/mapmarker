@@ -596,5 +596,9 @@
     "google_drive_web_auth_scope_change_error_message": "Do một số hạn chế trong quy trình xác thực của Google, bạn không thể xác thực với cấp độ quyền khác (quyền truy cập hạn chế / truy cập đầy đủ) trừ khi bạn tải lại trang web. Vui lòng thực hiện hành động làm mới trong trình duyệt web của bạn và thử lại.",
     "cloud_auth_error_message": "Lỗi xảy ra trong quá trình xác thực. Xin thử lại lần nữa.",
     "message_sync_error_data_volume_limit2": "Quá trình đồng bộ hóa đã bị hủy bỏ vì vượt quá giới hạn khối lượng dữ liệu cho phép. Để tăng hoặc thay đổi giới hạn, hãy chuyển đến cài đặt.",
+    "sync_option_dropbox_limited_title": "Dropbox - truy cập hạn chế",
+    "sync_option_dropbox_limited_description": "Điều này giới hạn ứng dụng chỉ có thể truy cập vào thư mục Dropbox dành riêng cho ứng dụng. Nếu nghi ngờ, hãy chọn tùy chọn này, bạn có thể dễ dàng thay đổi quyết định sau đó.",
+    "sync_option_dropbox_full_title": "Dropbox - toàn quyền truy cập",
+    "sync_option_dropbox_full_description": "Điều này cấp cho ứng dụng đầy đủ quyền truy cập vào Dropbox của bạn. Chọn tùy chọn này nếu bạn muốn ứng dụng tìm các tệp trong toàn bộ Dropbox của bạn.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

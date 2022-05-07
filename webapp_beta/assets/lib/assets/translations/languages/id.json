@@ -596,5 +596,9 @@
     "google_drive_web_auth_scope_change_error_message": "Karena beberapa batasan dalam alur autentikasi Google, autentikasi dengan tingkat izin yang berbeda (akses terbatas/akses penuh) tidak mungkin dilakukan kecuali Anda memuat ulang halaman web. Harap lakukan tindakan penyegaran di browser web Anda dan coba lagi.",
     "cloud_auth_error_message": "Autentikasi gagal, harap coba lagi.",
     "message_sync_error_data_volume_limit2": "Sinkronisasi dibatalkan karena melebihi batas volume data yang diizinkan. Untuk menambah atau mengubah batas, buka pengaturan.",
+    "sync_option_dropbox_limited_title": "Dropbox - akses terbatas",
+    "sync_option_dropbox_limited_description": "Ini membatasi aplikasi untuk hanya mengakses folder Dropbox khusus aplikasi. Jika ragu, pilih opsi ini, Anda dapat dengan mudah berubah pikiran nanti.",
+    "sync_option_dropbox_full_title": "Dropbox - akses penuh",
+    "sync_option_dropbox_full_description": "Ini memberi aplikasi akses penuh ke Dropbox. Pilih opsi ini jika Anda ingin aplikasi menemukan file di seluruh Dropbox.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

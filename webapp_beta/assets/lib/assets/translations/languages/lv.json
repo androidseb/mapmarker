@@ -596,5 +596,9 @@
     "google_drive_web_auth_scope_change_error_message": "Dažu Google autentifikācijas plūsmas ierobežojumu dēļ nav iespējams autentificēties ar citu atļauju līmeni (ierobežota piekļuve/pilna piekļuve), ja vien atkārtoti neielādējat tīmekļa lapu. Lūdzu, veiciet atsvaidzināšanas darbību savā tīmekļa pārlūkprogrammā un mēģiniet vēlreiz.",
     "cloud_auth_error_message": "Autentifikācija neizdevās. Lūdzu, mēģiniet vēlreiz.",
     "message_sync_error_data_volume_limit2": "Sinhronizācija tika pārtraukta, jo tika pārsniegts atļautais datu apjoma ierobežojums. Lai palielinātu vai mainītu ierobežojumu, dodieties uz iestatījumiem.",
+    "sync_option_dropbox_limited_title": "Dropbox - ierobežota piekļuve",
+    "sync_option_dropbox_limited_description": "Tādējādi lietotne var piekļūt tikai lietotnei paredzētai mapei Dropbox. Ja rodas šaubas, izvēlieties šo opciju, jo vēlāk varēsiet viegli pārdomāt.",
+    "sync_option_dropbox_full_title": "Dropbox - pilna piekļuve",
+    "sync_option_dropbox_full_description": "Tādējādi lietotnei tiek piešķirta pilnīga piekļuve jūsu Dropbox. Izvēlieties šo opciju, ja vēlaties, lai lietotne atrastu failus visā jūsu Dropbox.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -596,5 +596,9 @@
     "google_drive_web_auth_scope_change_error_message": "בגלל כמה מגבלות בזרימת האימות של Google, לא ניתן לבצע אימות ברמת הרשאה אחרת (גישה מוגבלת / גישה מלאה) אלא אם כן אתה טוען מחדש את דף האינטרנט. אנא בצע את פעולת הרענון בדפדפן האינטרנט שלך ונסה שוב.",
     "cloud_auth_error_message": "האימות נכשל, אנא נסה שוב.",
     "message_sync_error_data_volume_limit2": "הסנכרון בוטל מכיוון שהוא חרג ממגבלת נפח הנתונים המותרת. כדי להגדיל או לשנות את המגבלה, עבור אל ההגדרות.",
+    "sync_option_dropbox_limited_title": "Dropbox - גישה מוגבלת",
+    "sync_option_dropbox_limited_description": "זה מגביל את האפליקציה לגישה רק לתיקיית Dropbox ייעודית לאפליקציה. אם יש לך ספק, בחר באפשרות זו, תוכל לשנות את דעתך בקלות מאוחר יותר.",
+    "sync_option_dropbox_full_title": "Dropbox - גישה מלאה",
+    "sync_option_dropbox_full_description": "זה מעניק לאפליקציה גישה מלאה ל-Dropbox שלך. בחר באפשרות זו אם אתה רוצה שהאפליקציה תמצא קבצים בכל Dropbox שלך.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

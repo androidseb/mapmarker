@@ -596,5 +596,9 @@
     "google_drive_web_auth_scope_change_error_message": "Din cauza unor limitări ale fluxului de autentificare Google, nu este posibilă autentificarea cu un alt nivel de permisiune (acces limitat/acces complet) decât dacă reîncărcați pagina web. Efectuați acțiunea de reîmprospătare în browserul dvs. web și încercați din nou.",
     "cloud_auth_error_message": "Autentificare esuata. Vă rugăm să încercați din nou.",
     "message_sync_error_data_volume_limit2": "Sincronizarea a fost întreruptă deoarece depășea limita permisă pentru volumul de date. Pentru a crește sau modifica limita, accesați setările.",
+    "sync_option_dropbox_limited_title": "Dropbox - acces limitat",
+    "sync_option_dropbox_limited_description": "Acest lucru limitează aplicația să acceseze doar un folder Dropbox dedicat aplicației. Dacă aveți îndoieli, alegeți această opțiune, vă puteți răzgândi cu ușurință mai târziu.",
+    "sync_option_dropbox_full_title": "Dropbox - acces complet",
+    "sync_option_dropbox_full_description": "Acest lucru oferă aplicației acces deplin la Dropbox. Alegeți această opțiune dacă doriți ca aplicația să găsească fișiere în întregul dvs. Dropbox.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

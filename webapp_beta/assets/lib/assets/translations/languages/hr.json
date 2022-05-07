@@ -596,5 +596,9 @@
     "google_drive_web_auth_scope_change_error_message": "Zbog nekih ograničenja u tijeku Google autentifikacije, nije moguće izvršiti autentifikaciju s drugom razinom dopuštenja (ograničeni pristup / puni pristup) osim ako ponovno učitate web-stranicu. Molimo izvršite radnju osvježavanja u svom web pregledniku i pokušajte ponovno.",
     "cloud_auth_error_message": "Autentifikacija nije uspjela, pokušajte ponovno.",
     "message_sync_error_data_volume_limit2": "Sinkronizacija je prekinuta jer je premašila ograničenje dopuštenog volumena podataka. Za povećanje ili promjenu ograničenja idite na postavke.",
+    "sync_option_dropbox_limited_title": "Dropbox - ograničen pristup",
+    "sync_option_dropbox_limited_description": "To ograničava aplikaciju na pristup samo mapi Dropbox namijenjenoj aplikaciji. Ako ste u nedoumici, odaberite ovu opciju, kasnije se lako možete predomisliti.",
+    "sync_option_dropbox_full_title": "Dropbox - puni pristup",
+    "sync_option_dropbox_full_description": "Ovo aplikaciji daje puni pristup vašem Dropbox. Odaberite ovu opciju ako želite da aplikacija pronađe datoteke u cijelom vašem Dropbox.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

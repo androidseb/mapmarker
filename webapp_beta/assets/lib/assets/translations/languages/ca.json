@@ -596,5 +596,9 @@
     "google_drive_web_auth_scope_change_error_message": "A causa d'algunes limitacions del flux d'autenticació de Google, no és possible autenticar-se amb un nivell de permís diferent (accés limitat/accés complet) tret que torneu a carregar la pàgina web. Realitzeu l'acció d'actualització al vostre navegador web i torneu-ho a provar.",
     "cloud_auth_error_message": "L'autenticació ha fallat, si us plau, torna-ho a provar.",
     "message_sync_error_data_volume_limit2": "La sincronització s'ha cancel·lat perquè superava el límit de volum de dades permès. Per augmentar o canviar el límit, aneu a la configuració.",
+    "sync_option_dropbox_limited_title": "Dropbox - accés limitat",
+    "sync_option_dropbox_limited_description": "Això limita l'aplicació a accedir només a una carpeta Dropbox dedicada a l'aplicació. En cas de dubte, trieu aquesta opció, podeu canviar d'opinió fàcilment més endavant.",
+    "sync_option_dropbox_full_title": "Dropbox - accés complet",
+    "sync_option_dropbox_full_description": "Això permet que l'aplicació tingui accés complet al vostre Dropbox. Trieu aquesta opció si voleu que l'aplicació trobi fitxers a tot el vostre Dropbox.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

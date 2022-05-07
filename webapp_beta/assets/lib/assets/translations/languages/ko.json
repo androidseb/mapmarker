@@ -596,5 +596,9 @@
     "google_drive_web_auth_scope_change_error_message": "Google 인증 흐름의 일부 제한 사항으로 인해 웹 페이지를 다시 로드하지 않는 한 다른 권한 수준(제한된 액세스/전체 액세스)으로 인증할 수 없습니다. 웹 브라우저에서 새로 고침 작업을 수행하고 다시 시도하십시오.",
     "cloud_auth_error_message": "인증이 실패했습니다. 다시 시도 해주세요.",
     "message_sync_error_data_volume_limit2": "허용된 데이터 볼륨 제한을 초과했기 때문에 동기화가 중단되었습니다. 한도를 늘리거나 변경하려면 설정으로 이동하세요.",
+    "sync_option_dropbox_limited_title": "Dropbox - 제한된 액세스",
+    "sync_option_dropbox_limited_description": "이렇게 하면 앱이 앱 전용 Dropbox 폴더에만 액세스하도록 제한됩니다. 확실하지 않은 경우 이 옵션을 선택하면 나중에 쉽게 마음이 바뀔 수 있습니다.",
+    "sync_option_dropbox_full_title": "Dropbox - 전체 액세스",
+    "sync_option_dropbox_full_description": "이렇게 하면 앱에 Dropbox에 대한 전체 액세스 권한이 부여됩니다. 앱이 전체 Dropbox에서 파일을 찾도록 하려면 이 옵션을 선택하십시오.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

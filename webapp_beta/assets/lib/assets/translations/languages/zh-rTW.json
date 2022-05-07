@@ -596,5 +596,9 @@
     "google_drive_web_auth_scope_change_error_message": "由於 Google 身份驗證流程中的一些限制，除非您重新加載網頁，否則無法使用不同的權限級別（受限訪問/完全訪問）進行身份驗證。請在您的網絡瀏覽器中執行刷新操作，然後重試。",
     "cloud_auth_error_message": "身份驗證失敗，請重試。",
     "message_sync_error_data_volume_limit2": "同步已中止，因為它超出了允許的數據量限制。要增加或更改限制，請轉到設置。",
+    "sync_option_dropbox_limited_title": "Dropbox - 受限訪問",
+    "sync_option_dropbox_limited_description": "這將應用程序限制為僅訪問應用程序專用的 Dropbox 文件夾。如果有疑問，請選擇此選項，您以後可以輕鬆改變主意。",
+    "sync_option_dropbox_full_title": "Dropbox - 完全訪問",
+    "sync_option_dropbox_full_description": "這將授予應用程序對您的 Dropbox 的完全訪問權限。如果您希望應用在整個 Dropbox 中查找文件，請選擇此選項。",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

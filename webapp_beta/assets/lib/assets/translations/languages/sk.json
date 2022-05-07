@@ -596,5 +596,9 @@
     "google_drive_web_auth_scope_change_error_message": "Z dôvodu určitých obmedzení v procese overovania Google nie je možné overiť totožnosť s inou úrovňou povolenia (obmedzený prístup / úplný prístup), pokiaľ webovú stránku znova nenačítate. Vykonajte akciu obnovenia vo webovom prehliadači a skúste to znova.",
     "cloud_auth_error_message": "Overenie zlyhalo, skúste to znova.",
     "message_sync_error_data_volume_limit2": "Synchronizácia bola prerušená, pretože prekračovala povolený limit objemu dát. Ak chcete zvýšiť alebo zmeniť limit, prejdite do nastavení.",
+    "sync_option_dropbox_limited_title": "Dropbox - obmedzený prístup",
+    "sync_option_dropbox_limited_description": "To obmedzuje aplikáciu na prístup iba k priečinku Dropbox vyhradenému pre aplikáciu. Ak máte pochybnosti, vyberte túto možnosť, neskôr môžete ľahko zmeniť názor.",
+    "sync_option_dropbox_full_title": "Dropbox - plný prístup",
+    "sync_option_dropbox_full_description": "To aplikácii poskytuje úplný prístup k vášmu Dropbox. Túto možnosť vyberte, ak chcete, aby aplikácia našla súbory v celom vašom Dropbox.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -596,5 +596,9 @@
     "google_drive_web_auth_scope_change_error_message": "Google認証フローにはいくつかの制限があるため、Webページをリロードしない限り、異なるアクセス許可レベル（制限付きアクセス/フルアクセス）で認証することはできません。 Webブラウザで更新アクションを実行して、再試行してください。",
     "cloud_auth_error_message": "認証に失敗しました。もう一度やり直してください。",
     "message_sync_error_data_volume_limit2": "許可されたデータ量の制限を超えていたため、同期は中止されました。制限を増減するには、設定に移動します。",
+    "sync_option_dropbox_limited_title": "Dropbox-アクセスが制限されています",
+    "sync_option_dropbox_limited_description": "これにより、アプリはアプリ専用のDropboxフォルダーにのみアクセスするように制限されます。疑わしい場合は、このオプションを選択してください。後で簡単に気が変わる可能性があります。",
+    "sync_option_dropbox_full_title": "Dropbox-フルアクセス",
+    "sync_option_dropbox_full_description": "これにより、アプリにDropboxへのフルアクセスが許可されます。アプリでDropbox全体のファイルを検索する場合は、このオプションを選択します。",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

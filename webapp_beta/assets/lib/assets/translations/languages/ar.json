@@ -596,5 +596,9 @@
     "google_drive_web_auth_scope_change_error_message": "بسبب بعض القيود في تدفق مصادقة Google ، لا يمكن المصادقة بمستوى إذن مختلف (وصول محدود / وصول كامل) إلا إذا قمت بإعادة تحميل صفحة الويب. يرجى تنفيذ إجراء التحديث في متصفح الويب الخاص بك والمحاولة مرة أخرى.",
     "cloud_auth_error_message": "فشل المصادقة. حاول مرة اخرى.",
     "message_sync_error_data_volume_limit2": "تم إحباط المزامنة لأنها تجاوزت حد حجم البيانات المسموح به. لزيادة الحد أو تغييره ، انتقل إلى الإعدادات.",
+    "sync_option_dropbox_limited_title": "Dropbox - وصول محدود",
+    "sync_option_dropbox_limited_description": "هذا يحد من التطبيق للوصول فقط إلى مجلد Dropbox مخصص للتطبيق. إذا كنت في شك ، فاختر هذا الخيار ، يمكنك بسهولة تغيير رأيك لاحقًا.",
+    "sync_option_dropbox_full_title": "Dropbox - الوصول الكامل",
+    "sync_option_dropbox_full_description": "يمنح هذا التطبيق حق الوصول الكامل إلى Dropbox. حدد هذا الخيار إذا كنت تريد أن يعثر التطبيق على الملفات في Dropbox بالكامل.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

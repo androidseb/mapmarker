@@ -596,5 +596,9 @@
     "google_drive_web_auth_scope_change_error_message": "Google kimlik doğrulama akışındaki bazı sınırlamalar nedeniyle, web sayfasını yeniden yüklemediğiniz sürece farklı bir izin düzeyiyle (sınırlı erişim / tam erişim) kimlik doğrulaması yapmak mümkün değildir. Lütfen web tarayıcınızda yenileme işlemini gerçekleştirin ve tekrar deneyin.",
     "cloud_auth_error_message": "Kimlik doğrulama başarısız oldu, lütfen tekrar deneyin.",
     "message_sync_error_data_volume_limit2": "İzin verilen veri hacmi sınırını aştığı için eşitleme durduruldu. Limiti artırmak veya değiştirmek için ayarlara gidin.",
+    "sync_option_dropbox_limited_title": "Dropbox - sınırlı erişim",
+    "sync_option_dropbox_limited_description": "Bu, uygulamayı yalnızca uygulamaya özel bir Dropbox klasörüne erişecek şekilde sınırlar. Şüpheniz varsa, bu seçeneği seçin, daha sonra fikrinizi kolayca değiştirebilirsiniz.",
+    "sync_option_dropbox_full_title": "Dropbox - tam erişim",
+    "sync_option_dropbox_full_description": "Bu, uygulamaya Dropbox cihazınıza tam erişim sağlar. Uygulamanın tüm Dropbox dosyanızdaki dosyaları bulmasını istiyorsanız bu seçeneği belirleyin.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -596,5 +596,9 @@
     "google_drive_web_auth_scope_change_error_message": "A Google hitelesítési folyamatának bizonyos korlátai miatt nem lehetséges más engedélyszinttel (korlátozott hozzáférés / teljes hozzáférés) hitelesíteni, hacsak nem tölti be újra a weboldalt. Kérjük, hajtsa végre a frissítést a böngészőjében, és próbálja újra.",
     "cloud_auth_error_message": "Sikertelen azonosítás. Kérlek próbáld újra.",
     "message_sync_error_data_volume_limit2": "A szinkronizálás megszakadt, mert túllépte a megengedett adatmennyiség-korlátot. A korlát növeléséhez vagy módosításához lépjen a beállításokhoz.",
+    "sync_option_dropbox_limited_title": "Dropbox - korlátozott hozzáférés",
+    "sync_option_dropbox_limited_description": "Ez azt korlátozza, hogy az alkalmazás csak az alkalmazáshoz rendelt Dropbox mappához férhessen hozzá. Ha kétségei vannak, válassza ezt a lehetőséget, mert később könnyen meggondolhatja magát.",
+    "sync_option_dropbox_full_title": "Dropbox - teljes hozzáférés",
+    "sync_option_dropbox_full_description": "Ezzel az alkalmazás teljes hozzáférést biztosít a Dropbox-hez. Válassza ezt a lehetőséget, ha azt szeretné, hogy az alkalmazás megtalálja a fájlokat a teljes Dropbox-ben.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

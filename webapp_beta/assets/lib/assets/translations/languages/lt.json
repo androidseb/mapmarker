@@ -596,5 +596,9 @@
     "google_drive_web_auth_scope_change_error_message": "Dėl kai kurių „Google“ autentifikavimo srauto apribojimų neįmanoma autentifikuoti naudojant kitą leidimo lygį (ribota prieiga / visa prieiga), nebent iš naujo įkeliate tinklalapį. Atlikite atnaujinimo veiksmą žiniatinklio naršyklėje ir bandykite dar kartą.",
     "cloud_auth_error_message": "Autentifikavimas nepavyko, bandykite dar kartą.",
     "message_sync_error_data_volume_limit2": "Sinchronizavimas buvo nutrauktas, nes buvo viršytas leistinas duomenų kiekis. Norėdami padidinti arba pakeisti limitą, eikite į nustatymus.",
+    "sync_option_dropbox_limited_title": "Dropbox – ribota prieiga",
+    "sync_option_dropbox_limited_description": "Tai apriboja, kad programa galėtų pasiekti tik programai skirtą Dropbox aplanką. Jei abejojate, pasirinkite šią parinktį, nes vėliau galėsite lengvai apsigalvoti.",
+    "sync_option_dropbox_full_title": "Dropbox – visa prieiga",
+    "sync_option_dropbox_full_description": "Tai suteikia programai visišką prieigą prie jūsų Dropbox. Pasirinkite šią parinktį, jei norite, kad programa rastų failus visame Dropbox.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

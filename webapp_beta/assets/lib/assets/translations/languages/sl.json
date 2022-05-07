@@ -596,5 +596,9 @@
     "google_drive_web_auth_scope_change_error_message": "Zaradi nekaterih omejitev v Googlovem toku preverjanja pristnosti ni mogoče preveriti pristnosti z drugačno ravnjo dovoljenja (omejen dostop/poln dostop), razen če znova naložite spletno stran. Prosimo, izvedite dejanje osvežitve v svojem spletnem brskalniku in poskusite znova.",
     "cloud_auth_error_message": "Preverjanje pristnosti ni uspelo, poskusite znova.",
     "message_sync_error_data_volume_limit2": "Sinhronizacija je bila prekinjena, ker je presegla dovoljeno količino podatkov. Če želite povečati ali spremeniti omejitev, pojdite v nastavitve.",
+    "sync_option_dropbox_limited_title": "Dropbox - omejen dostop",
+    "sync_option_dropbox_limited_description": "To omejuje aplikacijo na dostop samo do mape Dropbox, namenjene aplikaciji. Če ste v dvomih, izberite to možnost, kasneje si boste zlahka premislili.",
+    "sync_option_dropbox_full_title": "Dropbox - popoln dostop",
+    "sync_option_dropbox_full_description": "To aplikaciji omogoči popoln dostop do vašega Dropbox. Izberite to možnost, če želite, da aplikacija najde datoteke v celotnem Dropbox.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -596,5 +596,9 @@
     "google_drive_web_auth_scope_change_error_message": "Vanwege enkele beperkingen in de Google-authenticatiestroom is het niet mogelijk om te authenticeren met een ander machtigingsniveau (beperkte toegang / volledige toegang), tenzij u de webpagina opnieuw laadt. Voer de vernieuwingsactie uit in uw webbrowser en probeer het opnieuw.",
     "cloud_auth_error_message": "Verificatie mislukt, probeer het opnieuw.",
     "message_sync_error_data_volume_limit2": "De synchronisatie is afgebroken omdat de limiet voor het toegestane gegevensvolume werd overschreden. Ga naar de instellingen om de limiet te verhogen of te wijzigen.",
+    "sync_option_dropbox_limited_title": "Dropbox - beperkte toegang",
+    "sync_option_dropbox_limited_description": "Dit beperkt de app om alleen toegang te krijgen tot een app-specifieke Dropbox-map. Kies bij twijfel deze optie, u kunt later gemakkelijk van gedachten veranderen.",
+    "sync_option_dropbox_full_title": "Dropbox - volledige toegang",
+    "sync_option_dropbox_full_description": "Dit geeft de app volledige toegang tot uw Dropbox. Kies deze optie als je wilt dat de app bestanden in je hele Dropbox vindt.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
