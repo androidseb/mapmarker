@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "Tādējādi lietotne var piekļūt tikai lietotnei paredzētai mapei Dropbox. Ja rodas šaubas, izvēlieties šo opciju, jo vēlāk varēsiet viegli pārdomāt.",
     "sync_option_dropbox_full_title": "Dropbox - pilna piekļuve",
     "sync_option_dropbox_full_description": "Tādējādi lietotnei tiek piešķirta pilnīga piekļuve jūsu Dropbox. Izvēlieties šo opciju, ja vēlaties, lai lietotne atrastu failus visā jūsu Dropbox.",
+    "enter_access_code_hint_text": "Ievadiet piekļuves kodu",
+    "offline_map_files": "Bezsaistes karšu faili",
+    "x_files": "%s faili",
+    "clear_offline_map_files_action": "Notīrīt bezsaistes karšu failus",
+    "clear_offline_map_files_confirmation_message": "Tādējādi no lietotnes iekšējās atmiņas tiks noņemti visi bezsaistes karšu faili. Vai vēlaties turpināt?",
+    "invalid_format": "Nederīgs formāts",
+    "places_search_over_hint_text": "Ierakstiet vairāk, lai precizētu meklēšanu",
+    "places_search_not_started_hint_text": "Varat meklēt vietas ar \"%s\". Šai meklēšanai nepieciešams interneta savienojums.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

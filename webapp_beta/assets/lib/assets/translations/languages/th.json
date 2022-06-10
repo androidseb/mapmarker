@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "สิ่งนี้จำกัดให้แอปเข้าถึงได้เฉพาะโฟลเดอร์ Dropbox เฉพาะแอปเท่านั้น หากไม่แน่ใจ ให้เลือกตัวเลือกนี้ คุณสามารถเปลี่ยนใจในภายหลังได้อย่างง่ายดาย",
     "sync_option_dropbox_full_title": "Dropbox - การเข้าถึงแบบเต็ม",
     "sync_option_dropbox_full_description": "สิ่งนี้ทำให้แอปเข้าถึง Dropbox ของคุณได้อย่างเต็มที่ เลือกตัวเลือกนี้หากคุณต้องการให้แอปค้นหาไฟล์ใน Dropbox ทั้งหมดของคุณ",
+    "enter_access_code_hint_text": "ใส่รหัสเข้าใช้",
+    "offline_map_files": "ไฟล์แผนที่ออฟไลน์",
+    "x_files": "%s ไฟล์",
+    "clear_offline_map_files_action": "ล้างไฟล์แผนที่ออฟไลน์",
+    "clear_offline_map_files_confirmation_message": "การดำเนินการนี้จะลบไฟล์แผนที่ออฟไลน์ทั้งหมดออกจากที่จัดเก็บข้อมูลภายในของแอป คุณต้องการดำเนินการต่อหรือไม่",
+    "invalid_format": "รูปแบบไม่ถูกต้อง",
+    "places_search_over_hint_text": "พิมพ์เพิ่มเติมเพื่อปรับแต่งการค้นหาของคุณ",
+    "places_search_not_started_hint_text": "คุณสามารถค้นหาสถานที่ด้วย \"%s\" การค้นหานี้ต้องใช้การเชื่อมต่ออินเทอร์เน็ต",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

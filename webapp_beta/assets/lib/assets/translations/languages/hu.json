@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "Ez azt korlátozza, hogy az alkalmazás csak az alkalmazáshoz rendelt Dropbox mappához férhessen hozzá. Ha kétségei vannak, válassza ezt a lehetőséget, mert később könnyen meggondolhatja magát.",
     "sync_option_dropbox_full_title": "Dropbox - teljes hozzáférés",
     "sync_option_dropbox_full_description": "Ezzel az alkalmazás teljes hozzáférést biztosít a Dropbox-hez. Válassza ezt a lehetőséget, ha azt szeretné, hogy az alkalmazás megtalálja a fájlokat a teljes Dropbox-ben.",
+    "enter_access_code_hint_text": "Írja be a hozzáférési kódot",
+    "offline_map_files": "Offline térképfájlok",
+    "x_files": "%s fájl",
+    "clear_offline_map_files_action": "Offline térképfájlok törlése",
+    "clear_offline_map_files_confirmation_message": "Ezzel eltávolítja az összes offline térképfájlt az alkalmazás belső tárhelyéről. Folytatja?",
+    "invalid_format": "Érvénytelen formátum",
+    "places_search_over_hint_text": "Írjon be többet a keresés finomításához",
+    "places_search_not_started_hint_text": "Helyeket kereshet a „%s” karakterlánccal. Ehhez a kereséshez internetkapcsolat szükséges.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

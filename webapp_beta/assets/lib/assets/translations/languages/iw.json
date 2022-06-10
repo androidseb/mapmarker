@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "זה מגביל את האפליקציה לגישה רק לתיקיית Dropbox ייעודית לאפליקציה. אם יש לך ספק, בחר באפשרות זו, תוכל לשנות את דעתך בקלות מאוחר יותר.",
     "sync_option_dropbox_full_title": "Dropbox - גישה מלאה",
     "sync_option_dropbox_full_description": "זה מעניק לאפליקציה גישה מלאה ל-Dropbox שלך. בחר באפשרות זו אם אתה רוצה שהאפליקציה תמצא קבצים בכל Dropbox שלך.",
+    "enter_access_code_hint_text": "הזן קוד גישה",
+    "offline_map_files": "קבצי מפות לא מקוונות",
+    "x_files": "%s קבצים",
+    "clear_offline_map_files_action": "נקה קבצי מפות לא מקוונות",
+    "clear_offline_map_files_confirmation_message": "פעולה זו תסיר את כל קבצי המפות הלא מקוונות מהאחסון הפנימי של האפליקציה, האם ברצונך להמשיך?",
+    "invalid_format": "פורמט לא חוקי",
+    "places_search_over_hint_text": "הקלד עוד כדי לצמצם את החיפוש שלך",
+    "places_search_not_started_hint_text": "אתה יכול לחפש מקומות עם \"%s\". חיפוש זה דורש חיבור לאינטרנט.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

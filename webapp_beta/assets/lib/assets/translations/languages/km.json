@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "នេះកំណត់ឱ្យកម្មវិធីចូលប្រើតែថត Dropbox ដែលឧទ្ទិសដល់កម្មវិធីប៉ុណ្ណោះ។ ប្រសិនបើមានការសង្ស័យ ជ្រើសរើសជម្រើសនេះ អ្នកអាចផ្លាស់ប្តូរចិត្តបានយ៉ាងងាយស្រួលនៅពេលក្រោយ។",
     "sync_option_dropbox_full_title": "Dropbox - ការចូលប្រើពេញលេញ",
     "sync_option_dropbox_full_description": "វាផ្តល់ឱ្យកម្មវិធីនូវការចូលដំណើរការពេញលេញទៅកាន់ Dropbox របស់អ្នក។ ជ្រើសរើសជម្រើសនេះប្រសិនបើអ្នកចង់ឱ្យកម្មវិធីស្វែងរកឯកសារនៅក្នុង Dropbox ទាំងមូលរបស់អ្នក។",
+    "enter_access_code_hint_text": "បញ្ចូលលេខកូដចូល",
+    "offline_map_files": "ឯកសារផែនទីក្រៅបណ្តាញ",
+    "x_files": "%s ឯកសារ",
+    "clear_offline_map_files_action": "សម្អាតឯកសារផែនទីក្រៅបណ្តាញ",
+    "clear_offline_map_files_confirmation_message": "វានឹងលុបឯកសារផែនទីក្រៅបណ្តាញទាំងអស់ចេញពីកន្លែងផ្ទុកខាងក្នុងរបស់កម្មវិធី តើអ្នកចង់បន្តទេ?",
+    "invalid_format": "ទម្រង់មិនត្រឹមត្រូវ",
+    "places_search_over_hint_text": "វាយបញ្ចូលបន្ថែមទៀតដើម្បីកែលម្អការស្វែងរករបស់អ្នក។",
+    "places_search_not_started_hint_text": "អ្នកអាចស្វែងរកកន្លែងជាមួយ \"%s\" ។ ការស្វែងរកនេះទាមទារការតភ្ជាប់អ៊ីនធឺណិត។",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

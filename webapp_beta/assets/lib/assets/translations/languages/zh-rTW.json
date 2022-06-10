@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "這將應用程序限制為僅訪問應用程序專用的 Dropbox 文件夾。如果有疑問，請選擇此選項，您以後可以輕鬆改變主意。",
     "sync_option_dropbox_full_title": "Dropbox - 完全訪問",
     "sync_option_dropbox_full_description": "這將授予應用程序對您的 Dropbox 的完全訪問權限。如果您希望應用在整個 Dropbox 中查找文件，請選擇此選項。",
+    "enter_access_code_hint_text": "輸入訪問代碼",
+    "offline_map_files": "離線地圖文件",
+    "x_files": "%s 個文件",
+    "clear_offline_map_files_action": "清除離線地圖文件",
+    "clear_offline_map_files_confirmation_message": "這將從應用程序的內部存儲中刪除所有離線地圖文件，您要繼續嗎？",
+    "invalid_format": "無效的格式",
+    "places_search_over_hint_text": "鍵入更多以優化您的搜索",
+    "places_search_not_started_hint_text": "您可以使用“%s”搜索地點。此搜索需要 Internet 連接。",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

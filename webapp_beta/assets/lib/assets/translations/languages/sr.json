@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "Ово ограничава апликацију да приступа само фасцикли Dropbox намењеној апликацији. Ако сте у недоумици, изаберите ову опцију, касније се лако можете предомислити.",
     "sync_option_dropbox_full_title": "Dropbox - пун приступ",
     "sync_option_dropbox_full_description": "Ово апликацији даје пун приступ вашем Dropbox. Изаберите ову опцију ако желите да апликација пронађе датотеке у целом вашем Dropbox.",
+    "enter_access_code_hint_text": "Унесите приступни код",
+    "offline_map_files": "Оффлине датотеке мапе",
+    "x_files": "%s фајлова",
+    "clear_offline_map_files_action": "Обришите датотеке мапе ван мреже",
+    "clear_offline_map_files_confirmation_message": "Ово ће уклонити све датотеке мапа ван мреже из интерне меморије апликације, да ли желите да наставите?",
+    "invalid_format": "Неважећи формат",
+    "places_search_over_hint_text": "Унесите више да бисте прецизирали претрагу",
+    "places_search_not_started_hint_text": "Можете тражити места са „%s“. Ова претрага захтева интернет везу.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

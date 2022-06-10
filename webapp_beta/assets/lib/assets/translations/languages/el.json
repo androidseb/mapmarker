@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "Αυτό περιορίζει την εφαρμογή να έχει πρόσβαση μόνο σε έναν φάκελο Dropbox που είναι αφιερωμένος στην εφαρμογή. Εάν έχετε αμφιβολίες, επιλέξτε αυτήν την επιλογή, μπορείτε εύκολα να αλλάξετε γνώμη αργότερα.",
     "sync_option_dropbox_full_title": "Dropbox - πλήρης πρόσβαση",
     "sync_option_dropbox_full_description": "Αυτό παρέχει στην εφαρμογή πλήρη πρόσβαση στο Dropbox σας. Επιλέξτε αυτήν την επιλογή εάν θέλετε η εφαρμογή να βρίσκει αρχεία σε ολόκληρο το Dropbox σας.",
+    "enter_access_code_hint_text": "Εισαγάγετε τον κωδικό πρόσβασης",
+    "offline_map_files": "Αρχεία χάρτη εκτός σύνδεσης",
+    "x_files": "%s αρχεία",
+    "clear_offline_map_files_action": "Εκκαθάριση αρχείων χάρτη εκτός σύνδεσης",
+    "clear_offline_map_files_confirmation_message": "Αυτό θα καταργήσει όλα τα αρχεία χάρτη εκτός σύνδεσης από τον εσωτερικό χώρο αποθήκευσης της εφαρμογής, θέλετε να συνεχίσετε;",
+    "invalid_format": "Ακυρη μορφή",
+    "places_search_over_hint_text": "Πληκτρολογήστε περισσότερα για να κάνετε πιο συγκεκριμένη την αναζήτησή σας",
+    "places_search_not_started_hint_text": "Μπορείτε να αναζητήσετε μέρη με \"%s\". Αυτή η αναζήτηση απαιτεί σύνδεση στο Διαδίκτυο.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

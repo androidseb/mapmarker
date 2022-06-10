@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "To omezuje aplikaci na přístup pouze ke složce Dropbox vyhrazené pro aplikaci. Pokud máte pochybnosti, vyberte tuto možnost, později můžete snadno změnit názor.",
     "sync_option_dropbox_full_title": "Dropbox - plný přístup",
     "sync_option_dropbox_full_description": "To aplikaci poskytuje plný přístup k vašemu Dropbox. Tuto možnost vyberte, pokud chcete, aby aplikace našla soubory v celém vašem Dropbox.",
+    "enter_access_code_hint_text": "Zadejte přístupový kód",
+    "offline_map_files": "Offline mapové soubory",
+    "x_files": "%s souborů",
+    "clear_offline_map_files_action": "Vymažte offline mapové soubory",
+    "clear_offline_map_files_confirmation_message": "Tím se odstraní všechny soubory offline map z interního úložiště aplikace, chcete pokračovat?",
+    "invalid_format": "Nesprávný formát",
+    "places_search_over_hint_text": "Chcete-li upřesnit vyhledávání, zadejte více",
+    "places_search_not_started_hint_text": "Místa můžete hledat pomocí „%s“. Toto vyhledávání vyžaduje připojení k internetu.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

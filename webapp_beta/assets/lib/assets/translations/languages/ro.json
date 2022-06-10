@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "Acest lucru limitează aplicația să acceseze doar un folder Dropbox dedicat aplicației. Dacă aveți îndoieli, alegeți această opțiune, vă puteți răzgândi cu ușurință mai târziu.",
     "sync_option_dropbox_full_title": "Dropbox - acces complet",
     "sync_option_dropbox_full_description": "Acest lucru oferă aplicației acces deplin la Dropbox. Alegeți această opțiune dacă doriți ca aplicația să găsească fișiere în întregul dvs. Dropbox.",
+    "enter_access_code_hint_text": "Introduceți codul de acces",
+    "offline_map_files": "Fișiere de hartă offline",
+    "x_files": "%s fișiere",
+    "clear_offline_map_files_action": "Ștergeți fișierele de hartă offline",
+    "clear_offline_map_files_confirmation_message": "Acest lucru va elimina toate fișierele de hartă offline din stocarea internă a aplicației. Doriți să continuați?",
+    "invalid_format": "Format invalid",
+    "places_search_over_hint_text": "Tastați mai multe pentru a vă rafina căutarea",
+    "places_search_not_started_hint_text": "Puteți căuta locuri cu „%s”. Această căutare necesită o conexiune la internet.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

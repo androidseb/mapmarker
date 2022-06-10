@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "Tai apriboja, kad programa galėtų pasiekti tik programai skirtą Dropbox aplanką. Jei abejojate, pasirinkite šią parinktį, nes vėliau galėsite lengvai apsigalvoti.",
     "sync_option_dropbox_full_title": "Dropbox – visa prieiga",
     "sync_option_dropbox_full_description": "Tai suteikia programai visišką prieigą prie jūsų Dropbox. Pasirinkite šią parinktį, jei norite, kad programa rastų failus visame Dropbox.",
+    "enter_access_code_hint_text": "Įveskite prieigos kodą",
+    "offline_map_files": "Žemėlapio failai neprisijungus",
+    "x_files": "%s failai",
+    "clear_offline_map_files_action": "Išvalykite žemėlapio failus neprisijungus",
+    "clear_offline_map_files_confirmation_message": "Tai pašalins visus neprisijungus pasiekiamo žemėlapio failus iš programos vidinės atminties. Ar norite tęsti?",
+    "invalid_format": "Neteisingas formatas",
+    "places_search_over_hint_text": "Įveskite daugiau, kad patikslintumėte paiešką",
+    "places_search_not_started_hint_text": "Vietų galite ieškoti naudodami „%s“. Šiai paieškai reikalingas interneto ryšys.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

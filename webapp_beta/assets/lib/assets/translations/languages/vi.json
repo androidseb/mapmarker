@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "Điều này giới hạn ứng dụng chỉ có thể truy cập vào thư mục Dropbox dành riêng cho ứng dụng. Nếu nghi ngờ, hãy chọn tùy chọn này, bạn có thể dễ dàng thay đổi quyết định sau đó.",
     "sync_option_dropbox_full_title": "Dropbox - toàn quyền truy cập",
     "sync_option_dropbox_full_description": "Điều này cấp cho ứng dụng đầy đủ quyền truy cập vào Dropbox của bạn. Chọn tùy chọn này nếu bạn muốn ứng dụng tìm các tệp trong toàn bộ Dropbox của bạn.",
+    "enter_access_code_hint_text": "Nhập mã truy cập",
+    "offline_map_files": "Tệp bản đồ ngoại tuyến",
+    "x_files": "%s tệp",
+    "clear_offline_map_files_action": "Xóa tệp bản đồ ngoại tuyến",
+    "clear_offline_map_files_confirmation_message": "Thao tác này sẽ xóa tất cả các tệp bản đồ ngoại tuyến khỏi bộ nhớ trong của ứng dụng, bạn có muốn tiếp tục không?",
+    "invalid_format": "Định dạng không hợp lệ",
+    "places_search_over_hint_text": "Nhập thêm để tinh chỉnh tìm kiếm của bạn",
+    "places_search_not_started_hint_text": "Bạn có thể tìm kiếm các địa điểm bằng \"%s\". Tìm kiếm này yêu cầu kết nối internet.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

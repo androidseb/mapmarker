@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "Bu, uygulamayı yalnızca uygulamaya özel bir Dropbox klasörüne erişecek şekilde sınırlar. Şüpheniz varsa, bu seçeneği seçin, daha sonra fikrinizi kolayca değiştirebilirsiniz.",
     "sync_option_dropbox_full_title": "Dropbox - tam erişim",
     "sync_option_dropbox_full_description": "Bu, uygulamaya Dropbox cihazınıza tam erişim sağlar. Uygulamanın tüm Dropbox dosyanızdaki dosyaları bulmasını istiyorsanız bu seçeneği belirleyin.",
+    "enter_access_code_hint_text": "Erişim kodunu giriniz",
+    "offline_map_files": "Çevrimdışı harita dosyaları",
+    "x_files": "%s dosya",
+    "clear_offline_map_files_action": "Çevrimdışı harita dosyalarını temizle",
+    "clear_offline_map_files_confirmation_message": "Bu, tüm çevrimdışı harita dosyalarını uygulamanın dahili deposundan kaldıracak, devam etmek istiyor musunuz?",
+    "invalid_format": "Geçersiz format",
+    "places_search_over_hint_text": "Aramanızı daraltmak için daha fazlasını yazın",
+    "places_search_not_started_hint_text": "\"%s\" ile yerleri arayabilirsiniz. Bu arama bir internet bağlantısı gerektirir.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

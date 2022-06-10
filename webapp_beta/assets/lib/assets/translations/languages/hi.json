@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "यह ऐप को केवल ऐप-समर्पित Dropbox फ़ोल्डर तक पहुंचने के लिए सीमित करता है। यदि संदेह है, तो इस विकल्प को चुनें, आप बाद में आसानी से अपना विचार बदल सकते हैं।",
     "sync_option_dropbox_full_title": "Dropbox - पूर्ण पहुंच",
     "sync_option_dropbox_full_description": "यह ऐप को आपके Dropbox तक पूर्ण पहुंच प्रदान करता है। इस विकल्प को चुनें यदि आप चाहते हैं कि ऐप आपके संपूर्ण Dropbox.",
+    "enter_access_code_hint_text": "एक्सेस कोड दर्ज करें",
+    "offline_map_files": "ऑफ़लाइन मानचित्र फ़ाइलें",
+    "x_files": "%s फ़ाइलें",
+    "clear_offline_map_files_action": "ऑफ़लाइन मानचित्र फ़ाइलें साफ़ करें",
+    "clear_offline_map_files_confirmation_message": "यह ऐप के आंतरिक संग्रहण से सभी ऑफ़लाइन मानचित्र फ़ाइलों को हटा देगा, क्या आप आगे बढ़ना चाहते हैं?",
+    "invalid_format": "अवैध प्रारूप",
+    "places_search_over_hint_text": "अपनी खोज को परिशोधित करने के लिए और लिखें",
+    "places_search_not_started_hint_text": "आप \"%s\" वाले स्थान खोज सकते हैं। इस खोज के लिए इंटरनेट कनेक्शन की आवश्यकता है।",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

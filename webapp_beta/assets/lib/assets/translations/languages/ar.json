@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "هذا يحد من التطبيق للوصول فقط إلى مجلد Dropbox مخصص للتطبيق. إذا كنت في شك ، فاختر هذا الخيار ، يمكنك بسهولة تغيير رأيك لاحقًا.",
     "sync_option_dropbox_full_title": "Dropbox - الوصول الكامل",
     "sync_option_dropbox_full_description": "يمنح هذا التطبيق حق الوصول الكامل إلى Dropbox. حدد هذا الخيار إذا كنت تريد أن يعثر التطبيق على الملفات في Dropbox بالكامل.",
+    "enter_access_code_hint_text": "إدخال رمز الوصول",
+    "offline_map_files": "ملفات الخرائط غير المتصلة بالإنترنت",
+    "x_files": "%s ملفات",
+    "clear_offline_map_files_action": "مسح ملفات الخرائط غير المتصلة بالإنترنت",
+    "clear_offline_map_files_confirmation_message": "سيؤدي هذا إلى إزالة جميع ملفات الخرائط غير المتصلة بالإنترنت من وحدة التخزين الداخلية للتطبيق ، هل تريد المتابعة؟",
+    "invalid_format": "تنسيق غير صالح",
+    "places_search_over_hint_text": "اكتب المزيد لتحسين البحث",
+    "places_search_not_started_hint_text": "يمكنك البحث عن أماكن باستخدام \"%s\". يتطلب هذا البحث اتصالاً بالإنترنت.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

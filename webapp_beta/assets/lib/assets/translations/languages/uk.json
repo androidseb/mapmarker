@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "Це обмежує програму доступом лише до спеціальної папки Dropbox. Якщо ви сумніваєтеся, виберіть цей варіант, ви зможете легко змінити свою думку пізніше.",
     "sync_option_dropbox_full_title": "Dropbox - повний доступ",
     "sync_option_dropbox_full_description": "Це надає програмі повний доступ до вашого Dropbox. Виберіть цей параметр, якщо ви хочете, щоб програма знаходила файли у всьому вашому Dropbox.",
+    "enter_access_code_hint_text": "Введіть код доступу",
+    "offline_map_files": "Офлайн-файли карт",
+    "x_files": "%s файлів",
+    "clear_offline_map_files_action": "Очистіть файли офлайн-карт",
+    "clear_offline_map_files_confirmation_message": "Буде видалено всі файли офлайн-карт із внутрішньої пам’яті програми. Продовжити?",
+    "invalid_format": "Недійсний формат",
+    "places_search_over_hint_text": "Введіть більше, щоб уточнити пошук",
+    "places_search_not_started_hint_text": "Ви можете шукати місця за допомогою \"%s\". Для цього пошуку потрібне підключення до Інтернету.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

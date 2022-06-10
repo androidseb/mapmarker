@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "이렇게 하면 앱이 앱 전용 Dropbox 폴더에만 액세스하도록 제한됩니다. 확실하지 않은 경우 이 옵션을 선택하면 나중에 쉽게 마음이 바뀔 수 있습니다.",
     "sync_option_dropbox_full_title": "Dropbox - 전체 액세스",
     "sync_option_dropbox_full_description": "이렇게 하면 앱에 Dropbox에 대한 전체 액세스 권한이 부여됩니다. 앱이 전체 Dropbox에서 파일을 찾도록 하려면 이 옵션을 선택하십시오.",
+    "enter_access_code_hint_text": "액세스 코드 입력",
+    "offline_map_files": "오프라인 지도 파일",
+    "x_files": "%s 파일",
+    "clear_offline_map_files_action": "오프라인 지도 파일 지우기",
+    "clear_offline_map_files_confirmation_message": "이렇게 하면 앱의 내부 저장소에서 모든 오프라인 지도 파일이 제거됩니다. 계속하시겠습니까?",
+    "invalid_format": "잘못된 형식",
+    "places_search_over_hint_text": "검색 범위를 좁히려면 더 입력하세요.",
+    "places_search_not_started_hint_text": "\"%s\"로 장소를 검색할 수 있습니다. 이 검색에는 인터넷 연결이 필요합니다.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

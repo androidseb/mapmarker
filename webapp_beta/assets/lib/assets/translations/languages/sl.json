@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "To omejuje aplikacijo na dostop samo do mape Dropbox, namenjene aplikaciji. Če ste v dvomih, izberite to možnost, kasneje si boste zlahka premislili.",
     "sync_option_dropbox_full_title": "Dropbox - popoln dostop",
     "sync_option_dropbox_full_description": "To aplikaciji omogoči popoln dostop do vašega Dropbox. Izberite to možnost, če želite, da aplikacija najde datoteke v celotnem Dropbox.",
+    "enter_access_code_hint_text": "Vnesite kodo za dostop",
+    "offline_map_files": "Datoteke zemljevidov brez povezave",
+    "x_files": "%s datotek",
+    "clear_offline_map_files_action": "Počisti datoteke zemljevidov brez povezave",
+    "clear_offline_map_files_confirmation_message": "S tem boste iz notranjega pomnilnika aplikacije odstranili vse datoteke zemljevidov brez povezave. Ali želite nadaljevati?",
+    "invalid_format": "Neveljavna oblika",
+    "places_search_over_hint_text": "Vnesite več, da izboljšate iskanje",
+    "places_search_not_started_hint_text": "Iščete lahko mesta z \"%s\". To iskanje zahteva internetno povezavo.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

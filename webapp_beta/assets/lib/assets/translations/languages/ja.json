@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "これにより、アプリはアプリ専用のDropboxフォルダーにのみアクセスするように制限されます。疑わしい場合は、このオプションを選択してください。後で簡単に気が変わる可能性があります。",
     "sync_option_dropbox_full_title": "Dropbox-フルアクセス",
     "sync_option_dropbox_full_description": "これにより、アプリにDropboxへのフルアクセスが許可されます。アプリでDropbox全体のファイルを検索する場合は、このオプションを選択します。",
+    "enter_access_code_hint_text": "アクセスコードを入力してください",
+    "offline_map_files": "オフラインマップファイル",
+    "x_files": "%sファイル",
+    "clear_offline_map_files_action": "オフラインマップファイルをクリアする",
+    "clear_offline_map_files_confirmation_message": "これにより、アプリの内部ストレージからすべてのオフラインマップファイルが削除されます。続行しますか？",
+    "invalid_format": "無効な形式",
+    "places_search_over_hint_text": "さらに入力して検索を絞り込みます",
+    "places_search_not_started_hint_text": "「%s」で場所を検索できます。この検索にはインターネット接続が必要です。",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

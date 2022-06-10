@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "Ini membatasi aplikasi untuk hanya mengakses folder Dropbox khusus aplikasi. Jika ragu, pilih opsi ini, Anda dapat dengan mudah berubah pikiran nanti.",
     "sync_option_dropbox_full_title": "Dropbox - akses penuh",
     "sync_option_dropbox_full_description": "Ini memberi aplikasi akses penuh ke Dropbox. Pilih opsi ini jika Anda ingin aplikasi menemukan file di seluruh Dropbox.",
+    "enter_access_code_hint_text": "Masukkan kode akses",
+    "offline_map_files": "File peta offline",
+    "x_files": "%s file",
+    "clear_offline_map_files_action": "Hapus file peta offline",
+    "clear_offline_map_files_confirmation_message": "Ini akan menghapus semua file peta offline dari penyimpanan internal aplikasi, apakah Anda ingin melanjutkan?",
+    "invalid_format": "Format yang tidak valid",
+    "places_search_over_hint_text": "Ketik lebih banyak untuk mempersempit pencarian Anda",
+    "places_search_not_started_hint_text": "Anda dapat mencari tempat dengan \"%s\". Pencarian ini membutuhkan koneksi internet.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

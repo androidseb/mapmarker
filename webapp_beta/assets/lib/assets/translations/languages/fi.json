@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "Tämä rajoittaa sovelluksen pääsyn vain sovellukselle omistettuun Dropbox-kansioon. Jos olet epävarma, valitse tämä vaihtoehto, voit helposti muuttaa mieltäsi myöhemmin.",
     "sync_option_dropbox_full_title": "Dropbox - täysi pääsy",
     "sync_option_dropbox_full_description": "Tämä antaa sovellukselle täyden pääsyn laitteeseesi Dropbox. Valitse tämä vaihtoehto, jos haluat sovelluksen etsivän tiedostoja koko Dropbox:stäsi.",
+    "enter_access_code_hint_text": "Anna pääsykoodi",
+    "offline_map_files": "Offline-karttatiedostot",
+    "x_files": "%s tiedostoa",
+    "clear_offline_map_files_action": "Tyhjennä offline-karttatiedostot",
+    "clear_offline_map_files_confirmation_message": "Tämä poistaa kaikki offline-karttatiedostot sovelluksen sisäisestä tallennustilasta. Haluatko jatkaa?",
+    "invalid_format": "Väärä muoto",
+    "places_search_over_hint_text": "Kirjoita lisää tarkentaaksesi hakuasi",
+    "places_search_not_started_hint_text": "Voit etsiä paikkoja merkinnällä \"%s\". Tämä haku vaatii Internet-yhteyden.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

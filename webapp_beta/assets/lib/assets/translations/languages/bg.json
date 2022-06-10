@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "Това ограничава приложението само за достъп до папка Dropbox, посветена на приложението. Ако се съмнявате, изберете тази опция, лесно можете да промените решението си по-късно.",
     "sync_option_dropbox_full_title": "Dropbox - пълен достъп",
     "sync_option_dropbox_full_description": "Това предоставя на приложението пълен достъп до вашия Dropbox. Изберете тази опция, ако искате приложението да намира файлове в целия ви Dropbox.",
+    "enter_access_code_hint_text": "Въведете код за достъп",
+    "offline_map_files": "Офлайн файлове с карти",
+    "x_files": "%s файла",
+    "clear_offline_map_files_action": "Изчистете офлайн файловете с карти",
+    "clear_offline_map_files_confirmation_message": "Това ще премахне всички офлайн файлове с карти от вътрешната памет на приложението. Искате ли да продължите?",
+    "invalid_format": "Невалиден формат",
+    "places_search_over_hint_text": "Въведете още, за да прецизирате търсенето си",
+    "places_search_not_started_hint_text": "Можете да търсите места с \"%s\". Това търсене изисква интернет връзка.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

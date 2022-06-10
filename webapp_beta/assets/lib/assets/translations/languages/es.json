@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "Esto limita la aplicación para acceder solo a una carpeta Dropbox dedicada a la aplicación. En caso de duda, elija esta opción, puede cambiar fácilmente de opinión más adelante.",
     "sync_option_dropbox_full_title": "Dropbox - acceso completo",
     "sync_option_dropbox_full_description": "Esto otorga a la aplicación acceso total a su Dropbox. Elija esta opción si desea que la aplicación encuentre archivos en todo su Dropbox.",
+    "enter_access_code_hint_text": "Introduce el código de acceso",
+    "offline_map_files": "Archivos de mapas sin conexión",
+    "x_files": "%s archivos",
+    "clear_offline_map_files_action": "Borrar archivos de mapas sin conexión",
+    "clear_offline_map_files_confirmation_message": "Esto eliminará todos los archivos de mapas sin conexión del almacenamiento interno de la aplicación. ¿Desea continuar?",
+    "invalid_format": "Formato inválido",
+    "places_search_over_hint_text": "Escriba más para refinar su búsqueda",
+    "places_search_not_started_hint_text": "Puede buscar lugares con \"%s\". Esta búsqueda requiere una conexión a Internet.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

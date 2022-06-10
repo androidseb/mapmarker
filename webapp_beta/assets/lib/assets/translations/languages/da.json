@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "Dette begrænser appen til kun at få adgang til en app-dedikeret Dropbox-mappe. Hvis du er i tvivl, så vælg denne mulighed, du kan nemt ændre mening senere.",
     "sync_option_dropbox_full_title": "Dropbox - fuld adgang",
     "sync_option_dropbox_full_description": "Dette giver appen fuld adgang til din Dropbox. Vælg denne mulighed, hvis du ønsker, at appen skal finde filer i hele din Dropbox.",
+    "enter_access_code_hint_text": "Indtast adgangskode",
+    "offline_map_files": "Offline kortfiler",
+    "x_files": "%s filer",
+    "clear_offline_map_files_action": "Ryd offline kortfiler",
+    "clear_offline_map_files_confirmation_message": "Dette vil fjerne alle offline kortfiler fra appens interne lager. Vil du fortsætte?",
+    "invalid_format": "Ugyldigt format",
+    "places_search_over_hint_text": "Skriv mere for at afgrænse din søgning",
+    "places_search_not_started_hint_text": "Du kan søge efter steder med \"%s\". Denne søgning kræver en internetforbindelse.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "Això limita l'aplicació a accedir només a una carpeta Dropbox dedicada a l'aplicació. En cas de dubte, trieu aquesta opció, podeu canviar d'opinió fàcilment més endavant.",
     "sync_option_dropbox_full_title": "Dropbox - accés complet",
     "sync_option_dropbox_full_description": "Això permet que l'aplicació tingui accés complet al vostre Dropbox. Trieu aquesta opció si voleu que l'aplicació trobi fitxers a tot el vostre Dropbox.",
+    "enter_access_code_hint_text": "Introduïu el codi d'accés",
+    "offline_map_files": "Fitxers de mapes fora de línia",
+    "x_files": "%s fitxers",
+    "clear_offline_map_files_action": "Esborra els fitxers de mapes fora de línia",
+    "clear_offline_map_files_confirmation_message": "Això eliminarà tots els fitxers de mapa fora de línia de l'emmagatzematge intern de l'aplicació. Vols continuar?",
+    "invalid_format": "Format no vàlid",
+    "places_search_over_hint_text": "Escriviu més per afinar la cerca",
+    "places_search_not_started_hint_text": "Pots cercar llocs amb \"%s\". Aquesta cerca requereix una connexió a Internet.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

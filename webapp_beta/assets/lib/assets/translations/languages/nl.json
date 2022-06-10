@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "Dit beperkt de app om alleen toegang te krijgen tot een app-specifieke Dropbox-map. Kies bij twijfel deze optie, u kunt later gemakkelijk van gedachten veranderen.",
     "sync_option_dropbox_full_title": "Dropbox - volledige toegang",
     "sync_option_dropbox_full_description": "Dit geeft de app volledige toegang tot uw Dropbox. Kies deze optie als je wilt dat de app bestanden in je hele Dropbox vindt.",
+    "enter_access_code_hint_text": "Voer toegangscode in",
+    "offline_map_files": "Offline kaartbestanden",
+    "x_files": "%s bestanden",
+    "clear_offline_map_files_action": "Offline kaartbestanden wissen",
+    "clear_offline_map_files_confirmation_message": "Hiermee worden alle offline kaartbestanden uit de interne opslag van de app verwijderd. Wil je doorgaan?",
+    "invalid_format": "Ongeldige indeling",
+    "places_search_over_hint_text": "Typ meer om uw zoekopdracht te verfijnen",
+    "places_search_not_started_hint_text": "U kunt zoeken naar plaatsen met \"%s\". Deze zoekopdracht vereist een internetverbinding.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

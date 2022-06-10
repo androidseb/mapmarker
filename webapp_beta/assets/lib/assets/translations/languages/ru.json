@@ -600,5 +600,13 @@
     "sync_option_dropbox_limited_description": "Это ограничивает доступ приложения только к папке Dropbox, выделенной для приложения. Если вы сомневаетесь, выберите этот вариант, вы можете легко передумать позже.",
     "sync_option_dropbox_full_title": "Dropbox - полный доступ",
     "sync_option_dropbox_full_description": "Это предоставляет приложению полный доступ к вашему Dropbox. Выберите этот вариант, если вы хотите, чтобы приложение нашло файлы во всем вашем каталоге Dropbox.",
+    "enter_access_code_hint_text": "Введите код доступа",
+    "offline_map_files": "Автономные файлы карт",
+    "x_files": "%s файлов",
+    "clear_offline_map_files_action": "Очистить файлы автономных карт",
+    "clear_offline_map_files_confirmation_message": "Это приведет к удалению всех файлов автономных карт из внутренней памяти приложения. Хотите продолжить?",
+    "invalid_format": "Неверный формат",
+    "places_search_over_hint_text": "Введите больше, чтобы уточнить поиск",
+    "places_search_not_started_hint_text": "Вы можете искать места с \"%s\". Для этого поиска требуется подключение к Интернету.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
