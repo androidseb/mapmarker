@@ -608,5 +608,7 @@
     "invalid_format": "تنسيق غير صالح",
     "places_search_over_hint_text": "اكتب المزيد لتحسين البحث",
     "places_search_not_started_hint_text": "يمكنك البحث عن أماكن باستخدام \"%s\". يتطلب هذا البحث اتصالاً بالإنترنت.",
+    "apply_parent_folder_fields": "تطبيق حقول المجلد الأصل",
+    "rating_option_title": "قيم التطبيق",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

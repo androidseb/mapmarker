@@ -608,5 +608,7 @@
     "invalid_format": "Định dạng không hợp lệ",
     "places_search_over_hint_text": "Nhập thêm để tinh chỉnh tìm kiếm của bạn",
     "places_search_not_started_hint_text": "Bạn có thể tìm kiếm các địa điểm bằng \"%s\". Tìm kiếm này yêu cầu kết nối internet.",
+    "apply_parent_folder_fields": "Áp dụng các trường thư mục mẹ",
+    "rating_option_title": "Đánh giá ứng dụng",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

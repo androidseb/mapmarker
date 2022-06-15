@@ -608,5 +608,7 @@
     "invalid_format": "Неверный формат",
     "places_search_over_hint_text": "Введите больше, чтобы уточнить поиск",
     "places_search_not_started_hint_text": "Вы можете искать места с \"%s\". Для этого поиска требуется подключение к Интернету.",
+    "apply_parent_folder_fields": "Применить поля родительской папки",
+    "rating_option_title": "Оцените приложение",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

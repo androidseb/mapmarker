@@ -608,5 +608,7 @@
     "invalid_format": "अवैध प्रारूप",
     "places_search_over_hint_text": "अपनी खोज को परिशोधित करने के लिए और लिखें",
     "places_search_not_started_hint_text": "आप \"%s\" वाले स्थान खोज सकते हैं। इस खोज के लिए इंटरनेट कनेक्शन की आवश्यकता है।",
+    "apply_parent_folder_fields": "पैरेंट फ़ोल्डर फ़ील्ड लागू करें",
+    "rating_option_title": "एप्लिकेशन की श्रेणी बताओ",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

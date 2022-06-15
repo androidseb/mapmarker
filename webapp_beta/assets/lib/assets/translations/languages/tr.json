@@ -608,5 +608,7 @@
     "invalid_format": "Geçersiz format",
     "places_search_over_hint_text": "Aramanızı daraltmak için daha fazlasını yazın",
     "places_search_not_started_hint_text": "\"%s\" ile yerleri arayabilirsiniz. Bu arama bir internet bağlantısı gerektirir.",
+    "apply_parent_folder_fields": "Üst klasör alanlarını uygula",
+    "rating_option_title": "Uygulamayı oyla",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -608,5 +608,7 @@
     "invalid_format": "Format yang tidak valid",
     "places_search_over_hint_text": "Ketik lebih banyak untuk mempersempit pencarian Anda",
     "places_search_not_started_hint_text": "Anda dapat mencari tempat dengan \"%s\". Pencarian ini membutuhkan koneksi internet.",
+    "apply_parent_folder_fields": "Terapkan bidang folder induk",
+    "rating_option_title": "Nilai aplikasinya",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

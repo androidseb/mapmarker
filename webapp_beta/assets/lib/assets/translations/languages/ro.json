@@ -608,5 +608,7 @@
     "invalid_format": "Format invalid",
     "places_search_over_hint_text": "Tastați mai multe pentru a vă rafina căutarea",
     "places_search_not_started_hint_text": "Puteți căuta locuri cu „%s”. Această căutare necesită o conexiune la internet.",
+    "apply_parent_folder_fields": "Aplicați câmpurile folderului părinte",
+    "rating_option_title": "Evaluează aplicația",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

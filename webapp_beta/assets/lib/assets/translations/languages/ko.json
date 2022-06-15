@@ -608,5 +608,7 @@
     "invalid_format": "잘못된 형식",
     "places_search_over_hint_text": "검색 범위를 좁히려면 더 입력하세요.",
     "places_search_not_started_hint_text": "\"%s\"로 장소를 검색할 수 있습니다. 이 검색에는 인터넷 연결이 필요합니다.",
+    "apply_parent_folder_fields": "상위 폴더 필드 적용",
+    "rating_option_title": "앱 평가",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

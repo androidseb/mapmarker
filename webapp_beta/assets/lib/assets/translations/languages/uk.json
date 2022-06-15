@@ -608,5 +608,7 @@
     "invalid_format": "Недійсний формат",
     "places_search_over_hint_text": "Введіть більше, щоб уточнити пошук",
     "places_search_not_started_hint_text": "Ви можете шукати місця за допомогою \"%s\". Для цього пошуку потрібне підключення до Інтернету.",
+    "apply_parent_folder_fields": "Застосувати поля батьківської папки",
+    "rating_option_title": "Оцініть додаток",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

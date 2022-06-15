@@ -608,5 +608,7 @@
     "invalid_format": "无效的格式",
     "places_search_over_hint_text": "键入更多以优化您的搜索",
     "places_search_not_started_hint_text": "您可以使用“%s”搜索地点。此搜索需要 Internet 连接。",
+    "apply_parent_folder_fields": "应用父文件夹字段",
+    "rating_option_title": "给应用评分",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

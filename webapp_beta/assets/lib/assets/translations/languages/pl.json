@@ -608,5 +608,7 @@
     "invalid_format": "Niepoprawny format",
     "places_search_over_hint_text": "Wpisz więcej, aby zawęzić wyszukiwanie",
     "places_search_not_started_hint_text": "Możesz wyszukiwać miejsca za pomocą „%s”. To wyszukiwanie wymaga połączenia internetowego.",
+    "apply_parent_folder_fields": "Zastosuj pola folderu nadrzędnego",
+    "rating_option_title": "Oceń aplikację",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

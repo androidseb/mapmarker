@@ -608,5 +608,7 @@
     "invalid_format": "Neteisingas formatas",
     "places_search_over_hint_text": "Įveskite daugiau, kad patikslintumėte paiešką",
     "places_search_not_started_hint_text": "Vietų galite ieškoti naudodami „%s“. Šiai paieškai reikalingas interneto ryšys.",
+    "apply_parent_folder_fields": "Taikyti pirminio aplanko laukus",
+    "rating_option_title": "Įvertinkite programą",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

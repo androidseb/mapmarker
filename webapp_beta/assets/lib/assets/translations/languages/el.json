@@ -608,5 +608,7 @@
     "invalid_format": "Ακυρη μορφή",
     "places_search_over_hint_text": "Πληκτρολογήστε περισσότερα για να κάνετε πιο συγκεκριμένη την αναζήτησή σας",
     "places_search_not_started_hint_text": "Μπορείτε να αναζητήσετε μέρη με \"%s\". Αυτή η αναζήτηση απαιτεί σύνδεση στο Διαδίκτυο.",
+    "apply_parent_folder_fields": "Εφαρμογή πεδίων γονικού φακέλου",
+    "rating_option_title": "Βαθμολογήστε την εφαρμογή",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

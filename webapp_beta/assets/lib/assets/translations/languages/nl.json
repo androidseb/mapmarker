@@ -608,5 +608,7 @@
     "invalid_format": "Ongeldige indeling",
     "places_search_over_hint_text": "Typ meer om uw zoekopdracht te verfijnen",
     "places_search_not_started_hint_text": "U kunt zoeken naar plaatsen met \"%s\". Deze zoekopdracht vereist een internetverbinding.",
+    "apply_parent_folder_fields": "Bovenliggende mapvelden toepassen",
+    "rating_option_title": "Beoordeel de app",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -608,5 +608,7 @@
     "invalid_format": "Ogiltigt format",
     "places_search_over_hint_text": "Skriv mer för att förfina din sökning",
     "places_search_not_started_hint_text": "Du kan söka efter platser med \"%s\". Denna sökning kräver en internetanslutning.",
+    "apply_parent_folder_fields": "Använd överordnade mappfält",
+    "rating_option_title": "Betygsätt appen",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

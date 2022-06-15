@@ -608,5 +608,7 @@
     "invalid_format": "ទម្រង់មិនត្រឹមត្រូវ",
     "places_search_over_hint_text": "វាយបញ្ចូលបន្ថែមទៀតដើម្បីកែលម្អការស្វែងរករបស់អ្នក។",
     "places_search_not_started_hint_text": "អ្នកអាចស្វែងរកកន្លែងជាមួយ \"%s\" ។ ការស្វែងរកនេះទាមទារការតភ្ជាប់អ៊ីនធឺណិត។",
+    "apply_parent_folder_fields": "អនុវត្តវាលថតមេ",
+    "rating_option_title": "វាយតម្លៃកម្មវិធី",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

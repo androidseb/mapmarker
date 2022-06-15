@@ -608,5 +608,7 @@
     "invalid_format": "פורמט לא חוקי",
     "places_search_over_hint_text": "הקלד עוד כדי לצמצם את החיפוש שלך",
     "places_search_not_started_hint_text": "אתה יכול לחפש מקומות עם \"%s\". חיפוש זה דורש חיבור לאינטרנט.",
+    "apply_parent_folder_fields": "החל שדות של תיקיית אב",
+    "rating_option_title": "דרג את האפליקציה",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

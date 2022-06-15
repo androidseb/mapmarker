@@ -608,5 +608,7 @@
     "invalid_format": "Väärä muoto",
     "places_search_over_hint_text": "Kirjoita lisää tarkentaaksesi hakuasi",
     "places_search_not_started_hint_text": "Voit etsiä paikkoja merkinnällä \"%s\". Tämä haku vaatii Internet-yhteyden.",
+    "apply_parent_folder_fields": "Käytä yläkansiokenttiä",
+    "rating_option_title": "Arvioi sovellus",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

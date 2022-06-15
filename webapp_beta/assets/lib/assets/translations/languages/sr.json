@@ -608,5 +608,7 @@
     "invalid_format": "Неважећи формат",
     "places_search_over_hint_text": "Унесите више да бисте прецизирали претрагу",
     "places_search_not_started_hint_text": "Можете тражити места са „%s“. Ова претрага захтева интернет везу.",
+    "apply_parent_folder_fields": "Примени поља родитељског фолдера",
+    "rating_option_title": "Оцените апликацију",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

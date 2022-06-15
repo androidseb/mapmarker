@@ -608,5 +608,7 @@
     "invalid_format": "Ungültiges Format",
     "places_search_over_hint_text": "Geben Sie mehr ein, um Ihre Suche zu verfeinern",
     "places_search_not_started_hint_text": "Sie können mit \"%s\" nach Orten suchen. Diese Suche erfordert eine Internetverbindung.",
+    "apply_parent_folder_fields": "Übergeordnete Ordnerfelder anwenden",
+    "rating_option_title": "Bewerte die App",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

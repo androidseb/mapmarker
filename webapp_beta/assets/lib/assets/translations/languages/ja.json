@@ -608,5 +608,7 @@
     "invalid_format": "無効な形式",
     "places_search_over_hint_text": "さらに入力して検索を絞り込みます",
     "places_search_not_started_hint_text": "「%s」で場所を検索できます。この検索にはインターネット接続が必要です。",
+    "apply_parent_folder_fields": "親フォルダフィールドを適用する",
+    "rating_option_title": "アプリを評価する",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

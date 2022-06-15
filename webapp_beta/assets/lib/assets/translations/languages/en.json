@@ -608,5 +608,7 @@
     "invalid_format": "Invalid format",
     "places_search_over_hint_text": "Type more to refine your search",
     "places_search_not_started_hint_text": "You can search for places with \"%s\". This search requires an internet connection.",
+    "apply_parent_folder_fields": "Apply parent folder fields",
+    "rating_option_title": "Rate the app",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

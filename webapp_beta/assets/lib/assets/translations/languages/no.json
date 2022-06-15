@@ -608,5 +608,7 @@
     "invalid_format": "Ugyldig format",
     "places_search_over_hint_text": "Skriv mer for å avgrense søket",
     "places_search_not_started_hint_text": "Du kan søke etter steder med «%s». Dette søket krever en internettforbindelse.",
+    "apply_parent_folder_fields": "Bruk overordnet mappefelt",
+    "rating_option_title": "Vurder appen",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

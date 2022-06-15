@@ -608,5 +608,7 @@
     "invalid_format": "Nesprávný formát",
     "places_search_over_hint_text": "Chcete-li upřesnit vyhledávání, zadejte více",
     "places_search_not_started_hint_text": "Místa můžete hledat pomocí „%s“. Toto vyhledávání vyžaduje připojení k internetu.",
+    "apply_parent_folder_fields": "Použít pole nadřazené složky",
+    "rating_option_title": "Ohodnoťte aplikaci",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

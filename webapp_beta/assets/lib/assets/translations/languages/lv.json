@@ -608,5 +608,7 @@
     "invalid_format": "Nederīgs formāts",
     "places_search_over_hint_text": "Ierakstiet vairāk, lai precizētu meklēšanu",
     "places_search_not_started_hint_text": "Varat meklēt vietas ar \"%s\". Šai meklēšanai nepieciešams interneta savienojums.",
+    "apply_parent_folder_fields": "Lietot vecākmapes laukus",
+    "rating_option_title": "Novērtējiet lietotni",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

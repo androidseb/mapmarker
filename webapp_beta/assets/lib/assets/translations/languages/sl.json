@@ -608,5 +608,7 @@
     "invalid_format": "Neveljavna oblika",
     "places_search_over_hint_text": "Vnesite več, da izboljšate iskanje",
     "places_search_not_started_hint_text": "Iščete lahko mesta z \"%s\". To iskanje zahteva internetno povezavo.",
+    "apply_parent_folder_fields": "Uporabi polja nadrejene mape",
+    "rating_option_title": "Ocenite aplikacijo",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

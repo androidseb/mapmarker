@@ -608,5 +608,7 @@
     "invalid_format": "รูปแบบไม่ถูกต้อง",
     "places_search_over_hint_text": "พิมพ์เพิ่มเติมเพื่อปรับแต่งการค้นหาของคุณ",
     "places_search_not_started_hint_text": "คุณสามารถค้นหาสถานที่ด้วย \"%s\" การค้นหานี้ต้องใช้การเชื่อมต่ออินเทอร์เน็ต",
+    "apply_parent_folder_fields": "ใช้ฟิลด์โฟลเดอร์หลัก",
+    "rating_option_title": "ให้คะแนนแอป",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

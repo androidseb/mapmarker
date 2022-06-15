@@ -608,5 +608,7 @@
     "invalid_format": "Formato Inválido",
     "places_search_over_hint_text": "Digite mais para refinar sua pesquisa",
     "places_search_not_started_hint_text": "Você pode pesquisar lugares com \"%s\". Esta pesquisa requer uma conexão com a internet.",
+    "apply_parent_folder_fields": "Aplicar campos de pasta pai",
+    "rating_option_title": "Avalie o aplicativo",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

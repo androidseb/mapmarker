@@ -608,5 +608,7 @@
     "invalid_format": "Невалиден формат",
     "places_search_over_hint_text": "Въведете още, за да прецизирате търсенето си",
     "places_search_not_started_hint_text": "Можете да търсите места с \"%s\". Това търсене изисква интернет връзка.",
+    "apply_parent_folder_fields": "Прилагане на полетата на родителската папка",
+    "rating_option_title": "Оценете приложението",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
