@@ -610,5 +610,10 @@
     "places_search_not_started_hint_text": "Vietų galite ieškoti naudodami „%s“. Šiai paieškai reikalingas interneto ryšys.",
     "apply_parent_folder_fields": "Taikyti pirminio aplanko laukus",
     "rating_option_title": "Įvertinkite programą",
+    "clear_map_view_files": "Išvalyti žemėlapio rodinio failus",
+    "clear_map_view_files_description": "Išvalykite failus, kurie, kaip žinoma, naudojami žemėlapio rodinyje ir retkarčiais sugadinami, todėl žemėlapio rodinys rodomas tuščias fonas.",
+    "clear_map_view_files_succeeded_message": "Žemėlapio rodinio failai sėkmingai išvalyti. Dabar programa bus išjungta, kad būtų baigtas valymas.",
+    "clear_map_view_files_failed_message": "Nepavyko išvalyti žemėlapio rodinio failų",
+    "help_me_message_2022": "Ei, ačiū už smalsumą!\n\nAnksčiau čia turėjau reklaminį skydelį ir nusprendžiau išbandyti kažką kitokio ir pakeisti jį šiuo paprastu pranešimu…\n\nŠią programėlę sukūriau laisvalaikiu kaip hobį, be darbo visu etatu, ir, pasirodo, tai tapo šalutiniu projektu, prie kurio praleidau daug laiko nuo 2014 m. pradžios.\n\nTikiuosi, kad programa jums patiks ir bus naudinga. Padariau taip, kad vis tiek galite viską padaryti nemokėdami, tik gali prireikti šiek tiek daugiau darbo. Galite laisvai importuoti arba eksportuoti duomenis rankiniu būdu, todėl jums niekada nereikės mokėti, tiesiog sinchronizuoti debesyje yra patogiau.\n\nJei jums patinka programa, palaikykite ją: jums nereikia leisti pinigų, bet kuris iš šių gestų padeda:\n- kalbėkite apie programą su aplinkiniais žmonėmis\n- Įvertinkite programą, kad rekomenduotumėte ją parduotuvėje\n- įsigykite aukščiausios kokybės atnaujinimą (pašalinsite apatinę reklamjuostę)\n\nJei jums nepatinka programėlė, atsiųskite man el. laišką (iš skilties „apie“) ir praneškite, kaip galėčiau ją patobulinti. Aš nuėjau taip toli dėl daugelio vartotojų atsiliepimų, kurie papasakojo apie tai, kas jiems nepatinka arba kas jiems nepatiko, ir atsakau į kiekvieną el. laišką, todėl nesidrovėkite!\n\nIr galiausiai, ačiū, kad perskaitėte šį :-)\n\nPagarbiai\nSebastienas",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

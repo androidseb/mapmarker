@@ -610,5 +610,10 @@
     "places_search_not_started_hint_text": "Bạn có thể tìm kiếm các địa điểm bằng \"%s\". Tìm kiếm này yêu cầu kết nối internet.",
     "apply_parent_folder_fields": "Áp dụng các trường thư mục mẹ",
     "rating_option_title": "Đánh giá ứng dụng",
+    "clear_map_view_files": "Xóa tệp chế độ xem bản đồ",
+    "clear_map_view_files_description": "Xóa các tệp được chế độ xem bản đồ sử dụng và đôi khi bị hỏng, khiến chế độ xem bản đồ hiển thị nền trống.",
+    "clear_map_view_files_succeeded_message": "Đã xóa thành công tệp chế độ xem bản đồ. Bây giờ ứng dụng sẽ thoát ra để hoàn tất quá trình dọn dẹp.",
+    "clear_map_view_files_failed_message": "Không thể xóa tệp chế độ xem bản đồ",
+    "help_me_message_2022": "Này, cảm ơn bạn đã tò mò!\n\nTôi đã từng có một biểu ngữ quảng cáo ở đây và tôi quyết định thử một cái gì đó khác và thay thế nó bằng một thông điệp đơn giản này…\n\nTôi đã tạo ứng dụng này vào thời gian rảnh như một sở thích, ngoài ra để có một công việc toàn thời gian và hóa ra nó đã trở thành một dự án phụ mà tôi đã dành rất nhiều thời gian kể từ đầu năm 2014.\n\nTôi hy vọng bạn thích ứng dụng và thấy nó hữu ích. Tôi đã làm theo cách mà bạn vẫn có thể làm mọi thứ mà không cần trả tiền, có thể chỉ mất thêm một chút công việc. Bạn có thể tự do nhập hoặc xuất dữ liệu theo cách thủ công, vì vậy bạn không bao giờ thực sự phải trả tiền, chỉ là đồng bộ hóa đám mây thuận tiện hơn.\n\nNếu bạn thích ứng dụng này, hãy ủng hộ nó: bạn không phải tốn tiền cho việc đó, bất kỳ cử chỉ nào trong số đó đều giúp:\n- nói về ứng dụng với những người xung quanh bạn\n- xếp hạng ứng dụng để giới thiệu nó trên cửa hàng\n- mua bản nâng cấp cao cấp (sẽ xóa biểu ngữ dưới cùng)\n\nNếu bạn không thích ứng dụng, vui lòng gửi email cho tôi (từ phần \"giới thiệu\") và cho tôi biết cách tôi có thể cải thiện nó. Tôi đã tiến xa đến mức này nhờ phản hồi của nhiều người dùng đã nói với tôi về những điều họ bỏ lỡ hoặc không thích và tôi trả lời từng email, vì vậy đừng ngại!\n\nVà cuối cùng, cảm ơn bạn đã đọc :-) này\n\nTrân trọng\nSébastien",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

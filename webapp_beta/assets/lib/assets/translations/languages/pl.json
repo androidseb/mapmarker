@@ -610,5 +610,10 @@
     "places_search_not_started_hint_text": "Możesz wyszukiwać miejsca za pomocą „%s”. To wyszukiwanie wymaga połączenia internetowego.",
     "apply_parent_folder_fields": "Zastosuj pola folderu nadrzędnego",
     "rating_option_title": "Oceń aplikację",
+    "clear_map_view_files": "Wyczyść pliki widoku mapy",
+    "clear_map_view_files_description": "Wyczyść pliki, o których wiadomo, że są używane przez widok mapy i czasami ulegają uszkodzeniu, powodując, że widok mapy wyświetla puste tło.",
+    "clear_map_view_files_succeeded_message": "Pliki widoku mapy zostały pomyślnie wyczyszczone. Aplikacja zostanie teraz zamknięta, aby zakończyć czyszczenie.",
+    "clear_map_view_files_failed_message": "Nie udało się wyczyścić plików widoku mapy",
+    "help_me_message_2022": "Hej, dziękuję za ciekawość!\n\nKiedyś miałem tutaj baner reklamowy i postanowiłem spróbować czegoś innego i zastąpić go tym prostym komunikatem…\n\nStworzyłem tę aplikację w wolnym czasie jako hobby, oprócz pracy na etacie i okazuje się, że stała się ona projektem pobocznym, nad którym spędziłem dużo czasu od początku 2014 roku.\n\nMam nadzieję, że aplikacja Ci się spodoba i okaże się przydatna. Zrobiłem to w taki sposób, że nadal możesz robić wszystko bez płacenia, może to po prostu zająć trochę więcej pracy. Możesz ręcznie importować lub eksportować dane, więc tak naprawdę nigdy nie musisz płacić, po prostu synchronizacja w chmurze jest wygodniejsza.\n\nJeśli podoba Ci się ta aplikacja, wesprzyj ją: nie musisz na to wydawać pieniędzy, każdy z tych gestów pomaga:\n- porozmawiaj o aplikacji z ludźmi wokół ciebie\n- oceń aplikację, aby polecić ją w sklepie\n- kup ulepszenie premium (usunie dolny baner)\n\nJeśli nie podoba Ci się aplikacja, napisz do mnie (z sekcji \"o\") i daj mi znać, jak mogę ją ulepszyć. Doszedłem tak daleko dzięki opiniom wielu użytkowników, którzy powiedzieli mi, co im się nie podobało lub co im się nie podobało, a ja odpowiadam na każdy e-mail, więc nie wstydź się!\n\nI na koniec dziękuję za przeczytanie tego :-)\n\nPozdrowienia\nSebastien",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

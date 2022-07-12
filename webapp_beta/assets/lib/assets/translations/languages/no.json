@@ -610,5 +610,10 @@
     "places_search_not_started_hint_text": "Du kan søke etter steder med «%s». Dette søket krever en internettforbindelse.",
     "apply_parent_folder_fields": "Bruk overordnet mappefelt",
     "rating_option_title": "Vurder appen",
+    "clear_map_view_files": "Fjern kartvisningsfiler",
+    "clear_map_view_files_description": "Fjern filer som er kjent for å brukes av kartvisningen og av og til bli ødelagt, noe som får kartvisningen til å vise en tom bakgrunn.",
+    "clear_map_view_files_succeeded_message": "Kartvisningsfiler ble slettet. Appen avsluttes nå for å fullføre oppryddingen.",
+    "clear_map_view_files_failed_message": "Kunne ikke slette kartvisningsfiler",
+    "help_me_message_2022": "Hei, takk for nysgjerrigheten!\n\nJeg pleide å ha et annonsebanner her, og jeg bestemte meg for å prøve noe annet og erstatte det med denne enkle meldingen...\n\nJeg laget denne appen på fritiden min som en hobby, i tillegg til å ha full jobb, og det viste seg at det ble et sideprosjekt som jeg har brukt mye tid på siden tidlig i 2014.\n\nJeg håper du liker appen og finner den nyttig. Jeg har laget det på en måte at du fortsatt kan gjøre alt uten å betale, det kan bare ta litt mer arbeid. Du står fritt til å importere eller eksportere dataene manuelt, så du trenger egentlig aldri å betale, det er bare at skysynkronisering er mer praktisk.\n\nHvis du liker appen, vennligst støtte den: du trenger ikke bruke penger for det, noen av disse bevegelsene hjelper:\n- snakk om appen til folk rundt deg\n- Vurder appen for å anbefale den i butikken\n- kjøp premium-oppgraderingen (vil fjerne det nederste banneret)\n\nHvis du ikke liker appen, vennligst send meg en e-post (fra \"om\"-delen) og gi meg beskjed om hvordan jeg kan forbedre den. Jeg har kommet så langt takket være tilbakemeldingene fra mange brukere som fortalte meg om hva de gikk glipp av eller ikke likte, og jeg svarer på hver eneste e-post, så ikke vær sjenert!\n\nOg til slutt, takk for at du leser dette :-)\n\nHilsen\nSébastien",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

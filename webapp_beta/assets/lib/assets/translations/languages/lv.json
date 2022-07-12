@@ -610,5 +610,10 @@
     "places_search_not_started_hint_text": "Varat meklēt vietas ar \"%s\". Šai meklēšanai nepieciešams interneta savienojums.",
     "apply_parent_folder_fields": "Lietot vecākmapes laukus",
     "rating_option_title": "Novērtējiet lietotni",
+    "clear_map_view_files": "Notīrīt kartes skata failus",
+    "clear_map_view_files_description": "Notīriet failus, par kuriem zināms, ka tos izmanto kartes skats un kas dažkārt tiek bojāti, kā rezultātā kartes skats parāda tukšu fonu.",
+    "clear_map_view_files_succeeded_message": "Kartes skata faili ir veiksmīgi notīrīti. Tagad lietotne tiks aizvērta, lai pabeigtu tīrīšanu.",
+    "clear_map_view_files_failed_message": "Nevarēja notīrīt kartes skata failus",
+    "help_me_message_2022": "Hei, paldies par zinātkāri!\n\nMan kādreiz šeit bija reklāmas reklāmkarogs, un es nolēmu izmēģināt kaut ko citu un aizstāt to ar šo vienkāršo ziņojumu…\n\nŠo lietotni veidoju brīvajā laikā kā hobijs, papildus pilnas slodzes darbam, un izrādās, ka tā kļuva par blakus projektu, kuram esmu veltījis daudz laika kopš 2014. gada sākuma.\n\nCeru, ka jums patika lietotne un tā būs noderīga. Es to izveidoju tā, lai jūs joprojām varētu visu izdarīt nemaksājot, tas var tikai nedaudz vairāk strādāt. Jūs varat brīvi importēt vai eksportēt datus manuāli, tāpēc jums nekad nav jāmaksā, vienkārši mākoņa sinhronizācija ir ērtāka.\n\nJa jums patīk lietotne, lūdzu, atbalstiet to: jums nav jātērē nauda par to, jebkurš no šiem žestiem palīdz:\n- runājiet par lietotni apkārtējiem cilvēkiem\n- novērtējiet lietotni, lai ieteiktu to veikalā\n- iegādājieties premium jauninājumu (noņems apakšējo reklāmkarogu)\n\nJa jums nepatīk lietotne, lūdzu, nosūtiet man e-pastu (no sadaļas \"Par\") un dariet man zināmu, kā es varu to uzlabot. Esmu nonācis tik tālu, pateicoties daudzu lietotāju atsauksmēm, kuri man pastāstīja par to, kas viņiem palaida garām vai nepatika, un es atbildu uz katru e-pasta ziņojumu, tāpēc nekautrējieties!\n\nVisbeidzot, paldies, ka izlasījāt šo :-)\n\nSveicieni\nSebastjēns",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

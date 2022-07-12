@@ -610,5 +610,10 @@
     "places_search_not_started_hint_text": "Du kan søge efter steder med \"%s\". Denne søgning kræver en internetforbindelse.",
     "apply_parent_folder_fields": "Anvend overordnede mappefelter",
     "rating_option_title": "Bedøm appen",
+    "clear_map_view_files": "Ryd kortvisningsfiler",
+    "clear_map_view_files_description": "Ryd filer, der vides at blive brugt af kortvisningen og lejlighedsvis bliver beskadiget, hvilket får kortvisningen til at vise en tom baggrund.",
+    "clear_map_view_files_succeeded_message": "Kortvisningsfiler blev ryddet. Appen afsluttes nu for at fuldføre oprydningen.",
+    "clear_map_view_files_failed_message": "Kunne ikke rydde kortvisningsfiler",
+    "help_me_message_2022": "Hej, tak for din nysgerrighed!\n\nJeg plejede at have et annoncebanner her, og jeg besluttede at prøve noget andet og erstatte det med denne enkle besked...\n\nJeg lavede denne app i min fritid som en hobby, udover at have et fuldtidsjob, og det viste sig, at det blev et sideprojekt, som jeg har brugt meget tid på siden begyndelsen af 2014.\n\nJeg håber, du kan lide appen og finder den nyttig. Jeg lavede det på en måde, så du stadig kan gøre alt uden at betale, det kræver måske bare lidt mere arbejde. Du kan frit importere eller eksportere data manuelt, så du behøver aldrig rigtig at betale, det er bare, at skysynkronisering er mere praktisk.\n\nHvis du kan lide appen, bedes du støtte den: du behøver ikke at bruge penge for det, nogen af disse bevægelser hjælper:\n- tal om appen med folk omkring dig\n- Bedøm appen for at anbefale den i butikken\n- køb premium-opgraderingen (vil fjerne det nederste banner)\n\nHvis du ikke kan lide appen, bedes du sende mig en e-mail (fra afsnittet \"om\") og fortælle mig, hvordan jeg kan forbedre den. Jeg er nået så langt takket være feedback fra mange brugere, der fortalte mig om, hvad de gik glip af eller ikke kunne lide, og jeg svarer på hver eneste e-mail, så vær ikke genert!\n\nOg til sidst, tak fordi du læste dette :-)\n\nMed venlig hilsen\nSébastien",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
