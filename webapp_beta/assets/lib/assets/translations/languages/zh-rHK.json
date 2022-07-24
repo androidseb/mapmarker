@@ -615,5 +615,10 @@
     "clear_map_view_files_succeeded_message": "地圖視圖文件已成功清除。該應用程序現在將退出以完成清理。",
     "clear_map_view_files_failed_message": "無法清除地圖視圖文件",
     "help_me_message_2022": "嘿，謝謝你的好奇心！\n\n我曾經在這裡有一個廣告橫幅，我決定嘗試一些不同的東西，並用這個簡單的信息代替它......\n\n我在業餘時間製作了這個應用程序，除了有一份全職工作之外，它還變成了我自 2014 年初以來花了很多時間的副業。\n\n我希望你喜歡這個應用程序並發現它很有用。我這樣做的方式是你仍然可以不付錢做任何事情，它可能只需要多做一點工作。您可以自由地手動導入或導出數據，因此您無需支付任何費用，只是云同步更方便。\n\n如果您喜歡該應用程序，請支持它：您不必為此花錢，任何這些手勢都有幫助：\n- 與您周圍的人談論該應用程序\n- 評價應用程序以在商店中推薦它\n- 購買高級升級（將刪除底部橫幅）\n\n如果您不喜歡該應用程序，請給我發電子郵件（來自“關於”部分），讓我知道如何改進它。感謝許多用戶的反饋，他們告訴我他們錯過或不喜歡什麼，我能走到這一步，我會回复每封電子郵件，所以不要害羞！\n\n最後，感謝您閱讀此:-)\n\n問候\n塞巴斯蒂安",
+    "sync_error_missing_media_file": "同步被中止，因為您可以找到以下文件：%s.要解決此問題，您可以手動恢復丟失的文件或將應用程序的設置更改為在同步期間不下載媒體。",
+    "sync_media_policy_setting_title": "同步媒體下載策略",
+    "sync_media_policy_setting_option_download_immediately": "在同步期間下載所有媒體",
+    "sync_media_policy_setting_option_download_later": "需要時同步後下載媒體",
+    "auto_sync_description": "檢測到更改時自動與云同步",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
