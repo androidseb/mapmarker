@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Download all media during sync",
     "sync_media_policy_setting_option_download_later": "Download media after sync when needed",
     "auto_sync_description": "Sync with the cloud automatically when changes are detected",
+    "search_delete_duplicates_select_attributes_hint_text": "Select the attributes to consider when eliminating duplicates. If all attributes are selected, only strictly identical duplicate entries will be removed. If no attributes are selected, duplicate entries with the same location will be removed, regardless of their other attributes.",
+    "action_delete_duplicates": "Delete duplicates",
+    "searching_for_duplicates": "Searching for duplicates…",
+    "duplicates_deletion_confirmation_message": "Found %d duplicates. Are you sure you want to delete those duplicates?",
+    "poi_attribute_icon": "Icon",
+    "poi_attribute_color": "Color",
+    "enable_log_file_title": "Enable log file",
+    "enable_log_file_description": "Start writing app execution events history to the log file",
+    "disable_log_file_title": "Disable log file",
+    "disable_log_file_description": "Stop writing app execution events history to the log file, and delete the log file",
+    "export_log_file_title": "Export log file",
+    "export_log_file_description": "Export the log file so that it can be shared for debugging purposes",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

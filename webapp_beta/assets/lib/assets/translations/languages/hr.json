@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Preuzmite sve medije tijekom sinkronizacije",
     "sync_media_policy_setting_option_download_later": "Preuzmite medije nakon sinkronizacije kada je potrebno",
     "auto_sync_description": "Automatska sinkronizacija s oblakom kada se otkriju promjene",
+    "search_delete_duplicates_select_attributes_hint_text": "Odaberite atribute koje treba uzeti u obzir prilikom uklanjanja duplikata. Ako su odabrani svi atributi, samo će se potpuno identični dvostruki unosi ukloniti. Ako nijedan atribut nije odabran, dvostruki unosi s istom lokacijom bit će uklonjeni, bez obzira na njihove druge atribute.",
+    "action_delete_duplicates": "Izbriši duplikate",
+    "searching_for_duplicates": "Traženje duplikata...",
+    "duplicates_deletion_confirmation_message": "Pronađeno %d duplikata. Jeste li sigurni da želite izbrisati te duplikate?",
+    "poi_attribute_icon": "Ikona",
+    "poi_attribute_color": "Boja",
+    "enable_log_file_title": "Omogući datoteku dnevnika",
+    "enable_log_file_description": "Počnite pisati povijest događaja izvršenja aplikacije u datoteku dnevnika",
+    "disable_log_file_title": "Onemogući datoteku dnevnika",
+    "disable_log_file_description": "Prestanite pisati povijest događaja izvršenja aplikacije u datoteku dnevnika i izbrišite datoteku dnevnika",
+    "export_log_file_title": "Izvoz datoteke dnevnika",
+    "export_log_file_description": "Izvezite datoteku dnevnika tako da se može dijeliti u svrhu otklanjanja pogrešaka",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

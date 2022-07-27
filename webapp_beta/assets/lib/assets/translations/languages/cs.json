@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Stáhnout všechna média během synchronizace",
     "sync_media_policy_setting_option_download_later": "V případě potřeby stáhněte média po synchronizaci",
     "auto_sync_description": "Po zjištění změn se automaticky synchronizuje s cloudem",
+    "search_delete_duplicates_select_attributes_hint_text": "Vyberte atributy, které je třeba vzít v úvahu při odstraňování duplicit. Pokud jsou vybrány všechny atributy, budou odstraněny pouze přísně identické duplicitní položky. Pokud nejsou vybrány žádné atributy, budou odstraněny duplicitní položky se stejným umístěním bez ohledu na jejich ostatní atributy.",
+    "action_delete_duplicates": "Odstraňte duplikáty",
+    "searching_for_duplicates": "Vyhledávání duplikátů…",
+    "duplicates_deletion_confirmation_message": "Nalezeno %d duplikátů. Opravdu chcete tyto duplikáty smazat?",
+    "poi_attribute_icon": "Ikona",
+    "poi_attribute_color": "Barva",
+    "enable_log_file_title": "Povolit soubor protokolu",
+    "enable_log_file_description": "Začněte zapisovat historii událostí spuštění aplikace do souboru protokolu",
+    "disable_log_file_title": "Zakázat soubor protokolu",
+    "disable_log_file_description": "Zastavte zápis historie událostí spuštění aplikace do souboru protokolu a odstraňte soubor protokolu",
+    "export_log_file_title": "Exportujte soubor protokolu",
+    "export_log_file_description": "Exportujte soubor protokolu, aby jej bylo možné sdílet pro účely ladění",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

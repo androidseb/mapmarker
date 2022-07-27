@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Λήψη όλων των μέσων κατά τον συγχρονισμό",
     "sync_media_policy_setting_option_download_later": "Λήψη πολυμέσων μετά το συγχρονισμό όταν χρειάζεται",
     "auto_sync_description": "Συγχρονισμός με το cloud αυτόματα όταν εντοπίζονται αλλαγές",
+    "search_delete_duplicates_select_attributes_hint_text": "Επιλέξτε τα χαρακτηριστικά που θα λάβετε υπόψη κατά την εξάλειψη των διπλότυπων. Εάν επιλεγούν όλα τα χαρακτηριστικά, θα αφαιρεθούν μόνο αυστηρά πανομοιότυπες διπλές εγγραφές. Εάν δεν επιλεγούν χαρακτηριστικά, οι διπλότυπες εγγραφές με την ίδια θέση θα αφαιρεθούν, ανεξάρτητα από τα άλλα χαρακτηριστικά τους.",
+    "action_delete_duplicates": "Διαγραφή διπλότυπων",
+    "searching_for_duplicates": "Αναζήτηση για διπλότυπα…",
+    "duplicates_deletion_confirmation_message": "Βρέθηκαν %d διπλότυπα. Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτά τα διπλότυπα;",
+    "poi_attribute_icon": "Εικόνισμα",
+    "poi_attribute_color": "Χρώμα",
+    "enable_log_file_title": "Ενεργοποίηση αρχείου καταγραφής",
+    "enable_log_file_description": "Ξεκινήστε να γράφετε το ιστορικό συμβάντων εκτέλεσης εφαρμογής στο αρχείο καταγραφής",
+    "disable_log_file_title": "Απενεργοποιήστε το αρχείο καταγραφής",
+    "disable_log_file_description": "Σταματήστε να γράφετε το ιστορικό συμβάντων εκτέλεσης εφαρμογής στο αρχείο καταγραφής και διαγράψτε το αρχείο καταγραφής",
+    "export_log_file_title": "Εξαγωγή αρχείου καταγραφής",
+    "export_log_file_description": "Εξαγάγετε το αρχείο καταγραφής ώστε να μπορεί να κοινοποιηθεί για σκοπούς εντοπισμού σφαλμάτων",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

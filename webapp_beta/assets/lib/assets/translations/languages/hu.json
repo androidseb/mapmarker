@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Az összes média letöltése szinkronizálás közben",
     "sync_media_policy_setting_option_download_later": "Szükség esetén töltse le a médiát a szinkronizálás után",
     "auto_sync_description": "Automatikus szinkronizálás a felhővel, ha változásokat észlel",
+    "search_delete_duplicates_select_attributes_hint_text": "Válassza ki azokat az attribútumokat, amelyeket figyelembe kell venni az ismétlődések eltávolításakor. Ha az összes attribútumot kiválasztja, csak a szigorúan azonos ismétlődő bejegyzések törlődnek. Ha nincs kiválasztva attribútum, akkor az azonos helyen lévő ismétlődő bejegyzések a többi attribútumtól függetlenül törlődnek.",
+    "action_delete_duplicates": "Törölje az ismétlődéseket",
+    "searching_for_duplicates": "Ismétlődések keresése…",
+    "duplicates_deletion_confirmation_message": "%d ismétlődést találtunk. Biztosan törli ezeket az ismétlődéseket?",
+    "poi_attribute_icon": "Ikon",
+    "poi_attribute_color": "Szín",
+    "enable_log_file_title": "Naplófájl engedélyezése",
+    "enable_log_file_description": "Kezdje el írni az alkalmazás-végrehajtási események előzményeit a naplófájlba",
+    "disable_log_file_title": "Naplófájl letiltása",
+    "disable_log_file_description": "Állítsa le az alkalmazás-végrehajtási események előzményeinek a naplófájlba írását, és törölje a naplófájlt",
+    "export_log_file_title": "Naplófájl exportálása",
+    "export_log_file_description": "Exportálja a naplófájlt, hogy megoszthassa hibakeresési célokra",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

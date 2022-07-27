@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Изтеглете всички медии по време на синхронизиране",
     "sync_media_policy_setting_option_download_later": "Изтеглете мултимедия след синхронизиране, когато е необходимо",
     "auto_sync_description": "Автоматично синхронизиране с облака при откриване на промени",
+    "search_delete_duplicates_select_attributes_hint_text": "Изберете атрибутите, които да имате предвид, когато елиминирате дубликати. Ако са избрани всички атрибути, ще бъдат премахнати само абсолютно идентични дублирани записи. Ако не са избрани атрибути, дублиращите се записи с едно и също местоположение ще бъдат премахнати, независимо от другите им атрибути.",
+    "action_delete_duplicates": "Изтриване на дубликати",
+    "searching_for_duplicates": "Търсят се дубликати...",
+    "duplicates_deletion_confirmation_message": "Намерени %d дубликати. Сигурни ли сте, че искате да изтриете тези дубликати?",
+    "poi_attribute_icon": "Икона",
+    "poi_attribute_color": "Цвят",
+    "enable_log_file_title": "Активиране на регистрационния файл",
+    "enable_log_file_description": "Започнете да записвате хронология на събитията за изпълнение на приложението в регистрационния файл",
+    "disable_log_file_title": "Деактивиране на регистрационния файл",
+    "disable_log_file_description": "Спрете да записвате хронологията на събитията за изпълнение на приложението в регистрационния файл и го изтрийте",
+    "export_log_file_title": "Експортиране на лог файл",
+    "export_log_file_description": "Експортирайте регистрационния файл, така че да може да бъде споделен за целите на отстраняване на грешки",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

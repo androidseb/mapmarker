@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Senkronizasyon sırasında tüm medyayı indirin",
     "sync_media_policy_setting_option_download_later": "Gerektiğinde senkronizasyondan sonra medyayı indirin",
     "auto_sync_description": "Değişiklikler algılandığında bulutla otomatik olarak senkronize edin",
+    "search_delete_duplicates_select_attributes_hint_text": "Yinelenenleri ortadan kaldırırken göz önünde bulundurulacak nitelikleri seçin. Tüm öznitelikler seçilirse, yalnızca tamamen aynı olan yinelenen girişler kaldırılacaktır. Hiçbir öznitelik seçilmezse, diğer özniteliklerine bakılmaksızın aynı konuma sahip yinelenen girişler kaldırılacaktır.",
+    "action_delete_duplicates": "Yinelenenleri sil",
+    "searching_for_duplicates": "Yinelenenler aranıyor…",
+    "duplicates_deletion_confirmation_message": "%d kopya bulundu. Bu kopyaları silmek istediğinizden emin misiniz?",
+    "poi_attribute_icon": "Simge",
+    "poi_attribute_color": "Renk",
+    "enable_log_file_title": "Günlük dosyasını etkinleştir",
+    "enable_log_file_description": "Uygulama yürütme olayları geçmişini günlük dosyasına yazmaya başlayın",
+    "disable_log_file_title": "Günlük dosyasını devre dışı bırak",
+    "disable_log_file_description": "Uygulama yürütme olayları geçmişini günlük dosyasına yazmayı bırakın ve günlük dosyasını silin",
+    "export_log_file_title": "Günlük dosyasını dışa aktar",
+    "export_log_file_description": "Hata ayıklama amacıyla paylaşılabilmesi için günlük dosyasını dışa aktarın",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

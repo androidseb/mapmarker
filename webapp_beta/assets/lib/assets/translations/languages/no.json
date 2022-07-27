@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Last ned alle medier under synkronisering",
     "sync_media_policy_setting_option_download_later": "Last ned media etter synkronisering ved behov",
     "auto_sync_description": "Synkroniser med skyen automatisk når endringer oppdages",
+    "search_delete_duplicates_select_attributes_hint_text": "Velg attributtene du vil vurdere når du eliminerer duplikater. Hvis alle attributter er valgt, vil bare strengt identiske dupliserte oppføringer bli fjernet. Hvis ingen attributter er valgt, vil dupliserte oppføringer med samme plassering bli fjernet, uavhengig av deres andre attributter.",
+    "action_delete_duplicates": "Slett duplikater",
+    "searching_for_duplicates": "Søker etter duplikater …",
+    "duplicates_deletion_confirmation_message": "Fant %d duplikater. Er du sikker på at du vil slette disse duplikatene?",
+    "poi_attribute_icon": "Ikon",
+    "poi_attribute_color": "Farge",
+    "enable_log_file_title": "Aktiver loggfil",
+    "enable_log_file_description": "Begynn å skrive hendelseshistorikk for appkjøring til loggfilen",
+    "disable_log_file_title": "Deaktiver loggfil",
+    "disable_log_file_description": "Slutt å skrive hendelseshistorikk for appkjøring til loggfilen, og slett loggfilen",
+    "export_log_file_title": "Eksporter loggfil",
+    "export_log_file_description": "Eksporter loggfilen slik at den kan deles for feilsøkingsformål",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Télécharger tous les médias durant la synchronisation",
     "sync_media_policy_setting_option_download_later": "Télécharger les médias après la synchronisation, au besoin",
     "auto_sync_description": "Synchroniser avec le cloud automatiquement lorsque des changements sont détectés",
+    "search_delete_duplicates_select_attributes_hint_text": "Sélectionnez les attributs à considérer lors de l'élimination des doublons. Si aucun attribut n'est sélectionné, les doublons avec la même position seront supprimés, quels que soient leurs autres attributs.",
+    "action_delete_duplicates": "Supprimer doublons",
+    "searching_for_duplicates": "Recherche des doublons…",
+    "duplicates_deletion_confirmation_message": "%d doublons trouvés. Êtes-vous sûr de vouloir supprimer ces doublons ?",
+    "poi_attribute_icon": "Icône",
+    "poi_attribute_color": "Couleur",
+    "enable_log_file_title": "Activer fichier journal",
+    "enable_log_file_description": "Commencer à écrire l'historique des événements d'exécution de l'application vers le fichier journal",
+    "disable_log_file_title": "Désactiver fichier journal",
+    "disable_log_file_description": "Arrêter d'écrire l'historique des événements d'exécution de l'application vers le fichier journal, et supprimer le fichier journal",
+    "export_log_file_title": "Exporter fichier journal",
+    "export_log_file_description": "Exporter le fichier journal pour qu'il puisse être partagé à des fins de débogage",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Baixeu tots els mitjans durant la sincronització",
     "sync_media_policy_setting_option_download_later": "Baixeu contingut multimèdia després de la sincronització quan sigui necessari",
     "auto_sync_description": "Sincronitza automàticament amb el núvol quan es detecten canvis",
+    "search_delete_duplicates_select_attributes_hint_text": "Seleccioneu els atributs a tenir en compte a l'hora d'eliminar duplicats. Si es seleccionen tots els atributs, només s'eliminaran les entrades duplicades estrictament idèntiques. Si no se selecciona cap atribut, s'eliminaran les entrades duplicades amb la mateixa ubicació, independentment dels seus altres atributs.",
+    "action_delete_duplicates": "Elimina els duplicats",
+    "searching_for_duplicates": "S'estan cercant duplicats...",
+    "duplicates_deletion_confirmation_message": "S'han trobat %d duplicats. Esteu segur que voleu suprimir aquests duplicats?",
+    "poi_attribute_icon": "Icona",
+    "poi_attribute_color": "Color",
+    "enable_log_file_title": "Habilita el fitxer de registre",
+    "enable_log_file_description": "Comenceu a escriure l'historial d'esdeveniments d'execució de l'aplicació al fitxer de registre",
+    "disable_log_file_title": "Desactiva el fitxer de registre",
+    "disable_log_file_description": "Deixeu d'escriure l'historial d'esdeveniments d'execució de l'aplicació al fitxer de registre i suprimiu-lo",
+    "export_log_file_title": "Exporta el fitxer de registre",
+    "export_log_file_description": "Exporteu el fitxer de registre perquè es pugui compartir amb finalitats de depuració",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

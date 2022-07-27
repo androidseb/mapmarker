@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Завантажити всі медіа під час синхронізації",
     "sync_media_policy_setting_option_download_later": "За потреби завантажуйте медіафайли після синхронізації",
     "auto_sync_description": "Автоматична синхронізація з хмарою при виявленні змін",
+    "search_delete_duplicates_select_attributes_hint_text": "Виберіть атрибути, які слід враховувати під час усунення дублікатів. Якщо вибрано всі атрибути, буде видалено лише повністю ідентичні повторювані записи. Якщо не вибрано жодного атрибута, повторювані записи з однаковим розташуванням буде видалено, незалежно від їхніх інших атрибутів.",
+    "action_delete_duplicates": "Видалити дублікати",
+    "searching_for_duplicates": "Пошук дублікатів…",
+    "duplicates_deletion_confirmation_message": "Знайдено %d дублікатів. Ви впевнені, що хочете видалити ці дублікати?",
+    "poi_attribute_icon": "значок",
+    "poi_attribute_color": "колір",
+    "enable_log_file_title": "Увімкнути файл журналу",
+    "enable_log_file_description": "Почніть записувати історію подій виконання програми у файл журналу",
+    "disable_log_file_title": "Вимкнути файл журналу",
+    "disable_log_file_description": "Припиніть запис історії подій виконання програми до файлу журналу та видаліть файл журналу",
+    "export_log_file_title": "Експорт файлу журналу",
+    "export_log_file_description": "Експортуйте файл журналу, щоб ним можна було поділитися з метою налагодження",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

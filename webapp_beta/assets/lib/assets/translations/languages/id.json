@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Unduh semua media selama sinkronisasi",
     "sync_media_policy_setting_option_download_later": "Unduh media setelah sinkronisasi bila diperlukan",
     "auto_sync_description": "Sinkronkan dengan cloud secara otomatis ketika perubahan terdeteksi",
+    "search_delete_duplicates_select_attributes_hint_text": "Pilih atribut untuk dipertimbangkan saat menghilangkan duplikat. Jika semua atribut dipilih, hanya entri duplikat yang benar-benar identik yang akan dihapus. Jika tidak ada atribut yang dipilih, entri duplikat dengan lokasi yang sama akan dihapus, terlepas dari atribut lainnya.",
+    "action_delete_duplicates": "Hapus duplikat",
+    "searching_for_duplicates": "Mencari duplikat…",
+    "duplicates_deletion_confirmation_message": "Ditemukan %d duplikat. Apakah Anda yakin ingin menghapus duplikat itu?",
+    "poi_attribute_icon": "ikon",
+    "poi_attribute_color": "Warna",
+    "enable_log_file_title": "Aktifkan file log",
+    "enable_log_file_description": "Mulai menulis riwayat peristiwa eksekusi aplikasi ke file log",
+    "disable_log_file_title": "Nonaktifkan file log",
+    "disable_log_file_description": "Berhenti menulis riwayat peristiwa eksekusi aplikasi ke file log, dan hapus file log",
+    "export_log_file_title": "Ekspor file log",
+    "export_log_file_description": "Ekspor file log sehingga dapat dibagikan untuk keperluan debugging",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

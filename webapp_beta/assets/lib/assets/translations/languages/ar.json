@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "قم بتنزيل جميع الوسائط أثناء المزامنة",
     "sync_media_policy_setting_option_download_later": "قم بتنزيل الوسائط بعد المزامنة عند الحاجة",
     "auto_sync_description": "قم بالمزامنة مع السحابة تلقائيًا عند اكتشاف التغييرات",
+    "search_delete_duplicates_select_attributes_hint_text": "حدد السمات التي يجب مراعاتها عند إزالة التكرارات. إذا تم تحديد جميع السمات ، فستتم إزالة الإدخالات المكررة المتطابقة تمامًا فقط. إذا لم يتم تحديد أي سمات ، فستتم إزالة الإدخالات المكررة التي لها نفس الموقع ، بغض النظر عن سماتها الأخرى.",
+    "action_delete_duplicates": "حذف التكرارات",
+    "searching_for_duplicates": "البحث عن التكرارات ...",
+    "duplicates_deletion_confirmation_message": "تم العثور على %d تكرارات. هل أنت متأكد أنك تريد حذف هذه التكرارات؟",
+    "poi_attribute_icon": "أيقونة",
+    "poi_attribute_color": "اللون",
+    "enable_log_file_title": "قم بتمكين ملف السجل",
+    "enable_log_file_description": "ابدأ في كتابة محفوظات أحداث تنفيذ التطبيق في ملف السجل",
+    "disable_log_file_title": "تعطيل ملف السجل",
+    "disable_log_file_description": "توقف عن كتابة محفوظات أحداث تنفيذ التطبيق في ملف السجل ، واحذف ملف السجل",
+    "export_log_file_title": "تصدير ملف السجل",
+    "export_log_file_description": "قم بتصدير ملف السجل بحيث يمكن مشاركته لأغراض التصحيح",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

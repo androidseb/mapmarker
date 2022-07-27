@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Tải xuống tất cả phương tiện trong khi đồng bộ hóa",
     "sync_media_policy_setting_option_download_later": "Tải xuống phương tiện sau khi đồng bộ hóa khi cần",
     "auto_sync_description": "Tự động đồng bộ hóa với đám mây khi phát hiện các thay đổi",
+    "search_delete_duplicates_select_attributes_hint_text": "Chọn các thuộc tính để xem xét khi loại bỏ các bản sao. Nếu tất cả các thuộc tính được chọn, chỉ những mục nhập trùng lặp hoàn toàn giống nhau mới bị xóa. Nếu không có thuộc tính nào được chọn, các mục nhập trùng lặp có cùng vị trí sẽ bị xóa, bất kể các thuộc tính khác của chúng là gì.",
+    "action_delete_duplicates": "Xóa các bản sao",
+    "searching_for_duplicates": "Tìm kiếm các bản sao…",
+    "duplicates_deletion_confirmation_message": "Đã tìm thấy %d bản sao. Bạn có chắc chắn muốn xóa các bản sao đó không?",
+    "poi_attribute_icon": "Biểu tượng",
+    "poi_attribute_color": "Màu sắc",
+    "enable_log_file_title": "Bật tệp nhật ký",
+    "enable_log_file_description": "Bắt đầu ghi lịch sử sự kiện thực thi ứng dụng vào tệp nhật ký",
+    "disable_log_file_title": "Tắt tệp nhật ký",
+    "disable_log_file_description": "Ngừng ghi lịch sử sự kiện thực thi ứng dụng vào tệp nhật ký và xóa tệp nhật ký",
+    "export_log_file_title": "Xuất tệp nhật ký",
+    "export_log_file_description": "Xuất tệp nhật ký để nó có thể được chia sẻ cho mục đích gỡ lỗi",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Ladda ner alla media under synkronisering",
     "sync_media_policy_setting_option_download_later": "Ladda ner media efter synkronisering vid behov",
     "auto_sync_description": "Synkronisera automatiskt med molnet när ändringar upptäcks",
+    "search_delete_duplicates_select_attributes_hint_text": "Välj de attribut som ska beaktas när du tar bort dubbletter. Om alla attribut är valda, kommer endast strikt identiska dubbletter att tas bort. Om inga attribut väljs kommer dubbletter av poster med samma plats att tas bort, oavsett deras andra attribut.",
+    "action_delete_duplicates": "Ta bort dubbletter",
+    "searching_for_duplicates": "Söker efter dubbletter...",
+    "duplicates_deletion_confirmation_message": "Hittade %d dubbletter. Är du säker på att du vill ta bort dessa dubbletter?",
+    "poi_attribute_icon": "Ikon",
+    "poi_attribute_color": "Färg",
+    "enable_log_file_title": "Aktivera loggfil",
+    "enable_log_file_description": "Börja skriva historik för appkörningshändelser till loggfilen",
+    "disable_log_file_title": "Inaktivera loggfil",
+    "disable_log_file_description": "Sluta skriva historik för appkörningshändelser till loggfilen och ta bort loggfilen",
+    "export_log_file_title": "Exportera loggfil",
+    "export_log_file_description": "Exportera loggfilen så att den kan delas i felsökningssyfte",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

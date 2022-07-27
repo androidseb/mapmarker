@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "הורד את כל המדיה במהלך הסנכרון",
     "sync_media_policy_setting_option_download_later": "הורד מדיה לאחר סנכרון בעת הצורך",
     "auto_sync_description": "סנכרן עם הענן באופן אוטומטי כאשר מתגלים שינויים",
+    "search_delete_duplicates_select_attributes_hint_text": "בחר את התכונות שיש לקחת בחשבון בעת ביטול כפילויות. אם כל התכונות נבחרות, יוסרו רק ערכים כפולים זהים לחלוטין. אם לא נבחרו תכונות, ערכים כפולים עם אותו מיקום יוסרו, ללא קשר לתכונות האחרות שלהם.",
+    "action_delete_duplicates": "מחק כפילויות",
+    "searching_for_duplicates": "מחפש כפילויות...",
+    "duplicates_deletion_confirmation_message": "נמצאו %d כפילויות. האם אתה בטוח שברצונך למחוק את הכפילויות האלה?",
+    "poi_attribute_icon": "סמל",
+    "poi_attribute_color": "צֶבַע",
+    "enable_log_file_title": "אפשר קובץ יומן",
+    "enable_log_file_description": "התחל לכתוב היסטוריית אירועי ביצוע אפליקציה לקובץ היומן",
+    "disable_log_file_title": "השבת את קובץ היומן",
+    "disable_log_file_description": "הפסק לכתוב היסטוריית אירועי ביצוע של אפליקציה לקובץ היומן, ומחק את קובץ היומן",
+    "export_log_file_title": "ייצוא קובץ יומן",
+    "export_log_file_description": "ייצא את קובץ היומן כך שניתן יהיה לשתף אותו למטרות ניפוי באגים",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Prenesite vse medije med sinhronizacijo",
     "sync_media_policy_setting_option_download_later": "Po potrebi prenesite predstavnost po sinhronizaciji",
     "auto_sync_description": "Samodejna sinhronizacija z oblakom, ko so zaznane spremembe",
+    "search_delete_duplicates_select_attributes_hint_text": "Izberite atribute, ki jih je treba upoštevati pri odstranjevanju dvojnikov. Če so izbrani vsi atributi, bodo odstranjeni samo popolnoma enaki podvojeni vnosi. Če ni izbran noben atribut, bodo podvojeni vnosi z isto lokacijo odstranjeni, ne glede na njihove druge atribute.",
+    "action_delete_duplicates": "Izbriši dvojnike",
+    "searching_for_duplicates": "Iskanje dvojnikov ...",
+    "duplicates_deletion_confirmation_message": "Najdenih %d dvojnikov. Ali ste prepričani, da želite izbrisati te dvojnike?",
+    "poi_attribute_icon": "Ikona",
+    "poi_attribute_color": "barva",
+    "enable_log_file_title": "Omogoči dnevniško datoteko",
+    "enable_log_file_description": "Začnite pisati zgodovino dogodkov izvajanja aplikacije v dnevniško datoteko",
+    "disable_log_file_title": "Onemogoči dnevniško datoteko",
+    "disable_log_file_description": "Prenehajte pisati zgodovino dogodkov izvajanja aplikacije v datoteko dnevnika in izbrišite datoteko dnevnika",
+    "export_log_file_title": "Izvozi dnevniško datoteko",
+    "export_log_file_description": "Izvozite dnevniško datoteko, da jo lahko delite za namene odpravljanja napak",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

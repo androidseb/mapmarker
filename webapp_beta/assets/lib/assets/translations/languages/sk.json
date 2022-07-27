@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Stiahnite si všetky médiá počas synchronizácie",
     "sync_media_policy_setting_option_download_later": "V prípade potreby stiahnite médiá po synchronizácii",
     "auto_sync_description": "Po zistení zmien sa automaticky synchronizuje s cloudom",
+    "search_delete_duplicates_select_attributes_hint_text": "Vyberte atribúty, ktoré je potrebné zvážiť pri odstraňovaní duplikátov. Ak sú vybraté všetky atribúty, odstránia sa iba striktne identické duplicitné položky. Ak nie sú vybraté žiadne atribúty, duplicitné položky s rovnakým umiestnením budú odstránené bez ohľadu na ich ostatné atribúty.",
+    "action_delete_duplicates": "Odstrániť duplikáty",
+    "searching_for_duplicates": "Hľadajú sa duplikáty…",
+    "duplicates_deletion_confirmation_message": "Našlo sa %d duplikátov. Naozaj chcete odstrániť tieto duplikáty?",
+    "poi_attribute_icon": "Ikona",
+    "poi_attribute_color": "Farba",
+    "enable_log_file_title": "Povoliť súbor denníka",
+    "enable_log_file_description": "Začnite zapisovať históriu udalostí spustenia aplikácie do súboru denníka",
+    "disable_log_file_title": "Zakázať súbor denníka",
+    "disable_log_file_description": "Zastavte zapisovanie histórie udalostí spustenia aplikácie do súboru denníka a odstráňte súbor denníka",
+    "export_log_file_title": "Exportovať súbor denníka",
+    "export_log_file_description": "Exportujte súbor denníka, aby ho bolo možné zdieľať na účely ladenia",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "ดาวน์โหลดสื่อทั้งหมดระหว่างการซิงค์",
     "sync_media_policy_setting_option_download_later": "ดาวน์โหลดสื่อหลังจากซิงค์เมื่อจำเป็น",
     "auto_sync_description": "ซิงค์กับคลาวด์โดยอัตโนมัติเมื่อตรวจพบการเปลี่ยนแปลง",
+    "search_delete_duplicates_select_attributes_hint_text": "เลือกแอตทริบิวต์ที่ต้องพิจารณาเมื่อกำจัดรายการซ้ำ หากเลือกแอตทริบิวต์ทั้งหมด ระบบจะลบเฉพาะรายการที่ซ้ำกันอย่างเคร่งครัดเท่านั้น หากไม่มีการเลือกแอตทริบิวต์ รายการที่ซ้ำกันที่มีตำแหน่งเดียวกันจะถูกลบออก โดยไม่คำนึงถึงแอตทริบิวต์อื่นๆ",
+    "action_delete_duplicates": "ลบรายการซ้ำ",
+    "searching_for_duplicates": "กำลังค้นหารายการที่ซ้ำกัน...",
+    "duplicates_deletion_confirmation_message": "พบ %d รายการที่ซ้ำกัน คุณแน่ใจหรือไม่ว่าต้องการลบรายการที่ซ้ำกัน",
+    "poi_attribute_icon": "ไอคอน",
+    "poi_attribute_color": "สี",
+    "enable_log_file_title": "เปิดใช้งานไฟล์บันทึก",
+    "enable_log_file_description": "เริ่มเขียนประวัติเหตุการณ์การดำเนินการแอปไปยังไฟล์บันทึก",
+    "disable_log_file_title": "ปิดการใช้งานไฟล์บันทึก",
+    "disable_log_file_description": "หยุดเขียนประวัติเหตุการณ์การดำเนินการแอปไปยังไฟล์บันทึก และลบไฟล์บันทึก",
+    "export_log_file_title": "ส่งออกไฟล์บันทึก",
+    "export_log_file_description": "ส่งออกไฟล์บันทึกเพื่อให้สามารถแชร์เพื่อวัตถุประสงค์ในการดีบัก",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

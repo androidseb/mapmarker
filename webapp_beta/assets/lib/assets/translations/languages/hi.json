@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "सिंक के दौरान सभी मीडिया डाउनलोड करें",
     "sync_media_policy_setting_option_download_later": "जरूरत पड़ने पर सिंक के बाद मीडिया डाउनलोड करें",
     "auto_sync_description": "परिवर्तनों का पता चलने पर स्वचालित रूप से क्लाउड के साथ सिंक करें",
+    "search_delete_duplicates_select_attributes_hint_text": "डुप्लिकेट को हटाते समय विचार करने के लिए विशेषताओं का चयन करें। यदि सभी विशेषताओं का चयन किया जाता है, तो केवल समान रूप से समान डुप्लिकेट प्रविष्टियां हटा दी जाएंगी। यदि कोई विशेषता नहीं चुनी जाती है, तो उनकी अन्य विशेषताओं पर ध्यान दिए बिना समान स्थान वाली डुप्लिकेट प्रविष्टियां हटा दी जाएंगी।",
+    "action_delete_duplicates": "डुप्लिकेट हटाएं",
+    "searching_for_duplicates": "डुप्लीकेट खोजे जा रहे हैं…",
+    "duplicates_deletion_confirmation_message": "%d डुप्लीकेट मिले। क्या आप वाकई उन डुप्लिकेट को हटाना चाहते हैं?",
+    "poi_attribute_icon": "आइकन",
+    "poi_attribute_color": "रंग",
+    "enable_log_file_title": "लॉग फ़ाइल सक्षम करें",
+    "enable_log_file_description": "लॉग फ़ाइल में ऐप निष्पादन ईवेंट इतिहास लिखना प्रारंभ करें",
+    "disable_log_file_title": "लॉग फ़ाइल अक्षम करें",
+    "disable_log_file_description": "लॉग फ़ाइल में ऐप निष्पादन ईवेंट इतिहास लिखना बंद करें, और लॉग फ़ाइल हटाएं",
+    "export_log_file_title": "निर्यात लॉग फ़ाइल",
+    "export_log_file_description": "लॉग फ़ाइल निर्यात करें ताकि इसे डिबगिंग उद्देश्यों के लिए साझा किया जा सके",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

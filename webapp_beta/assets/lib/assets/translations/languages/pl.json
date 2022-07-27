@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Pobierz wszystkie multimedia podczas synchronizacji",
     "sync_media_policy_setting_option_download_later": "W razie potrzeby pobierz multimedia po synchronizacji",
     "auto_sync_description": "Synchronizuj z chmurą automatycznie po wykryciu zmian",
+    "search_delete_duplicates_select_attributes_hint_text": "Wybierz atrybuty do rozważenia podczas eliminowania duplikatów. Jeśli wybrane zostaną wszystkie atrybuty, tylko identyczne zduplikowane wpisy zostaną usunięte. Jeśli nie wybierzesz żadnych atrybutów, zduplikowane wpisy o tej samej lokalizacji zostaną usunięte, niezależnie od ich innych atrybutów.",
+    "action_delete_duplicates": "Usuń duplikaty",
+    "searching_for_duplicates": "Szukam duplikatów…",
+    "duplicates_deletion_confirmation_message": "Znaleziono %d duplikatów. Czy na pewno chcesz usunąć te duplikaty?",
+    "poi_attribute_icon": "Ikona",
+    "poi_attribute_color": "Kolor",
+    "enable_log_file_title": "Włącz plik dziennika",
+    "enable_log_file_description": "Zacznij zapisywać historię zdarzeń wykonania aplikacji do pliku dziennika",
+    "disable_log_file_title": "Wyłącz plik dziennika",
+    "disable_log_file_description": "Zatrzymaj zapisywanie historii zdarzeń wykonania aplikacji w pliku dziennika i usuń plik dziennika",
+    "export_log_file_title": "Eksportuj plik dziennika",
+    "export_log_file_description": "Wyeksportuj plik dziennika, aby można go było udostępnić do celów debugowania",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

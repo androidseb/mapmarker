@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "ទាញយកមេឌៀទាំងអស់កំឡុងពេលធ្វើសមកាលកម្ម",
     "sync_media_policy_setting_option_download_later": "ទាញយកមេឌៀបន្ទាប់ពីធ្វើសមកាលកម្មនៅពេលចាំបាច់",
     "auto_sync_description": "ធ្វើសមកាលកម្មជាមួយពពកដោយស្វ័យប្រវត្តិនៅពេលដែលការផ្លាស់ប្តូរត្រូវបានរកឃើញ",
+    "search_delete_duplicates_select_attributes_hint_text": "ជ្រើសរើសគុណលក្ខណៈដែលត្រូវពិចារណានៅពេលលុបបំបាត់ការចម្លង។ ប្រសិនបើគុណលក្ខណៈទាំងអស់ត្រូវបានជ្រើសរើស មានតែធាតុស្ទួនដែលដូចគ្នាបេះបិទនឹងត្រូវបានយកចេញ។ ប្រសិនបើគ្មានគុណលក្ខណៈត្រូវបានជ្រើសរើសទេ ធាតុស្ទួនដែលមានទីតាំងដូចគ្នានឹងត្រូវបានយកចេញដោយមិនគិតពីគុណលក្ខណៈផ្សេងទៀតរបស់វា។",
+    "action_delete_duplicates": "លុបលេខស្ទួន",
+    "searching_for_duplicates": "កំពុងស្វែងរកស្ទួន...",
+    "duplicates_deletion_confirmation_message": "រកឃើញ %d ស្ទួន។ តើ​អ្នក​ប្រាកដ​ជា​ចង់​លុប​ស្ទួន​ទាំង​នោះ​ឬ?",
+    "poi_attribute_icon": "រូបតំណាង",
+    "poi_attribute_color": "ពណ៌",
+    "enable_log_file_title": "បើកឯកសារកំណត់ហេតុ",
+    "enable_log_file_description": "ចាប់ផ្តើមសរសេរប្រវត្តិព្រឹត្តិការណ៍ប្រតិបត្តិកម្មវិធីទៅកាន់ឯកសារកំណត់ហេតុ",
+    "disable_log_file_title": "បិទឯកសារកំណត់ហេតុ",
+    "disable_log_file_description": "បញ្ឈប់ការសរសេរប្រវត្តិព្រឹត្តិការណ៍ប្រតិបត្តិកម្មវិធីទៅកាន់ឯកសារកំណត់ហេតុ ហើយលុបឯកសារកំណត់ហេតុ",
+    "export_log_file_title": "នាំចេញឯកសារកំណត់ហេតុ",
+    "export_log_file_description": "នាំចេញឯកសារកំណត់ហេតុ ដូច្នេះវាអាចត្រូវបានចែករំលែកសម្រាប់គោលបំណងបំបាត់កំហុស",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "在同步期间下载所有媒体",
     "sync_media_policy_setting_option_download_later": "需要时同步后下载媒体",
     "auto_sync_description": "检测到更改时自动与云同步",
+    "search_delete_duplicates_select_attributes_hint_text": "选择消除重复项时要考虑的属性。如果选择了所有属性，则只会删除严格相同的重复条目。如果未选择任何属性，则将删除具有相同位置的重复条目，而不管它们的其他属性如何。",
+    "action_delete_duplicates": "删除重复项",
+    "searching_for_duplicates": "正在搜索重复项…",
+    "duplicates_deletion_confirmation_message": "找到 %d 个重复项。您确定要删除这些重复项吗？",
+    "poi_attribute_icon": "图标",
+    "poi_attribute_color": "颜色",
+    "enable_log_file_title": "启用日志文件",
+    "enable_log_file_description": "开始将应用执行事件历史记录写入日志文件",
+    "disable_log_file_title": "禁用日志文件",
+    "disable_log_file_description": "停止将应用执行事件历史写入日志文件，并删除日志文件",
+    "export_log_file_title": "导出日志文件",
+    "export_log_file_description": "导出日志文件，以便为调试目的共享它",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

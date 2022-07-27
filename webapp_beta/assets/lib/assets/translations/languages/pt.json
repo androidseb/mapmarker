@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Baixe todas as mídias durante a sincronização",
     "sync_media_policy_setting_option_download_later": "Baixe a mídia após a sincronização quando necessário",
     "auto_sync_description": "Sincronize com a nuvem automaticamente quando forem detectadas alterações",
+    "search_delete_duplicates_select_attributes_hint_text": "Selecione os atributos a serem considerados ao eliminar duplicatas. Se todos os atributos forem selecionados, apenas entradas duplicadas estritamente idênticas serão removidas. Se nenhum atributo for selecionado, as entradas duplicadas com o mesmo local serão removidas, independentemente de seus outros atributos.",
+    "action_delete_duplicates": "Excluir duplicatas",
+    "searching_for_duplicates": "Procurando por duplicatas…",
+    "duplicates_deletion_confirmation_message": "Encontrado %d duplicatas. Tem certeza de que deseja excluir essas duplicatas?",
+    "poi_attribute_icon": "Ícone",
+    "poi_attribute_color": "Cor",
+    "enable_log_file_title": "Ativar arquivo de log",
+    "enable_log_file_description": "Comece a gravar o histórico de eventos de execução do aplicativo no arquivo de log",
+    "disable_log_file_title": "Desabilitar arquivo de log",
+    "disable_log_file_description": "Pare de gravar o histórico de eventos de execução do aplicativo no arquivo de log e exclua o arquivo de log",
+    "export_log_file_title": "Exportar arquivo de registro",
+    "export_log_file_description": "Exporte o arquivo de log para que possa ser compartilhado para fins de depuração",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

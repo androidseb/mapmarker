@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Преузмите све медије током синхронизације",
     "sync_media_policy_setting_option_download_later": "Преузмите медије након синхронизације када је потребно",
     "auto_sync_description": "Аутоматски синхронизујте са облаком када се открију промене",
+    "search_delete_duplicates_select_attributes_hint_text": "Изаберите атрибуте које ћете узети у обзир када елиминишете дупликате. Ако су сви атрибути изабрани, биће уклоњени само стриктно идентични дупликати. Ако ниједан атрибут није изабран, дупли уноси са истом локацијом ће бити уклоњени, без обзира на њихове друге атрибуте.",
+    "action_delete_duplicates": "Избришите дупликате",
+    "searching_for_duplicates": "Тражење дупликата…",
+    "duplicates_deletion_confirmation_message": "Пронађено %d дупликата. Да ли сте сигурни да желите да избришете те дупликате?",
+    "poi_attribute_icon": "Икона",
+    "poi_attribute_color": "Боја",
+    "enable_log_file_title": "Омогући датотеку евиденције",
+    "enable_log_file_description": "Почните да пишете историју догађаја извршавања апликације у датотеку евиденције",
+    "disable_log_file_title": "Онемогући датотеку евиденције",
+    "disable_log_file_description": "Зауставите писање историје догађаја извршавања апликације у датотеку евиденције и избришите датотеку евиденције",
+    "export_log_file_title": "Извези датотеку евиденције",
+    "export_log_file_description": "Извезите датотеку евиденције тако да се може делити за потребе отклањања грешака",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

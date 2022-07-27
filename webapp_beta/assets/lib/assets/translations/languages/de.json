@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Laden Sie alle Medien während der Synchronisierung herunter",
     "sync_media_policy_setting_option_download_later": "Laden Sie bei Bedarf Medien nach der Synchronisierung herunter",
     "auto_sync_description": "Synchronisieren Sie automatisch mit der Cloud, wenn Änderungen erkannt werden",
+    "search_delete_duplicates_select_attributes_hint_text": "Wählen Sie die Attribute aus, die beim Eliminieren von Duplikaten berücksichtigt werden sollen. Wenn alle Attribute ausgewählt sind, werden nur absolut identische doppelte Einträge entfernt. Wenn keine Attribute ausgewählt sind, werden doppelte Einträge mit demselben Ort unabhängig von ihren anderen Attributen entfernt.",
+    "action_delete_duplicates": "Duplikate löschen",
+    "searching_for_duplicates": "Suche nach Duplikaten…",
+    "duplicates_deletion_confirmation_message": "%d Duplikate gefunden. Möchten Sie diese Duplikate wirklich löschen?",
+    "poi_attribute_icon": "Symbol",
+    "poi_attribute_color": "Farbe",
+    "enable_log_file_title": "Protokolldatei aktivieren",
+    "enable_log_file_description": "Beginnen Sie mit dem Schreiben des App-Ausführungsereignisverlaufs in die Protokolldatei",
+    "disable_log_file_title": "Protokolldatei deaktivieren",
+    "disable_log_file_description": "Beenden Sie das Schreiben des App-Ausführungsereignisverlaufs in die Protokolldatei und löschen Sie die Protokolldatei",
+    "export_log_file_title": "Protokolldatei exportieren",
+    "export_log_file_description": "Exportieren Sie die Protokolldatei, damit sie zu Debugging-Zwecken freigegeben werden kann",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

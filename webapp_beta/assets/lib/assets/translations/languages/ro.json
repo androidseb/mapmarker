@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Descărcați toate conținuturile media în timpul sincronizării",
     "sync_media_policy_setting_option_download_later": "Descărcați media după sincronizare atunci când este necesar",
     "auto_sync_description": "Sincronizați automat cu cloud-ul când sunt detectate modificări",
+    "search_delete_duplicates_select_attributes_hint_text": "Selectați atributele de luat în considerare atunci când eliminați duplicatele. Dacă sunt selectate toate atributele, vor fi eliminate doar intrările duplicate strict identice. Dacă nu sunt selectate atribute, intrările duplicate cu aceeași locație vor fi eliminate, indiferent de celelalte atribute ale acestora.",
+    "action_delete_duplicates": "Ștergeți duplicatele",
+    "searching_for_duplicates": "Se caută duplicate...",
+    "duplicates_deletion_confirmation_message": "S-au găsit %d duplicate. Sigur doriți să ștergeți acele duplicate?",
+    "poi_attribute_icon": "Pictogramă",
+    "poi_attribute_color": "Culoare",
+    "enable_log_file_title": "Activați fișierul jurnal",
+    "enable_log_file_description": "Începeți să scrieți istoricul evenimentelor de execuție a aplicației în fișierul jurnal",
+    "disable_log_file_title": "Dezactivează fișierul jurnal",
+    "disable_log_file_description": "Nu mai scrieți istoricul evenimentelor de execuție a aplicației în fișierul jurnal și ștergeți fișierul jurnal",
+    "export_log_file_title": "Exportați fișierul jurnal",
+    "export_log_file_description": "Exportați fișierul jurnal, astfel încât să poată fi partajat în scopuri de depanare",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

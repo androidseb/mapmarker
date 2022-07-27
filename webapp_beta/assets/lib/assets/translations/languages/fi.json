@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Lataa kaikki mediat synkronoinnin aikana",
     "sync_media_policy_setting_option_download_later": "Lataa mediaa tarvittaessa synkronoinnin jälkeen",
     "auto_sync_description": "Synkronoi automaattisesti pilven kanssa, kun muutoksia havaitaan",
+    "search_delete_duplicates_select_attributes_hint_text": "Valitse määritteet, jotka on otettava huomioon kaksoiskappaleiden poistamisessa. Jos kaikki määritteet valitaan, vain täysin identtiset päällekkäiset merkinnät poistetaan. Jos attribuutteja ei valita, päällekkäiset merkinnät, joilla on sama sijainti, poistetaan niiden muista määritteistä riippumatta.",
+    "action_delete_duplicates": "Poista kaksoiskappaleet",
+    "searching_for_duplicates": "Etsitään kaksoiskappaleita…",
+    "duplicates_deletion_confirmation_message": "Löytyi %d kaksoiskappaletta. Haluatko varmasti poistaa nämä kaksoiskappaleet?",
+    "poi_attribute_icon": "Kuvake",
+    "poi_attribute_color": "Väri",
+    "enable_log_file_title": "Ota lokitiedosto käyttöön",
+    "enable_log_file_description": "Aloita sovellusten suoritushistorian kirjoittaminen lokitiedostoon",
+    "disable_log_file_title": "Poista lokitiedosto käytöstä",
+    "disable_log_file_description": "Lopeta sovellusten suoritushistorian kirjoittaminen lokitiedostoon ja poista lokitiedosto",
+    "export_log_file_title": "Vie lokitiedosto",
+    "export_log_file_description": "Vie lokitiedosto, jotta se voidaan jakaa virheenkorjausta varten",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

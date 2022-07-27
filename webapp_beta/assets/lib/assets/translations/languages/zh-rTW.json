@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "在同步期間下載所有媒體",
     "sync_media_policy_setting_option_download_later": "需要時同步後下載媒體",
     "auto_sync_description": "檢測到更改時自動與云同步",
+    "search_delete_duplicates_select_attributes_hint_text": "選擇消除重複項時要考慮的屬性。如果選擇了所有屬性，則只會刪除嚴格相同的重複條目。如果未選擇任何屬性，則將刪除具有相同位置的重複條目，而不管它們的其他屬性如何。",
+    "action_delete_duplicates": "刪除重複項",
+    "searching_for_duplicates": "正在搜索重複項…",
+    "duplicates_deletion_confirmation_message": "找到 %d 個重複項。您確定要刪除這些重複項嗎？",
+    "poi_attribute_icon": "圖標",
+    "poi_attribute_color": "顏色",
+    "enable_log_file_title": "啟用日誌文件",
+    "enable_log_file_description": "開始將應用執行事件歷史記錄寫入日誌文件",
+    "disable_log_file_title": "禁用日誌文件",
+    "disable_log_file_description": "停止將應用執行事件歷史寫入日誌文件，並刪除日誌文件",
+    "export_log_file_title": "導出日誌文件",
+    "export_log_file_description": "導出日誌文件，以便為調試目的共享它",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "同期中にすべてのメディアをダウンロードする",
     "sync_media_policy_setting_option_download_later": "必要に応じて同期後にメディアをダウンロードする",
     "auto_sync_description": "変更が検出されると、クラウドと自動的に同期します",
+    "search_delete_duplicates_select_attributes_hint_text": "重複を排除するときに考慮する属性を選択します。すべての属性が選択されている場合、厳密に同一の重複エントリのみが削除されます。属性が選択されていない場合、他の属性に関係なく、同じ場所にある重複エントリは削除されます。",
+    "action_delete_duplicates": "重複を削除する",
+    "searching_for_duplicates": "重複を検索しています…",
+    "duplicates_deletion_confirmation_message": "%d個の重複が見つかりました。それらの重複を削除してもよろしいですか？",
+    "poi_attribute_icon": "アイコン",
+    "poi_attribute_color": "色",
+    "enable_log_file_title": "ログファイルを有効にする",
+    "enable_log_file_description": "アプリの実行イベント履歴のログファイルへの書き込みを開始します",
+    "disable_log_file_title": "ログファイルを無効にする",
+    "disable_log_file_description": "アプリの実行イベント履歴のログファイルへの書き込みを停止し、ログファイルを削除します",
+    "export_log_file_title": "ログファイルのエクスポート",
+    "export_log_file_description": "ログファイルをエクスポートして、デバッグ目的で共有できるようにします",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

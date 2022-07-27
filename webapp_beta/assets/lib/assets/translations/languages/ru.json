@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Загружать все медиафайлы во время синхронизации",
     "sync_media_policy_setting_option_download_later": "Загружайте медиафайлы после синхронизации, когда это необходимо",
     "auto_sync_description": "Автоматическая синхронизация с облаком при обнаружении изменений",
+    "search_delete_duplicates_select_attributes_hint_text": "Выберите атрибуты, которые следует учитывать при устранении дубликатов. Если выбраны все атрибуты, будут удалены только строго идентичные повторяющиеся записи. Если никакие атрибуты не выбраны, повторяющиеся записи с одним и тем же местоположением будут удалены независимо от других их атрибутов.",
+    "action_delete_duplicates": "Удалить дубликаты",
+    "searching_for_duplicates": "Поиск дубликатов…",
+    "duplicates_deletion_confirmation_message": "Найдено %d дубликатов. Вы уверены, что хотите удалить эти дубликаты?",
+    "poi_attribute_icon": "Значок",
+    "poi_attribute_color": "Цвет",
+    "enable_log_file_title": "Включить файл журнала",
+    "enable_log_file_description": "Начать запись истории событий выполнения приложения в файл журнала",
+    "disable_log_file_title": "Отключить файл журнала",
+    "disable_log_file_description": "Прекратить запись истории событий выполнения приложения в файл журнала и удалить файл журнала.",
+    "export_log_file_title": "Экспорт файла журнала",
+    "export_log_file_description": "Экспортируйте файл журнала, чтобы его можно было использовать в целях отладки.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

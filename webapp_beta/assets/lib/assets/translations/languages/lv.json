@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Sinhronizācijas laikā lejupielādējiet visu multividi",
     "sync_media_policy_setting_option_download_later": "Ja nepieciešams, pēc sinhronizācijas lejupielādējiet multividi",
     "auto_sync_description": "Sinhronizējiet ar mākoni automātiski, kad tiek konstatētas izmaiņas",
+    "search_delete_duplicates_select_attributes_hint_text": "Atlasiet atribūtus, kas jāņem vērā, likvidējot dublikātus. Ja ir atlasīti visi atribūti, tiks noņemti tikai stingri identiski dublikāti. Ja nav atlasīts neviens atribūts, ierakstu dublikāti ar tādu pašu atrašanās vietu tiks noņemti neatkarīgi no citiem to atribūtiem.",
+    "action_delete_duplicates": "Dzēst dublikātus",
+    "searching_for_duplicates": "Notiek dublikātu meklēšana…",
+    "duplicates_deletion_confirmation_message": "Atrasti %d dublikāti. Vai tiešām vēlaties dzēst šos dublikātus?",
+    "poi_attribute_icon": "Ikona",
+    "poi_attribute_color": "Krāsa",
+    "enable_log_file_title": "Iespējot žurnāla failu",
+    "enable_log_file_description": "Sāciet žurnālfailā rakstīt lietotņu izpildes notikumu vēsturi",
+    "disable_log_file_title": "Atspējot žurnāla failu",
+    "disable_log_file_description": "Pārtrauciet lietotņu izpildes notikumu vēstures ierakstīšanu žurnālfailā un izdzēsiet žurnāla failu",
+    "export_log_file_title": "Eksportēt žurnāla failu",
+    "export_log_file_description": "Eksportējiet žurnāla failu, lai to varētu koplietot atkļūdošanas nolūkos",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

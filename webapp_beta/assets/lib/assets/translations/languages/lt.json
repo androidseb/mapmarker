@@ -620,5 +620,17 @@
     "sync_media_policy_setting_option_download_immediately": "Atsisiųskite visą mediją sinchronizavimo metu",
     "sync_media_policy_setting_option_download_later": "Atsisiųskite laikmeną po sinchronizavimo, kai reikia",
     "auto_sync_description": "Sinchronizuokite su debesimi automatiškai, kai aptinkami pakeitimai",
+    "search_delete_duplicates_select_attributes_hint_text": "Pasirinkite atributus, į kuriuos reikia atsižvelgti šalinant dublikatus. Jei pasirenkami visi atributai, bus pašalinti tik visiškai identiški pasikartojantys įrašai. Jei nepasirinksite jokių atributų, pasikartojantys įrašai su ta pačia vieta bus pašalinti, neatsižvelgiant į kitus jų atributus.",
+    "action_delete_duplicates": "Ištrinti dublikatus",
+    "searching_for_duplicates": "Ieškoma dublikatų…",
+    "duplicates_deletion_confirmation_message": "Rasta %d dublikatų. Ar tikrai norite ištrinti tuos dublikatus?",
+    "poi_attribute_icon": "Piktograma",
+    "poi_attribute_color": "Spalva",
+    "enable_log_file_title": "Įgalinti žurnalo failą",
+    "enable_log_file_description": "Pradėkite rašyti programos vykdymo įvykių istoriją į žurnalo failą",
+    "disable_log_file_title": "Išjungti žurnalo failą",
+    "disable_log_file_description": "Nustokite rašyti programos vykdymo įvykių istoriją į žurnalo failą ir ištrinkite žurnalo failą",
+    "export_log_file_title": "Eksportuoti žurnalo failą",
+    "export_log_file_description": "Eksportuokite žurnalo failą, kad jį būtų galima bendrinti derinimo tikslais",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
