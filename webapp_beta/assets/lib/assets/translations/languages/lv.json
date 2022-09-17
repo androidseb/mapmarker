@@ -632,5 +632,8 @@
     "disable_log_file_description": "Pārtrauciet lietotņu izpildes notikumu vēstures ierakstīšanu žurnālfailā un izdzēsiet žurnāla failu",
     "export_log_file_title": "Eksportēt žurnāla failu",
     "export_log_file_description": "Eksportējiet žurnāla failu, lai to varētu koplietot atkļūdošanas nolūkos",
+    "rendering_performance": "Renderēšanas veiktspējas iestatījumi",
+    "max_number_of_drawn_pois": "Maksimālais uzzīmēto POI skaits",
+    "max_number_of_drawn_floating_marker_titles": "Maksimālais uzzīmēto peldošo marķieru nosaukumu skaits",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

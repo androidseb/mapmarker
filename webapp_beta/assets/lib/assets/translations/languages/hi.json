@@ -632,5 +632,8 @@
     "disable_log_file_description": "लॉग फ़ाइल में ऐप निष्पादन ईवेंट इतिहास लिखना बंद करें, और लॉग फ़ाइल हटाएं",
     "export_log_file_title": "निर्यात लॉग फ़ाइल",
     "export_log_file_description": "लॉग फ़ाइल निर्यात करें ताकि इसे डिबगिंग उद्देश्यों के लिए साझा किया जा सके",
+    "rendering_performance": "प्रदर्शन सेटिंग प्रस्तुत करना",
+    "max_number_of_drawn_pois": "आहरित पीओआई की अधिकतम संख्या",
+    "max_number_of_drawn_floating_marker_titles": "ड्रॉइंग फ़्लोटिंग मार्कर शीर्षकों की अधिकतम संख्या",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

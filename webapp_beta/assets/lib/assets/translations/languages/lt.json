@@ -632,5 +632,8 @@
     "disable_log_file_description": "Nustokite rašyti programos vykdymo įvykių istoriją į žurnalo failą ir ištrinkite žurnalo failą",
     "export_log_file_title": "Eksportuoti žurnalo failą",
     "export_log_file_description": "Eksportuokite žurnalo failą, kad jį būtų galima bendrinti derinimo tikslais",
+    "rendering_performance": "Atvaizdavimo našumo nustatymai",
+    "max_number_of_drawn_pois": "Didžiausias nupieštų LV skaičius",
+    "max_number_of_drawn_floating_marker_titles": "Didžiausias nupieštų slankiųjų žymeklių pavadinimų skaičius",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -632,5 +632,8 @@
     "disable_log_file_description": "Ngừng ghi lịch sử sự kiện thực thi ứng dụng vào tệp nhật ký và xóa tệp nhật ký",
     "export_log_file_title": "Xuất tệp nhật ký",
     "export_log_file_description": "Xuất tệp nhật ký để nó có thể được chia sẻ cho mục đích gỡ lỗi",
+    "rendering_performance": "Kết xuất cài đặt hiệu suất",
+    "max_number_of_drawn_pois": "Số POI được rút ra tối đa",
+    "max_number_of_drawn_floating_marker_titles": "Số lượng tiêu đề điểm đánh dấu động được vẽ tối đa",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

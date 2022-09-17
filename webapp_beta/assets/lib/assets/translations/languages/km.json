@@ -632,5 +632,8 @@
     "disable_log_file_description": "បញ្ឈប់ការសរសេរប្រវត្តិព្រឹត្តិការណ៍ប្រតិបត្តិកម្មវិធីទៅកាន់ឯកសារកំណត់ហេតុ ហើយលុបឯកសារកំណត់ហេតុ",
     "export_log_file_title": "នាំចេញឯកសារកំណត់ហេតុ",
     "export_log_file_description": "នាំចេញឯកសារកំណត់ហេតុ ដូច្នេះវាអាចត្រូវបានចែករំលែកសម្រាប់គោលបំណងបំបាត់កំហុស",
+    "rendering_performance": "កំពុងបង្ហាញការកំណត់ដំណើរការ",
+    "max_number_of_drawn_pois": "ចំនួនអតិបរមានៃ POIs ដែលត្រូវបានដកចេញ",
+    "max_number_of_drawn_floating_marker_titles": "ចំនួនអតិបរមានៃចំណងជើងសញ្ញាសម្គាល់អណ្តែតដែលបានគូរ",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

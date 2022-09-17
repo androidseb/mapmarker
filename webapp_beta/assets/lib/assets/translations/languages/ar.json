@@ -632,5 +632,8 @@
     "disable_log_file_description": "توقف عن كتابة محفوظات أحداث تنفيذ التطبيق في ملف السجل ، واحذف ملف السجل",
     "export_log_file_title": "تصدير ملف السجل",
     "export_log_file_description": "قم بتصدير ملف السجل بحيث يمكن مشاركته لأغراض التصحيح",
+    "rendering_performance": "تقديم إعدادات الأداء",
+    "max_number_of_drawn_pois": "الحد الأقصى لعدد نقاط الاهتمام المرسومة",
+    "max_number_of_drawn_floating_marker_titles": "الحد الأقصى لعدد عناوين العلامات العائمة المرسومة",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

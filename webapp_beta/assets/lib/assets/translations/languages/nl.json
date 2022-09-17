@@ -632,5 +632,8 @@
     "disable_log_file_description": "Stop met het schrijven van de geschiedenis van app-uitvoeringsgebeurtenissen naar het logbestand en verwijder het logbestand",
     "export_log_file_title": "Logbestand exporteren",
     "export_log_file_description": "Exporteer het logbestand zodat het kan worden gedeeld voor foutopsporingsdoeleinden",
+    "rendering_performance": "Prestatie-instellingen renderen",
+    "max_number_of_drawn_pois": "Maximaal aantal getrokken POI's",
+    "max_number_of_drawn_floating_marker_titles": "Maximum aantal getekende zwevende markeringstitels",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

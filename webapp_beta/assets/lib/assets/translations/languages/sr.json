@@ -632,5 +632,8 @@
     "disable_log_file_description": "Зауставите писање историје догађаја извршавања апликације у датотеку евиденције и избришите датотеку евиденције",
     "export_log_file_title": "Извези датотеку евиденције",
     "export_log_file_description": "Извезите датотеку евиденције тако да се може делити за потребе отклањања грешака",
+    "rendering_performance": "Подешавања перформанси рендеровања",
+    "max_number_of_drawn_pois": "Максималан број нацртаних ПОИ",
+    "max_number_of_drawn_floating_marker_titles": "Максималан број нацртаних наслова плутајућег маркера",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

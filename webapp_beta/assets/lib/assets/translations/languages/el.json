@@ -632,5 +632,8 @@
     "disable_log_file_description": "Σταματήστε να γράφετε το ιστορικό συμβάντων εκτέλεσης εφαρμογής στο αρχείο καταγραφής και διαγράψτε το αρχείο καταγραφής",
     "export_log_file_title": "Εξαγωγή αρχείου καταγραφής",
     "export_log_file_description": "Εξαγάγετε το αρχείο καταγραφής ώστε να μπορεί να κοινοποιηθεί για σκοπούς εντοπισμού σφαλμάτων",
+    "rendering_performance": "Απόδοση ρυθμίσεων απόδοσης",
+    "max_number_of_drawn_pois": "Μέγιστος αριθμός σημείων ενδιαφέροντος που έχουν σχεδιαστεί",
+    "max_number_of_drawn_floating_marker_titles": "Μέγιστος αριθμός τίτλων κυμαινόμενου δείκτη",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

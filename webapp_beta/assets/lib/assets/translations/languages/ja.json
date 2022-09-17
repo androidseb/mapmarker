@@ -632,5 +632,8 @@
     "disable_log_file_description": "アプリの実行イベント履歴のログファイルへの書き込みを停止し、ログファイルを削除します",
     "export_log_file_title": "ログファイルのエクスポート",
     "export_log_file_description": "ログファイルをエクスポートして、デバッグ目的で共有できるようにします",
+    "rendering_performance": "レンダリング パフォーマンスの設定",
+    "max_number_of_drawn_pois": "描画される POI の最大数",
+    "max_number_of_drawn_floating_marker_titles": "描画されるフローティング マーカー タイトルの最大数",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

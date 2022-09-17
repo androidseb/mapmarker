@@ -632,5 +632,8 @@
     "disable_log_file_description": "Zatrzymaj zapisywanie historii zdarzeń wykonania aplikacji w pliku dziennika i usuń plik dziennika",
     "export_log_file_title": "Eksportuj plik dziennika",
     "export_log_file_description": "Wyeksportuj plik dziennika, aby można go było udostępnić do celów debugowania",
+    "rendering_performance": "Ustawienia wydajności renderowania",
+    "max_number_of_drawn_pois": "Maksymalna liczba wylosowanych POI",
+    "max_number_of_drawn_floating_marker_titles": "Maksymalna liczba rysowanych tytułów znaczników pływających",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

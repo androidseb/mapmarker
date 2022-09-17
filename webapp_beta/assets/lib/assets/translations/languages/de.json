@@ -632,5 +632,8 @@
     "disable_log_file_description": "Beenden Sie das Schreiben des App-Ausführungsereignisverlaufs in die Protokolldatei und löschen Sie die Protokolldatei",
     "export_log_file_title": "Protokolldatei exportieren",
     "export_log_file_description": "Exportieren Sie die Protokolldatei, damit sie zu Debugging-Zwecken freigegeben werden kann",
+    "rendering_performance": "Rendering-Leistungseinstellungen",
+    "max_number_of_drawn_pois": "Maximale Anzahl gezogener POIs",
+    "max_number_of_drawn_floating_marker_titles": "Maximale Anzahl gezogener Floating-Marker-Titel",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

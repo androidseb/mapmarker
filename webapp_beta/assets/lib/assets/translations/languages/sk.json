@@ -632,5 +632,8 @@
     "disable_log_file_description": "Zastavte zapisovanie histórie udalostí spustenia aplikácie do súboru denníka a odstráňte súbor denníka",
     "export_log_file_title": "Exportovať súbor denníka",
     "export_log_file_description": "Exportujte súbor denníka, aby ho bolo možné zdieľať na účely ladenia",
+    "rendering_performance": "Nastavenia výkonu vykresľovania",
+    "max_number_of_drawn_pois": "Maximálny počet vykreslených bodov záujmu",
+    "max_number_of_drawn_floating_marker_titles": "Maximálny počet vyžrebovaných plávajúcich názvov značiek",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

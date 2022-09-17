@@ -632,5 +632,8 @@
     "disable_log_file_description": "หยุดเขียนประวัติเหตุการณ์การดำเนินการแอปไปยังไฟล์บันทึก และลบไฟล์บันทึก",
     "export_log_file_title": "ส่งออกไฟล์บันทึก",
     "export_log_file_description": "ส่งออกไฟล์บันทึกเพื่อให้สามารถแชร์เพื่อวัตถุประสงค์ในการดีบัก",
+    "rendering_performance": "การตั้งค่าประสิทธิภาพการแสดงผล",
+    "max_number_of_drawn_pois": "จำนวนสูงสุดของการจับ POI",
+    "max_number_of_drawn_floating_marker_titles": "จำนวนสูงสุดของชื่อเครื่องหมายลอยตัว",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -632,5 +632,8 @@
     "disable_log_file_description": "Pare de gravar o histórico de eventos de execução do aplicativo no arquivo de log e exclua o arquivo de log",
     "export_log_file_title": "Exportar arquivo de registro",
     "export_log_file_description": "Exporte o arquivo de log para que possa ser compartilhado para fins de depuração",
+    "rendering_performance": "Configurações de desempenho de renderização",
+    "max_number_of_drawn_pois": "Número máximo de POIs sorteados",
+    "max_number_of_drawn_floating_marker_titles": "Número máximo de títulos de marcadores flutuantes sorteados",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

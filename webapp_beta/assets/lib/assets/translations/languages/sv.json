@@ -632,5 +632,8 @@
     "disable_log_file_description": "Sluta skriva historik för appkörningshändelser till loggfilen och ta bort loggfilen",
     "export_log_file_title": "Exportera loggfil",
     "export_log_file_description": "Exportera loggfilen så att den kan delas i felsökningssyfte",
+    "rendering_performance": "Inställningar för rendering av prestanda",
+    "max_number_of_drawn_pois": "Maximalt antal ritade POIs",
+    "max_number_of_drawn_floating_marker_titles": "Maximalt antal ritade flytande markörtitlar",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

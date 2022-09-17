@@ -632,5 +632,8 @@
     "disable_log_file_description": "앱 실행 이벤트 기록을 로그 파일에 쓰지 않고 로그 파일을 삭제합니다.",
     "export_log_file_title": "로그 파일 내보내기",
     "export_log_file_description": "디버깅 목적으로 공유할 수 있도록 로그 파일 내보내기",
+    "rendering_performance": "렌더링 성능 설정",
+    "max_number_of_drawn_pois": "그려진 POI의 최대 수",
+    "max_number_of_drawn_floating_marker_titles": "그려진 부동 마커 제목의 최대 수",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

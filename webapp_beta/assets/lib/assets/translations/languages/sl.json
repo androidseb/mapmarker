@@ -632,5 +632,8 @@
     "disable_log_file_description": "Prenehajte pisati zgodovino dogodkov izvajanja aplikacije v datoteko dnevnika in izbrišite datoteko dnevnika",
     "export_log_file_title": "Izvozi dnevniško datoteko",
     "export_log_file_description": "Izvozite dnevniško datoteko, da jo lahko delite za namene odpravljanja napak",
+    "rendering_performance": "Nastavitve zmogljivosti upodabljanja",
+    "max_number_of_drawn_pois": "Največje število narisanih POI",
+    "max_number_of_drawn_floating_marker_titles": "Največje število narisanih naslovov plavajočih markerjev",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

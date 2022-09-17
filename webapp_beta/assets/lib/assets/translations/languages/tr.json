@@ -632,5 +632,8 @@
     "disable_log_file_description": "Uygulama yürütme olayları geçmişini günlük dosyasına yazmayı bırakın ve günlük dosyasını silin",
     "export_log_file_title": "Günlük dosyasını dışa aktar",
     "export_log_file_description": "Hata ayıklama amacıyla paylaşılabilmesi için günlük dosyasını dışa aktarın",
+    "rendering_performance": "İşleme performansı ayarları",
+    "max_number_of_drawn_pois": "Maksimum çizilen İÇN sayısı",
+    "max_number_of_drawn_floating_marker_titles": "Maksimum çizilen kayan işaretçi başlığı sayısı",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

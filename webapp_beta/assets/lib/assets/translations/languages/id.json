@@ -632,5 +632,8 @@
     "disable_log_file_description": "Berhenti menulis riwayat peristiwa eksekusi aplikasi ke file log, dan hapus file log",
     "export_log_file_title": "Ekspor file log",
     "export_log_file_description": "Ekspor file log sehingga dapat dibagikan untuk keperluan debugging",
+    "rendering_performance": "Pengaturan kinerja rendering",
+    "max_number_of_drawn_pois": "Jumlah maksimum POI yang ditarik",
+    "max_number_of_drawn_floating_marker_titles": "Jumlah maksimum judul penanda mengambang yang ditarik",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

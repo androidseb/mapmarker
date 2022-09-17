@@ -632,5 +632,8 @@
     "disable_log_file_description": "Arrêter d'écrire l'historique des événements d'exécution de l'application vers le fichier journal, et supprimer le fichier journal",
     "export_log_file_title": "Exporter fichier journal",
     "export_log_file_description": "Exporter le fichier journal pour qu'il puisse être partagé à des fins de débogage",
+    "rendering_performance": "Réglages de performance de rendu",
+    "max_number_of_drawn_pois": "Nombre maximum de marqueurs dessinés",
+    "max_number_of_drawn_floating_marker_titles": "Nombre maximum de titres flottants de marqueurs dessinés",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

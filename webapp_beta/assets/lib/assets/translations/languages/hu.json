@@ -632,5 +632,8 @@
     "disable_log_file_description": "Állítsa le az alkalmazás-végrehajtási események előzményeinek a naplófájlba írását, és törölje a naplófájlt",
     "export_log_file_title": "Naplófájl exportálása",
     "export_log_file_description": "Exportálja a naplófájlt, hogy megoszthassa hibakeresési célokra",
+    "rendering_performance": "Renderelési teljesítmény beállítások",
+    "max_number_of_drawn_pois": "A rajzolt POI-k maximális száma",
+    "max_number_of_drawn_floating_marker_titles": "A kihúzott lebegő jelölőcímek maximális száma",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

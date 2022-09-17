@@ -632,5 +632,8 @@
     "disable_log_file_description": "Припиніть запис історії подій виконання програми до файлу журналу та видаліть файл журналу",
     "export_log_file_title": "Експорт файлу журналу",
     "export_log_file_description": "Експортуйте файл журналу, щоб ним можна було поділитися з метою налагодження",
+    "rendering_performance": "Параметри продуктивності рендеринга",
+    "max_number_of_drawn_pois": "Максимальна кількість намальованих POI",
+    "max_number_of_drawn_floating_marker_titles": "Максимальна кількість намальованих заголовків плаваючих маркерів",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -632,5 +632,8 @@
     "disable_log_file_description": "הפסק לכתוב היסטוריית אירועי ביצוע של אפליקציה לקובץ היומן, ומחק את קובץ היומן",
     "export_log_file_title": "ייצוא קובץ יומן",
     "export_log_file_description": "ייצא את קובץ היומן כך שניתן יהיה לשתף אותו למטרות ניפוי באגים",
+    "rendering_performance": "הגדרות ביצועים של רינדור",
+    "max_number_of_drawn_pois": "המספר המרבי של נקודות עניין שצוירו",
+    "max_number_of_drawn_floating_marker_titles": "המספר המרבי של כותרות סמנים צפים מצוירים",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

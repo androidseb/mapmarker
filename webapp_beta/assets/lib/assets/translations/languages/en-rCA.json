@@ -632,5 +632,8 @@
     "disable_log_file_description": "Stop writing app execution events history to the log file, and delete the log file",
     "export_log_file_title": "Export log file",
     "export_log_file_description": "Export the log file so that it can be shared for debugging purposes",
+    "rendering_performance": "Rendering performance settings",
+    "max_number_of_drawn_pois": "Maximum number of drawn POIs",
+    "max_number_of_drawn_floating_marker_titles": "Maximum number of drawn floating marker titles",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

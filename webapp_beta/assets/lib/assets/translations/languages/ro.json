@@ -632,5 +632,8 @@
     "disable_log_file_description": "Nu mai scrieți istoricul evenimentelor de execuție a aplicației în fișierul jurnal și ștergeți fișierul jurnal",
     "export_log_file_title": "Exportați fișierul jurnal",
     "export_log_file_description": "Exportați fișierul jurnal, astfel încât să poată fi partajat în scopuri de depanare",
+    "rendering_performance": "Redarea setărilor de performanță",
+    "max_number_of_drawn_pois": "Numărul maxim de POI trase",
+    "max_number_of_drawn_floating_marker_titles": "Numărul maxim de titluri de markere flotante desenate",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

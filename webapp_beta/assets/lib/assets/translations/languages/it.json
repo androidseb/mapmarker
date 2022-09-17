@@ -632,5 +632,8 @@
     "disable_log_file_description": "Interrompi la scrittura della cronologia degli eventi di esecuzione dell'app nel file di registro ed elimina il file di registro",
     "export_log_file_title": "Esporta file di registro",
     "export_log_file_description": "Esportare il file di registro in modo che possa essere condiviso per scopi di debug",
+    "rendering_performance": "Impostazioni delle prestazioni di rendering",
+    "max_number_of_drawn_pois": "Numero massimo di POI estratti",
+    "max_number_of_drawn_floating_marker_titles": "Numero massimo di titoli di marker mobili disegnati",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

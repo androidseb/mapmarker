@@ -632,5 +632,8 @@
     "disable_log_file_description": "停止將應用執行事件歷史寫入日誌文件，並刪除日誌文件",
     "export_log_file_title": "導出日誌文件",
     "export_log_file_description": "導出日誌文件，以便為調試目的共享它",
+    "rendering_performance": "渲染性能設置",
+    "max_number_of_drawn_pois": "最大繪製興趣點數",
+    "max_number_of_drawn_floating_marker_titles": "繪製的浮動標記標題的最大數量",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
