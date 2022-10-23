@@ -5848,6 +5848,8 @@ google_maps_flutter_android
 google_maps_flutter_ios
 google_maps_flutter_platform_interface
 google_sign_in
+google_sign_in_android
+google_sign_in_ios
 google_sign_in_platform_interface
 google_sign_in_web
 image_picker_for_web

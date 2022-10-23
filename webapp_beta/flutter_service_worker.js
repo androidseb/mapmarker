@@ -7,8 +7,8 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
-"index.html": "ad794a5cfda12fe132d3507b15604f3b",
-"/": "ad794a5cfda12fe132d3507b15604f3b",
+"index.html": "3ee63fcfddf67e3b0cc64e6e8ccf9d24",
+"/": "3ee63fcfddf67e3b0cc64e6e8ccf9d24",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "icons/Icon-192.png": "3c328cfe2fa69d19b6bb97ed8a9476fd",
 "icons/Icon-512.png": "1f4d3a3b30ec92695adfc87857c068c5",
@@ -647,14 +647,14 @@ const RESOURCES = {
 "assets/lib/assets/map_icons/svg/googlemd_my_location.svg": "d51a23cc809072bd177cce7c7ee36093",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
-"assets/NOTICES": "ea744306f9af646e3bc1db3b867cb81c",
+"assets/NOTICES": "bf9da4ae4d8f74fdd61af4337f52ea27",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/AssetManifest.json": "b7b752080adbb7c02e5826e67e233a95",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "manifest.json": "352cadf8e40066ac1773ebbc922f0722",
-"main.dart.js": "c45a488d526fa0815cbe6bc266377601",
+"main.dart.js": "641a02580c3a893dc686282baa8c653f",
 "favicon.png": "08b885e38ecdf53b6a25c93bbbf679ba",
-"version.json": "35b5042d00139a59bd084a6b5b9d5761"
+"version.json": "eb3a77d6d21d3f0c0b46452853c0c0f2"
 };
 
 // The application shell files that are downloaded before a service worker can
