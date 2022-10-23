@@ -27465,7 +27465,7 @@ A.en(r,s,B.Ln)},
 bpa(){A.ec(B.aD6,null)},
 bp9(){$.ee()
 var s="Web"
-A.bhw("theandroidseb+mapmarkerandroidsupport@gmail.com","Map Marker 3.0.0_448_beta "+s+" "+A.wU($.wT).j(0)+" "+A.a76(Date.now(),!1))},
+A.bhw("theandroidseb+mapmarkerandroidsupport@gmail.com","Map Marker 3.0.0_449_beta "+s+" "+A.wU($.wT).j(0)+" "+A.a76(Date.now(),!1))},
 aiC:function aiC(){},
 aiD:function aiD(){},
 aiE:function aiE(){},
@@ -107206,9 +107206,10 @@ A.en(A.a([new A.an(B.aBF,A.bH(r.d),s,B.MB,new A.aux(this)),new A.an(B.aE0,s,s,B.
 aLe(a){A.dq(B.ah,new A.auA(this,a),t.H)},
 aLi(){A.dq(B.ah,new A.auB(this),t.H)},
 vA(a){return this.aN4(!0)},
-aN4(a){var s=0,r=A.j(t.y),q,p=this
+aN4(a){var s=0,r=A.j(t.y),q,p=this,o
 var $async$vA=A.e(function(b,c){if(b===1)return A.f(c,r)
-while(true)switch(s){case 0:if(p.c.c.A(0,B.eu)){q=!0
+while(true)switch(s){case 0:o=p.c
+if(o.a||o.c.A(0,B.eu)){q=!0
 s=1
 break}if(A.bw(new A.bm(Date.now(),!1))<2023){A.mp(B.aBc)
 q=!0
@@ -107340,7 +107341,7 @@ var $async$xg=A.e(function(a,b){if(a===1)return A.f(b,r)
 while(true)switch(s){case 0:A.Kd()
 s=2
 return A.c($.of.aZ().q2(null),$async$xg)
-case 2:s=!q.c&&B.c.dq("3.0.0_448_beta","_beta")?3:4
+case 2:s=!q.c&&B.c.dq("3.0.0_449_beta","_beta")?3:4
 break
 case 3:q.c=!0
 s=5
@@ -109774,7 +109775,7 @@ else if(a instanceof A.P6)q.cx.rd(q.db.c.c)
 else if(a instanceof A.P9)q.cx.re(q.db.c.c)
 else if(a instanceof A.Pa)q.cx.rf(q.db.c.c)},
 a79(){var s=A.fc()
-A.bED(A.rV(B.u_,32,32),A.bT(B.FL,$.blg(),null,null),"Map Marker","3.0.0_448_beta",s)},
+A.bED(A.rV(B.u_,32,32),A.bT(B.FL,$.blg(),null,null),"Map Marker","3.0.0_449_beta",s)},
 awf(a){var s=A.aAc(null)
 this.as.x.a.q(0,new A.m1(new A.ov(s,null,0,!0)))},
 awo(a){var s=a.a
@@ -136165,7 +136166,7 @@ B.aBE=new A.B(null,B.IE,null,null)
 B.aBF=new A.B(null,B.JR,null,null)
 B.aBG=new A.B(null,B.EF,null,null)
 B.aBH=new A.B(null,B.FY,null,null)
-B.aBI=new A.B("Map Marker 3.0.0_448_beta",null,null,null)
+B.aBI=new A.B("Map Marker 3.0.0_449_beta",null,null,null)
 B.aBJ=new A.B("IGN Photo",null,null,null)
 B.aBK=new A.B(null,B.Is,null,null)
 B.aBM=new A.B(null,B.Jm,null,null)
