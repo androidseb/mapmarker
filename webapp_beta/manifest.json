@@ -1,11 +1,11 @@
 {
-    "name": "Prototype MM",
-    "short_name": "Prototype MM",
+    "name": "Map Marker",
+    "short_name": "Map Marker",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "The Prototype MM web app.",
+    "description": "The Map Marker web app.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
