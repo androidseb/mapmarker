@@ -651,7 +651,7 @@
     "purchase_failed_message": "Nákup se nezdařil: %s",
     "data_backup_reminder_title": "Zálohování dat",
     "data_backup_reminder_x_days_ago_message": "Poslední záloha byla provedena před %s dny",
-    "from_legacy_map_marker_v2_cloud_map": "Ze starší cloudové mapy Map Marker V2 (Google Drive)",
+    "from_legacy_map_marker_v2_cloud_map": "Ze starší cloudové mapy Map Marker V2",
     "downloading_and_importing_cloud_map": "Stahování a import cloudové mapy…",
     "run_data_migration_again": "Znovu spusťte migraci dat",
     "run_data_migration_again_description": "Vyberte starou mapu, na které chcete migraci dat znovu spustit",

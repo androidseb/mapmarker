@@ -651,7 +651,7 @@
     "purchase_failed_message": "Pembelian gagal: %s",
     "data_backup_reminder_title": "Cadangan data",
     "data_backup_reminder_x_days_ago_message": "Cadangan terakhir adalah %s hari yang lalu",
-    "from_legacy_map_marker_v2_cloud_map": "Dari peta awan Map Marker V2 lama (Google Drive)",
+    "from_legacy_map_marker_v2_cloud_map": "Dari peta awan Map Marker V2 lama",
     "downloading_and_importing_cloud_map": "Mengunduh dan mengimpor peta awan…",
     "run_data_migration_again": "Jalankan migrasi data lagi",
     "run_data_migration_again_description": "Pilih peta lama untuk menjalankan migrasi data lagi",

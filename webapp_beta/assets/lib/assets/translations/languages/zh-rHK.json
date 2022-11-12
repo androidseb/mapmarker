@@ -651,7 +651,7 @@
     "purchase_failed_message": "購買失敗：%s",
     "data_backup_reminder_title": "數據備份",
     "data_backup_reminder_x_days_ago_message": "上次備份是 %s 天前",
-    "from_legacy_map_marker_v2_cloud_map": "來自舊版Map Marker V2雲圖（Google Drive）",
+    "from_legacy_map_marker_v2_cloud_map": "來自舊版Map Marker V2雲圖",
     "downloading_and_importing_cloud_map": "正在下載和導入雲圖...",
     "run_data_migration_again": "再次運行數據遷移",
     "run_data_migration_again_description": "選擇要再次運行數據遷移的舊地圖",

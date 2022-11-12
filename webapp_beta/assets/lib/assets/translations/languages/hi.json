@@ -651,7 +651,7 @@
     "purchase_failed_message": "खरीदारी विफल: %s",
     "data_backup_reminder_title": "डेटा बैकअप",
     "data_backup_reminder_x_days_ago_message": "पिछला बैकअप %s दिन पहले था",
-    "from_legacy_map_marker_v2_cloud_map": "लीगेसी Map Marker V2 क्लाउड मैप से (Google Drive)",
+    "from_legacy_map_marker_v2_cloud_map": "लीगेसी Map Marker V2 क्लाउड मैप से",
     "downloading_and_importing_cloud_map": "क्लाउड मानचित्र डाउनलोड और आयात किया जा रहा है…",
     "run_data_migration_again": "डेटा माइग्रेशन फिर से चलाएँ",
     "run_data_migration_again_description": "एक पुराने मानचित्र का चयन करें जिस पर डेटा माइग्रेशन फिर से चलाना है",

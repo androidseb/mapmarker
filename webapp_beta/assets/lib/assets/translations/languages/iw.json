@@ -651,7 +651,7 @@
     "purchase_failed_message": "הרכישה נכשלה: %s",
     "data_backup_reminder_title": "גיבוי נתונים",
     "data_backup_reminder_x_days_ago_message": "הגיבוי האחרון היה לפני %s ימים",
-    "from_legacy_map_marker_v2_cloud_map": "ממפת ענן מדור קודם Map Marker V2 (Google Drive)",
+    "from_legacy_map_marker_v2_cloud_map": "ממפת ענן מדור קודם Map Marker V2",
     "downloading_and_importing_cloud_map": "מוריד ומייבא מפת ענן...",
     "run_data_migration_again": "הפעל שוב העברת נתונים",
     "run_data_migration_again_description": "בחר מפה ישנה שבה תפעיל שוב את העברת הנתונים",

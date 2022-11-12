@@ -651,7 +651,7 @@
     "purchase_failed_message": "Kupnja nije uspjela: %s",
     "data_backup_reminder_title": "Sigurnosna kopija podataka",
     "data_backup_reminder_x_days_ago_message": "Zadnja sigurnosna kopija napravljena je prije %s dana",
-    "from_legacy_map_marker_v2_cloud_map": "Iz naslijeđene karte oblaka Map Marker V2 (Google Drive)",
+    "from_legacy_map_marker_v2_cloud_map": "Iz naslijeđene karte oblaka Map Marker V2",
     "downloading_and_importing_cloud_map": "Preuzimanje i uvoz karte oblaka…",
     "run_data_migration_again": "Ponovno pokrenite migraciju podataka",
     "run_data_migration_again_description": "Odaberite staru kartu na kojoj želite ponovno pokrenuti migraciju podataka",

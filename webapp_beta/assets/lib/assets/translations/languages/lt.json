@@ -651,7 +651,7 @@
     "purchase_failed_message": "Pirkimas nepavyko: %s",
     "data_backup_reminder_title": "Duomenų atsarginė kopija",
     "data_backup_reminder_x_days_ago_message": "Paskutinė atsarginė kopija buvo prieš %s dienas",
-    "from_legacy_map_marker_v2_cloud_map": "Iš senojo Map Marker V2 debesų žemėlapio (Google Drive)",
+    "from_legacy_map_marker_v2_cloud_map": "Iš senojo Map Marker V2 debesų žemėlapio",
     "downloading_and_importing_cloud_map": "Atsisiunčiamas ir importuojamas debesies žemėlapis…",
     "run_data_migration_again": "Dar kartą paleiskite duomenų perkėlimą",
     "run_data_migration_again_description": "Pasirinkite seną žemėlapį, kuriame vėl norite atlikti duomenų perkėlimą",

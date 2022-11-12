@@ -651,7 +651,7 @@
     "purchase_failed_message": "Kauf fehlgeschlagen: %s",
     "data_backup_reminder_title": "Datensicherung",
     "data_backup_reminder_x_days_ago_message": "Die letzte Sicherung war vor %s Tagen",
-    "from_legacy_map_marker_v2_cloud_map": "Von Legacy Map Marker V2 Cloud Map (Google Drive)",
+    "from_legacy_map_marker_v2_cloud_map": "Von Legacy Map Marker V2 Cloud Map",
     "downloading_and_importing_cloud_map": "Cloud-Karte wird heruntergeladen und importiert…",
     "run_data_migration_again": "Führen Sie die Datenmigration erneut aus",
     "run_data_migration_again_description": "Wählen Sie eine alte Karte aus, auf der die Datenmigration erneut ausgeführt werden soll",

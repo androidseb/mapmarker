@@ -651,7 +651,7 @@
     "purchase_failed_message": "Не вдалося здійснити покупку: %s",
     "data_backup_reminder_title": "Резервне копіювання даних",
     "data_backup_reminder_x_days_ago_message": "Останнє резервне копіювання було зроблено %s днів тому",
-    "from_legacy_map_marker_v2_cloud_map": "З хмарної карти старої версії Map Marker V2 (Google Drive)",
+    "from_legacy_map_marker_v2_cloud_map": "З хмарної карти старої версії Map Marker V2",
     "downloading_and_importing_cloud_map": "Завантаження та імпорт хмарної карти…",
     "run_data_migration_again": "Знову запустіть міграцію даних",
     "run_data_migration_again_description": "Виберіть стару карту, на якій потрібно повторно запустити міграцію даних",

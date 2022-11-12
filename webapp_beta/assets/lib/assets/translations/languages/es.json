@@ -651,7 +651,7 @@
     "purchase_failed_message": "Compra fallida: %s",
     "data_backup_reminder_title": "Copias de seguridad",
     "data_backup_reminder_x_days_ago_message": "La última copia de seguridad fue hace %s días",
-    "from_legacy_map_marker_v2_cloud_map": "Del mapa de nube heredado Map Marker V2 (Google Drive)",
+    "from_legacy_map_marker_v2_cloud_map": "Del mapa de nube heredado Map Marker V2",
     "downloading_and_importing_cloud_map": "Descargando e importando mapa de nubes…",
     "run_data_migration_again": "Vuelva a ejecutar la migración de datos",
     "run_data_migration_again_description": "Seleccione un mapa antiguo en el que ejecutar la migración de datos nuevamente",

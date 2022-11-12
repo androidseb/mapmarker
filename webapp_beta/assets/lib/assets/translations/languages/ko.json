@@ -651,7 +651,7 @@
     "purchase_failed_message": "구매 실패: %s",
     "data_backup_reminder_title": "데이터 백업",
     "data_backup_reminder_x_days_ago_message": "마지막 백업은 %s일 전입니다.",
-    "from_legacy_map_marker_v2_cloud_map": "레거시 Map Marker V2 클라우드 맵(Google Drive)에서",
+    "from_legacy_map_marker_v2_cloud_map": "레거시 Map Marker V2 클라우드 맵 에서",
     "downloading_and_importing_cloud_map": "클라우드 지도 다운로드 및 가져오는 중…",
     "run_data_migration_again": "데이터 마이그레이션 다시 실행",
     "run_data_migration_again_description": "데이터 이전을 다시 실행할 이전 지도를 선택하세요.",

@@ -651,7 +651,7 @@
     "purchase_failed_message": "Куповина није успела: %s",
     "data_backup_reminder_title": "Повратак података",
     "data_backup_reminder_x_days_ago_message": "Последња резервна копија је била пре %s дана",
-    "from_legacy_map_marker_v2_cloud_map": "Из старе Map Marker В2 мапе облака (Google Drive)",
+    "from_legacy_map_marker_v2_cloud_map": "Из старе Map Marker В2 мапе облака",
     "downloading_and_importing_cloud_map": "Преузимање и увоз мапе облака…",
     "run_data_migration_again": "Поново покрените миграцију података",
     "run_data_migration_again_description": "Изаберите стару мапу на којој ћете поново покренути миграцију података",

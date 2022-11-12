@@ -651,7 +651,7 @@
     "purchase_failed_message": "Aankoop mislukt: %s",
     "data_backup_reminder_title": "Reservekopie van gegevens",
     "data_backup_reminder_x_days_ago_message": "Laatste back-up was %s dagen geleden",
-    "from_legacy_map_marker_v2_cloud_map": "Van oude Map Marker V2-cloudkaart (Google Drive)",
+    "from_legacy_map_marker_v2_cloud_map": "Van oude Map Marker V2-cloudkaart",
     "downloading_and_importing_cloud_map": "Cloudkaart downloaden en importeren…",
     "run_data_migration_again": "Voer gegevensmigratie opnieuw uit",
     "run_data_migration_again_description": "Selecteer een oude kaart waarop u de gegevensmigratie opnieuw wilt uitvoeren",
