@@ -651,11 +651,15 @@
     "purchase_failed_message": "Achiziție eșuată: %s",
     "data_backup_reminder_title": "Copia de rezerva a datelor",
     "data_backup_reminder_x_days_ago_message": "Ultima copie de rezervă a avut loc acum %s zile",
-    "from_legacy_map_marker_v2_cloud_map": "Din vechea hartă cloud Map Marker V2",
-    "downloading_and_importing_cloud_map": "Se descarcă și se importă harta cloud...",
     "run_data_migration_again": "Rulați din nou migrarea datelor",
     "run_data_migration_again_description": "Selectați o hartă veche pe care să rulați din nou migrarea datelor",
     "old_map_data_re_migration_succeeded": "Remigrarea datelor din hărți vechi a reușit!",
     "old_map_data_re_migration_failed": "Remigrarea datelor hărții vechi a eșuat:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "Deschideți și migrați o hartă cloud V2",
+    "action_open_and_migrate_v2_cloud_map_description": "Migrați o hartă cloud moștenită din Map Marker V2 (versiunea aplicației de înainte de 2023) și deschideți-o ca o nouă hartă cloud",
+    "migrating_legacy_v2_cloud_map": "Se migrează hărții cloud vechi V2...",
+    "hint_select_v2_map_to_migrate": "Selectați harta V2 pentru a migra",
+    "legacy_v2_cloud_map_migration_result_message_success": "Migrarea hărții în cloud Legacy V2 a reușit!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Migrarea hărții în cloud Legacy V2 a eșuat:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

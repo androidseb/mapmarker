@@ -651,11 +651,15 @@
     "purchase_failed_message": "ការទិញបានបរាជ័យ៖ %s",
     "data_backup_reminder_title": "ការបម្រុងទុកទិន្នន័យ",
     "data_backup_reminder_x_days_ago_message": "ការបម្រុងទុកចុងក្រោយគឺ %s ថ្ងៃមុន។",
-    "from_legacy_map_marker_v2_cloud_map": "ពីផែនទីពពក Map Marker V2",
-    "downloading_and_importing_cloud_map": "កំពុងទាញយក និងនាំចូលផែនទីពពក...",
     "run_data_migration_again": "ដំណើរការការផ្ទេរទិន្នន័យម្តងទៀត",
     "run_data_migration_again_description": "ជ្រើសរើសផែនទីចាស់ដែលត្រូវដំណើរការការផ្ទេរទិន្នន័យម្តងទៀត",
     "old_map_data_re_migration_succeeded": "ការផ្ទេរទិន្នន័យផែនទីចាស់ឡើងវិញបានជោគជ័យ!",
     "old_map_data_re_migration_failed": "ការផ្ទេរទិន្នន័យផែនទីចាស់ឡើងវិញបានបរាជ័យ៖\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "បើក និងផ្ទេរផែនទីពពក V2",
+    "action_open_and_migrate_v2_cloud_map_description": "ផ្ទេរផែនទីពពកចាស់ពី Map Marker V2 (កំណែកម្មវិធីមុនឆ្នាំ 2023) ហើយបើកវាជាផែនទីពពកថ្មី",
+    "migrating_legacy_v2_cloud_map": "កំពុងផ្ទេរផែនទីពពក V2 ចាស់...",
+    "hint_select_v2_map_to_migrate": "ជ្រើសរើសផែនទី V2 ដើម្បីផ្លាស់ទី",
+    "legacy_v2_cloud_map_migration_result_message_success": "ការធ្វើចំណាកស្រុកផែនទីពពកចាស់ V2 បានជោគជ័យ!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Legacy V2 cloud map migration បានបរាជ័យ៖\n_៧",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

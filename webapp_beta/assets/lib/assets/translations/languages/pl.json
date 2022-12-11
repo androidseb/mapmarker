@@ -651,11 +651,15 @@
     "purchase_failed_message": "Zakup nie powiódł się: %s",
     "data_backup_reminder_title": "Backup danych",
     "data_backup_reminder_x_days_ago_message": "Ostatnia kopia zapasowa była %s dni temu",
-    "from_legacy_map_marker_v2_cloud_map": "Ze starszej mapy chmury Map Marker V2",
-    "downloading_and_importing_cloud_map": "Pobieram i importuję mapę chmury…",
     "run_data_migration_again": "Ponownie uruchom migrację danych",
     "run_data_migration_again_description": "Wybierz starą mapę, na której chcesz ponownie przeprowadzić migrację danych",
     "old_map_data_re_migration_succeeded": "Ponowna migracja starych danych map powiodła się!",
     "old_map_data_re_migration_failed": "Ponowna migracja starych danych mapy nie powiodła się:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "Otwórz i przeprowadź migrację mapy chmury w wersji 2",
+    "action_open_and_migrate_v2_cloud_map_description": "Przeprowadź migrację starszej mapy chmury z wersji Map Marker V2 (wersja aplikacji sprzed 2023 r.) i otwórz ją jako nową mapę chmury",
+    "migrating_legacy_v2_cloud_map": "Migracja starszej wersji mapy chmury w wersji 2…",
+    "hint_select_v2_map_to_migrate": "Wybierz mapę V2 do migracji",
+    "legacy_v2_cloud_map_migration_result_message_success": "Migracja starszych map w chmurze w wersji 2 powiodła się!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Migracja starszej wersji mapy w chmurze w wersji 2 nie powiodła się:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -651,11 +651,15 @@
     "purchase_failed_message": "購入に失敗しました: %s",
     "data_backup_reminder_title": "データバックアップ",
     "data_backup_reminder_x_days_ago_message": "最後のバックアップは %s 日前です",
-    "from_legacy_map_marker_v2_cloud_map": "従来の Map Marker V2 クラウド マップ から",
-    "downloading_and_importing_cloud_map": "クラウド マップをダウンロードしてインポートしています…",
     "run_data_migration_again": "データ移行を再度実行する",
     "run_data_migration_again_description": "データ移行を再度実行する古いマップを選択してください",
     "old_map_data_re_migration_succeeded": "旧地図データの再移行に成功！",
     "old_map_data_re_migration_failed": "古い地図データの再移行に失敗しました:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "V2 クラウド マップを開いて移行する",
+    "action_open_and_migrate_v2_cloud_map_description": "Map Marker V2 (2023 年以前のアプリ バージョン) から従来のクラウド マップを移行し、新しいクラウド マップとして開きます",
+    "migrating_legacy_v2_cloud_map": "従来の V2 クラウド マップを移行しています…",
+    "hint_select_v2_map_to_migrate": "移行する V2 マップを選択してください",
+    "legacy_v2_cloud_map_migration_result_message_success": "レガシー V2 クラウド マップの移行が成功しました!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "従来の V2 クラウド マップの移行に失敗しました:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

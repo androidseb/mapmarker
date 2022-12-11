@@ -651,11 +651,15 @@
     "purchase_failed_message": "Pembelian gagal: %s",
     "data_backup_reminder_title": "Cadangan data",
     "data_backup_reminder_x_days_ago_message": "Cadangan terakhir adalah %s hari yang lalu",
-    "from_legacy_map_marker_v2_cloud_map": "Dari peta awan Map Marker V2 lama",
-    "downloading_and_importing_cloud_map": "Mengunduh dan mengimpor peta awan…",
     "run_data_migration_again": "Jalankan migrasi data lagi",
     "run_data_migration_again_description": "Pilih peta lama untuk menjalankan migrasi data lagi",
     "old_map_data_re_migration_succeeded": "Migrasi ulang data peta lama berhasil!",
     "old_map_data_re_migration_failed": "Migrasi ulang data peta lama gagal:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "Buka dan migrasikan peta cloud V2",
+    "action_open_and_migrate_v2_cloud_map_description": "Migrasikan peta cloud lama dari Map Marker V2 (versi aplikasi dari sebelum 2023) dan buka sebagai peta cloud baru",
+    "migrating_legacy_v2_cloud_map": "Memigrasikan peta cloud V2 lama…",
+    "hint_select_v2_map_to_migrate": "Pilih peta V2 untuk dimigrasikan",
+    "legacy_v2_cloud_map_migration_result_message_success": "Migrasi peta cloud V2 lama berhasil!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Migrasi peta awan V2 lama gagal:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

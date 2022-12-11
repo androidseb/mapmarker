@@ -651,11 +651,15 @@
     "purchase_failed_message": "Aankoop mislukt: %s",
     "data_backup_reminder_title": "Reservekopie van gegevens",
     "data_backup_reminder_x_days_ago_message": "Laatste back-up was %s dagen geleden",
-    "from_legacy_map_marker_v2_cloud_map": "Van oude Map Marker V2-cloudkaart",
-    "downloading_and_importing_cloud_map": "Cloudkaart downloaden en importeren…",
     "run_data_migration_again": "Voer gegevensmigratie opnieuw uit",
     "run_data_migration_again_description": "Selecteer een oude kaart waarop u de gegevensmigratie opnieuw wilt uitvoeren",
     "old_map_data_re_migration_succeeded": "Hermigratie van oude kaartgegevens is gelukt!",
     "old_map_data_re_migration_failed": "Hermigratie van oude kaartgegevens mislukt:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "Open en migreer een V2-cloudkaart",
+    "action_open_and_migrate_v2_cloud_map_description": "Migreer een verouderde cloudmap van Map Marker V2 (app-versie van vóór 2023) en open deze als een nieuwe cloudmap",
+    "migrating_legacy_v2_cloud_map": "Verouderde V2-cloudkaart migreren…",
+    "hint_select_v2_map_to_migrate": "Selecteer de V2-kaart om te migreren",
+    "legacy_v2_cloud_map_migration_result_message_success": "Migratie van legacy V2-cloudmap geslaagd!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Migratie van legacy V2-cloudmap mislukt:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

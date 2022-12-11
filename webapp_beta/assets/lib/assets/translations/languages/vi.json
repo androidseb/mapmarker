@@ -651,11 +651,15 @@
     "purchase_failed_message": "Mua không thành công: %s",
     "data_backup_reminder_title": "Sao lưu dữ liệu",
     "data_backup_reminder_x_days_ago_message": "Lần sao lưu cuối cùng là %s ngày trước",
-    "from_legacy_map_marker_v2_cloud_map": "Từ bản đồ đám mây Map Marker V2 cũ",
-    "downloading_and_importing_cloud_map": "Đang tải xuống và nhập bản đồ đám mây…",
     "run_data_migration_again": "Chạy lại quá trình di chuyển dữ liệu",
     "run_data_migration_again_description": "Chọn một bản đồ cũ để chạy lại quá trình di chuyển dữ liệu",
     "old_map_data_re_migration_succeeded": "Di chuyển lại dữ liệu bản đồ cũ đã thành công!",
     "old_map_data_re_migration_failed": "Di chuyển lại dữ liệu bản đồ cũ không thành công:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "Mở và di chuyển bản đồ đám mây V2",
+    "action_open_and_migrate_v2_cloud_map_description": "Di chuyển bản đồ đám mây cũ từ Map Marker V2 (phiên bản ứng dụng từ trước năm 2023) và mở nó dưới dạng bản đồ đám mây mới",
+    "migrating_legacy_v2_cloud_map": "Đang di chuyển bản đồ đám mây V2 cũ…",
+    "hint_select_v2_map_to_migrate": "Chọn bản đồ V2 để di chuyển",
+    "legacy_v2_cloud_map_migration_result_message_success": "Di chuyển bản đồ đám mây Legacy V2 đã thành công!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Di chuyển bản đồ đám mây Legacy V2 không thành công:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

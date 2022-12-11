@@ -651,11 +651,15 @@
     "purchase_failed_message": "구매 실패: %s",
     "data_backup_reminder_title": "데이터 백업",
     "data_backup_reminder_x_days_ago_message": "마지막 백업은 %s일 전입니다.",
-    "from_legacy_map_marker_v2_cloud_map": "레거시 Map Marker V2 클라우드 맵 에서",
-    "downloading_and_importing_cloud_map": "클라우드 지도 다운로드 및 가져오는 중…",
     "run_data_migration_again": "데이터 마이그레이션 다시 실행",
     "run_data_migration_again_description": "데이터 이전을 다시 실행할 이전 지도를 선택하세요.",
     "old_map_data_re_migration_succeeded": "기존 지도 데이터 재이전 성공!",
     "old_map_data_re_migration_failed": "이전 지도 데이터 재이전 실패:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "V2 클라우드 맵 열기 및 마이그레이션",
+    "action_open_and_migrate_v2_cloud_map_description": "Map Marker V2(2023년 이전의 앱 버전)에서 레거시 클라우드 맵을 마이그레이션하고 새 클라우드 맵으로 엽니다.",
+    "migrating_legacy_v2_cloud_map": "레거시 V2 클라우드 맵 마이그레이션 중…",
+    "hint_select_v2_map_to_migrate": "마이그레이션할 V2 맵 선택",
+    "legacy_v2_cloud_map_migration_result_message_success": "레거시 V2 클라우드 맵 마이그레이션 성공!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "레거시 V2 클라우드 맵 마이그레이션 실패:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

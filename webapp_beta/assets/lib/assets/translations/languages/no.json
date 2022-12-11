@@ -651,11 +651,15 @@
     "purchase_failed_message": "Kjøp mislyktes: %s",
     "data_backup_reminder_title": "Data backup",
     "data_backup_reminder_x_days_ago_message": "Siste sikkerhetskopiering var for %s dager siden",
-    "from_legacy_map_marker_v2_cloud_map": "Fra eldre Map Marker V2 skykart",
-    "downloading_and_importing_cloud_map": "Laster ned og importerer skykart …",
     "run_data_migration_again": "Kjør datamigrering på nytt",
     "run_data_migration_again_description": "Velg et gammelt kart som du vil kjøre datamigreringen på igjen",
     "old_map_data_re_migration_succeeded": "Ommigrering av gamle kartdata lyktes!",
     "old_map_data_re_migration_failed": "Ommigrering av gamle kartdata mislyktes:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "Åpne og migrér et V2-skykart",
+    "action_open_and_migrate_v2_cloud_map_description": "Migrer et eldre skykart fra Map Marker V2 (appversjon fra før 2023) og åpne det som et nytt skykart",
+    "migrating_legacy_v2_cloud_map": "Migrerer eldre V2-skykart …",
+    "hint_select_v2_map_to_migrate": "Velg V2-kartet som skal migreres",
+    "legacy_v2_cloud_map_migration_result_message_success": "Eldre V2 skykart-migrering lyktes!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Eldre V2 skykartmigrering mislyktes:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -651,11 +651,15 @@
     "purchase_failed_message": "Nakup ni uspel: %s",
     "data_backup_reminder_title": "Varnostno kopiranje podatkov",
     "data_backup_reminder_x_days_ago_message": "Zadnja varnostna kopija je bila narejena pred %s dnevi",
-    "from_legacy_map_marker_v2_cloud_map": "Iz podedovanega zemljevida oblaka Map Marker V2",
-    "downloading_and_importing_cloud_map": "Prenos in uvoz zemljevida v oblaku …",
     "run_data_migration_again": "Ponovno zaženite selitev podatkov",
     "run_data_migration_again_description": "Izberite stari zemljevid, na katerem želite znova izvesti selitev podatkov",
     "old_map_data_re_migration_succeeded": "Ponovna selitev podatkov starega zemljevida je uspela!",
     "old_map_data_re_migration_failed": "Ponovna selitev podatkov starega zemljevida ni uspela:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "Odprite in preselite zemljevid oblaka V2",
+    "action_open_and_migrate_v2_cloud_map_description": "Preselite stari zemljevid oblaka iz Map Marker V2 (različica aplikacije pred letom 2023) in ga odprite kot nov zemljevid oblaka",
+    "migrating_legacy_v2_cloud_map": "Selitev starejšega zemljevida v oblaku V2 …",
+    "hint_select_v2_map_to_migrate": "Izberite zemljevid V2 za selitev",
+    "legacy_v2_cloud_map_migration_result_message_success": "Selitev zemljevida oblaka v podedovano V2 je uspela!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Selitev zemljevida oblaka v podedovano V2 ni uspela:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

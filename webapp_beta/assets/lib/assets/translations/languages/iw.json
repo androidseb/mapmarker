@@ -651,11 +651,15 @@
     "purchase_failed_message": "הרכישה נכשלה: %s",
     "data_backup_reminder_title": "גיבוי נתונים",
     "data_backup_reminder_x_days_ago_message": "הגיבוי האחרון היה לפני %s ימים",
-    "from_legacy_map_marker_v2_cloud_map": "ממפת ענן מדור קודם Map Marker V2",
-    "downloading_and_importing_cloud_map": "מוריד ומייבא מפת ענן...",
     "run_data_migration_again": "הפעל שוב העברת נתונים",
     "run_data_migration_again_description": "בחר מפה ישנה שבה תפעיל שוב את העברת הנתונים",
     "old_map_data_re_migration_succeeded": "ההגירה מחדש של נתוני המפה הישנים הצליחה!",
     "old_map_data_re_migration_failed": "העברה מחדש של נתוני מפה ישנים נכשלה:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "פתח והעבר מפת ענן V2",
+    "action_open_and_migrate_v2_cloud_map_description": "העבר מפת ענן מדור קודם מ-Map Marker V2 (גרסת אפליקציה מלפני 2023) ופתח אותה כמפת ענן חדשה",
+    "migrating_legacy_v2_cloud_map": "מעביר את מפת הענן V2 מדור קודם...",
+    "hint_select_v2_map_to_migrate": "בחר את מפת V2 להעברה",
+    "legacy_v2_cloud_map_migration_result_message_success": "העברת מפות ענן מדור קודם V2 הצליחה!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "העברת מפות ענן מדור קודם נכשלה:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -651,11 +651,15 @@
     "purchase_failed_message": "Pirkimas nepavyko: %s",
     "data_backup_reminder_title": "Duomenų atsarginė kopija",
     "data_backup_reminder_x_days_ago_message": "Paskutinė atsarginė kopija buvo prieš %s dienas",
-    "from_legacy_map_marker_v2_cloud_map": "Iš senojo Map Marker V2 debesų žemėlapio",
-    "downloading_and_importing_cloud_map": "Atsisiunčiamas ir importuojamas debesies žemėlapis…",
     "run_data_migration_again": "Dar kartą paleiskite duomenų perkėlimą",
     "run_data_migration_again_description": "Pasirinkite seną žemėlapį, kuriame vėl norite atlikti duomenų perkėlimą",
     "old_map_data_re_migration_succeeded": "Senų žemėlapių duomenų perkėlimas pavyko!",
     "old_map_data_re_migration_failed": "Senų žemėlapių duomenų pakartotinis perkėlimas nepavyko:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "Atidarykite ir perkelkite V2 debesies žemėlapį",
+    "action_open_and_migrate_v2_cloud_map_description": "Perkelkite seną debesų žemėlapį iš Map Marker V2 (programos versija iki 2023 m.) ir atidarykite jį kaip naują debesies žemėlapį",
+    "migrating_legacy_v2_cloud_map": "Perkeliamas senas V2 debesies žemėlapis…",
+    "hint_select_v2_map_to_migrate": "Pasirinkite V2 žemėlapį, kurį norite perkelti",
+    "legacy_v2_cloud_map_migration_result_message_success": "Pasenusio V2 debesies žemėlapio perkėlimas pavyko!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Nepavyko perkelti senojo V2 debesies žemėlapio:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

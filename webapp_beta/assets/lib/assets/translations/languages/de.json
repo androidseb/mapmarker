@@ -651,11 +651,15 @@
     "purchase_failed_message": "Kauf fehlgeschlagen: %s",
     "data_backup_reminder_title": "Datensicherung",
     "data_backup_reminder_x_days_ago_message": "Die letzte Sicherung war vor %s Tagen",
-    "from_legacy_map_marker_v2_cloud_map": "Von Legacy Map Marker V2 Cloud Map",
-    "downloading_and_importing_cloud_map": "Cloud-Karte wird heruntergeladen und importiert…",
     "run_data_migration_again": "Führen Sie die Datenmigration erneut aus",
     "run_data_migration_again_description": "Wählen Sie eine alte Karte aus, auf der die Datenmigration erneut ausgeführt werden soll",
     "old_map_data_re_migration_succeeded": "Alte Kartendaten erneut migrieren erfolgreich!",
     "old_map_data_re_migration_failed": "Alte Kartendaten erneut migrieren fehlgeschlagen:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "Öffnen und migrieren Sie eine V2-Cloud-Map",
+    "action_open_and_migrate_v2_cloud_map_description": "Migrieren Sie eine ältere Cloud-Karte von Map Marker V2 (App-Version vor 2023) und öffnen Sie sie als neue Cloud-Karte",
+    "migrating_legacy_v2_cloud_map": "Alte V2-Cloudkarte wird migriert…",
+    "hint_select_v2_map_to_migrate": "Wählen Sie die zu migrierende V2-Karte aus",
+    "legacy_v2_cloud_map_migration_result_message_success": "Migration der alten V2-Cloud-Karte erfolgreich!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Migration der alten V2-Cloud-Karte fehlgeschlagen:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

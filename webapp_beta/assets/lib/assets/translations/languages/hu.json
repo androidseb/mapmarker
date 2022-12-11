@@ -651,11 +651,15 @@
     "purchase_failed_message": "A vásárlás sikertelen: %s",
     "data_backup_reminder_title": "Adatmentés",
     "data_backup_reminder_x_days_ago_message": "Az utolsó biztonsági mentés %s napja volt",
-    "from_legacy_map_marker_v2_cloud_map": "A régi Map Marker V2 felhőtérképből",
-    "downloading_and_importing_cloud_map": "Felhőtérkép letöltése és importálása…",
     "run_data_migration_again": "Futtassa újra az adatmigrációt",
     "run_data_migration_again_description": "Válasszon ki egy régi térképet, amelyen újra le szeretné futtatni az adatmigrációt",
     "old_map_data_re_migration_succeeded": "A régi térképadatok újraköltöztetése sikerült!",
     "old_map_data_re_migration_failed": "A régi térképadatok újratelepítése nem sikerült:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "Nyisson meg és migráljon egy V2 felhőtérképet",
+    "action_open_and_migrate_v2_cloud_map_description": "Migráljon egy régebbi felhőtérképet a Map Marker V2-ről (2023 előtti alkalmazásverzió), és nyissa meg új felhőtérképként",
+    "migrating_legacy_v2_cloud_map": "A régi V2 felhőtérkép migrálása…",
+    "hint_select_v2_map_to_migrate": "Válassza ki az áttelepítendő V2 térképet",
+    "legacy_v2_cloud_map_migration_result_message_success": "A régebbi V2 felhőtérkép migrációja sikerült!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "A régebbi V2 felhőtérkép migrációja nem sikerült:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

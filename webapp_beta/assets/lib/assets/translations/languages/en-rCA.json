@@ -651,11 +651,15 @@
     "purchase_failed_message": "Purchase failed: %s",
     "data_backup_reminder_title": "Data backup",
     "data_backup_reminder_x_days_ago_message": "Last backup was %s days ago",
-    "from_legacy_map_marker_v2_cloud_map": "From legacy Map Marker V2 cloud map",
-    "downloading_and_importing_cloud_map": "Downloading and importing cloud map…",
     "run_data_migration_again": "Run data migration again",
     "run_data_migration_again_description": "Select an old map on which to run the data migration again",
     "old_map_data_re_migration_succeeded": "Old map data re-migration succeeded!",
     "old_map_data_re_migration_failed": "Old map data re-migration failed:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "Open and migrate a V2 cloud map",
+    "action_open_and_migrate_v2_cloud_map_description": "Migrate a legacy cloud map from Map Marker V2 (app version from before 2023) and open it as a new cloud map",
+    "migrating_legacy_v2_cloud_map": "Migrating legacy V2 cloud map…",
+    "hint_select_v2_map_to_migrate": "Select the V2 map to migrate",
+    "legacy_v2_cloud_map_migration_result_message_success": "Legacy V2 cloud map migration succeeded!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Legacy V2 cloud map migration failed:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

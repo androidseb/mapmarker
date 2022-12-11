@@ -651,11 +651,15 @@
     "purchase_failed_message": "Не вдалося здійснити покупку: %s",
     "data_backup_reminder_title": "Резервне копіювання даних",
     "data_backup_reminder_x_days_ago_message": "Останнє резервне копіювання було зроблено %s днів тому",
-    "from_legacy_map_marker_v2_cloud_map": "З хмарної карти старої версії Map Marker V2",
-    "downloading_and_importing_cloud_map": "Завантаження та імпорт хмарної карти…",
     "run_data_migration_again": "Знову запустіть міграцію даних",
     "run_data_migration_again_description": "Виберіть стару карту, на якій потрібно повторно запустити міграцію даних",
     "old_map_data_re_migration_succeeded": "Повторне переміщення даних старої карти виконано!",
     "old_map_data_re_migration_failed": "Помилка повторного перенесення даних старої карти:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "Відкрийте та перенесіть хмарну карту V2",
+    "action_open_and_migrate_v2_cloud_map_description": "Перенесіть застарілу хмарну карту з Map Marker V2 (версія програми до 2023 року) і відкрийте її як нову хмарну карту",
+    "migrating_legacy_v2_cloud_map": "Перенесення застарілої хмарної карти V2…",
+    "hint_select_v2_map_to_migrate": "Виберіть карту V2 для перенесення",
+    "legacy_v2_cloud_map_migration_result_message_success": "Переміщення хмарної карти із застарілої версії V2 успішно!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Помилка міграції застарілої хмарної карти V2:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

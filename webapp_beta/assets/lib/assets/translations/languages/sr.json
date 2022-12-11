@@ -651,11 +651,15 @@
     "purchase_failed_message": "Куповина није успела: %s",
     "data_backup_reminder_title": "Повратак података",
     "data_backup_reminder_x_days_ago_message": "Последња резервна копија је била пре %s дана",
-    "from_legacy_map_marker_v2_cloud_map": "Из старе Map Marker В2 мапе облака",
-    "downloading_and_importing_cloud_map": "Преузимање и увоз мапе облака…",
     "run_data_migration_again": "Поново покрените миграцију података",
     "run_data_migration_again_description": "Изаберите стару мапу на којој ћете поново покренути миграцију података",
     "old_map_data_re_migration_succeeded": "Поновна миграција података старе мапе је успела!",
     "old_map_data_re_migration_failed": "Поновна миграција података старе мапе није успела:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "Отворите и мигрирајте В2 мапу облака",
+    "action_open_and_migrate_v2_cloud_map_description": "Пренесите застарелу мапу облака са Map Marker В2 (верзија апликације пре 2023.) и отворите је као нову мапу облака",
+    "migrating_legacy_v2_cloud_map": "Мигрира се стара В2 мапа облака…",
+    "hint_select_v2_map_to_migrate": "Изаберите В2 мапу за миграцију",
+    "legacy_v2_cloud_map_migration_result_message_success": "Миграција застареле В2 мапе облака је успела!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Миграција мапе облака старе верзије В2 није успела:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

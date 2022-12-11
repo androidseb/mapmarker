@@ -651,11 +651,15 @@
     "purchase_failed_message": "การซื้อล้มเหลว: %s",
     "data_backup_reminder_title": "สำรองข้อมูล",
     "data_backup_reminder_x_days_ago_message": "สำรองข้อมูลล่าสุดเมื่อ %s วันที่แล้ว",
-    "from_legacy_map_marker_v2_cloud_map": "จากแผนที่คลาวด์ดั้งเดิม Map Marker V2",
-    "downloading_and_importing_cloud_map": "กำลังดาวน์โหลดและนำเข้าแผนที่คลาวด์...",
     "run_data_migration_again": "เรียกใช้การย้ายข้อมูลอีกครั้ง",
     "run_data_migration_again_description": "เลือกแผนที่เก่าที่จะเรียกใช้การย้ายข้อมูลอีกครั้ง",
     "old_map_data_re_migration_succeeded": "การย้ายข้อมูลแผนที่เก่าอีกครั้งสำเร็จแล้ว!",
     "old_map_data_re_migration_failed": "การย้ายข้อมูลแผนที่เก่าล้มเหลว:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "เปิดและย้ายแผนที่ระบบคลาวด์ V2",
+    "action_open_and_migrate_v2_cloud_map_description": "ย้ายแผนที่คลาวด์ดั้งเดิมจาก Map Marker V2 (เวอร์ชันแอปก่อนปี 2023) และเปิดเป็นแผนที่คลาวด์ใหม่",
+    "migrating_legacy_v2_cloud_map": "กำลังโอนย้ายแผนที่ระบบคลาวด์ V2 เดิม…",
+    "hint_select_v2_map_to_migrate": "เลือกแผนที่ V2 ที่จะโยกย้าย",
+    "legacy_v2_cloud_map_migration_result_message_success": "การโยกย้ายแผนที่ระบบคลาวด์ V2 ดั้งเดิมสำเร็จแล้ว!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "การโยกย้ายแผนที่ระบบคลาวด์แบบดั้งเดิม V2 ล้มเหลว:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

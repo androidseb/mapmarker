@@ -651,11 +651,15 @@
     "purchase_failed_message": "Не удалось совершить покупку: %s",
     "data_backup_reminder_title": "Резервное копирование данных",
     "data_backup_reminder_x_days_ago_message": "Последнее резервное копирование было %s дней назад",
-    "from_legacy_map_marker_v2_cloud_map": "Из устаревшей карты облаков Map Marker V2",
-    "downloading_and_importing_cloud_map": "Загрузка и импорт облачной карты…",
     "run_data_migration_again": "Запустите миграцию данных еще раз",
     "run_data_migration_again_description": "Выберите старую карту, на которой нужно снова запустить миграцию данных.",
     "old_map_data_re_migration_succeeded": "Повторный перенос данных старой карты выполнен успешно!",
     "old_map_data_re_migration_failed": "Ошибка повторного переноса данных старой карты:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "Открытие и миграция облачной карты V2",
+    "action_open_and_migrate_v2_cloud_map_description": "Перенесите устаревшую карту облаков из Map Marker V2 (версия приложения до 2023 г.) и откройте ее как новую карту облаков.",
+    "migrating_legacy_v2_cloud_map": "Перенос устаревшей облачной карты V2…",
+    "hint_select_v2_map_to_migrate": "Выберите карту V2 для переноса",
+    "legacy_v2_cloud_map_migration_result_message_success": "Миграция облачной карты предыдущей версии V2 выполнена успешно!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Не удалось выполнить миграцию облачной карты предыдущей версии V2:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

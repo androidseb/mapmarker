@@ -651,11 +651,15 @@
     "purchase_failed_message": "Nákup se nezdařil: %s",
     "data_backup_reminder_title": "Zálohování dat",
     "data_backup_reminder_x_days_ago_message": "Poslední záloha byla provedena před %s dny",
-    "from_legacy_map_marker_v2_cloud_map": "Ze starší cloudové mapy Map Marker V2",
-    "downloading_and_importing_cloud_map": "Stahování a import cloudové mapy…",
     "run_data_migration_again": "Znovu spusťte migraci dat",
     "run_data_migration_again_description": "Vyberte starou mapu, na které chcete migraci dat znovu spustit",
     "old_map_data_re_migration_succeeded": "Re-migrace starých mapových dat byla úspěšná!",
     "old_map_data_re_migration_failed": "Opětovná migrace dat starých map se nezdařila:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "Otevřete a migrujte cloudovou mapu V2",
+    "action_open_and_migrate_v2_cloud_map_description": "Migrujte starší cloudovou mapu z Map Marker V2 (verze aplikace před rokem 2023) a otevřete ji jako novou cloudovou mapu",
+    "migrating_legacy_v2_cloud_map": "Migrace starší cloudové mapy V2…",
+    "hint_select_v2_map_to_migrate": "Vyberte mapu V2, kterou chcete migrovat",
+    "legacy_v2_cloud_map_migration_result_message_success": "Migrace starší cloudové mapy V2 byla úspěšná!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Migrace starší cloudové mapy V2 se nezdařila:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

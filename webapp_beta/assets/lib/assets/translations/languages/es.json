@@ -651,11 +651,15 @@
     "purchase_failed_message": "Compra fallida: %s",
     "data_backup_reminder_title": "Copias de seguridad",
     "data_backup_reminder_x_days_ago_message": "La última copia de seguridad fue hace %s días",
-    "from_legacy_map_marker_v2_cloud_map": "Del mapa de nube heredado Map Marker V2",
-    "downloading_and_importing_cloud_map": "Descargando e importando mapa de nubes…",
     "run_data_migration_again": "Vuelva a ejecutar la migración de datos",
     "run_data_migration_again_description": "Seleccione un mapa antiguo en el que ejecutar la migración de datos nuevamente",
     "old_map_data_re_migration_succeeded": "¡La remigración de datos de mapas antiguos se realizó correctamente!",
     "old_map_data_re_migration_failed": "Error al volver a migrar los datos del mapa antiguo:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "Abra y migre un mapa en la nube V2",
+    "action_open_and_migrate_v2_cloud_map_description": "Migre un mapa de nubes heredado de Map Marker V2 (versión de la aplicación anterior a 2023) y ábralo como un nuevo mapa de nubes",
+    "migrating_legacy_v2_cloud_map": "Migrando el mapa en la nube V2 heredado...",
+    "hint_select_v2_map_to_migrate": "Seleccione el mapa V2 para migrar",
+    "legacy_v2_cloud_map_migration_result_message_success": "¡La migración del mapa en la nube Legacy V2 se realizó correctamente!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Falló la migración del mapa en la nube Legacy V2:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

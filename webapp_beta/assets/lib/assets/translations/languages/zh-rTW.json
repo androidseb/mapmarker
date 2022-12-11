@@ -651,11 +651,15 @@
     "purchase_failed_message": "購買失敗：%s",
     "data_backup_reminder_title": "數據備份",
     "data_backup_reminder_x_days_ago_message": "上次備份是 %s 天前",
-    "from_legacy_map_marker_v2_cloud_map": "來自舊版Map Marker V2雲圖",
-    "downloading_and_importing_cloud_map": "正在下載和導入雲圖…",
     "run_data_migration_again": "再次運行數據遷移",
     "run_data_migration_again_description": "選擇要再次運行數據遷移的舊地圖",
     "old_map_data_re_migration_succeeded": "舊地圖數據重新遷移成功！",
     "old_map_data_re_migration_failed": "舊地圖數據重新遷移失敗：\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "打開並遷移 V2 雲圖",
+    "action_open_and_migrate_v2_cloud_map_description": "從Map Marker V2（2023年之前的應用程序版本）遷移舊雲圖並將其作為新雲圖打開",
+    "migrating_legacy_v2_cloud_map": "正在遷移舊版 V2 雲地圖…",
+    "hint_select_v2_map_to_migrate": "選擇要遷移的 V2 地圖",
+    "legacy_v2_cloud_map_migration_result_message_success": "Legacy V2 雲地圖遷移成功！",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Legacy V2 雲地圖遷移失敗：\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

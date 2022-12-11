@@ -651,11 +651,15 @@
     "purchase_failed_message": "खरीदारी विफल: %s",
     "data_backup_reminder_title": "डेटा बैकअप",
     "data_backup_reminder_x_days_ago_message": "पिछला बैकअप %s दिन पहले था",
-    "from_legacy_map_marker_v2_cloud_map": "लीगेसी Map Marker V2 क्लाउड मैप से",
-    "downloading_and_importing_cloud_map": "क्लाउड मानचित्र डाउनलोड और आयात किया जा रहा है…",
     "run_data_migration_again": "डेटा माइग्रेशन फिर से चलाएँ",
     "run_data_migration_again_description": "एक पुराने मानचित्र का चयन करें जिस पर डेटा माइग्रेशन फिर से चलाना है",
     "old_map_data_re_migration_succeeded": "पुराने मानचित्र डेटा का पुन: स्थानांतरण सफल रहा!",
     "old_map_data_re_migration_failed": "पुराना नक्शा डेटा पुन: माइग्रेशन विफल:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "V2 क्लाउड मैप खोलें और माइग्रेट करें",
+    "action_open_and_migrate_v2_cloud_map_description": "Map Marker V2 (2023 से पहले के ऐप संस्करण) से विरासत क्लाउड मैप को माइग्रेट करें और इसे नए क्लाउड मैप के रूप में खोलें",
+    "migrating_legacy_v2_cloud_map": "लेगेसी V2 क्लाउड मैप माइग्रेट किया जा रहा है…",
+    "hint_select_v2_map_to_migrate": "माइग्रेट करने के लिए V2 मानचित्र का चयन करें",
+    "legacy_v2_cloud_map_migration_result_message_success": "लीगेसी V2 क्लाउड मैप माइग्रेशन सफल रहा!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "लीगेसी V2 क्लाउड मैप माइग्रेशन विफल:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

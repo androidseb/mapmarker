@@ -651,11 +651,15 @@
     "purchase_failed_message": "Køb mislykkedes: %s",
     "data_backup_reminder_title": "Data backup",
     "data_backup_reminder_x_days_ago_message": "Sidste sikkerhedskopiering var for %s dage siden",
-    "from_legacy_map_marker_v2_cloud_map": "Fra ældre Map Marker V2 skykort",
-    "downloading_and_importing_cloud_map": "Downloader og importerer skykort...",
     "run_data_migration_again": "Kør datamigrering igen",
     "run_data_migration_again_description": "Vælg et gammelt kort, som datamigreringen skal køres på igen",
     "old_map_data_re_migration_succeeded": "Gamle kortdata re-migrering lykkedes!",
     "old_map_data_re_migration_failed": "Genmigrering af gamle kortdata mislykkedes:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "Åbn og migrér et V2-skykort",
+    "action_open_and_migrate_v2_cloud_map_description": "Migrer et ældre skykort fra Map Marker V2 (appversion fra før 2023) og åbn det som et nyt skykort",
+    "migrating_legacy_v2_cloud_map": "Migrerer det gamle V2-skykort...",
+    "hint_select_v2_map_to_migrate": "Vælg V2-kortet, der skal migreres",
+    "legacy_v2_cloud_map_migration_result_message_success": "Ældre V2 skykort-migrering lykkedes!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Ældre V2 skykort-migrering mislykkedes:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -651,11 +651,15 @@
     "purchase_failed_message": "Η αγορά απέτυχε: %s",
     "data_backup_reminder_title": "Αντίγραφο ασφαλείας δεδομένων",
     "data_backup_reminder_x_days_ago_message": "Το τελευταίο αντίγραφο ασφαλείας έγινε πριν από %s ημέρες",
-    "from_legacy_map_marker_v2_cloud_map": "Από παλαιού τύπου Map Marker V2 χάρτη cloud",
-    "downloading_and_importing_cloud_map": "Λήψη και εισαγωγή χάρτη cloud…",
     "run_data_migration_again": "Εκτελέστε ξανά τη μετεγκατάσταση δεδομένων",
     "run_data_migration_again_description": "Επιλέξτε έναν παλιό χάρτη στον οποίο θα εκτελέσετε ξανά τη μετεγκατάσταση δεδομένων",
     "old_map_data_re_migration_succeeded": "Η εκ νέου μετεγκατάσταση δεδομένων παλιού χάρτη πέτυχε!",
     "old_map_data_re_migration_failed": "Η εκ νέου μετεγκατάσταση δεδομένων παλιού χάρτη απέτυχε:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "Ανοίξτε και μετεγκαταστήστε έναν χάρτη νέφους V2",
+    "action_open_and_migrate_v2_cloud_map_description": "Μετεγκατάσταση χάρτη cloud παλαιού τύπου από Map Marker V2 (έκδοση εφαρμογής πριν από το 2023) και ανοίξτε τον ως νέο χάρτη cloud",
+    "migrating_legacy_v2_cloud_map": "Μετεγκατάσταση χάρτη cloud παλαιού τύπου V2…",
+    "hint_select_v2_map_to_migrate": "Επιλέξτε τον χάρτη V2 για μετεγκατάσταση",
+    "legacy_v2_cloud_map_migration_result_message_success": "Η μετεγκατάσταση χαρτών νέφους παλαιού τύπου V2 πέτυχε!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Η μετεγκατάσταση του χάρτη cloud παλαιού τύπου V2 απέτυχε:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

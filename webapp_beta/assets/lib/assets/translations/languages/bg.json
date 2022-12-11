@@ -651,11 +651,15 @@
     "purchase_failed_message": "Неуспешна покупка: %s",
     "data_backup_reminder_title": "Архивиране на данни",
     "data_backup_reminder_x_days_ago_message": "Последното архивиране беше преди %s дни",
-    "from_legacy_map_marker_v2_cloud_map": "От наследена Map Marker V2 облачна карта",
-    "downloading_and_importing_cloud_map": "Изтегля се и се импортира облачна карта...",
     "run_data_migration_again": "Стартирайте миграцията на данни отново",
     "run_data_migration_again_description": "Изберете стара карта, върху която да стартирате отново миграцията на данни",
     "old_map_data_re_migration_succeeded": "Повторното мигриране на данни от старата карта е успешно!",
     "old_map_data_re_migration_failed": "Неуспешно повторно мигриране на данни от старата карта:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "Отворете и мигрирайте облачна карта V2",
+    "action_open_and_migrate_v2_cloud_map_description": "Мигрирайте наследена облачна карта от Map Marker V2 (версия на приложението от преди 2023 г.) и я отворете като нова облачна карта",
+    "migrating_legacy_v2_cloud_map": "Мигриране на наследена облачна карта V2...",
+    "hint_select_v2_map_to_migrate": "Изберете карта V2 за мигриране",
+    "legacy_v2_cloud_map_migration_result_message_success": "Мигрирането на наследена облачна карта V2 бе успешно!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Неуспешна миграция на наследена облачна карта V2:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -651,11 +651,15 @@
     "purchase_failed_message": "Pirkums neizdevās: %s",
     "data_backup_reminder_title": "Datu dublēšana",
     "data_backup_reminder_x_days_ago_message": "Pēdējā dublēšana tika veikta pirms %s dienām",
-    "from_legacy_map_marker_v2_cloud_map": "No mantotās Map Marker V2 mākoņa kartes",
-    "downloading_and_importing_cloud_map": "Notiek mākoņa kartes lejupielāde un importēšana…",
     "run_data_migration_again": "Palaidiet datu migrāciju vēlreiz",
     "run_data_migration_again_description": "Atlasiet vecu karti, kurā vēlreiz palaist datu migrāciju",
     "old_map_data_re_migration_succeeded": "Veco karšu datu remigrācija izdevās!",
     "old_map_data_re_migration_failed": "Veco kartes datu atkārtota migrēšana neizdevās:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "Atveriet un migrējiet V2 mākoņa karti",
+    "action_open_and_migrate_v2_cloud_map_description": "Migrējiet mantoto mākoņa karti no Map Marker V2 (lietotnes versija pirms 2023. gada) un atveriet to kā jaunu mākoņa karti",
+    "migrating_legacy_v2_cloud_map": "Notiek mantotās V2 mākoņkartes migrēšana…",
+    "hint_select_v2_map_to_migrate": "Atlasiet V2 karti, lai migrētu",
+    "legacy_v2_cloud_map_migration_result_message_success": "Mantotās V2 mākoņkartes migrācija ir izdevusies!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Mantotās V2 mākoņkartes migrēšana neizdevās:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

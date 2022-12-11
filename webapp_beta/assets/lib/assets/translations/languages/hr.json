@@ -651,11 +651,15 @@
     "purchase_failed_message": "Kupnja nije uspjela: %s",
     "data_backup_reminder_title": "Sigurnosna kopija podataka",
     "data_backup_reminder_x_days_ago_message": "Zadnja sigurnosna kopija napravljena je prije %s dana",
-    "from_legacy_map_marker_v2_cloud_map": "Iz naslijeđene karte oblaka Map Marker V2",
-    "downloading_and_importing_cloud_map": "Preuzimanje i uvoz karte oblaka…",
     "run_data_migration_again": "Ponovno pokrenite migraciju podataka",
     "run_data_migration_again_description": "Odaberite staru kartu na kojoj želite ponovno pokrenuti migraciju podataka",
     "old_map_data_re_migration_succeeded": "Ponovna migracija podataka stare karte je uspjela!",
     "old_map_data_re_migration_failed": "Ponovna migracija podataka stare karte nije uspjela:\n%s",
+    "action_open_and_migrate_v2_cloud_map_title": "Otvorite i migrirajte mapu oblaka V2",
+    "action_open_and_migrate_v2_cloud_map_description": "Premjestite naslijeđenu kartu oblaka iz Map Marker V2 (verzija aplikacije prije 2023.) i otvorite je kao novu kartu oblaka",
+    "migrating_legacy_v2_cloud_map": "Migracija naslijeđene karte oblaka V2…",
+    "hint_select_v2_map_to_migrate": "Odaberite kartu V2 za migraciju",
+    "legacy_v2_cloud_map_migration_result_message_success": "Migracija naslijeđene karte oblaka V2 uspjela!",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Migracija naslijeđene karte oblaka V2 nije uspjela:\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
