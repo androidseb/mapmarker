@@ -660,6 +660,6 @@
     "migrating_legacy_v2_cloud_map": "កំពុងផ្ទេរផែនទីពពក V2 ចាស់...",
     "hint_select_v2_map_to_migrate": "ជ្រើសរើសផែនទី V2 ដើម្បីផ្លាស់ទី",
     "legacy_v2_cloud_map_migration_result_message_success": "ការធ្វើចំណាកស្រុកផែនទីពពកចាស់ V2 បានជោគជ័យ!",
-    "legacy_v2_cloud_map_migration_result_message_fail_x": "Legacy V2 cloud map migration បានបរាជ័យ៖\n_៧",
+    "legacy_v2_cloud_map_migration_result_message_fail_x": "Legacy V2 cloud map migration បានបរាជ័យ៖\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
