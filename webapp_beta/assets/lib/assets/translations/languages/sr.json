@@ -661,5 +661,8 @@
     "hint_select_v2_map_to_migrate": "Изаберите В2 мапу за миграцију",
     "legacy_v2_cloud_map_migration_result_message_success": "Миграција застареле В2 мапе облака је успела!",
     "legacy_v2_cloud_map_migration_result_message_fail_x": "Миграција мапе облака старе верзије В2 није успела:\n%s",
+    "loading_file": "Учитавање датотеке…",
+    "zipping_file_x": "Зип датотека: %s",
+    "unzipping_file_x": "Распакивање датотеке: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

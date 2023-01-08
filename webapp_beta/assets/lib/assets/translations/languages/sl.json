@@ -661,5 +661,8 @@
     "hint_select_v2_map_to_migrate": "Izberite zemljevid V2 za selitev",
     "legacy_v2_cloud_map_migration_result_message_success": "Selitev zemljevida oblaka v podedovano V2 je uspela!",
     "legacy_v2_cloud_map_migration_result_message_fail_x": "Selitev zemljevida oblaka v podedovano V2 ni uspela:\n%s",
+    "loading_file": "Nalaganje datoteke …",
+    "zipping_file_x": "Stiskanje datoteke: %s",
+    "unzipping_file_x": "Razpakiranje datoteke: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

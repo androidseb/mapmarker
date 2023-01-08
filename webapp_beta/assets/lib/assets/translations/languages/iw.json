@@ -661,5 +661,8 @@
     "hint_select_v2_map_to_migrate": "בחר את מפת V2 להעברה",
     "legacy_v2_cloud_map_migration_result_message_success": "העברת מפות ענן מדור קודם V2 הצליחה!",
     "legacy_v2_cloud_map_migration_result_message_fail_x": "העברת מפות ענן מדור קודם נכשלה:\n%s",
+    "loading_file": "טוען קובץ...",
+    "zipping_file_x": "קובץ מיקוד: %s",
+    "unzipping_file_x": "פתיחת קובץ: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

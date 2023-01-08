@@ -661,5 +661,8 @@
     "hint_select_v2_map_to_migrate": "移行する V2 マップを選択してください",
     "legacy_v2_cloud_map_migration_result_message_success": "レガシー V2 クラウド マップの移行が成功しました!",
     "legacy_v2_cloud_map_migration_result_message_fail_x": "従来の V2 クラウド マップの移行に失敗しました:\n%s",
+    "loading_file": "ファイルを読み込んでいます…",
+    "zipping_file_x": "圧縮ファイル: %s",
+    "unzipping_file_x": "ファイルの解凍: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

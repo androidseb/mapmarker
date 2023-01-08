@@ -661,5 +661,8 @@
     "hint_select_v2_map_to_migrate": "Velg V2-kartet som skal migreres",
     "legacy_v2_cloud_map_migration_result_message_success": "Eldre V2 skykart-migrering lyktes!",
     "legacy_v2_cloud_map_migration_result_message_fail_x": "Eldre V2 skykartmigrering mislyktes:\n%s",
+    "loading_file": "Laster inn fil …",
+    "zipping_file_x": "Zipping-fil: %s",
+    "unzipping_file_x": "Pakk ut fil: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

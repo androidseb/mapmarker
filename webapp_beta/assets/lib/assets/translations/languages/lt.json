@@ -661,5 +661,8 @@
     "hint_select_v2_map_to_migrate": "Pasirinkite V2 žemėlapį, kurį norite perkelti",
     "legacy_v2_cloud_map_migration_result_message_success": "Pasenusio V2 debesies žemėlapio perkėlimas pavyko!",
     "legacy_v2_cloud_map_migration_result_message_fail_x": "Nepavyko perkelti senojo V2 debesies žemėlapio:\n%s",
+    "loading_file": "Įkeliamas failas…",
+    "zipping_file_x": "Supakuotas failas: %s",
+    "unzipping_file_x": "Išpakuojamas failas: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -661,5 +661,8 @@
     "hint_select_v2_map_to_migrate": "Pilih peta V2 untuk dimigrasikan",
     "legacy_v2_cloud_map_migration_result_message_success": "Migrasi peta cloud V2 lama berhasil!",
     "legacy_v2_cloud_map_migration_result_message_fail_x": "Migrasi peta awan V2 lama gagal:\n%s",
+    "loading_file": "Memuat file…",
+    "zipping_file_x": "File zip: %s",
+    "unzipping_file_x": "Membuka ritsleting file: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

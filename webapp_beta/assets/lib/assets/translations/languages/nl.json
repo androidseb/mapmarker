@@ -661,5 +661,8 @@
     "hint_select_v2_map_to_migrate": "Selecteer de V2-kaart om te migreren",
     "legacy_v2_cloud_map_migration_result_message_success": "Migratie van legacy V2-cloudmap geslaagd!",
     "legacy_v2_cloud_map_migration_result_message_fail_x": "Migratie van legacy V2-cloudmap mislukt:\n%s",
+    "loading_file": "Bestand laden...",
+    "zipping_file_x": "Bestand zippen: %s",
+    "unzipping_file_x": "Bestand uitpakken: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

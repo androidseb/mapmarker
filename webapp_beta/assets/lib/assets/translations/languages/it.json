@@ -661,5 +661,8 @@
     "hint_select_v2_map_to_migrate": "Seleziona la mappa V2 da migrare",
     "legacy_v2_cloud_map_migration_result_message_success": "Migrazione della mappa cloud legacy V2 riuscita!",
     "legacy_v2_cloud_map_migration_result_message_fail_x": "Migrazione della mappa cloud legacy V2 non riuscita:\n%s",
+    "loading_file": "Caricamento file...",
+    "zipping_file_x": "File compresso: %s",
+    "unzipping_file_x": "File di decompressione: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

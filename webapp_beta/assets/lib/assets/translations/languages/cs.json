@@ -661,5 +661,8 @@
     "hint_select_v2_map_to_migrate": "Vyberte mapu V2, kterou chcete migrovat",
     "legacy_v2_cloud_map_migration_result_message_success": "Migrace starší cloudové mapy V2 byla úspěšná!",
     "legacy_v2_cloud_map_migration_result_message_fail_x": "Migrace starší cloudové mapy V2 se nezdařila:\n%s",
+    "loading_file": "Načítání souboru…",
+    "zipping_file_x": "Komprimovaný soubor: %s",
+    "unzipping_file_x": "Rozbalení souboru: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

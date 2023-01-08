@@ -661,5 +661,8 @@
     "hint_select_v2_map_to_migrate": "Sélectionnez la carte V2 à migrer",
     "legacy_v2_cloud_map_migration_result_message_success": "Migration de l'ancienne carte cloud V2 réussie!",
     "legacy_v2_cloud_map_migration_result_message_fail_x": "Migration de l'ancienne carte cloud V2 échouée:\n%s",
+    "loading_file": "Chargement du fichier…",
+    "zipping_file_x": "Compression du fichier: %s",
+    "unzipping_file_x": "Extraction du fichier: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

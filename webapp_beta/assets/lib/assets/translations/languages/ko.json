@@ -661,5 +661,8 @@
     "hint_select_v2_map_to_migrate": "마이그레이션할 V2 맵 선택",
     "legacy_v2_cloud_map_migration_result_message_success": "레거시 V2 클라우드 맵 마이그레이션 성공!",
     "legacy_v2_cloud_map_migration_result_message_fail_x": "레거시 V2 클라우드 맵 마이그레이션 실패:\n%s",
+    "loading_file": "파일 로드 중…",
+    "zipping_file_x": "압축 파일: %s",
+    "unzipping_file_x": "압축 해제 파일: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

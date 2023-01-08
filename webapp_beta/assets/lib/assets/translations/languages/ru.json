@@ -661,5 +661,8 @@
     "hint_select_v2_map_to_migrate": "Выберите карту V2 для переноса",
     "legacy_v2_cloud_map_migration_result_message_success": "Миграция облачной карты предыдущей версии V2 выполнена успешно!",
     "legacy_v2_cloud_map_migration_result_message_fail_x": "Не удалось выполнить миграцию облачной карты предыдущей версии V2:\n%s",
+    "loading_file": "Загрузка файла…",
+    "zipping_file_x": "Запакованный файл: %s",
+    "unzipping_file_x": "Распаковка файла: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

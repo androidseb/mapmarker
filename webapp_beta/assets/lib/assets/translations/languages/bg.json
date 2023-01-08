@@ -661,5 +661,8 @@
     "hint_select_v2_map_to_migrate": "Изберете карта V2 за мигриране",
     "legacy_v2_cloud_map_migration_result_message_success": "Мигрирането на наследена облачна карта V2 бе успешно!",
     "legacy_v2_cloud_map_migration_result_message_fail_x": "Неуспешна миграция на наследена облачна карта V2:\n%s",
+    "loading_file": "Файлът се зарежда…",
+    "zipping_file_x": "Компилиран файл: %s",
+    "unzipping_file_x": "Разархивиране на файл: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

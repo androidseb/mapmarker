@@ -661,5 +661,8 @@
     "hint_select_v2_map_to_migrate": "เลือกแผนที่ V2 ที่จะโยกย้าย",
     "legacy_v2_cloud_map_migration_result_message_success": "การโยกย้ายแผนที่ระบบคลาวด์ V2 ดั้งเดิมสำเร็จแล้ว!",
     "legacy_v2_cloud_map_migration_result_message_fail_x": "การโยกย้ายแผนที่ระบบคลาวด์แบบดั้งเดิม V2 ล้มเหลว:\n%s",
+    "loading_file": "กำลังโหลดไฟล์…",
+    "zipping_file_x": "กำลังซิปไฟล์: %s",
+    "unzipping_file_x": "กำลังแตกไฟล์: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

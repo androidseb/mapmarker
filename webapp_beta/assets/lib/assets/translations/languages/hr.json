@@ -661,5 +661,8 @@
     "hint_select_v2_map_to_migrate": "Odaberite kartu V2 za migraciju",
     "legacy_v2_cloud_map_migration_result_message_success": "Migracija naslijeđene karte oblaka V2 uspjela!",
     "legacy_v2_cloud_map_migration_result_message_fail_x": "Migracija naslijeđene karte oblaka V2 nije uspjela:\n%s",
+    "loading_file": "Učitavanje datoteke...",
+    "zipping_file_x": "Komprimirana datoteka: %s",
+    "unzipping_file_x": "Raspakiranje datoteke: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
