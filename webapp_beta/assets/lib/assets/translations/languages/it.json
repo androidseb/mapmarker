@@ -664,5 +664,7 @@
     "loading_file": "Caricamento file...",
     "zipping_file_x": "File compresso: %s",
     "unzipping_file_x": "File di decompressione: %s",
+    "action_save_to_files": "Salva su file",
+    "sucessfully_saved_to_device_files": "Salvataggio riuscito nei file del dispositivo",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -664,5 +664,7 @@
     "loading_file": "Notiek faila ielāde…",
     "zipping_file_x": "Zip fails: %s",
     "unzipping_file_x": "Faila izsaiņošana: %s",
+    "action_save_to_files": "Saglabāt failos",
+    "sucessfully_saved_to_device_files": "Veiksmīgi saglabāts ierīces failos",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

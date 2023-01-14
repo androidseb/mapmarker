@@ -664,5 +664,7 @@
     "loading_file": "फ़ाइल लोड हो रही है…",
     "zipping_file_x": "ज़िप फ़ाइल: %s",
     "unzipping_file_x": "फ़ाइल खोलना: %s",
+    "action_save_to_files": "फाइलों में सेव करें",
+    "sucessfully_saved_to_device_files": "डिवाइस फ़ाइलों में सफलतापूर्वक सहेजा गया",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

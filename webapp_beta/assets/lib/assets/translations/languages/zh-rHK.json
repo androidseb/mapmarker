@@ -664,5 +664,7 @@
     "loading_file": "加載文件…",
     "zipping_file_x": "壓縮文件：%s",
     "unzipping_file_x": "解壓縮文件：%s",
+    "action_save_to_files": "保存到文件",
+    "sucessfully_saved_to_device_files": "成功保存到設備文件",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -664,5 +664,7 @@
     "loading_file": "Ladataan tiedostoa…",
     "zipping_file_x": "Pakattu tiedosto: %s",
     "unzipping_file_x": "Pura tiedosto: %s",
+    "action_save_to_files": "Tallenna tiedostoihin",
+    "sucessfully_saved_to_device_files": "Tallentaminen laitetiedostoihin onnistui",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -664,5 +664,7 @@
     "loading_file": "Ładowanie pliku…",
     "zipping_file_x": "Spakowany plik: %s",
     "unzipping_file_x": "Rozpakowywanie pliku: %s",
+    "action_save_to_files": "Zapisz do plików",
+    "sucessfully_saved_to_device_files": "Pomyślnie zapisano w plikach urządzenia",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

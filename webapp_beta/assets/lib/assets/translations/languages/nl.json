@@ -664,5 +664,7 @@
     "loading_file": "Bestand laden...",
     "zipping_file_x": "Bestand zippen: %s",
     "unzipping_file_x": "Bestand uitpakken: %s",
+    "action_save_to_files": "Opslaan in bestanden",
+    "sucessfully_saved_to_device_files": "Succesvol opgeslagen in apparaatbestanden",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

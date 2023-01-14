@@ -664,5 +664,7 @@
     "loading_file": "S'està carregant el fitxer...",
     "zipping_file_x": "Fitxer comprimit: %s",
     "unzipping_file_x": "Descomprimint fitxer: %s",
+    "action_save_to_files": "Desa als fitxers",
+    "sucessfully_saved_to_device_files": "S'ha desat correctament als fitxers del dispositiu",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

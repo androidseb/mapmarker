@@ -664,5 +664,7 @@
     "loading_file": "Učitavanje datoteke...",
     "zipping_file_x": "Komprimirana datoteka: %s",
     "unzipping_file_x": "Raspakiranje datoteke: %s",
+    "action_save_to_files": "Spremi u datoteke",
+    "sucessfully_saved_to_device_files": "Uspješno spremljeno u datoteke uređaja",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -664,5 +664,7 @@
     "loading_file": "Indlæser fil...",
     "zipping_file_x": "Zip-fil: %s",
     "unzipping_file_x": "Udpakning af fil: %s",
+    "action_save_to_files": "Gem til filer",
+    "sucessfully_saved_to_device_files": "Gemt i enhedsfiler",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -664,5 +664,7 @@
     "loading_file": "파일 로드 중…",
     "zipping_file_x": "압축 파일: %s",
     "unzipping_file_x": "압축 해제 파일: %s",
+    "action_save_to_files": "파일에 저장",
+    "sucessfully_saved_to_device_files": "장치 파일에 성공적으로 저장되었습니다.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

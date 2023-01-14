@@ -664,5 +664,7 @@
     "loading_file": "Loading file…",
     "zipping_file_x": "Zipping file: %s",
     "unzipping_file_x": "Unzipping file: %s",
+    "action_save_to_files": "Save to files",
+    "sucessfully_saved_to_device_files": "Successfully saved to device files",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

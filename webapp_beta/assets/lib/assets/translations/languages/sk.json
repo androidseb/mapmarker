@@ -664,5 +664,7 @@
     "loading_file": "Načítava sa súbor…",
     "zipping_file_x": "Komprimovaný súbor: %s",
     "unzipping_file_x": "Rozbalenie súboru: %s",
+    "action_save_to_files": "Uložiť do súborov",
+    "sucessfully_saved_to_device_files": "Úspešne uložené do súborov zariadenia",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

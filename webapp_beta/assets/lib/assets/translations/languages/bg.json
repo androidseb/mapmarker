@@ -664,5 +664,7 @@
     "loading_file": "Файлът се зарежда…",
     "zipping_file_x": "Компилиран файл: %s",
     "unzipping_file_x": "Разархивиране на файл: %s",
+    "action_save_to_files": "Запазване във файлове",
+    "sucessfully_saved_to_device_files": "Успешно запазени във файловете на устройството",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

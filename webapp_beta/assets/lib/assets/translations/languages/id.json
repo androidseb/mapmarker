@@ -664,5 +664,7 @@
     "loading_file": "Memuat file…",
     "zipping_file_x": "File zip: %s",
     "unzipping_file_x": "Membuka ritsleting file: %s",
+    "action_save_to_files": "Simpan ke file",
+    "sucessfully_saved_to_device_files": "Berhasil disimpan ke file perangkat",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

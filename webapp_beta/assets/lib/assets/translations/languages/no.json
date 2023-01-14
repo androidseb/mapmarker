@@ -664,5 +664,7 @@
     "loading_file": "Laster inn fil …",
     "zipping_file_x": "Zipping-fil: %s",
     "unzipping_file_x": "Pakk ut fil: %s",
+    "action_save_to_files": "Lagre til filer",
+    "sucessfully_saved_to_device_files": "Lagret til enhetsfiler",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

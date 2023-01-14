@@ -664,5 +664,7 @@
     "loading_file": "Įkeliamas failas…",
     "zipping_file_x": "Supakuotas failas: %s",
     "unzipping_file_x": "Išpakuojamas failas: %s",
+    "action_save_to_files": "Išsaugoti failuose",
+    "sucessfully_saved_to_device_files": "Sėkmingai išsaugota įrenginio failuose",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

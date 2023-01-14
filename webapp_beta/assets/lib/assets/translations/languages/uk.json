@@ -664,5 +664,7 @@
     "loading_file": "Завантаження файлу…",
     "zipping_file_x": "Архівований файл: %s",
     "unzipping_file_x": "Розпакуйте файл: %s",
+    "action_save_to_files": "Зберегти у файли",
+    "sucessfully_saved_to_device_files": "Успішно збережено у файли пристрою",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

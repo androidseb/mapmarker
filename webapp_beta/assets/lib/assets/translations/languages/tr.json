@@ -664,5 +664,7 @@
     "loading_file": "Dosya yükleniyor…",
     "zipping_file_x": "Dosya sıkıştırılıyor: %s",
     "unzipping_file_x": "Dosya açılıyor: %s",
+    "action_save_to_files": "dosyalara kaydet",
+    "sucessfully_saved_to_device_files": "Cihaz dosyalarına başarıyla kaydedildi",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -664,5 +664,7 @@
     "loading_file": "جارٍ تحميل الملف ...",
     "zipping_file_x": "ملف مضغوط: %s",
     "unzipping_file_x": "ملف فك الضغط: %s",
+    "action_save_to_files": "حفظ في الملفات",
+    "sucessfully_saved_to_device_files": "تم الحفظ بنجاح في ملفات الجهاز",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

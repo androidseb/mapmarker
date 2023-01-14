@@ -664,5 +664,7 @@
     "loading_file": "កំពុងផ្ទុកឯកសារ...",
     "zipping_file_x": "ឯកសារបង្រួម៖ %s",
     "unzipping_file_x": "ការពន្លាឯកសារ៖ %s",
+    "action_save_to_files": "រក្សាទុកក្នុងឯកសារ",
+    "sucessfully_saved_to_device_files": "រក្សាទុកដោយជោគជ័យទៅក្នុងឯកសារឧបករណ៍",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -664,5 +664,7 @@
     "loading_file": "טוען קובץ...",
     "zipping_file_x": "קובץ מיקוד: %s",
     "unzipping_file_x": "פתיחת קובץ: %s",
+    "action_save_to_files": "שמור בקבצים",
+    "sucessfully_saved_to_device_files": "נשמר בהצלחה בקבצי המכשיר",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

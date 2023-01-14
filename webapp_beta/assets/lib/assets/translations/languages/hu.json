@@ -664,5 +664,7 @@
     "loading_file": "Fájl betöltése…",
     "zipping_file_x": "Zip fájl: %s",
     "unzipping_file_x": "Fájl kicsomagolása: %s",
+    "action_save_to_files": "Mentés fájlba",
+    "sucessfully_saved_to_device_files": "Sikeresen mentve az eszköz fájljaiba",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

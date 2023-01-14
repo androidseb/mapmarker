@@ -664,5 +664,7 @@
     "loading_file": "Φόρτωση αρχείου…",
     "zipping_file_x": "Συμπίεση αρχείου: %s",
     "unzipping_file_x": "Αποσυμπίεση αρχείου: %s",
+    "action_save_to_files": "Αποθήκευση σε αρχεία",
+    "sucessfully_saved_to_device_files": "Αποθηκεύτηκε με επιτυχία στα αρχεία της συσκευής",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

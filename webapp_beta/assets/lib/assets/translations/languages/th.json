@@ -664,5 +664,7 @@
     "loading_file": "กำลังโหลดไฟล์…",
     "zipping_file_x": "กำลังซิปไฟล์: %s",
     "unzipping_file_x": "กำลังแตกไฟล์: %s",
+    "action_save_to_files": "บันทึกลงในไฟล์",
+    "sucessfully_saved_to_device_files": "บันทึกลงในไฟล์อุปกรณ์เรียบร้อยแล้ว",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

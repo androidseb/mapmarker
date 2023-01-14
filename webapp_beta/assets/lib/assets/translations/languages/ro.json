@@ -664,5 +664,7 @@
     "loading_file": "Se încarcă fișierul...",
     "zipping_file_x": "Fișier comprimat: %s",
     "unzipping_file_x": "Dezarhivează fișierul: %s",
+    "action_save_to_files": "Salvați în fișiere",
+    "sucessfully_saved_to_device_files": "Salvat cu succes în fișierele dispozitivului",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -664,5 +664,7 @@
     "loading_file": "Đang tải tệp…",
     "zipping_file_x": "Tệp nén: %s",
     "unzipping_file_x": "Giải nén tập tin: %s",
+    "action_save_to_files": "Lưu vào tập tin",
+    "sucessfully_saved_to_device_files": "Đã lưu thành công vào tệp thiết bị",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

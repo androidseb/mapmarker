@@ -664,5 +664,7 @@
     "loading_file": "Учитавање датотеке…",
     "zipping_file_x": "Зип датотека: %s",
     "unzipping_file_x": "Распакивање датотеке: %s",
+    "action_save_to_files": "Сачувај у датотеке",
+    "sucessfully_saved_to_device_files": "Успешно је сачувано у датотеке уређаја",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

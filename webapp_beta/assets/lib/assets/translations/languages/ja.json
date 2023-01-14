@@ -664,5 +664,7 @@
     "loading_file": "ファイルを読み込んでいます…",
     "zipping_file_x": "圧縮ファイル: %s",
     "unzipping_file_x": "ファイルの解凍: %s",
+    "action_save_to_files": "ファイルに保存",
+    "sucessfully_saved_to_device_files": "デバイスファイルに正常に保存されました",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
