@@ -5709,6 +5709,8 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 connectivity_plus
+device_info_plus
+device_info_plus_platform_interface
 sensors_plus
 sensors_plus_platform_interface
 share_plus_platform_interface
