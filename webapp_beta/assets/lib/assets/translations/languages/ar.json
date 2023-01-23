@@ -664,7 +664,11 @@
     "loading_file": "جارٍ تحميل الملف ...",
     "zipping_file_x": "ملف مضغوط: %s",
     "unzipping_file_x": "ملف فك الضغط: %s",
-    "action_save_to_files": "حفظ في الملفات",
+    "share_or_export_title": "مشاركة أو تصدير",
+    "marker_as_file_description2": "تصدير العلامة المحددة كملف",
+    "export_as_file": "تصدير كملف",
     "sucessfully_saved_to_device_files": "تم الحفظ بنجاح في ملفات الجهاز",
+    "no_map_folder_found_on_the_cloud_maybe_try_v2": "لم يتم العثور على مجلد خرائط على السحابة - إذا كنت تبحث عن خرائط سحابية قديمة تم إنشاؤها باستخدام الإصدار القديم من Map Marker (V2) ، فجرّب الخيار \"فتح وترحيل خريطة سحابة V2\" بدلاً من ذلك.",
+    "file_export_intention_question": "كيف تريد استخدام الملف الذي تم تصديره؟",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

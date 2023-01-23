@@ -664,7 +664,11 @@
     "loading_file": "Učitavanje datoteke...",
     "zipping_file_x": "Komprimirana datoteka: %s",
     "unzipping_file_x": "Raspakiranje datoteke: %s",
-    "action_save_to_files": "Spremi u datoteke",
+    "share_or_export_title": "Podijelite ili izvezite",
+    "marker_as_file_description2": "Izvezite odabrani marker kao datoteku",
+    "export_as_file": "Izvezi kao datoteku",
     "sucessfully_saved_to_device_files": "Uspješno spremljeno u datoteke uređaja",
+    "no_map_folder_found_on_the_cloud_maybe_try_v2": "U oblaku nije pronađena mapa s kartama - ako tražite stare karte u oblaku stvorene sa starom verzijom Map Marker (V2), pokušajte umjesto toga opciju \"Otvori i premjesti V2 mapu u oblaku\".",
+    "file_export_intention_question": "Kako želite koristiti izvezenu datoteku?",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

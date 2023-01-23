@@ -664,7 +664,11 @@
     "loading_file": "Notiek faila ielāde…",
     "zipping_file_x": "Zip fails: %s",
     "unzipping_file_x": "Faila izsaiņošana: %s",
-    "action_save_to_files": "Saglabāt failos",
+    "share_or_export_title": "Kopīgojiet vai eksportējiet",
+    "marker_as_file_description2": "Eksportējiet atlasīto marķieri kā failu",
+    "export_as_file": "Eksportēt kā failu",
     "sucessfully_saved_to_device_files": "Veiksmīgi saglabāts ierīces failos",
+    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Mākonī nav atrasta neviena karšu mape — ja meklējat vecas mākoņu kartes, kas izveidotas ar veco Map Marker (V2) versiju, tā vietā izmēģiniet opciju “Atvērt un migrēt V2 mākoņkarti”.",
+    "file_export_intention_question": "Kā vēlaties izmantot eksportēto failu?",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

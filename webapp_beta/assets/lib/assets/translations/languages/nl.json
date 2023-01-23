@@ -664,7 +664,11 @@
     "loading_file": "Bestand laden...",
     "zipping_file_x": "Bestand zippen: %s",
     "unzipping_file_x": "Bestand uitpakken: %s",
-    "action_save_to_files": "Opslaan in bestanden",
+    "share_or_export_title": "Deel of exporteer",
+    "marker_as_file_description2": "Exporteer de geselecteerde markering als een bestand",
+    "export_as_file": "Exporteren als bestand",
     "sucessfully_saved_to_device_files": "Succesvol opgeslagen in apparaatbestanden",
+    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Geen kaartmap gevonden in de cloud - als u op zoek bent naar oude cloudkaarten die zijn gemaakt met de oude versie van Map Marker (V2), probeer dan de optie 'Open en migreer een V2-cloudkaart'.",
+    "file_export_intention_question": "Hoe wilt u het geëxporteerde bestand gebruiken?",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

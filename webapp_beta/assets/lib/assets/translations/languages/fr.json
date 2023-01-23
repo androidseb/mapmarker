@@ -664,7 +664,11 @@
     "loading_file": "Chargement du fichier…",
     "zipping_file_x": "Compression du fichier: %s",
     "unzipping_file_x": "Extraction du fichier: %s",
-    "action_save_to_files": "Sauvegarder dans les fichiers",
+    "share_or_export_title": "Partager ou exporter",
+    "marker_as_file_description2": "Exporter le marqueur sélectionné en fichier",
+    "export_as_file": "Exporter en fichier",
     "sucessfully_saved_to_device_files": "Sauvegarde réussie vers les fichiers de l'appareil",
+    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Aucun dossier de carte trouvé sur le cloud - si vous recherchez d'anciennes versions de carte cloud créées avec l'ancienne version de Map Marker (V2), essayez l'option 'Ouvrir et migrer une carte cloud V2' à la place.",
+    "file_export_intention_question": "Comment voulez-vous utiliser le fichier exporté ?",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

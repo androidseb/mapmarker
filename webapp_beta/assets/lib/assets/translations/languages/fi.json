@@ -664,7 +664,11 @@
     "loading_file": "Ladataan tiedostoa…",
     "zipping_file_x": "Pakattu tiedosto: %s",
     "unzipping_file_x": "Pura tiedosto: %s",
-    "action_save_to_files": "Tallenna tiedostoihin",
+    "share_or_export_title": "Jaa tai vie",
+    "marker_as_file_description2": "Vie valittu merkki tiedostona",
+    "export_as_file": "Vie tiedostona",
     "sucessfully_saved_to_device_files": "Tallentaminen laitetiedostoihin onnistui",
+    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Pilvestä ei löytynyt karttakansiota – jos etsit vanhoja pilvikarttoja, jotka on luotu Map Marker:n (V2) vanhalla versiolla, kokeile vaihtoehtoa \"Avaa ja siirrä V2-pilvikartta\".",
+    "file_export_intention_question": "Miten haluat käyttää vietyä tiedostoa?",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

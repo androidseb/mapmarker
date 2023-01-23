@@ -664,7 +664,11 @@
     "loading_file": "Cargando archivo…",
     "zipping_file_x": "Archivo comprimido: %s",
     "unzipping_file_x": "Descomprimiendo archivo: %s",
-    "action_save_to_files": "Guardar en archivos",
+    "share_or_export_title": "Compartir o exportar",
+    "marker_as_file_description2": "Exportar el marcador seleccionado como un archivo",
+    "export_as_file": "Exportar como archivo",
     "sucessfully_saved_to_device_files": "Guardado con éxito en los archivos del dispositivo",
+    "no_map_folder_found_on_the_cloud_maybe_try_v2": "No se encontró ninguna carpeta de mapas en la nube: si está buscando mapas de nubes antiguos creados con la versión anterior de Map Marker (V2), pruebe la opción 'Abrir y migrar un mapa de nubes V2' en su lugar.",
+    "file_export_intention_question": "¿Cómo desea utilizar el archivo exportado?",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

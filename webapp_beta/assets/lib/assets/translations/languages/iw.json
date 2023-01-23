@@ -664,7 +664,11 @@
     "loading_file": "טוען קובץ...",
     "zipping_file_x": "קובץ מיקוד: %s",
     "unzipping_file_x": "פתיחת קובץ: %s",
-    "action_save_to_files": "שמור בקבצים",
+    "share_or_export_title": "שתף או ייצא",
+    "marker_as_file_description2": "ייצא את הסמן שנבחר כקובץ",
+    "export_as_file": "ייצא כקובץ",
     "sucessfully_saved_to_device_files": "נשמר בהצלחה בקבצי המכשיר",
+    "no_map_folder_found_on_the_cloud_maybe_try_v2": "לא נמצאה תיקיית מפות בענן - אם אתה מחפש מפות ענן ישנות שנוצרו עם הגרסה הישנה של Map Marker (V2), נסה את האפשרות 'פתח והעבר מפת ענן V2' במקום זאת.",
+    "file_export_intention_question": "כיצד ברצונך להשתמש בקובץ המיוצא?",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

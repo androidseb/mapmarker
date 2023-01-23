@@ -664,7 +664,11 @@
     "loading_file": "Įkeliamas failas…",
     "zipping_file_x": "Supakuotas failas: %s",
     "unzipping_file_x": "Išpakuojamas failas: %s",
-    "action_save_to_files": "Išsaugoti failuose",
+    "share_or_export_title": "Bendrinkite arba eksportuokite",
+    "marker_as_file_description2": "Eksportuokite pasirinktą žymeklį kaip failą",
+    "export_as_file": "Eksportuoti kaip failą",
     "sucessfully_saved_to_device_files": "Sėkmingai išsaugota įrenginio failuose",
+    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Debesyje nerasta žemėlapio aplanko – jei ieškote senų debesies žemėlapių, sukurtų naudojant seną Map Marker (V2) versiją, išbandykite parinktį „Atidaryti ir perkelti V2 debesies žemėlapį“.",
+    "file_export_intention_question": "Kaip norite naudoti eksportuotą failą?",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

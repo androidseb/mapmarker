@@ -664,7 +664,11 @@
     "loading_file": "Dosya yükleniyor…",
     "zipping_file_x": "Dosya sıkıştırılıyor: %s",
     "unzipping_file_x": "Dosya açılıyor: %s",
-    "action_save_to_files": "dosyalara kaydet",
+    "share_or_export_title": "Paylaşın veya dışa aktarın",
+    "marker_as_file_description2": "Seçili işaretçiyi dosya olarak dışa aktar",
+    "export_as_file": "dosya olarak dışa aktar",
     "sucessfully_saved_to_device_files": "Cihaz dosyalarına başarıyla kaydedildi",
+    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Bulutta harita klasörü bulunamadı - Map Marker'nin (V2) eski sürümüyle oluşturulmuş eski bulut haritalarını arıyorsanız, bunun yerine 'Bir V2 bulut haritasını aç ve taşı' seçeneğini deneyin.",
+    "file_export_intention_question": "Dışa aktarılan dosyayı nasıl kullanmak istersiniz?",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

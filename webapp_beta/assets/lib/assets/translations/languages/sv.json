@@ -664,7 +664,11 @@
     "loading_file": "Laddar fil...",
     "zipping_file_x": "Zippa fil: %s",
     "unzipping_file_x": "Packar upp fil: %s",
-    "action_save_to_files": "Spara till filer",
+    "share_or_export_title": "Dela eller exportera",
+    "marker_as_file_description2": "Exportera den markerade markören som en fil",
+    "export_as_file": "Exportera som fil",
     "sucessfully_saved_to_device_files": "Har sparats i enhetsfiler",
+    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Ingen kartmapp hittades på molnet - om du letar efter gamla molnkartor skapade med den gamla versionen av Map Marker (V2), prova alternativet \"Öppna och migrera en V2 molnkarta\" istället.",
+    "file_export_intention_question": "Hur vill du använda den exporterade filen?",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

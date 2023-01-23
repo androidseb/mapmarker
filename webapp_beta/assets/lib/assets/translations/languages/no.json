@@ -664,7 +664,11 @@
     "loading_file": "Laster inn fil …",
     "zipping_file_x": "Zipping-fil: %s",
     "unzipping_file_x": "Pakk ut fil: %s",
-    "action_save_to_files": "Lagre til filer",
+    "share_or_export_title": "Del eller eksporter",
+    "marker_as_file_description2": "Eksporter den valgte markøren som en fil",
+    "export_as_file": "Eksporter som fil",
     "sucessfully_saved_to_device_files": "Lagret til enhetsfiler",
+    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Ingen kartmappe funnet på skyen - hvis du leter etter gamle skykart laget med den gamle versjonen av Map Marker (V2), prøv alternativet \"Åpne og migrér et V2-skykart\" i stedet.",
+    "file_export_intention_question": "Hvordan vil du bruke den eksporterte filen?",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -664,7 +664,11 @@
     "loading_file": "ファイルを読み込んでいます…",
     "zipping_file_x": "圧縮ファイル: %s",
     "unzipping_file_x": "ファイルの解凍: %s",
-    "action_save_to_files": "ファイルに保存",
+    "share_or_export_title": "共有またはエクスポート",
+    "marker_as_file_description2": "選択したマーカーをファイルとしてエクスポート",
+    "export_as_file": "ファイルとしてエクスポート",
     "sucessfully_saved_to_device_files": "デバイスファイルに正常に保存されました",
+    "no_map_folder_found_on_the_cloud_maybe_try_v2": "クラウド上にマップ フォルダが見つかりません - 古いバージョンの Map Marker (V2) で作成された古いクラウド マップを探している場合は、代わりに [V2 クラウド マップを開いて移行する] オプションを試してください。",
+    "file_export_intention_question": "エクスポートしたファイルをどのように使用しますか?",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

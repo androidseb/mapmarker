@@ -664,7 +664,11 @@
     "loading_file": "กำลังโหลดไฟล์…",
     "zipping_file_x": "กำลังซิปไฟล์: %s",
     "unzipping_file_x": "กำลังแตกไฟล์: %s",
-    "action_save_to_files": "บันทึกลงในไฟล์",
+    "share_or_export_title": "แบ่งปันหรือส่งออก",
+    "marker_as_file_description2": "ส่งออกเครื่องหมายที่เลือกเป็นไฟล์",
+    "export_as_file": "ส่งออกเป็นไฟล์",
     "sucessfully_saved_to_device_files": "บันทึกลงในไฟล์อุปกรณ์เรียบร้อยแล้ว",
+    "no_map_folder_found_on_the_cloud_maybe_try_v2": "ไม่พบโฟลเดอร์แผนที่บนคลาวด์ - หากคุณกำลังมองหาแผนที่คลาวด์เก่าที่สร้างด้วย Map Marker เวอร์ชันเก่า (V2) ให้ลองใช้ตัวเลือก 'เปิดและย้ายแผนที่คลาวด์ V2' แทน",
+    "file_export_intention_question": "คุณต้องการใช้ไฟล์ที่ส่งออกอย่างไร",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

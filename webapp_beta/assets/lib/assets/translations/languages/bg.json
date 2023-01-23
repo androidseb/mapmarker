@@ -664,7 +664,11 @@
     "loading_file": "Файлът се зарежда…",
     "zipping_file_x": "Компилиран файл: %s",
     "unzipping_file_x": "Разархивиране на файл: %s",
-    "action_save_to_files": "Запазване във файлове",
+    "share_or_export_title": "Споделяне или експортиране",
+    "marker_as_file_description2": "Експортирайте избрания маркер като файл",
+    "export_as_file": "Експортиране като файл",
     "sucessfully_saved_to_device_files": "Успешно запазени във файловете на устройството",
+    "no_map_folder_found_on_the_cloud_maybe_try_v2": "В облака не е намерена папка с карти – ако търсите стари облачни карти, създадени със старата версия на Map Marker (V2), опитайте вместо това опцията „Отворете и мигрирайте облачна карта V2“.",
+    "file_export_intention_question": "Как искате да използвате експортирания файл?",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

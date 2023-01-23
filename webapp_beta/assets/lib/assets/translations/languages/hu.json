@@ -664,7 +664,11 @@
     "loading_file": "Fájl betöltése…",
     "zipping_file_x": "Zip fájl: %s",
     "unzipping_file_x": "Fájl kicsomagolása: %s",
-    "action_save_to_files": "Mentés fájlba",
+    "share_or_export_title": "Megosztás vagy exportálás",
+    "marker_as_file_description2": "Exportálja a kiválasztott jelölőt fájlként",
+    "export_as_file": "Exportálás fájlként",
     "sucessfully_saved_to_device_files": "Sikeresen mentve az eszköz fájljaiba",
+    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Nem található térképmappa a felhőben – ha a Map Marker (V2) régi verziójával létrehozott régi felhőtérképeket keres, próbálkozzon inkább a „V2 felhőtérkép megnyitása és áttelepítése” lehetőséggel.",
+    "file_export_intention_question": "Hogyan szeretné használni az exportált fájlt?",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

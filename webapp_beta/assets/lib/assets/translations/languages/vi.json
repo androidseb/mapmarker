@@ -664,7 +664,11 @@
     "loading_file": "Đang tải tệp…",
     "zipping_file_x": "Tệp nén: %s",
     "unzipping_file_x": "Giải nén tập tin: %s",
-    "action_save_to_files": "Lưu vào tập tin",
+    "share_or_export_title": "Chia sẻ hoặc xuất",
+    "marker_as_file_description2": "Xuất điểm đánh dấu đã chọn dưới dạng tệp",
+    "export_as_file": "Xuất dưới dạng tệp",
     "sucessfully_saved_to_device_files": "Đã lưu thành công vào tệp thiết bị",
+    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Không tìm thấy thư mục bản đồ nào trên đám mây - nếu bạn đang tìm bản đồ đám mây cũ được tạo bằng phiên bản Map Marker (V2) cũ, hãy thử tùy chọn 'Mở và di chuyển bản đồ đám mây V2' để thay thế.",
+    "file_export_intention_question": "Bạn muốn sử dụng tệp đã xuất như thế nào?",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

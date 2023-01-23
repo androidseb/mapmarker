@@ -664,7 +664,11 @@
     "loading_file": "加载文件…",
     "zipping_file_x": "压缩文件：%s",
     "unzipping_file_x": "解压缩文件：%s",
-    "action_save_to_files": "保存到文件",
+    "share_or_export_title": "共享或导出",
+    "marker_as_file_description2": "将所选标记导出为文件",
+    "export_as_file": "导出为文件",
     "sucessfully_saved_to_device_files": "成功保存到设备文件",
+    "no_map_folder_found_on_the_cloud_maybe_try_v2": "在云上找不到地图文件夹 - 如果您正在寻找使用旧版本 Map Marker (V2) 创建的旧云地图，请尝试“打开并迁移 V2 云地图”选项。",
+    "file_export_intention_question": "您想如何使用导出的文件？",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

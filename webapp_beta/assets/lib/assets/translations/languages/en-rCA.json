@@ -664,7 +664,11 @@
     "loading_file": "Loading file…",
     "zipping_file_x": "Zipping file: %s",
     "unzipping_file_x": "Unzipping file: %s",
-    "action_save_to_files": "Save to files",
+    "share_or_export_title": "Share or export",
+    "marker_as_file_description2": "Export the selected marker as a file",
+    "export_as_file": "Export as file",
     "sucessfully_saved_to_device_files": "Successfully saved to device files",
+    "no_map_folder_found_on_the_cloud_maybe_try_v2": "No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.",
+    "file_export_intention_question": "How do you want to use the exported file ?",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
