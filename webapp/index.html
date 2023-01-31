@@ -1,44 +1,45 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name="theme-color" content="#000000"><link rel="manifest" href="/webapp/manifest.json"><link rel="shortcut icon" href="/webapp/favicon.ico"><link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"><link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/><script>function testGoogleMapsPlacesAPI() {
-            if (window.localStorage.getItem('mm_test_google_places_api') != null) {
-                window.localStorage.removeItem('mm_test_google_places_api');
-                window.MMPlacesSearch.testSearchSource('4');
-            }
-        }
-        function loadGoogleMapsPlacesAPIWithKey() {
-            let uiStateStoreString = window.localStorage.getItem('@MMUIStateStore');
-            if (uiStateStoreString == null) {
-                return;
-            }
-            let loadedStoreState = null;
-            try {
-                loadedStoreState = JSON.parse(uiStateStoreString);
-            } catch (error) {
-                return;
-            }
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
 
-            if (loadedStoreState == null
-                || loadedStoreState.settings == null
-                || loadedStoreState.settings.searchSourcesConfig == null
-                || loadedStoreState.settings.searchSourcesConfig['4'] == null
-            ) {
-                return;
-            }
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
 
-            let userGoogleMapsApiKey = loadedStoreState.settings.searchSourcesConfig['4'].google_places_api_key;
+    Fore more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+  -->
+  <base href="/webapp/">
 
-            if (userGoogleMapsApiKey == null || userGoogleMapsApiKey === '') {
-                return;
-            }
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
 
-            // Google Places Search needs a 'map' div item to work
-            let gpsDivTag = document.createElement('div');
-            gpsDivTag.id = 'map';
-            document.body.appendChild(gpsDivTag);
+  <!-- iOS meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Map Marker">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
-            // Injecting the script tag with the API key for Google Places Search
-            let gpsScriptTag = document.createElement('script');
-            gpsScriptTag.type = 'text/javascript';
-            gpsScriptTag.src = 'https://maps.googleapis.com/maps/api/js?key=' + userGoogleMapsApiKey + '&libraries=places&callback=testGoogleMapsPlacesAPI';
-            document.body.appendChild(gpsScriptTag);
-        }
-        window.onload = loadGoogleMapsPlacesAPIWithKey;</script><script>window.__MUI_USE_NEXT_TYPOGRAPHY_VARIANTS__=!0</script><title>Map Marker</title><link href="/webapp/static/css/main.8b87609a.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div><script type="text/javascript" src="/webapp/static/js/main.8350a26e.js"></script></body></html>
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>Map Marker</title>
+  <link rel="manifest" href="manifest.json">
+</head>
+<body>
+  <!-- This script installs service_worker.js to provide PWA functionality to
+       application. For more information, see:
+       https://developers.google.com/web/fundamentals/primers/service-workers -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('flutter-first-frame', function () {
+        navigator.serviceWorker.register('flutter_service_worker.js?v=719194738');
+      });
+    }
+  </script>
+  <script src="main.dart.js" type="application/javascript"></script>
+</body>
+</html>
