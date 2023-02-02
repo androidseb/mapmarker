@@ -670,5 +670,11 @@
     "sucessfully_saved_to_device_files": "נשמר בהצלחה בקבצי המכשיר",
     "no_map_folder_found_on_the_cloud_maybe_try_v2": "לא נמצאה תיקיית מפות בענן - אם אתה מחפש מפות ענן ישנות שנוצרו עם הגרסה הישנה של Map Marker (V2), נסה את האפשרות 'פתח והעבר מפת ענן V2' במקום זאת.",
     "file_export_intention_question": "כיצד ברצונך להשתמש בקובץ המיוצא?",
+    "folders_added_x": "תיקיות שנוספו: %s",
+    "folders_modified_x": "תיקיות שונו: %s",
+    "folders_deleted_x": "תיקיות שנמחקו: %s",
+    "markers_added_x": "סמנים שנוספו: %s",
+    "markers_modified_x": "סמנים ששונו: %s",
+    "markers_deleted_x": "סמנים שנמחקו: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

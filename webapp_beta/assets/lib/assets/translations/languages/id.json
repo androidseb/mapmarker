@@ -670,5 +670,11 @@
     "sucessfully_saved_to_device_files": "Berhasil disimpan ke file perangkat",
     "no_map_folder_found_on_the_cloud_maybe_try_v2": "Tidak ada folder peta yang ditemukan di cloud - jika Anda mencari peta cloud lama yang dibuat dengan versi lama Map Marker (V2), coba opsi 'Buka dan migrasikan peta cloud V2' sebagai gantinya.",
     "file_export_intention_question": "Bagaimana Anda ingin menggunakan file yang diekspor?",
+    "folders_added_x": "Folder ditambahkan: %s",
+    "folders_modified_x": "Folder diubah: %s",
+    "folders_deleted_x": "Folder dihapus: %s",
+    "markers_added_x": "Penanda ditambahkan: %s",
+    "markers_modified_x": "Penanda diubah: %s",
+    "markers_deleted_x": "Penanda dihapus: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

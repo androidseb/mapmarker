@@ -670,5 +670,11 @@
     "sucessfully_saved_to_device_files": "រក្សាទុកដោយជោគជ័យទៅក្នុងឯកសារឧបករណ៍",
     "no_map_folder_found_on_the_cloud_maybe_try_v2": "រកមិនឃើញថតផែនទីនៅលើពពកទេ - ប្រសិនបើអ្នកកំពុងស្វែងរកផែនទីពពកចាស់ដែលបានបង្កើតជាមួយកំណែចាស់របស់ Map Marker (V2) សូមសាកល្បងជម្រើស 'បើក និងផ្ទេរផែនទីពពក V2' ជំនួសវិញ។",
     "file_export_intention_question": "តើអ្នកចង់ប្រើឯកសារដែលបាននាំចេញដោយរបៀបណា?",
+    "folders_added_x": "ថតបន្ថែម៖ %s",
+    "folders_modified_x": "ថតដែលបានកែប្រែ៖ %s",
+    "folders_deleted_x": "ថតដែលបានលុប៖ %s",
+    "markers_added_x": "សញ្ញាសម្គាល់បន្ថែម៖ %s",
+    "markers_modified_x": "សញ្ញាសម្គាល់បានកែប្រែ៖ %s",
+    "markers_deleted_x": "សញ្ញាសម្គាល់ត្រូវបានលុប៖ %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

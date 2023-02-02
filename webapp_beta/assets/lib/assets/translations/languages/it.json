@@ -670,5 +670,11 @@
     "sucessfully_saved_to_device_files": "Salvataggio riuscito nei file del dispositivo",
     "no_map_folder_found_on_the_cloud_maybe_try_v2": "Nessuna cartella della mappa trovata nel cloud: se stai cercando vecchie mappe cloud create con la vecchia versione di Map Marker (V2), prova invece l'opzione \"Apri e migra una mappa cloud V2\".",
     "file_export_intention_question": "Come vuoi utilizzare il file esportato?",
+    "folders_added_x": "Cartelle aggiunte: %s",
+    "folders_modified_x": "Cartelle modificate: %s",
+    "folders_deleted_x": "Cartelle eliminate: %s",
+    "markers_added_x": "Marcatori aggiunti: %s",
+    "markers_modified_x": "Marcatori modificati: %s",
+    "markers_deleted_x": "Marcatori eliminati: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

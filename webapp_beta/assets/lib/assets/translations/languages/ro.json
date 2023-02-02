@@ -670,5 +670,11 @@
     "sucessfully_saved_to_device_files": "Salvat cu succes în fișierele dispozitivului",
     "no_map_folder_found_on_the_cloud_maybe_try_v2": "Nu s-a găsit niciun folder de hărți în cloud - dacă căutați hărți cloud vechi create cu versiunea veche a Map Marker (V2), încercați în schimb opțiunea „Deschideți și migrați o hartă cloud V2”.",
     "file_export_intention_question": "Cum doriți să utilizați fișierul exportat?",
+    "folders_added_x": "Dosare adăugate: %s",
+    "folders_modified_x": "Foldere modificate: %s",
+    "folders_deleted_x": "Dosare șterse: %s",
+    "markers_added_x": "Markere adăugate: %s",
+    "markers_modified_x": "Markere modificate: %s",
+    "markers_deleted_x": "Marcatori șterse: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

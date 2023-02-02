@@ -670,5 +670,11 @@
     "sucessfully_saved_to_device_files": "Succesvol opgeslagen in apparaatbestanden",
     "no_map_folder_found_on_the_cloud_maybe_try_v2": "Geen kaartmap gevonden in de cloud - als u op zoek bent naar oude cloudkaarten die zijn gemaakt met de oude versie van Map Marker (V2), probeer dan de optie 'Open en migreer een V2-cloudkaart'.",
     "file_export_intention_question": "Hoe wilt u het geëxporteerde bestand gebruiken?",
+    "folders_added_x": "Mappen toegevoegd: %s",
+    "folders_modified_x": "Mappen aangepast: %s",
+    "folders_deleted_x": "Mappen verwijderd: %s",
+    "markers_added_x": "Markeringen toegevoegd: %s",
+    "markers_modified_x": "Markeringen aangepast: %s",
+    "markers_deleted_x": "Markeringen verwijderd: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

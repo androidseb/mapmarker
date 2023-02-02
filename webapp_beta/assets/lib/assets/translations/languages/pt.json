@@ -670,5 +670,11 @@
     "sucessfully_saved_to_device_files": "Salvo com sucesso nos arquivos do dispositivo",
     "no_map_folder_found_on_the_cloud_maybe_try_v2": "Nenhuma pasta de mapa encontrada na nuvem - se você estiver procurando por mapas de nuvem antigos criados com a versão antiga de Map Marker (V2), tente a opção 'Abrir e migrar um mapa de nuvem V2'.",
     "file_export_intention_question": "Como você deseja usar o arquivo exportado?",
+    "folders_added_x": "Pastas adicionadas: %s",
+    "folders_modified_x": "Pastas modificadas: %s",
+    "folders_deleted_x": "Pastas excluídas: %s",
+    "markers_added_x": "Marcadores adicionados: %s",
+    "markers_modified_x": "Marcadores modificados: %s",
+    "markers_deleted_x": "Marcadores excluídos: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

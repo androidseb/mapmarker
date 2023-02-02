@@ -670,5 +670,11 @@
     "sucessfully_saved_to_device_files": "Uspešno shranjeno v datoteke naprave",
     "no_map_folder_found_on_the_cloud_maybe_try_v2": "V oblaku ni bilo mogoče najti mape z zemljevidi – če iščete stare zemljevide v oblaku, ustvarjene s staro različico Map Marker (V2), namesto tega poskusite z možnostjo »Odpri in preseli zemljevid v oblaku V2«.",
     "file_export_intention_question": "Kako želite uporabiti izvoženo datoteko?",
+    "folders_added_x": "Dodane mape: %s",
+    "folders_modified_x": "Spremenjene mape: %s",
+    "folders_deleted_x": "Izbrisane mape: %s",
+    "markers_added_x": "Dodani označevalci: %s",
+    "markers_modified_x": "Označevalci spremenjeni: %s",
+    "markers_deleted_x": "Izbrisane oznake: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

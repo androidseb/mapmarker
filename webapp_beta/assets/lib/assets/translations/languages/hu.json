@@ -670,5 +670,11 @@
     "sucessfully_saved_to_device_files": "Sikeresen mentve az eszköz fájljaiba",
     "no_map_folder_found_on_the_cloud_maybe_try_v2": "Nem található térképmappa a felhőben – ha a Map Marker (V2) régi verziójával létrehozott régi felhőtérképeket keres, próbálkozzon inkább a „V2 felhőtérkép megnyitása és áttelepítése” lehetőséggel.",
     "file_export_intention_question": "Hogyan szeretné használni az exportált fájlt?",
+    "folders_added_x": "Hozzáadott mappák: %s",
+    "folders_modified_x": "Módosított mappák: %s",
+    "folders_deleted_x": "Törölt mappák: %s",
+    "markers_added_x": "Jelölők hozzáadva: %s",
+    "markers_modified_x": "Módosított jelölők: %s",
+    "markers_deleted_x": "Jelölők törölve: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
