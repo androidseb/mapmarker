@@ -670,5 +670,11 @@
     "sucessfully_saved_to_device_files": "デバイスファイルに正常に保存されました",
     "no_map_folder_found_on_the_cloud_maybe_try_v2": "クラウド上にマップ フォルダが見つかりません - 古いバージョンの Map Marker (V2) で作成された古いクラウド マップを探している場合は、代わりに [V2 クラウド マップを開いて移行する] オプションを試してください。",
     "file_export_intention_question": "エクスポートしたファイルをどのように使用しますか?",
+    "folders_added_x": "追加されたフォルダ: %s",
+    "folders_modified_x": "変更されたフォルダ: %s",
+    "folders_deleted_x": "削除されたフォルダ: %s",
+    "markers_added_x": "追加されたマーカー: %s",
+    "markers_modified_x": "変更されたマーカー: %s",
+    "markers_deleted_x": "削除されたマーカー: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -670,5 +670,11 @@
     "sucessfully_saved_to_device_files": "Erfolgreich in Gerätedateien gespeichert",
     "no_map_folder_found_on_the_cloud_maybe_try_v2": "Kein Kartenordner in der Cloud gefunden – wenn Sie nach alten Cloud-Karten suchen, die mit der alten Version von Map Marker (V2) erstellt wurden, versuchen Sie stattdessen die Option „Öffnen und Migrieren einer V2-Cloud-Karte“.",
     "file_export_intention_question": "Wie möchten Sie die exportierte Datei verwenden?",
+    "folders_added_x": "Hinzugefügte Ordner: %s",
+    "folders_modified_x": "Geänderte Ordner: %s",
+    "folders_deleted_x": "Ordner gelöscht: %s",
+    "markers_added_x": "Markierungen hinzugefügt: %s",
+    "markers_modified_x": "Markierungen geändert: %s",
+    "markers_deleted_x": "Markierungen gelöscht: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -670,5 +670,11 @@
     "sucessfully_saved_to_device_files": "Sėkmingai išsaugota įrenginio failuose",
     "no_map_folder_found_on_the_cloud_maybe_try_v2": "Debesyje nerasta žemėlapio aplanko – jei ieškote senų debesies žemėlapių, sukurtų naudojant seną Map Marker (V2) versiją, išbandykite parinktį „Atidaryti ir perkelti V2 debesies žemėlapį“.",
     "file_export_intention_question": "Kaip norite naudoti eksportuotą failą?",
+    "folders_added_x": "Pridėta aplankų: %s",
+    "folders_modified_x": "Pakeisti aplankai: %s",
+    "folders_deleted_x": "Ištrinti aplankai: %s",
+    "markers_added_x": "Pridėti žymekliai: %s",
+    "markers_modified_x": "Modifikuoti žymekliai: %s",
+    "markers_deleted_x": "Ištrinti žymekliai: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

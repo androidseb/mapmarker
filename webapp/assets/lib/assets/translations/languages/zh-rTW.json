@@ -670,5 +670,11 @@
     "sucessfully_saved_to_device_files": "成功保存到設備文件",
     "no_map_folder_found_on_the_cloud_maybe_try_v2": "在雲上找不到地圖文件夾 - 如果您正在尋找使用舊版本 Map Marker (V2) 創建的舊雲地圖，請嘗試“打開並遷移 V2 雲地圖”選項。",
     "file_export_intention_question": "您想如何使用導出的文件？",
+    "folders_added_x": "添加的文件夾：%s",
+    "folders_modified_x": "修改的文件夾：%s",
+    "folders_deleted_x": "刪除的文件夾：%s",
+    "markers_added_x": "添加的標記：%s",
+    "markers_modified_x": "標記修改：%s",
+    "markers_deleted_x": "刪除的標記：%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

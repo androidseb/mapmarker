@@ -670,5 +670,11 @@
     "sucessfully_saved_to_device_files": "Αποθηκεύτηκε με επιτυχία στα αρχεία της συσκευής",
     "no_map_folder_found_on_the_cloud_maybe_try_v2": "Δεν βρέθηκε φάκελος χάρτη στο cloud - εάν αναζητάτε παλιούς χάρτες cloud που έχουν δημιουργηθεί με την παλιά έκδοση του Map Marker (V2), δοκιμάστε την επιλογή 'Άνοιγμα και μετεγκατάσταση χάρτη νέφους V2'.",
     "file_export_intention_question": "Πώς θέλετε να χρησιμοποιήσετε το εξαγόμενο αρχείο;",
+    "folders_added_x": "Προστέθηκαν φάκελοι: %s",
+    "folders_modified_x": "Τροποποιημένοι φάκελοι: %s",
+    "folders_deleted_x": "Διαγράφηκαν φάκελοι: %s",
+    "markers_added_x": "Προστέθηκαν δείκτες: %s",
+    "markers_modified_x": "Τροποποιημένοι δείκτες: %s",
+    "markers_deleted_x": "Διαγράφηκαν δείκτες: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

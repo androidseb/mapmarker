@@ -670,5 +670,11 @@
     "sucessfully_saved_to_device_files": "Veiksmīgi saglabāts ierīces failos",
     "no_map_folder_found_on_the_cloud_maybe_try_v2": "Mākonī nav atrasta neviena karšu mape — ja meklējat vecas mākoņu kartes, kas izveidotas ar veco Map Marker (V2) versiju, tā vietā izmēģiniet opciju “Atvērt un migrēt V2 mākoņkarti”.",
     "file_export_intention_question": "Kā vēlaties izmantot eksportēto failu?",
+    "folders_added_x": "Pievienotās mapes: %s",
+    "folders_modified_x": "Modificētās mapes: %s",
+    "folders_deleted_x": "Izdzēstās mapes: %s",
+    "markers_added_x": "Pievienotie marķieri: %s",
+    "markers_modified_x": "Modificētie marķieri: %s",
+    "markers_deleted_x": "Marķieri izdzēsti: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

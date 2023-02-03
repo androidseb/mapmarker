@@ -670,5 +670,11 @@
     "sucessfully_saved_to_device_files": "บันทึกลงในไฟล์อุปกรณ์เรียบร้อยแล้ว",
     "no_map_folder_found_on_the_cloud_maybe_try_v2": "ไม่พบโฟลเดอร์แผนที่บนคลาวด์ - หากคุณกำลังมองหาแผนที่คลาวด์เก่าที่สร้างด้วย Map Marker เวอร์ชันเก่า (V2) ให้ลองใช้ตัวเลือก 'เปิดและย้ายแผนที่คลาวด์ V2' แทน",
     "file_export_intention_question": "คุณต้องการใช้ไฟล์ที่ส่งออกอย่างไร",
+    "folders_added_x": "เพิ่มโฟลเดอร์: %s",
+    "folders_modified_x": "แก้ไขโฟลเดอร์: %s",
+    "folders_deleted_x": "โฟลเดอร์ที่ถูกลบ: %s",
+    "markers_added_x": "เพิ่มเครื่องหมาย: %s",
+    "markers_modified_x": "แก้ไขเครื่องหมาย: %s",
+    "markers_deleted_x": "ลบเครื่องหมายแล้ว: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -670,5 +670,11 @@
     "sucessfully_saved_to_device_files": "Đã lưu thành công vào tệp thiết bị",
     "no_map_folder_found_on_the_cloud_maybe_try_v2": "Không tìm thấy thư mục bản đồ nào trên đám mây - nếu bạn đang tìm bản đồ đám mây cũ được tạo bằng phiên bản Map Marker (V2) cũ, hãy thử tùy chọn 'Mở và di chuyển bản đồ đám mây V2' để thay thế.",
     "file_export_intention_question": "Bạn muốn sử dụng tệp đã xuất như thế nào?",
+    "folders_added_x": "Đã thêm thư mục: %s",
+    "folders_modified_x": "Các thư mục được sửa đổi: %s",
+    "folders_deleted_x": "Các thư mục đã bị xóa: %s",
+    "markers_added_x": "Điểm đánh dấu đã thêm: %s",
+    "markers_modified_x": "Điểm đánh dấu đã sửa đổi: %s",
+    "markers_deleted_x": "Điểm đánh dấu đã bị xóa: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
