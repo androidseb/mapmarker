@@ -2,6 +2,8 @@
 
 ## Version 3.0.2 - 2023/02/13 - Android+526 - iOS+526 - Web+526
 
+Release files [here](https://github.com/androidseb/mapmarker/releases/tag/map_marker_v3.0.2).
+
 * Fixed old data migration failing on corrupted coordinates (Android only)
 * Fixed alternative coordinates format displaying incorrectly
 * Improved handling for multi cloud accounts setups
@@ -12,6 +14,8 @@
 * Fixed CSV file import bug when produced from Windows
 
 ## Version 3.0.1 - 2023/02/04 - Android+520 - iOS+519 - Web+520
+
+Release files [here](https://github.com/androidseb/mapmarker/releases/tag/map_marker_v3.0.1).
 
 * Fixed old map data migration not finding all map files (iOS only)
 * Fixed image sharing not working if no export has ever been made (Android only)
