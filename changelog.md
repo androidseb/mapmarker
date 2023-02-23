@@ -1,5 +1,23 @@
 # Changelog
 
+## Version 3.1.0 - 2023/02/23 - Android+532 - iOS+532 - Web+532
+
+Release files [here](https://github.com/androidseb/mapmarker/releases/tag/map_marker_v3.1.0).
+
+* Android only:
+	* Changed location update interval from 5 seconds to 0.5 seconds
+	* Fixed premium logic not correctly granting premium to users with donation badges
+	* Fixed an issue with the "send email" functionality, not working on some email apps
+	* Fixed Android V2 to V3 migration migrating Dropbox cloud maps to limited access
+* Updated Google Authentication flow to use the latest recommended standards (Google Identity Services) (Web only)
+* Improved text-to-coordinates logic: for example, the coordinates dialog now handles degree-minutes-seconds coordinates as a paste input
+* Coordinates dialog using preferred coordinates format vs always decimal degrees
+* Fixed "polyline" and "polygon" buttons incorrectly displaying when moving a marker
+* Added the option to disable the "max drawn POIs" option completely
+* Fixed text capitalization for text fields: first letter is now automatically capitalized
+* Fixed implementation of the HERE search source, and updated help center setup steps
+* Improved UX around handling cloud sync errors
+
 ## Version 3.0.2 - 2023/02/13 - Android+526 - iOS+526 - Web+526
 
 Release files [here](https://github.com/androidseb/mapmarker/releases/tag/map_marker_v3.0.2).
