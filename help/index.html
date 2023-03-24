@@ -159,6 +159,7 @@
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Problems_with_Google_Play_Services">Problems with Google Play Services</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Problems_with_map_display_blank_map">Problems with map display: blank map</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Problems_with_blocked_internet_access">Problems with blocked internet access</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_App_launch_error_DatabaseException_Row_too_big">App launch error: "DatabaseException Row too big..."</a><br>
 
 
 				<a name="devices_android_User_interface_description"></a>
@@ -844,6 +845,22 @@
 					</ol>
 				</ul>
 
+				<a name="devices_android_App_launch_error_DatabaseException_Row_too_big"></a>
+				<h2>App launch error: "DatabaseException Row too big..."</h2>
+				<p>
+					In rare cases where you accidentally imported one or more POIs containing very large data, the app might fail to start with this initialization error:<br>
+					"DatabaseException Row too big to fit into CursorWindow..."<br>
+					In this case, you will need to find and fix the offending POI with the following steps:
+				</p>
+				<ol>
+					<li>From the device with the problematic app installed, click <a href="https://mapmarker.app/dl?dbCursorWindowSizeOverride=100">this</a></li>
+					<li>This should open Map Marker successfully and display a special message reading "sCursorWindowSize => 100MB"</li>
+					<li><a href="#devices_android_How_to_exportshare_your_markers">Export your markers as a CSV file (text only)</a></li>
+					<li><a href="#devices_android_How_to_exportshare_your_markers">Import your markers</a></li>
+					<li>The import should fail with an error message giving you the name of the POI with the offending data</li>
+					<li>Edit the POI to fix it</li>
+					<li>Exit the app completely, and launch it again: the initialization error should be gone</li>
+				</ol>
 
 			</div>
 			<div class="devices_ios">

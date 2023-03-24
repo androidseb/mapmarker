@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.exlyo.mapmarker",
+    "sha256_cert_fingerprints": ["C8:E5:C9:AF:BF:84:95:39:03:D8:F2:03:FE:CA:5C:0E:A6:C3:22:E3:DE:10:E5:D2:07:3B:9E:AA:34:79:38:D7"]
+  }
+}]
