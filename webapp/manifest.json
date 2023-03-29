@@ -1,11 +1,11 @@
 {
-    "name": "Map Marker",
-    "short_name": "Map Marker",
+    "name": "Map Marker Debug",
+    "short_name": "Map Marker Debug",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "The Map Marker web app.",
+    "description": "The Map Marker Debug web app.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
