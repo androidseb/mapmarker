@@ -152,6 +152,7 @@
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Where_can_I_find_the_help_center_for_Map_Marker_V2">Where can I find the help center for Map Marker V2?</a><br>
 				<a style="display:inline-block;" href="#devices_android_Troubleshooting_and_known_problems"><b>Troubleshooting and known problems</b></a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Collecting_a_log_file">Collecting a log file</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Problems_importing_CSV_files">Problems importing CSV files</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Cloud_sync_error_404_file_not_found">Cloud sync error: 404 file not found</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_GPS_location_inaccurate">GPS location inaccurate</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Problems_with_Google_My_Maps">Problems with Google My Maps</a><br>
@@ -420,11 +421,6 @@
 					<li>If the format was not auto-detected, select the import format</li>
 					<li>Wait for the import to complete</li>
 				</ol>
-				<p>
-					Note: the CSV file import will only work if the file has "Latitude" and "Longitude" columns.
-					To see an example of how the file should look like, you can export a CSV file from Map Marker
-					and send it to yourself.
-				</p>
 
 				<a name="devices_android_Migrating_your_data_to_a_new_device"></a>
 				<h2>Migrating your data to a new device</h2>
@@ -722,6 +718,28 @@
 					</ol>
 				</p>
 
+				<a name="devices_android_Problems_importing_CSV_files"></a>
+				<h2>Problems importing CSV files</h2>
+				<p>
+					Importing CSV files will only reliably work if all of these conditions are met:
+				</p>
+				<ul>
+					<li>the file content has columns labeled "Latitude" and "Longitude"</li>
+					<li>the file contains <b>actual</b> CSV: "Commas Separated Values" using the comma character ",".</li>
+					<li>the file is using UTF-8 encoding</li>
+				</ul>
+				<p>
+					Files exported from Map Marker will meet the above conditions; to see an example of how the file should look like,
+					you can export a CSV file from Map Marker and send it to yourself.
+					<br>
+					<br>
+					If you edit the CSV file from another software (e.g. Excel), keep in mind that the software might save the file
+					using other delimiter characters than "," or using another encoding than UTF-8 depending on your system
+					preferences and regional settings, so make sure you select the correct encoding (UTF-8) and the correct delimiter
+					character (",") when saving the CSV file from another software, or importing your CSV into Map Marker might not
+					work as expected.
+				</p>
+
 				<a name="devices_android_Cloud_sync_error_404_file_not_found"></a>
 				<h2>Cloud sync error: 404 file not found</h2>
 				<p>
@@ -906,6 +924,7 @@
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Where_can_I_find_the_help_center_for_Map_Marker_V2">Where can I find the help center for Map Marker V2?</a><br>
 				<a style="display:inline-block;" href="#devices_ios_Troubleshooting_and_known_problems"><b>Troubleshooting and known problems</b></a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Collecting_a_log_file">Collecting a log file</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Problems_importing_CSV_files">Problems importing CSV files</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Cloud_sync_error_404_file_not_found">Cloud sync error: 404 file not found</a><br>
 
 
@@ -1167,11 +1186,6 @@
 					<li>If the format was not auto-detected, select the import format</li>
 					<li>Wait for the import to complete</li>
 				</ol>
-				<p>
-					Note: the CSV file import will only work if the file has "Latitude" and "Longitude" columns.
-					To see an example of how the file should look like, you can export a CSV file from Map Marker
-					and send it to yourself.
-				</p>
 
 				<a name="devices_ios_Migrating_your_data_to_a_new_device"></a>
 				<h2>Migrating your data to a new device</h2>
@@ -1445,6 +1459,28 @@
 					</ol>
 				</p>
 
+				<a name="devices_ios_Problems_importing_CSV_files"></a>
+				<h2>Problems importing CSV files</h2>
+				<p>
+					Importing CSV files will only reliably work if all of these conditions are met:
+				</p>
+				<ul>
+					<li>the file content has columns labeled "Latitude" and "Longitude"</li>
+					<li>the file contains <b>actual</b> CSV: "Commas Separated Values" using the comma character ",".</li>
+					<li>the file is using UTF-8 encoding</li>
+				</ul>
+				<p>
+					Files exported from Map Marker will meet the above conditions; to see an example of how the file should look like,
+					you can export a CSV file from Map Marker and send it to yourself.
+					<br>
+					<br>
+					If you edit the CSV file from another software (e.g. Excel), keep in mind that the software might save the file
+					using other delimiter characters than "," or using another encoding than UTF-8 depending on your system
+					preferences and regional settings, so make sure you select the correct encoding (UTF-8) and the correct delimiter
+					character (",") when saving the CSV file from another software, or importing your CSV into Map Marker might not
+					work as expected.
+				</p>
+
 				<a name="devices_ios_Cloud_sync_error_404_file_not_found"></a>
 				<h2>Cloud sync error: 404 file not found</h2>
 				<p>
@@ -1506,6 +1542,7 @@
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Where_can_I_find_the_help_center_for_Map_Marker_V2">Where can I find the help center for Map Marker V2?</a><br>
 				<a style="display:inline-block;" href="#devices_web_Troubleshooting_and_known_problems"><b>Troubleshooting and known problems</b></a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Collecting_a_log_file">Collecting a log file</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Problems_importing_CSV_files">Problems importing CSV files</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Cloud_sync_error_404_file_not_found">Cloud sync error: 404 file not found</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Various_browser_issues">Various browser issues</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Images_not_displaying_white_squares_instead">Images not displaying (white squares instead)</a><br>
@@ -1773,11 +1810,6 @@
 					<li>If the format was not auto-detected, select the import format</li>
 					<li>Wait for the import to complete</li>
 				</ol>
-				<p>
-					Note: the CSV file import will only work if the file has "Latitude" and "Longitude" columns.
-					To see an example of how the file should look like, you can export a CSV file from Map Marker
-					and send it to yourself.
-				</p>
 
 				<a name="devices_web_Migrating_your_data_to_a_new_device"></a>
 				<h2>Migrating your data to a new device</h2>
@@ -2039,6 +2071,28 @@
 							<li>Click "Disable log file"</li>
 						</ol>
 					</ol>
+				</p>
+
+				<a name="devices_web_Problems_importing_CSV_files"></a>
+				<h2>Problems importing CSV files</h2>
+				<p>
+					Importing CSV files will only reliably work if all of these conditions are met:
+				</p>
+				<ul>
+					<li>the file content has columns labeled "Latitude" and "Longitude"</li>
+					<li>the file contains <b>actual</b> CSV: "Commas Separated Values" using the comma character ",".</li>
+					<li>the file is using UTF-8 encoding</li>
+				</ul>
+				<p>
+					Files exported from Map Marker will meet the above conditions; to see an example of how the file should look like,
+					you can export a CSV file from Map Marker and send it to yourself.
+					<br>
+					<br>
+					If you edit the CSV file from another software (e.g. Excel), keep in mind that the software might save the file
+					using other delimiter characters than "," or using another encoding than UTF-8 depending on your system
+					preferences and regional settings, so make sure you select the correct encoding (UTF-8) and the correct delimiter
+					character (",") when saving the CSV file from another software, or importing your CSV into Map Marker might not
+					work as expected.
 				</p>
 
 				<a name="devices_web_Cloud_sync_error_404_file_not_found"></a>

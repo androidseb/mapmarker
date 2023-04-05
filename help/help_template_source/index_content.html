@@ -238,11 +238,6 @@
 					<li>If the format was not auto-detected, select the import format</li>
 					<li>Wait for the import to complete</li>
 				</ol>
-				<p>
-					Note: the CSV file import will only work if the file has "Latitude" and "Longitude" columns.
-					To see an example of how the file should look like, you can export a CSV file from Map Marker
-					and send it to yourself.
-				</p>
 
 				<h2>Migrating your data to a new device</h2>
 				<p>If you lost your device or did a factory reset or simply got a new device, you might need to migrate your previous markers data to this new device. Depending on your case, there are several ways to do this...</p>
@@ -544,6 +539,27 @@
 							<li>Click "Disable log file"</li>
 						</ol>
 					</ol>
+				</p>
+
+				<h2>Problems importing CSV files</h2>
+				<p>
+					Importing CSV files will only reliably work if all of these conditions are met:
+				</p>
+				<ul>
+					<li>the file content has columns labeled "Latitude" and "Longitude"</li>
+					<li>the file contains <b>actual</b> CSV: "Commas Separated Values" using the comma character ",".</li>
+					<li>the file is using UTF-8 encoding</li>
+				</ul>
+				<p>
+					Files exported from Map Marker will meet the above conditions; to see an example of how the file should look like,
+					you can export a CSV file from Map Marker and send it to yourself.
+					<br>
+					<br>
+					If you edit the CSV file from another software (e.g. Excel), keep in mind that the software might save the file
+					using other delimiter characters than "," or using another encoding than UTF-8 depending on your system
+					preferences and regional settings, so make sure you select the correct encoding (UTF-8) and the correct delimiter
+					character (",") when saving the CSV file from another software, or importing your CSV into Map Marker might not
+					work as expected.
 				</p>
 
 				<h2>Cloud sync error: 404 file not found</h2>
