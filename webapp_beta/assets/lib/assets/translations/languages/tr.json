@@ -446,5 +446,9 @@
     "markers_deleted_x": "Silinen işaretçiler: %s",
     "new_circle_hint_text": "Araç çubuğu düğmeleriyle dairenin merkezini veya kenarını seçin ve ayarlamak için haritayı hareket ettirin. Son olarak, şekli kaydetmek için kaydet'i tıklayın.",
     "radius_x": "Yarıçap: %s",
+    "preferred_display_theme": "Ekran teması (koyu / açık)",
+    "preferred_display_theme_dark": "Koyu tema",
+    "preferred_display_theme_light": "Açık tema",
+    "preferred_display_theme_use_system": "Sistem ayarlarını kullan",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

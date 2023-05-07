@@ -446,5 +446,9 @@
     "markers_deleted_x": "Merkit poistettu: %s",
     "new_circle_hint_text": "Valitse ympyrän keskikohta tai reuna työkalupalkin painikkeilla ja säädä karttaa liikuttamalla sitä. Tallenna muoto lopuksi napsauttamalla Tallenna.",
     "radius_x": "Säde: %s",
+    "preferred_display_theme": "Näytön teema (tumma / vaalea)",
+    "preferred_display_theme_dark": "Tumma teema",
+    "preferred_display_theme_light": "Kevyt teema",
+    "preferred_display_theme_use_system": "Käytä järjestelmäasetuksia",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

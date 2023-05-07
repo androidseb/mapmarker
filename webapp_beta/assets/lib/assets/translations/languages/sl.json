@@ -446,5 +446,9 @@
     "markers_deleted_x": "Izbrisane oznake: %s",
     "new_circle_hint_text": "Izberite sredino ali rob kroga z gumbi v orodni vrstici in premikajte zemljevid, da ga prilagodite. Na koncu kliknite Shrani, da shranite obliko.",
     "radius_x": "Polmer: %s",
+    "preferred_display_theme": "Tema zaslona (temna/svetla)",
+    "preferred_display_theme_dark": "Temna tema",
+    "preferred_display_theme_light": "Svetla tema",
+    "preferred_display_theme_use_system": "Uporabite sistemske nastavitve",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -446,5 +446,9 @@
     "markers_deleted_x": "삭제된 마커: %s",
     "new_circle_hint_text": "툴바 버튼으로 원의 중심이나 가장자리를 선택하고 지도를 움직여 조정합니다. 마지막으로 저장을 클릭하여 모양을 저장합니다.",
     "radius_x": "반경: %s",
+    "preferred_display_theme": "디스플레이 테마(어둡게/밝게)",
+    "preferred_display_theme_dark": "어두운 테마",
+    "preferred_display_theme_light": "밝은 테마",
+    "preferred_display_theme_use_system": "시스템 설정 사용",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

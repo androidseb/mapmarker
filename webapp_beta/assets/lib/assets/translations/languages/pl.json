@@ -446,5 +446,9 @@
     "markers_deleted_x": "Usunięto znaczniki: %s",
     "new_circle_hint_text": "Wybierz środek lub krawędź okręgu za pomocą przycisków paska narzędzi i przesuń mapę, aby dostosować. Na koniec kliknij Zapisz, aby zapisać kształt.",
     "radius_x": "Promień: %s",
+    "preferred_display_theme": "Motyw wyświetlacza (ciemny / jasny)",
+    "preferred_display_theme_dark": "ciemny schemat",
+    "preferred_display_theme_light": "Lekki motyw",
+    "preferred_display_theme_use_system": "Użyj ustawień systemowych",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

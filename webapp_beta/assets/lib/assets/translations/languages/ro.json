@@ -446,5 +446,9 @@
     "markers_deleted_x": "Marcatori șterse: %s",
     "new_circle_hint_text": "Selectați centrul sau marginea cercului cu butoanele din bara de instrumente și mutați harta pentru a ajusta. În cele din urmă, faceți clic pe Salvare pentru a salva forma.",
     "radius_x": "Raza: %s",
+    "preferred_display_theme": "Tema de afișare (întunecată/luminoasă)",
+    "preferred_display_theme_dark": "Tema întunecată",
+    "preferred_display_theme_light": "Tema ușoară",
+    "preferred_display_theme_use_system": "Utilizați setările de sistem",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

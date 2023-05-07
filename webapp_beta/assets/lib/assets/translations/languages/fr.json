@@ -446,5 +446,9 @@
     "markers_deleted_x": "Marqueurs supprimés: %s",
     "new_circle_hint_text": "Sélectionnez le centre ou le bord du cercle avec les boutons de la barre d'outils et déplacez la carte pour ajuster. Enfin, cliquez sauvegarder pour enregistrer la forme.",
     "radius_x": "Rayon : %s",
+    "preferred_display_theme": "Thème d'affichage (sombre / clair)",
+    "preferred_display_theme_dark": "Thème sombre",
+    "preferred_display_theme_light": "Thème clair",
+    "preferred_display_theme_use_system": "Utiliser les réglages système",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

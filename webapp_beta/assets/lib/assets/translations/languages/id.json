@@ -446,5 +446,9 @@
     "markers_deleted_x": "Penanda dihapus: %s",
     "new_circle_hint_text": "Pilih pusat atau tepi lingkaran dengan tombol bilah alat dan gerakkan peta untuk menyesuaikan. Terakhir, klik simpan untuk menyimpan bentuk.",
     "radius_x": "Radius: %s",
+    "preferred_display_theme": "Tema tampilan (gelap / terang)",
+    "preferred_display_theme_dark": "Tema gelap",
+    "preferred_display_theme_light": "Tema ringan",
+    "preferred_display_theme_use_system": "Gunakan pengaturan sistem",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

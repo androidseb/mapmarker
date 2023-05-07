@@ -446,5 +446,9 @@
     "markers_deleted_x": "Markers deleted: %s",
     "new_circle_hint_text": "Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.",
     "radius_x": "Radius: %s",
+    "preferred_display_theme": "Display theme (dark / light)",
+    "preferred_display_theme_dark": "Dark theme",
+    "preferred_display_theme_light": "Light theme",
+    "preferred_display_theme_use_system": "Use system settings",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

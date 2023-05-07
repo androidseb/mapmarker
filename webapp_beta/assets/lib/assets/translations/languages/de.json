@@ -446,5 +446,9 @@
     "markers_deleted_x": "Markierungen gelöscht: %s",
     "new_circle_hint_text": "Wählen Sie die Mitte oder den Rand des Kreises mit den Symbolleistenschaltflächen aus und verschieben Sie die Karte, um sie anzupassen. Klicken Sie abschließend auf Speichern, um die Form zu speichern.",
     "radius_x": "Radius: %s",
+    "preferred_display_theme": "Anzeigethema (dunkel / hell)",
+    "preferred_display_theme_dark": "Dunkles Thema",
+    "preferred_display_theme_light": "Lichtthema",
+    "preferred_display_theme_use_system": "Systemeinstellungen verwenden",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

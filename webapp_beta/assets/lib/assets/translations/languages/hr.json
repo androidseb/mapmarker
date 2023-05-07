@@ -446,5 +446,9 @@
     "markers_deleted_x": "Markeri izbrisani: %s",
     "new_circle_hint_text": "Odaberite središte ili rub kruga pomoću gumba na alatnoj traci i pomičite kartu za podešavanje. Na kraju kliknite na Spremi da biste spremili oblik.",
     "radius_x": "Radijus: %s",
+    "preferred_display_theme": "Tema prikaza (tamno/svijetlo)",
+    "preferred_display_theme_dark": "Tamna tema",
+    "preferred_display_theme_light": "Lagana tema",
+    "preferred_display_theme_use_system": "Koristite postavke sustava",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

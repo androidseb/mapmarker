@@ -446,5 +446,9 @@
     "markers_deleted_x": "Маркери видалено: %s",
     "new_circle_hint_text": "Виберіть центр або край кола за допомогою кнопок панелі інструментів і перемістіть карту, щоб налаштувати. Нарешті натисніть «Зберегти», щоб зберегти форму.",
     "radius_x": "Радіус: %s",
+    "preferred_display_theme": "Тема дисплея (темний / світлий)",
+    "preferred_display_theme_dark": "Темна тема",
+    "preferred_display_theme_light": "Світла тема",
+    "preferred_display_theme_use_system": "Використовуйте налаштування системи",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

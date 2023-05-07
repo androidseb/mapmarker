@@ -446,5 +446,9 @@
     "markers_deleted_x": "Jelölők törölve: %s",
     "new_circle_hint_text": "Válassza ki a kör közepét vagy szélét az eszköztár gombjaival, és mozgassa a térképet a beállításhoz. Végül kattintson a Mentés gombra az alakzat mentéséhez.",
     "radius_x": "Sugár: %s",
+    "preferred_display_theme": "Kijelző téma (sötét / világos)",
+    "preferred_display_theme_dark": "Sötét téma",
+    "preferred_display_theme_light": "Világos téma",
+    "preferred_display_theme_use_system": "Használja a rendszerbeállításokat",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

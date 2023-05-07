@@ -446,5 +446,9 @@
     "markers_deleted_x": "Marcadors suprimits: %s",
     "new_circle_hint_text": "Seleccioneu el centre o la vora del cercle amb els botons de la barra d'eines i moveu el mapa per ajustar-lo. Finalment, feu clic a desa per desar la forma.",
     "radius_x": "Radi: %s",
+    "preferred_display_theme": "Tema de visualització (fosc/clar)",
+    "preferred_display_theme_dark": "Tema fosc",
+    "preferred_display_theme_light": "Tema lleuger",
+    "preferred_display_theme_use_system": "Utilitzeu la configuració del sistema",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

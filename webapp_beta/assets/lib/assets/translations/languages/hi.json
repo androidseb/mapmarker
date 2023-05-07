@@ -446,5 +446,9 @@
     "markers_deleted_x": "मार्कर हटाए गए: %s",
     "new_circle_hint_text": "टूलबार बटन के साथ केंद्र या सर्कल के किनारे का चयन करें और समायोजित करने के लिए मानचित्र को चारों ओर ले जाएं। अंत में, शेप को सेव करने के लिए सेव पर क्लिक करें।",
     "radius_x": "त्रिज्या: %s",
+    "preferred_display_theme": "डिस्प्ले थीम (डार्क / लाइट)",
+    "preferred_display_theme_dark": "गहरे रंग वाली थीम",
+    "preferred_display_theme_light": "प्रकाश विषय",
+    "preferred_display_theme_use_system": "सिस्टम सेटिंग्स का प्रयोग करें",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

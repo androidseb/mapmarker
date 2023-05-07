@@ -446,5 +446,9 @@
     "markers_deleted_x": "Marcatori eliminati: %s",
     "new_circle_hint_text": "Seleziona il centro o il bordo del cerchio con i pulsanti della barra degli strumenti e sposta la mappa per regolarla. Infine, fai clic su Salva per salvare la forma.",
     "radius_x": "Raggio: %s",
+    "preferred_display_theme": "Tema del display (scuro/chiaro)",
+    "preferred_display_theme_dark": "Tema scuro",
+    "preferred_display_theme_light": "Tema chiaro",
+    "preferred_display_theme_use_system": "Usa le impostazioni di sistema",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

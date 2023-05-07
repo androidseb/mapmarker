@@ -446,5 +446,9 @@
     "markers_deleted_x": "סמנים שנמחקו: %s",
     "new_circle_hint_text": "בחר את מרכז המעגל או את קצה המעגל בעזרת לחצני סרגל הכלים והזז את המפה כדי להתאים אותו. לבסוף, לחץ על שמור כדי לשמור את הצורה.",
     "radius_x": "רדיוס: %s",
+    "preferred_display_theme": "ערכת נושא לתצוגה (כהה/בהיר)",
+    "preferred_display_theme_dark": "ערכת נושא כהה",
+    "preferred_display_theme_light": "נושא קליל",
+    "preferred_display_theme_use_system": "השתמש בהגדרות המערכת",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

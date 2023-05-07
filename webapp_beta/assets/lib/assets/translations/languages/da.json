@@ -446,5 +446,9 @@
     "markers_deleted_x": "Markører slettet: %s",
     "new_circle_hint_text": "Vælg midten eller kanten af cirklen med værktøjslinjeknapperne, og flyt rundt på kortet for at justere. Klik til sidst på Gem for at gemme formen.",
     "radius_x": "Radius: %s",
+    "preferred_display_theme": "Vis tema (mørkt/lys)",
+    "preferred_display_theme_dark": "Mørkt tema",
+    "preferred_display_theme_light": "Lys tema",
+    "preferred_display_theme_use_system": "Brug systemindstillinger",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

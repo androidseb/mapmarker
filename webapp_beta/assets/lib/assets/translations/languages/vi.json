@@ -446,5 +446,9 @@
     "markers_deleted_x": "Điểm đánh dấu đã bị xóa: %s",
     "new_circle_hint_text": "Chọn tâm hoặc cạnh của vòng tròn bằng các nút trên thanh công cụ và di chuyển bản đồ xung quanh để điều chỉnh. Cuối cùng, nhấp vào lưu để lưu hình dạng.",
     "radius_x": "Bán kính: %s",
+    "preferred_display_theme": "Chủ đề hiển thị (tối / sáng)",
+    "preferred_display_theme_dark": "chủ đề tối",
+    "preferred_display_theme_light": "chủ đề ánh sáng",
+    "preferred_display_theme_use_system": "Sử dụng cài đặt hệ thống",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

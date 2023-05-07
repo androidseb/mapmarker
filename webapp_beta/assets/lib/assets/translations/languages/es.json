@@ -446,5 +446,9 @@
     "markers_deleted_x": "Marcadores eliminados: %s",
     "new_circle_hint_text": "Seleccione el centro o el borde del círculo con los botones de la barra de herramientas y mueva el mapa para ajustarlo. Finalmente, haga clic en guardar para guardar la forma.",
     "radius_x": "Radio: %s",
+    "preferred_display_theme": "Mostrar tema (oscuro/claro)",
+    "preferred_display_theme_dark": "tema oscuro",
+    "preferred_display_theme_light": "Tema ligero",
+    "preferred_display_theme_use_system": "Usar la configuración del sistema",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
