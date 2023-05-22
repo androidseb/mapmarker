@@ -450,5 +450,8 @@
     "preferred_display_theme_dark": "暗いテーマ",
     "preferred_display_theme_light": "ライトテーマ",
     "preferred_display_theme_use_system": "システム設定を使用する",
+    "nav_navigation_description": "マーカーへの道順を取得するには、このアプリでナビゲーションモードを入力してください。",
+    "marker_direction": "方向",
+    "distance_to_x": "%1$s までの距離",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

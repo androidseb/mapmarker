@@ -450,5 +450,8 @@
     "preferred_display_theme_dark": "Tema întunecată",
     "preferred_display_theme_light": "Tema ușoară",
     "preferred_display_theme_use_system": "Utilizați setările de sistem",
+    "nav_navigation_description": "Intra în modul de navigare în această aplicație pentru a traseu la markerul",
+    "marker_direction": "Direcții",
+    "distance_to_x": "Distanța până la %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

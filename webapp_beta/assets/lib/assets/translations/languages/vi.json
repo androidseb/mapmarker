@@ -450,5 +450,8 @@
     "preferred_display_theme_dark": "chủ đề tối",
     "preferred_display_theme_light": "chủ đề ánh sáng",
     "preferred_display_theme_use_system": "Sử dụng cài đặt hệ thống",
+    "nav_navigation_description": "Vào chế độ điều hướng trong ứng dụng này để nhận được hướng dẫn để đánh dấu",
+    "marker_direction": "Chỉ Dẫn",
+    "distance_to_x": "Khoảng cách đến %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

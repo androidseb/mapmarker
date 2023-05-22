@@ -450,5 +450,8 @@
     "preferred_display_theme_dark": "Dunkles Thema",
     "preferred_display_theme_light": "Lichtthema",
     "preferred_display_theme_use_system": "Systemeinstellungen verwenden",
+    "nav_navigation_description": "Öffnen Sie den Navigationsmodus in dieser App, mit dem Marker als Ziel.",
+    "marker_direction": "Richtungen",
+    "distance_to_x": "Entfernung zu %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -450,5 +450,8 @@
     "preferred_display_theme_dark": "Sötét téma",
     "preferred_display_theme_light": "Világos téma",
     "preferred_display_theme_use_system": "Használja a rendszerbeállításokat",
+    "nav_navigation_description": "Adja navigációs mód ebben az app útvonaltervet a marker",
+    "marker_direction": "Directions",
+    "distance_to_x": "Távolság %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

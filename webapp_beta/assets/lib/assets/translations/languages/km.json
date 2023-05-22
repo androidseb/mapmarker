@@ -450,5 +450,8 @@
     "preferred_display_theme_dark": "ប្រធានបទងងឹត",
     "preferred_display_theme_light": "ប្រធានបទពន្លឺ",
     "preferred_display_theme_use_system": "ប្រើការកំណត់ប្រព័ន្ធ",
+    "nav_navigation_description": "បញ្ចូល​របៀប​រុករក​នៅ​ក្នុង​កម្មវិធី​នេះ​ដើម្បី​ទទួល​ទិសដៅ​ទៅ​កន្លែង​ចំណាំ",
+    "marker_direction": "ទិសដៅ",
+    "distance_to_x": "ចម្ងាយ​ទៅ %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

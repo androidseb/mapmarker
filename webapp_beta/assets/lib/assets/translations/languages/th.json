@@ -450,5 +450,8 @@
     "preferred_display_theme_dark": "ธีมสีเข้ม",
     "preferred_display_theme_light": "ธีมสว่าง",
     "preferred_display_theme_use_system": "ใช้การตั้งค่าระบบ",
+    "nav_navigation_description": "เข้าสู่โหมดนำทางใน app นี้เพื่อให้ได้เส้นทางไปยังเครื่องหมาย",
+    "marker_direction": "คำสั่ง",
+    "distance_to_x": "ระยะห่างจาก %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

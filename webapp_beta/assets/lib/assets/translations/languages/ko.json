@@ -450,5 +450,8 @@
     "preferred_display_theme_dark": "어두운 테마",
     "preferred_display_theme_light": "밝은 테마",
     "preferred_display_theme_use_system": "시스템 설정 사용",
+    "nav_navigation_description": "마커에 방향을 얻을이 응용 프로그램의 탐색 모드를 입력",
+    "marker_direction": "오시는 길",
+    "distance_to_x": "까지의 거리 %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

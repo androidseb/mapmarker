@@ -450,5 +450,8 @@
     "preferred_display_theme_dark": "Tmavé téma",
     "preferred_display_theme_light": "Světlé téma",
     "preferred_display_theme_use_system": "Použijte nastavení systému",
+    "nav_navigation_description": "Vstup do režimu navigace v této aplikaci se dostat trasu do značky",
+    "marker_direction": "Instrukce",
+    "distance_to_x": "Vzdálenost k %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

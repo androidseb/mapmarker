@@ -450,5 +450,8 @@
     "preferred_display_theme_dark": "Mørkt tema",
     "preferred_display_theme_light": "Lett tema",
     "preferred_display_theme_use_system": "Bruk systeminnstillinger",
+    "nav_navigation_description": "Skriv inn navigeringsmodus i dette programmet for å få veibeskrivelse til markør",
+    "marker_direction": "Retninger",
+    "distance_to_x": "Avstand til %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -450,5 +450,8 @@
     "preferred_display_theme_dark": "深色主题",
     "preferred_display_theme_light": "浅色主题",
     "preferred_display_theme_use_system": "使用系统设置",
+    "nav_navigation_description": "在此应用中进入导航模式以获取前往标记的路线",
+    "marker_direction": "方向",
+    "distance_to_x": "到 %1$s 的距离",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

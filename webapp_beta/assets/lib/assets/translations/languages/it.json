@@ -450,5 +450,8 @@
     "preferred_display_theme_dark": "Tema scuro",
     "preferred_display_theme_light": "Tema chiaro",
     "preferred_display_theme_use_system": "Usa le impostazioni di sistema",
+    "nav_navigation_description": "Accedere alla modalità di navigazione in questa applicazione per ottenere le indicazioni per il marcatore",
+    "marker_direction": "Indicazioni",
+    "distance_to_x": "Distanza al %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

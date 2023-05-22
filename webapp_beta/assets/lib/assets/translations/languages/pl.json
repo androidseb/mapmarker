@@ -450,5 +450,8 @@
     "preferred_display_theme_dark": "ciemny schemat",
     "preferred_display_theme_light": "Lekki motyw",
     "preferred_display_theme_use_system": "Użyj ustawień systemowych",
+    "nav_navigation_description": "Wejdź w tryb nawigacji w tej aplikacji, aby uzyskać wskazówki do znacznika",
+    "marker_direction": "Wskazówki",
+    "distance_to_x": "Odległość do %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

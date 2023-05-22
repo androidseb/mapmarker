@@ -450,5 +450,8 @@
     "preferred_display_theme_dark": "Koyu tema",
     "preferred_display_theme_light": "Açık tema",
     "preferred_display_theme_use_system": "Sistem ayarlarını kullan",
+    "nav_navigation_description": "Işaretleyici tarifi almak için bu app navigasyon moduna girin",
+    "marker_direction": "Yol",
+    "distance_to_x": "Mesafe %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -450,5 +450,8 @@
     "preferred_display_theme_dark": "Tema gelap",
     "preferred_display_theme_light": "Tema ringan",
     "preferred_display_theme_use_system": "Gunakan pengaturan sistem",
+    "nav_navigation_description": "Masukkan modus navigasi di aplikasi ini untuk mendapatkan arah ke penanda",
+    "marker_direction": "Arah",
+    "distance_to_x": "Jarak %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

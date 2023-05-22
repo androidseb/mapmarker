@@ -450,5 +450,8 @@
     "preferred_display_theme_dark": "Tamna tema",
     "preferred_display_theme_light": "Lagana tema",
     "preferred_display_theme_use_system": "Koristite postavke sustava",
+    "nav_navigation_description": "Unesite navigacijski mod u ovom aplikacijom dobiti upute za marker",
+    "marker_direction": "Upute",
+    "distance_to_x": "Udaljenost od %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

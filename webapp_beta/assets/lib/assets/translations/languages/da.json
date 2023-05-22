@@ -450,5 +450,8 @@
     "preferred_display_theme_dark": "Mørkt tema",
     "preferred_display_theme_light": "Lys tema",
     "preferred_display_theme_use_system": "Brug systemindstillinger",
+    "nav_navigation_description": "Indtast navigations mode i denne app for at få rutevejledning til markøren",
+    "marker_direction": "Kørselsvejledning",
+    "distance_to_x": "Afstand til %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
