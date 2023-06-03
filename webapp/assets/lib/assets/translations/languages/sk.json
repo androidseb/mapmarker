@@ -446,5 +446,12 @@
     "markers_deleted_x": "Značky odstránené: %s",
     "new_circle_hint_text": "Pomocou tlačidiel na paneli s nástrojmi vyberte stred alebo okraj kruhu a posúvaním mapy upravte. Nakoniec kliknutím na tlačidlo uložiť tvar uložte.",
     "radius_x": "Polomer: %s",
+    "preferred_display_theme": "Téma displeja (tmavá / svetlá)",
+    "preferred_display_theme_dark": "Tmavá téma",
+    "preferred_display_theme_light": "Svetlá téma",
+    "preferred_display_theme_use_system": "Použite systémové nastavenia",
+    "nav_navigation_description": "Vstup do režimu navigácie v tejto aplikácii sa dostať trasu do značky",
+    "marker_direction": "Inštrukcie",
+    "distance_to_x": "Vzdialenosť k %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

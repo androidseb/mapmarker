@@ -2,56 +2,60 @@
 const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
-const RESOURCES = {
-  "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
-"index.html": "2c4eb75842bb0b6038a34c961c533a78",
-"/": "2c4eb75842bb0b6038a34c961c533a78",
-"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
+
+const RESOURCES = {"canvaskit/skwasm.worker.js": "19659053a277272607529ef87acf9d8a",
+"canvaskit/chromium/canvaskit.wasm": "fc18c3010856029414b70cae1afc5cd9",
+"canvaskit/chromium/canvaskit.js": "8c8392ce4a4364cbb240aa09b5652e05",
+"canvaskit/canvaskit.wasm": "f48eaf57cada79163ec6dec7929486ea",
+"canvaskit/skwasm.wasm": "6711032e17bf49924b2b001cef0d3ea3",
+"canvaskit/canvaskit.js": "76f7d822f42397160c5dfc69cbc9b2de",
+"canvaskit/skwasm.js": "1df4d741f441fa1a4d10530ced463ef8",
+"index.html": "f1623c022eaaece124a315c249d02c5d",
+"/": "f1623c022eaaece124a315c249d02c5d",
+"flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 "icons/Icon-192.png": "3c328cfe2fa69d19b6bb97ed8a9476fd",
 "icons/Icon-512.png": "1f4d3a3b30ec92695adfc87857c068c5",
-"assets/lib/assets/translations/languages/da.json": "14495410498769d0489ff528ff9601cd",
-"assets/lib/assets/translations/languages/th.json": "81b00bb7e5cf01c70ce70c70228b0000",
-"assets/lib/assets/translations/languages/zh-rHK.json": "73251fed057e8c66c04973abc5c8938a",
-"assets/lib/assets/translations/languages/fi.json": "80d8c34d45c95a2969a4dbe5e7c21781",
-"assets/lib/assets/translations/languages/el.json": "539f154e65cd6c81f795eefea9aaf7e0",
-"assets/lib/assets/translations/languages/es.json": "a8df546a362c02d6cd174cbe74d0450d",
-"assets/lib/assets/translations/languages/cs.json": "e894c2ebfa526d72d66c2c87a9094003",
-"assets/lib/assets/translations/languages/en.json": "e9574a0b2db40f46f24414d0a32bd7f0",
-"assets/lib/assets/translations/languages/it.json": "fb5898ffad94623671af0e94db71f29d",
-"assets/lib/assets/translations/languages/no.json": "cea4fc3485f4c76221e5fca74486a698",
-"assets/lib/assets/translations/languages/ca.json": "4a0d823fef6e937bc1660fc174f4f286",
-"assets/lib/assets/translations/languages/tr.json": "3a0b67c2e805cc50f376febb22d3f9a5",
-"assets/lib/assets/translations/languages/id.json": "55ae6208417a0fadf919f5f294703106",
-"assets/lib/assets/translations/languages/pl.json": "cee660684f98349ae21497b0df1e8ff2",
-"assets/lib/assets/translations/languages/zh-rTW.json": "4e5b696d8771df62a98684c842324857",
-"assets/lib/assets/translations/languages/ar.json": "566cfe074f792789a6df735b47deda4c",
-"assets/lib/assets/translations/languages/pt.json": "3d6ea44b06794e368687c4c012928d18",
-"assets/lib/assets/translations/languages/fr.json": "27ad6d651d8f9a570c3c825edf2529e2",
-"assets/lib/assets/translations/languages/ja.json": "316ccc665b3ce063d8c51f3afe19d8be",
-"assets/lib/assets/translations/languages/sv.json": "0522aefea446db7592f2a4d320c54241",
-"assets/lib/assets/translations/languages/hr.json": "e002f75da1c1afe403918f52bb1d3818",
-"assets/lib/assets/translations/languages/bg.json": "7c3d96ebbd65edc2092f7ba0d2e1bbd2",
-"assets/lib/assets/translations/languages/lt.json": "0f8d09fdd7d50b8e0341670bc7a1a1c5",
-"assets/lib/assets/translations/languages/km.json": "e3ceffda2d60e72a43d854a878d7e00c",
-"assets/lib/assets/translations/languages/lv.json": "ac3797b68ab4184793a872016ad73fce",
-"assets/lib/assets/translations/languages/sl.json": "77d24334892a2c7eea6e504a1ec06493",
-"assets/lib/assets/translations/languages/hi.json": "2c4b23c4e179951d931b27dce61dc71d",
-"assets/lib/assets/translations/languages/de.json": "5dcfecbb0a8da9b582628b1d7876c411",
-"assets/lib/assets/translations/languages/nl.json": "50add1447218bfa6da24760c9921c28b",
-"assets/lib/assets/translations/languages/hu.json": "33f30e86fc92bc26487c1efcaf1b08df",
-"assets/lib/assets/translations/languages/vi.json": "f93cc66f240f3585ca8d6d385dab4829",
-"assets/lib/assets/translations/languages/ro.json": "41bf7a6c550ef9a2d559dc8c13bbb8f3",
-"assets/lib/assets/translations/languages/sk.json": "a32b859e0bd7fb1af808cd5cdd7ee5c9",
-"assets/lib/assets/translations/languages/ru.json": "dfaa4fc8500c69c8c5c1fcdf1eef1950",
-"assets/lib/assets/translations/languages/iw.json": "a9848705e17d7df8d1a51dea3d825080",
-"assets/lib/assets/translations/languages/ko.json": "3538ac969f1ac201d57d82e7d4c0e8d2",
-"assets/lib/assets/translations/languages/zh-rCN.json": "e463e39c5fc929cad54fee050903b277",
-"assets/lib/assets/translations/languages/sr.json": "fb98bbfaf0917f95fad3d83f9e57d72e",
-"assets/lib/assets/translations/languages/en-rCA.json": "65bfadba2d7edbcb72cb8362d812f1de",
-"assets/lib/assets/translations/languages/uk.json": "f11bd85c7eedd922009e848158dc4398",
+"assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
+"assets/lib/assets/translations/languages/da.json": "a84f62827e81ff4d4f248cd5b82ecdcf",
+"assets/lib/assets/translations/languages/th.json": "1442ba90458468b61324b4ed739cc518",
+"assets/lib/assets/translations/languages/zh-rHK.json": "e2c5edbab9583e984dcb6466b4b1c69e",
+"assets/lib/assets/translations/languages/fi.json": "6c67de71543b81c81ef963aabe9e4e45",
+"assets/lib/assets/translations/languages/el.json": "b94f81e1da6f82ce2de17e7bc33a27d8",
+"assets/lib/assets/translations/languages/es.json": "b3c9453e179d62fbfd41572f03f397a8",
+"assets/lib/assets/translations/languages/cs.json": "75102c0ebd57436342424c0ee243064a",
+"assets/lib/assets/translations/languages/en.json": "92e7b304c24fb5374c952c7eb77febeb",
+"assets/lib/assets/translations/languages/it.json": "addf9de0ecc3b6148c015419ac7982bb",
+"assets/lib/assets/translations/languages/no.json": "be215f52819b90a8efce8536c207fbed",
+"assets/lib/assets/translations/languages/ca.json": "8e3e83259f2d75fd46e148450342a1e8",
+"assets/lib/assets/translations/languages/tr.json": "840012e9bf3efc828d4b9c4e28f968cc",
+"assets/lib/assets/translations/languages/id.json": "e9093096b29863a28696d3cb5c86b945",
+"assets/lib/assets/translations/languages/pl.json": "3cda6a745bf84e3a5a03d7e9e440d159",
+"assets/lib/assets/translations/languages/zh-rTW.json": "95cb18fc942455cd26e8d87680a0b50e",
+"assets/lib/assets/translations/languages/ar.json": "3dedb29e46b68cdcc854fba101332687",
+"assets/lib/assets/translations/languages/pt.json": "c60eae3c3366dfb945c64613261b88ba",
+"assets/lib/assets/translations/languages/fr.json": "6c1cf2fbf8fcfa434a7195680e652dc7",
+"assets/lib/assets/translations/languages/ja.json": "2dcd7873da5926d791a386f797a3b5c1",
+"assets/lib/assets/translations/languages/sv.json": "086908b1eb3854972910836f53370e38",
+"assets/lib/assets/translations/languages/hr.json": "86a6fa26426f02c12a8a57b3dcffe4e9",
+"assets/lib/assets/translations/languages/bg.json": "3330ceef0bcb15d3ae6c8ac5ce52ffde",
+"assets/lib/assets/translations/languages/lt.json": "d299e310da8a9d5478a8d2beca0fc3ca",
+"assets/lib/assets/translations/languages/km.json": "ec9faf88bcca4083c3dc4acfce500808",
+"assets/lib/assets/translations/languages/lv.json": "cf1fe99ad58564c58218775a72cd79e1",
+"assets/lib/assets/translations/languages/sl.json": "bce4141c8687b9578ba5b106088c548b",
+"assets/lib/assets/translations/languages/hi.json": "e7cad3c600eeda09ad58f52ebbece754",
+"assets/lib/assets/translations/languages/de.json": "24a1539cba4a4b8a165ee67fc1114c47",
+"assets/lib/assets/translations/languages/nl.json": "df2262c0c7c434f73fdf459008c136ca",
+"assets/lib/assets/translations/languages/hu.json": "dc2ffe419b60379aee6fc8fbd4be5015",
+"assets/lib/assets/translations/languages/vi.json": "932a50fd22bae49b47c55af8cd88572b",
+"assets/lib/assets/translations/languages/ro.json": "78f129ad4985e1c68917292a63f8a0e2",
+"assets/lib/assets/translations/languages/sk.json": "01381280cc2d5a3eefdd2d2ee149a512",
+"assets/lib/assets/translations/languages/ru.json": "6d26ab57fab58f644bddb99f12c683cb",
+"assets/lib/assets/translations/languages/iw.json": "d42532a9f34e7d2e89dce41d4fd87871",
+"assets/lib/assets/translations/languages/ko.json": "1ec904f0c52d9fce0e90ed5c9d17462c",
+"assets/lib/assets/translations/languages/zh-rCN.json": "5847cd930abc5decfb2e655b3beb3ad5",
+"assets/lib/assets/translations/languages/sr.json": "92060662405e48422d5c9de5bdad2fca",
+"assets/lib/assets/translations/languages/en-rCA.json": "5844140baedbe313299a9fadf02c95f6",
+"assets/lib/assets/translations/languages/uk.json": "875c7f76a8671ea82e981f2030266f3a",
 "assets/lib/assets/images/svg/ic_check_box.svg": "dd6bf4d73a41d765483bf3435caa5143",
 "assets/lib/assets/images/svg/ic_link.svg": "d814ef227929b43e26eea59d56cd1ca1",
 "assets/lib/assets/images/svg/ic_format_list_bulleted.svg": "901bc73ee3718d6e40f21f31fb23bc87",
@@ -648,23 +652,22 @@ const RESOURCES = {
 "assets/lib/assets/map_icons/svg/googlemd_my_location.svg": "d51a23cc809072bd177cce7c7ee36093",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
-"assets/NOTICES": "af8db8fd07d9dbc326cebc6e8f02bf6b",
+"assets/AssetManifest.bin": "dab737e397a376a68890c2a90654d814",
+"assets/NOTICES": "1956f280047f19e01601dfb0dd117dd3",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/AssetManifest.json": "01086fc7571d2423128259fc820768ce",
-"assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
+"assets/fonts/MaterialIcons-Regular.otf": "03113e747cd2e5c074f14a8782303f11",
 "manifest.json": "ed5eebeefeb9951927373aa6d106aa4f",
-"main.dart.js": "d6b3f470232bad4ec69c38db9faf41b6",
+"main.dart.js": "9f1edff9e9b02272ae794295045f6400",
 "favicon.png": "08b885e38ecdf53b6a25c93bbbf679ba",
-"version.json": "082af0582f1f5ae3ebd591ee043c0b1a"
-};
-
+"version.json": "0cca18ec4629333a2b84c9d34be10183"};
 // The application shell files that are downloaded before a service worker can
 // start.
-const CORE = [
-  "main.dart.js",
+const CORE = ["main.dart.js",
 "index.html",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
+
 // During install, the TEMP cache is populated with the application shell files.
 self.addEventListener("install", (event) => {
   self.skipWaiting();
@@ -675,7 +678,6 @@ self.addEventListener("install", (event) => {
     })
   );
 });
-
 // During activate, the cache is populated with the temp files downloaded in
 // install. If this service worker is upgrading from one with a saved
 // MANIFEST, then use this to retain unchanged resource files.
@@ -697,6 +699,8 @@ self.addEventListener("activate", function(event) {
         await caches.delete(TEMP);
         // Save the manifest to make future upgrades efficient.
         await manifestCache.put('manifest', new Response(JSON.stringify(RESOURCES)));
+        // Claim client to enable caching on first launch
+        self.clients.claim();
         return;
       }
       var oldManifest = await manifest.json();
@@ -722,6 +726,8 @@ self.addEventListener("activate", function(event) {
       await caches.delete(TEMP);
       // Save the manifest to make future upgrades efficient.
       await manifestCache.put('manifest', new Response(JSON.stringify(RESOURCES)));
+      // Claim client to enable caching on first launch
+      self.clients.claim();
       return;
     } catch (err) {
       // On an unhandled exception the state of the cache cannot be guaranteed.
@@ -732,7 +738,6 @@ self.addEventListener("activate", function(event) {
     }
   }());
 });
-
 // The fetch handler redirects requests for RESOURCE files to the service
 // worker cache.
 self.addEventListener("fetch", (event) => {
@@ -772,7 +777,6 @@ self.addEventListener("fetch", (event) => {
     })
   );
 });
-
 self.addEventListener('message', (event) => {
   // SkipWaiting can be used to immediately activate a waiting service worker.
   // This will also require a page refresh triggered by the main worker.
@@ -785,7 +789,6 @@ self.addEventListener('message', (event) => {
     return;
   }
 });
-
 // Download offline will check the RESOURCES for all files not in the cache
 // and populate them.
 async function downloadOffline() {
@@ -806,7 +809,6 @@ async function downloadOffline() {
   }
   return contentCache.addAll(resources);
 }
-
 // Attempt to download the resource online before falling back to
 // the offline cache.
 function onlineFirst(event) {

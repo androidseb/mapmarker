@@ -446,5 +446,12 @@
     "markers_deleted_x": "Διαγράφηκαν δείκτες: %s",
     "new_circle_hint_text": "Επιλέξτε το κέντρο ή την άκρη του κύκλου με τα κουμπιά της γραμμής εργαλείων και μετακινήστε τον χάρτη για προσαρμογή. Τέλος, κάντε κλικ στην αποθήκευση για να αποθηκεύσετε το σχήμα.",
     "radius_x": "Ακτίνα: %s",
+    "preferred_display_theme": "Θέμα προβολής (σκούρο / ανοιχτό)",
+    "preferred_display_theme_dark": "Σκοτεινό θέμα",
+    "preferred_display_theme_light": "Ελαφρύ θέμα",
+    "preferred_display_theme_use_system": "Χρησιμοποιήστε τις ρυθμίσεις συστήματος",
+    "nav_navigation_description": "Εισάγετε τη λειτουργία πλοήγησης σε αυτό το app για να πάρει οδηγίες για το δείκτη",
+    "marker_direction": "Οδηγίες",
+    "distance_to_x": "Απόσταση %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -446,5 +446,12 @@
     "markers_deleted_x": "刪除的標記：%s",
     "new_circle_hint_text": "使用工具欄按鈕選擇圓的中心或邊緣，然後四處移動地圖進行調整。最後點擊保存保存形狀。",
     "radius_x": "半徑：%s",
+    "preferred_display_theme": "顯示主題（深色/淺色）",
+    "preferred_display_theme_dark": "深色主題",
+    "preferred_display_theme_light": "淺色主題",
+    "preferred_display_theme_use_system": "使用系統設置",
+    "nav_navigation_description": "在此應用中進入導航模式以獲取前往標記的路線",
+    "marker_direction": "路徑",
+    "distance_to_x": "距離%1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

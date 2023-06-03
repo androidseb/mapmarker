@@ -446,5 +446,12 @@
     "markers_deleted_x": "العلامات المحذوفة: %s",
     "new_circle_hint_text": "حدد مركز الدائرة أو حافتها باستخدام أزرار شريط الأدوات وحرك الخريطة لتعديلها. أخيرًا ، انقر فوق حفظ لحفظ الشكل.",
     "radius_x": "نصف القطر: %s",
+    "preferred_display_theme": "مظهر العرض (داكن / فاتح)",
+    "preferred_display_theme_dark": "مظهر داكن",
+    "preferred_display_theme_light": "مظهر خفيف",
+    "preferred_display_theme_use_system": "استخدم إعدادات النظام",
+    "nav_navigation_description": "ادخل إلى وضع الملاحة في هذا التطبيق للحصول على توجيهات الوصول إلى العلامة",
+    "marker_direction": "الاتجاهات",
+    "distance_to_x": "المسافة إلى %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

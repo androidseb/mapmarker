@@ -446,5 +446,12 @@
     "markers_deleted_x": "Ознаке избрисане: %s",
     "new_circle_hint_text": "Изаберите центар или ивицу круга помоћу дугмади на траци са алаткама и померајте мапу да бисте је прилагодили. На крају, кликните на сачувај да бисте сачували облик.",
     "radius_x": "Радијус: %s",
+    "preferred_display_theme": "Тема приказа (тамно/светло)",
+    "preferred_display_theme_dark": "Мрачна тема",
+    "preferred_display_theme_light": "Светла тема",
+    "preferred_display_theme_use_system": "Користите системска подешавања",
+    "nav_navigation_description": "Унесите режим навигације у овој апликацији да се упутства на маркер",
+    "marker_direction": "Надји",
+    "distance_to_x": "Удаљеност до %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

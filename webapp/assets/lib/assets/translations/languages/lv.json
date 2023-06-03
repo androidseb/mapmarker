@@ -446,5 +446,12 @@
     "markers_deleted_x": "Marķieri izdzēsti: %s",
     "new_circle_hint_text": "Ar rīkjoslas pogām atlasiet apļa centru vai malu un pārvietojiet karti, lai pielāgotu. Visbeidzot, noklikšķiniet uz Saglabāt, lai saglabātu formu.",
     "radius_x": "Rādiuss: %s",
+    "preferred_display_theme": "Displeja motīvs (tumšs/gaišs)",
+    "preferred_display_theme_dark": "Tumša tēma",
+    "preferred_display_theme_light": "Viegla tēma",
+    "preferred_display_theme_use_system": "Izmantojiet sistēmas iestatījumus",
+    "nav_navigation_description": "Ievadiet navigācijas režīmu šajā app, lai saņemtu norādes uz marķieri",
+    "marker_direction": "Virzieni",
+    "distance_to_x": "Attālums līdz %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

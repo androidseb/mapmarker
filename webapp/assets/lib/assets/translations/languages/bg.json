@@ -446,5 +446,12 @@
     "markers_deleted_x": "Изтрити маркери: %s",
     "new_circle_hint_text": "Изберете центъра или ръба на кръга с бутоните на лентата с инструменти и преместете картата наоколо, за да коригирате. Накрая щракнете върху запазване, за да запазите формата.",
     "radius_x": "Радиус: %s",
+    "preferred_display_theme": "Тема на дисплея (тъмно/светло)",
+    "preferred_display_theme_dark": "Тъмна тема",
+    "preferred_display_theme_light": "Лека тема",
+    "preferred_display_theme_use_system": "Използвайте системните настройки",
+    "nav_navigation_description": "Въведете навигационен режим в това приложение, за да получите указания на маркера",
+    "marker_direction": "Инструкции",
+    "distance_to_x": "Разстояние до %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

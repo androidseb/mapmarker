@@ -446,5 +446,12 @@
     "markers_deleted_x": "Markeringen verwijderd: %s",
     "new_circle_hint_text": "Selecteer het midden of de rand van de cirkel met de werkbalkknoppen en beweeg de kaart rond om aan te passen. Klik ten slotte op opslaan om de vorm op te slaan.",
     "radius_x": "Straal: %s",
+    "preferred_display_theme": "Displaythema (donker/licht)",
+    "preferred_display_theme_dark": "Donker thema",
+    "preferred_display_theme_light": "Licht thema",
+    "preferred_display_theme_use_system": "Gebruik systeeminstellingen",
+    "nav_navigation_description": "Voer navigatiemodus in deze app om een routebeschrijving naar de marker te krijgen",
+    "marker_direction": "Routebeschrijving",
+    "distance_to_x": "Afstand tot %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

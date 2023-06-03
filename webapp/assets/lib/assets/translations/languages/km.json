@@ -446,5 +446,12 @@
     "markers_deleted_x": "សញ្ញាសម្គាល់ត្រូវបានលុប៖ %s",
     "new_circle_hint_text": "ជ្រើសរើសកណ្តាល ឬគែមរង្វង់ដោយប្រើប៊ូតុងរបារឧបករណ៍ ហើយផ្លាស់ទីផែនទីជុំវិញដើម្បីកែតម្រូវ។ ចុងក្រោយ ចុច Save ដើម្បីរក្សាទុករូបរាង។",
     "radius_x": "កាំ៖ %s",
+    "preferred_display_theme": "បង្ហាញប្រធានបទ (ងងឹត / ពន្លឺ)",
+    "preferred_display_theme_dark": "ប្រធានបទងងឹត",
+    "preferred_display_theme_light": "ប្រធានបទពន្លឺ",
+    "preferred_display_theme_use_system": "ប្រើការកំណត់ប្រព័ន្ធ",
+    "nav_navigation_description": "បញ្ចូល​របៀប​រុករក​នៅ​ក្នុង​កម្មវិធី​នេះ​ដើម្បី​ទទួល​ទិសដៅ​ទៅ​កន្លែង​ចំណាំ",
+    "marker_direction": "ទិសដៅ",
+    "distance_to_x": "ចម្ងាយ​ទៅ %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

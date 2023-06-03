@@ -446,5 +446,12 @@
     "markers_deleted_x": "Удалено маркеров: %s",
     "new_circle_hint_text": "Выберите центр или край круга с помощью кнопок на панели инструментов и переместите карту для настройки. Наконец, нажмите «Сохранить», чтобы сохранить форму.",
     "radius_x": "Радиус: %s",
+    "preferred_display_theme": "Тема отображения (темная/светлая)",
+    "preferred_display_theme_dark": "Темная тема",
+    "preferred_display_theme_light": "Светлая тема",
+    "preferred_display_theme_use_system": "Использовать системные настройки",
+    "nav_navigation_description": "Запустить режим навигации в этом приложении, чтобы построить маршрут",
+    "marker_direction": "Направления",
+    "distance_to_x": "Расстояние до %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

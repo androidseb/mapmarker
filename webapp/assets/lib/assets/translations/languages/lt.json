@@ -446,5 +446,12 @@
     "markers_deleted_x": "Ištrinti žymekliai: %s",
     "new_circle_hint_text": "Įrankių juostos mygtukais pasirinkite apskritimo centrą arba kraštą ir perkelkite žemėlapį, kad sureguliuotumėte. Galiausiai spustelėkite išsaugoti, kad išsaugotumėte formą.",
     "radius_x": "Spindulys: %s",
+    "preferred_display_theme": "Ekrano tema (tamsi / šviesi)",
+    "preferred_display_theme_dark": "Tamsi tema",
+    "preferred_display_theme_light": "Šviesos tema",
+    "preferred_display_theme_use_system": "Naudokite sistemos nustatymus",
+    "nav_navigation_description": "Atverti šioje programėlėje navigacijos režimą krypties nurodymų į žymeklį gavimui",
+    "marker_direction": "Kryptys",
+    "distance_to_x": "Atstumas iki %1$s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
