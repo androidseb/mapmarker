@@ -1,10 +1,13 @@
 {
   "applinks": {
-      "apps": [],
       "details": [
       {
-        "appID": "GB6B25EY76.com.exlyo.mapmarker",
-        "paths": ["/dl/*"]
+        "appIDs": [ "GB6B25EY76.com.exlyo.mapmarker" ],
+        "components": [
+           {
+              "/": "/dl*",
+           }
+         ]
       }
     ]
   }
