@@ -453,5 +453,12 @@
     "nav_navigation_description": "Intra în modul de navigare în această aplicație pentru a traseu la markerul",
     "marker_direction": "Direcții",
     "distance_to_x": "Distanța până la %1$s",
+    "import_marker_from_text_confirmation_message": "Doriți să încercați să importați un marcator din următoarele date text?",
+    "do_you_enjoy_the_app_question": "Îți place aplicația?",
+    "would_you_like_to_give_comments_on_how_to_improve": "Vrei să-mi trimiți un email să-mi spui cum aș putea îmbunătăți aplicația?",
+    "rate_the_app_message": "Dacă vă place aplicația mea ma poti recompensa de a lua timp pentru a da un bun rating de :-)",
+    "app_rating_prompt_yes_option_text": "Da, du-mă la pagina aplicației",
+    "app_rating_prompt_later_option_text": "Poate mai târziu, amintește-mi",
+    "app_rating_prompt_never_option_text": "Nu, mulțumesc, nu mai întreba",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

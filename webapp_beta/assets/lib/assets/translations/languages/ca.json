@@ -453,5 +453,12 @@
     "nav_navigation_description": "Entre en la manera de navegació en aquesta aplicació per obtenir instruccions per arribar al marcador",
     "marker_direction": "Instruccions",
     "distance_to_x": "Distància a %1$s",
+    "import_marker_from_text_confirmation_message": "Voleu provar d'importar un marcador de les dades de text següents?",
+    "do_you_enjoy_the_app_question": "T'agrada l'aplicació?",
+    "would_you_like_to_give_comments_on_how_to_improve": "Voleu enviar-me un email per dir-me com puc millorar l'aplicació?",
+    "rate_the_app_message": "Si t'agrada la meva aplicació em pot premiar per trobar el temps per donar un bon historial de :-)",
+    "app_rating_prompt_yes_option_text": "Sí, porta'm a la pàgina de l'aplicació",
+    "app_rating_prompt_later_option_text": "Potser més tard, recordeu-m'ho",
+    "app_rating_prompt_never_option_text": "No, gràcies, no ho tornis a preguntar",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

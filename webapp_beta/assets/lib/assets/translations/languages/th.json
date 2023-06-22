@@ -453,5 +453,12 @@
     "nav_navigation_description": "เข้าสู่โหมดนำทางใน app นี้เพื่อให้ได้เส้นทางไปยังเครื่องหมาย",
     "marker_direction": "คำสั่ง",
     "distance_to_x": "ระยะห่างจาก %1$s",
+    "import_marker_from_text_confirmation_message": "คุณต้องการลองและนำเข้าเครื่องหมายจากข้อมูลข้อความต่อไปนี้หรือไม่?",
+    "do_you_enjoy_the_app_question": "คุณสนุกกับแอพไหม?",
+    "would_you_like_to_give_comments_on_how_to_improve": "คุณต้องการส่ง email ให้ฉันเพื่อบอกฉันว่าฉันสามารถปรับปรุงแอพได้หรือไม่",
+    "rate_the_app_message": "หากคุณต้องการ app ของฉันคุณสามารถให้รางวัลฉันโดยสละเวลาที่จะให้จัดอันดับที่ดี :-)",
+    "app_rating_prompt_yes_option_text": "ใช่ พาฉันไปที่หน้าแอป",
+    "app_rating_prompt_later_option_text": "คราวหลังช่วยเตือนฉันที",
+    "app_rating_prompt_never_option_text": "ไม่ ขอบคุณ ไม่ต้องถามอีก",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

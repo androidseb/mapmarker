@@ -453,5 +453,12 @@
     "nav_navigation_description": "Enter navigation mode in this app to get directions to the marker",
     "marker_direction": "Directions",
     "distance_to_x": "Distance to %1$s",
+    "import_marker_from_text_confirmation_message": "Do you want to try and import a marker from the following text data?",
+    "do_you_enjoy_the_app_question": "Do you enjoy the app?",
+    "would_you_like_to_give_comments_on_how_to_improve": "Would you like to send me an email to tell me how I could improve the app?",
+    "rate_the_app_message": "If you like my app you can reward me by taking the time to give a good rating :-)",
+    "app_rating_prompt_yes_option_text": "Yes, take me to the app page",
+    "app_rating_prompt_later_option_text": "Maybe later, remind me",
+    "app_rating_prompt_never_option_text": "No thanks, don't ask again",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

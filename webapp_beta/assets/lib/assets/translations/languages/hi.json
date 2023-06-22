@@ -453,5 +453,12 @@
     "nav_navigation_description": "मार्कर के लिए दिशा-निर्देश प्राप्त करने के लिए इस ऐप्लिकेशन में नेविगेशन मोड दर्ज",
     "marker_direction": "दिशा-निर्देश",
     "distance_to_x": "की दूरी %1$s",
+    "import_marker_from_text_confirmation_message": "क्या आप निम्नलिखित टेक्स्ट डेटा से एक मार्कर को आज़माना और आयात करना चाहते हैं?",
+    "do_you_enjoy_the_app_question": "क्या आप ऐप का आनंद लेते हैं?",
+    "would_you_like_to_give_comments_on_how_to_improve": "क्या आप मुझे यह बताने के लिए एक email भेजना चाहेंगे कि मैं ऐप को कैसे सुधार सकता हूं?",
+    "rate_the_app_message": "आप अपने अनुप्रयोग की तरह अगर आप एक अच्छा दर्ज़ा देने के लिए समय लेने के द्वारा मुझे पुरस्कृत कर सकते हैं :-)",
+    "app_rating_prompt_yes_option_text": "हां, मुझे ऐप पेज पर ले जाएं",
+    "app_rating_prompt_later_option_text": "शायद बाद में, मुझे याद दिलाएँ",
+    "app_rating_prompt_never_option_text": "नहीं धन्यवाद, दोबारा मत पूछो",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

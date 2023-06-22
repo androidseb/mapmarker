@@ -453,5 +453,12 @@
     "nav_navigation_description": "Atverti šioje programėlėje navigacijos režimą krypties nurodymų į žymeklį gavimui",
     "marker_direction": "Kryptys",
     "distance_to_x": "Atstumas iki %1$s",
+    "import_marker_from_text_confirmation_message": "Ar norite pabandyti importuoti žymeklį iš toliau nurodytų teksto duomenų?",
+    "do_you_enjoy_the_app_question": "Ar jums patinka programa?",
+    "would_you_like_to_give_comments_on_how_to_improve": "Ar norėtumėte atsiųsti man email, kad pasakytumėte, kaip galėčiau pagerinti programą?",
+    "rate_the_app_message": "Jeigu jums patinka mano programėlė, galite man atsidėkoti skirdami laiko ir pažymėdami gerą pažymį :-)",
+    "app_rating_prompt_yes_option_text": "Taip, nukreipkite mane į programos puslapį",
+    "app_rating_prompt_later_option_text": "Gal vėliau, primink",
+    "app_rating_prompt_never_option_text": "Ne, ačiū, daugiau neklausk",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

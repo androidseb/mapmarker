@@ -453,5 +453,12 @@
     "nav_navigation_description": "Masukkan modus navigasi di aplikasi ini untuk mendapatkan arah ke penanda",
     "marker_direction": "Arah",
     "distance_to_x": "Jarak %1$s",
+    "import_marker_from_text_confirmation_message": "Apakah Anda ingin mencoba dan mengimpor penanda dari data teks berikut?",
+    "do_you_enjoy_the_app_question": "Apakah Anda menikmati aplikasi?",
+    "would_you_like_to_give_comments_on_how_to_improve": "Apakah Anda ingin mengirim saya sebuah email untuk memberi tahu saya bagaimana saya dapat meningkatkan aplikasi?",
+    "rate_the_app_message": "Jika Anda menyukai aplikasi saya, Anda dapat membalas saya dengan mengambil waktu untuk memberikan peringkat yang baik :-)",
+    "app_rating_prompt_yes_option_text": "Ya, bawa saya ke halaman aplikasi",
+    "app_rating_prompt_later_option_text": "Mungkin nanti, ingatkan aku",
+    "app_rating_prompt_never_option_text": "Tidak terima kasih, jangan tanya lagi",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

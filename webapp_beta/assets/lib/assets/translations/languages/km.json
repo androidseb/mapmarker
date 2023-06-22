@@ -453,5 +453,12 @@
     "nav_navigation_description": "បញ្ចូល​របៀប​រុករក​នៅ​ក្នុង​កម្មវិធី​នេះ​ដើម្បី​ទទួល​ទិសដៅ​ទៅ​កន្លែង​ចំណាំ",
     "marker_direction": "ទិសដៅ",
     "distance_to_x": "ចម្ងាយ​ទៅ %1$s",
+    "import_marker_from_text_confirmation_message": "តើអ្នកចង់សាកល្បង និងនាំចូលសញ្ញាសម្គាល់ពីទិន្នន័យអត្ថបទខាងក្រោមទេ?",
+    "do_you_enjoy_the_app_question": "តើអ្នកចូលចិត្តកម្មវិធីទេ?",
+    "would_you_like_to_give_comments_on_how_to_improve": "តើអ្នកចង់ផ្ញើ email មកខ្ញុំដើម្បីប្រាប់ខ្ញុំថាខ្ញុំអាចធ្វើឱ្យកម្មវិធីប្រសើរឡើងបានទេ?",
+    "rate_the_app_message": "ប្រសិន​បើ​អ្នក​ចូលចិត្ត​កម្មវិធី​របស់​ខ្ញុំ​អ្នក​អាច​ផ្ដល់​រង្វាន់​ដល់​ខ្ញុំ​ដោយ​ការ​ទទួល​យក​ពេល​វេលា​ដើម្បី​ផ្តល់​ចំណាត់​ថ្នាក់​ល្អ​មួយ :-)",
+    "app_rating_prompt_yes_option_text": "បាទ នាំខ្ញុំទៅទំព័រកម្មវិធី",
+    "app_rating_prompt_later_option_text": "ប្រហែលជាពេលក្រោយ សូមរំលឹកខ្ញុំ",
+    "app_rating_prompt_never_option_text": "ទេ អរគុណ កុំសួរម្តងទៀត",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -453,5 +453,12 @@
     "nav_navigation_description": "Adja navigációs mód ebben az app útvonaltervet a marker",
     "marker_direction": "Directions",
     "distance_to_x": "Távolság %1$s",
+    "import_marker_from_text_confirmation_message": "Megpróbál importálni egy markert a következő szöveges adatokból?",
+    "do_you_enjoy_the_app_question": "Élvezi az alkalmazást?",
+    "would_you_like_to_give_comments_on_how_to_improve": "Szeretne egy email-et küldeni nekem, hogy elmondjam, hogyan javíthatom az alkalmazást?",
+    "rate_the_app_message": "Ha tetszenek a app lehet jutalmazni engem, hogy időt, hogy egy jó minősítést :-)",
+    "app_rating_prompt_yes_option_text": "Igen, vigyen az alkalmazás oldalára",
+    "app_rating_prompt_later_option_text": "Talán később, emlékeztessen",
+    "app_rating_prompt_never_option_text": "Nem, köszönöm, ne kérdezz többet",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

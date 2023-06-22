@@ -453,5 +453,12 @@
     "nav_navigation_description": "Anna navigointitilassa tässä sovelluksen saada ajo merkki",
     "marker_direction": "Ohjeet",
     "distance_to_x": "Etäisyys %1$s",
+    "import_marker_from_text_confirmation_message": "Haluatko yrittää tuoda merkin seuraavista tekstitiedoista?",
+    "do_you_enjoy_the_app_question": "Pidätkö sovelluksesta?",
+    "would_you_like_to_give_comments_on_how_to_improve": "Haluatko lähettää minulle email kertoa minulle, miten voisin parantaa sovellusta?",
+    "rate_the_app_message": "Jos pidät minun app voit palkita minua ottamalla aika antaa hyvän arvosanan :-)",
+    "app_rating_prompt_yes_option_text": "Kyllä, vie minut sovellussivulle",
+    "app_rating_prompt_later_option_text": "Ehkä myöhemmin, muistuta minua",
+    "app_rating_prompt_never_option_text": "Ei kiitos, älä kysy uudestaan",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -453,5 +453,12 @@
     "nav_navigation_description": "ادخل إلى وضع الملاحة في هذا التطبيق للحصول على توجيهات الوصول إلى العلامة",
     "marker_direction": "الاتجاهات",
     "distance_to_x": "المسافة إلى %1$s",
+    "import_marker_from_text_confirmation_message": "هل تريد محاولة استيراد علامة من البيانات النصية التالية؟",
+    "do_you_enjoy_the_app_question": "هل تستمتع بالتطبيق؟",
+    "would_you_like_to_give_comments_on_how_to_improve": "هل تريد أن ترسل لي email لتخبرني كيف يمكنني تحسين التطبيق؟",
+    "rate_the_app_message": "إن اعجبك تطبيقي يمكنك مكافأتي عن طريق أخذ الوقت لإعطاء تقييم جيد :-)",
+    "app_rating_prompt_yes_option_text": "نعم ، خذني إلى صفحة التطبيق",
+    "app_rating_prompt_later_option_text": "ربما في وقت لاحق ، ذكرني",
+    "app_rating_prompt_never_option_text": "لا شكرا ، لا تسأل مرة أخرى",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

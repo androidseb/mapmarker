@@ -453,5 +453,12 @@
     "nav_navigation_description": "Unesite navigacijski mod u ovom aplikacijom dobiti upute za marker",
     "marker_direction": "Upute",
     "distance_to_x": "Udaljenost od %1$s",
+    "import_marker_from_text_confirmation_message": "Želite li pokušati uvesti oznaku iz sljedećih tekstualnih podataka?",
+    "do_you_enjoy_the_app_question": "Uživate li u aplikaciji?",
+    "would_you_like_to_give_comments_on_how_to_improve": "Želite li mi poslati email da biste mi rekli kako mogu poboljšati aplikaciju?",
+    "rate_the_app_message": "Ako vam se sviđa moj aplikaciju možete me nagraditi uzimanje vremena za dati dobar rejting :-)",
+    "app_rating_prompt_yes_option_text": "Da, odvedi me na stranicu aplikacije",
+    "app_rating_prompt_later_option_text": "Možda kasnije, podsjeti me",
+    "app_rating_prompt_never_option_text": "Ne hvala, ne pitaj više",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

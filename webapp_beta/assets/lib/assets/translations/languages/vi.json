@@ -453,5 +453,12 @@
     "nav_navigation_description": "Vào chế độ điều hướng trong ứng dụng này để nhận được hướng dẫn để đánh dấu",
     "marker_direction": "Chỉ Dẫn",
     "distance_to_x": "Khoảng cách đến %1$s",
+    "import_marker_from_text_confirmation_message": "Bạn có muốn thử và nhập một điểm đánh dấu từ dữ liệu văn bản sau không?",
+    "do_you_enjoy_the_app_question": "Bạn có thích ứng dụng này không?",
+    "would_you_like_to_give_comments_on_how_to_improve": "Bạn có muốn gửi cho tôi một email để cho tôi biết làm thế nào tôi có thể cải thiện ứng dụng không?",
+    "rate_the_app_message": "Nếu bạn thích ứng dụng của tôi, bạn có thể thưởng cho tôi bằng cách dành thời gian để đưa ra một đánh giá tốt :-)",
+    "app_rating_prompt_yes_option_text": "Vâng, đưa tôi đến trang ứng dụng",
+    "app_rating_prompt_later_option_text": "Có lẽ sau này, nhắc nhở tôi",
+    "app_rating_prompt_never_option_text": "Không, cảm ơn, đừng hỏi lại",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

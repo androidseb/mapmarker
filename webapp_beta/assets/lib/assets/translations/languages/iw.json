@@ -453,5 +453,12 @@
     "nav_navigation_description": "כניסה למצב ניווט ביישום זה כדי לקבל הוראות הגעה לסמן",
     "marker_direction": "כיוונים",
     "distance_to_x": "מרחק %1$s",
+    "import_marker_from_text_confirmation_message": "האם ברצונך לנסות ולייבא סמן מנתוני הטקסט הבאים?",
+    "do_you_enjoy_the_app_question": "האם אתה נהנה מהאפליקציה?",
+    "would_you_like_to_give_comments_on_how_to_improve": "האם אתה רוצה לשלוח לי email כדי לספר לי כיצד אוכל לשפר את האפליקציה?",
+    "rate_the_app_message": "אם אתה אוהב את היישום שלי אתה יכול לתגמל אותי על ידי לקחת את הזמן כדי לתת דירוג :-)",
+    "app_rating_prompt_yes_option_text": "כן, קח אותי לדף האפליקציה",
+    "app_rating_prompt_later_option_text": "אולי מאוחר יותר, תזכיר לי",
+    "app_rating_prompt_never_option_text": "לא תודה, אל תשאל שוב",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

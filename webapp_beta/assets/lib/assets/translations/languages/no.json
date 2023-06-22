@@ -453,5 +453,12 @@
     "nav_navigation_description": "Skriv inn navigeringsmodus i dette programmet for å få veibeskrivelse til markør",
     "marker_direction": "Retninger",
     "distance_to_x": "Avstand til %1$s",
+    "import_marker_from_text_confirmation_message": "Vil du prøve å importere en markør fra følgende tekstdata?",
+    "do_you_enjoy_the_app_question": "Liker du appen?",
+    "would_you_like_to_give_comments_on_how_to_improve": "Vil du sende meg en email for å fortelle meg hvordan jeg kunne forbedre appen?",
+    "rate_the_app_message": "Hvis du liker min app du kan belønne meg ved å ta seg tid til å gi en god vurdering :-)",
+    "app_rating_prompt_yes_option_text": "Ja, ta meg til app-siden",
+    "app_rating_prompt_later_option_text": "Kanskje senere, minn meg på",
+    "app_rating_prompt_never_option_text": "Nei takk, ikke spør igjen",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

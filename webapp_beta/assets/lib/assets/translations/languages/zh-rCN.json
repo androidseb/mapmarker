@@ -453,5 +453,12 @@
     "nav_navigation_description": "在此应用中进入导航模式以获取前往标记的路线",
     "marker_direction": "方向",
     "distance_to_x": "到 %1$s 的距离",
+    "import_marker_from_text_confirmation_message": "您想尝试从以下文本数据中导入标记吗？",
+    "do_you_enjoy_the_app_question": "您喜欢这个应用程序吗？",
+    "would_you_like_to_give_comments_on_how_to_improve": "您想给我发一封电子邮件，告诉我如何改进该应用程序吗？",
+    "rate_the_app_message": "如果您喜欢我的应用，可以花点时间给我一个好评来鼓励我:-)",
+    "app_rating_prompt_yes_option_text": "是的，带我到应用程序页面",
+    "app_rating_prompt_later_option_text": "也许以后再提醒我",
+    "app_rating_prompt_never_option_text": "不，谢谢，不要再问",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

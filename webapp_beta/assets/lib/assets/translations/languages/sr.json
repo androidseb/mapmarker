@@ -453,5 +453,12 @@
     "nav_navigation_description": "Унесите режим навигације у овој апликацији да се упутства на маркер",
     "marker_direction": "Надји",
     "distance_to_x": "Удаљеност до %1$s",
+    "import_marker_from_text_confirmation_message": "Да ли желите да покушате да увезете маркер из следећих текстуалних података?",
+    "do_you_enjoy_the_app_question": "Да ли уживате у апликацији?",
+    "would_you_like_to_give_comments_on_how_to_improve": "Желите ли да ми пошаљете поруку email да бисте ми рекли како да побољшам апликацију?",
+    "rate_the_app_message": "Ако вам се свиђа моја апликацију можете ме наградити по одвојили време да дам добар ратинг :-)",
+    "app_rating_prompt_yes_option_text": "Да, одведи ме на страницу апликације",
+    "app_rating_prompt_later_option_text": "Можда касније, подсети ме",
+    "app_rating_prompt_never_option_text": "Не, хвала, не питај поново",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

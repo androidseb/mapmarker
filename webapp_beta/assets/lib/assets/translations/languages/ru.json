@@ -453,5 +453,12 @@
     "nav_navigation_description": "Запустить режим навигации в этом приложении, чтобы построить маршрут",
     "marker_direction": "Направления",
     "distance_to_x": "Расстояние до %1$s",
+    "import_marker_from_text_confirmation_message": "Хотите попробовать импортировать маркер из следующих текстовых данных?",
+    "do_you_enjoy_the_app_question": "Вам нравится приложение?",
+    "would_you_like_to_give_comments_on_how_to_improve": "Не могли бы вы прислать мне email, чтобы рассказать, как я могу улучшить приложение?",
+    "rate_the_app_message": "Если вам нравится мое приложение, можете вознаградить меня хорошей оценкой :-)",
+    "app_rating_prompt_yes_option_text": "Да, перейти на страницу приложения",
+    "app_rating_prompt_later_option_text": "Может быть позже, напомни мне",
+    "app_rating_prompt_never_option_text": "Нет, спасибо, больше не спрашивай",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
