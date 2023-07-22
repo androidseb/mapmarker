@@ -453,5 +453,12 @@
     "nav_navigation_description": "Voer navigatiemodus in deze app om een routebeschrijving naar de marker te krijgen",
     "marker_direction": "Routebeschrijving",
     "distance_to_x": "Afstand tot %1$s",
+    "import_marker_from_text_confirmation_message": "Wilt u proberen een markering uit de volgende tekstgegevens te importeren?",
+    "do_you_enjoy_the_app_question": "Vind je de app leuk?",
+    "would_you_like_to_give_comments_on_how_to_improve": "Wil je me een email sturen om me te vertellen hoe ik de app kan verbeteren?",
+    "rate_the_app_message": "Als mijn app je bevalt kun je me belonen door een goede beoordeling te geven :-)",
+    "app_rating_prompt_yes_option_text": "Ja, breng me naar de app-pagina",
+    "app_rating_prompt_later_option_text": "Misschien later, herinner me eraan",
+    "app_rating_prompt_never_option_text": "Nee bedankt, vraag het niet nog een keer",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

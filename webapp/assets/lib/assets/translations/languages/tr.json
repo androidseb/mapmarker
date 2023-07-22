@@ -453,5 +453,12 @@
     "nav_navigation_description": "Işaretleyici tarifi almak için bu app navigasyon moduna girin",
     "marker_direction": "Yol",
     "distance_to_x": "Mesafe %1$s",
+    "import_marker_from_text_confirmation_message": "Aşağıdaki metin verilerinden bir işaretçi almayı denemek istiyor musunuz?",
+    "do_you_enjoy_the_app_question": "Uygulamayı seviyor musunuz?",
+    "would_you_like_to_give_comments_on_how_to_improve": "Uygulamayı nasıl geliştirebileceğimi söylemek için bana bir email göndermek ister misiniz?",
+    "rate_the_app_message": "Eğer benim app gibi Eğer iyi bir derece vermek için zaman ayırdığınız beni ödüllendirmek yapabilirsiniz :-)",
+    "app_rating_prompt_yes_option_text": "Evet, beni uygulama sayfasına götür",
+    "app_rating_prompt_later_option_text": "Belki sonra, bana hatırlat",
+    "app_rating_prompt_never_option_text": "Hayır teşekkürler, bir daha sorma",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

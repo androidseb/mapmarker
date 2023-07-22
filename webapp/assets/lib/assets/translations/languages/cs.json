@@ -453,5 +453,12 @@
     "nav_navigation_description": "Vstup do režimu navigace v této aplikaci se dostat trasu do značky",
     "marker_direction": "Instrukce",
     "distance_to_x": "Vzdálenost k %1$s",
+    "import_marker_from_text_confirmation_message": "Chcete zkusit importovat značku z následujících textových dat?",
+    "do_you_enjoy_the_app_question": "Máte rádi aplikaci?",
+    "would_you_like_to_give_comments_on_how_to_improve": "Chtěli byste mi poslat email aby mi řekli, jak mohu zlepšit aplikaci?",
+    "rate_the_app_message": "Pokud se vám líbí moje aplikace, můžete mi odměnit tím, že je na čase, aby dobrý rating :-)",
+    "app_rating_prompt_yes_option_text": "Ano, přejít na stránku aplikace",
+    "app_rating_prompt_later_option_text": "Možná později, připomeňte mi to",
+    "app_rating_prompt_never_option_text": "Ne, děkuji, už se neptejte",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

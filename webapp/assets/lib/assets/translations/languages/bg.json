@@ -453,5 +453,12 @@
     "nav_navigation_description": "Въведете навигационен режим в това приложение, за да получите указания на маркера",
     "marker_direction": "Инструкции",
     "distance_to_x": "Разстояние до %1$s",
+    "import_marker_from_text_confirmation_message": "Искате ли да опитате да импортирате маркер от следните текстови данни?",
+    "do_you_enjoy_the_app_question": "Обичате ли приложението?",
+    "would_you_like_to_give_comments_on_how_to_improve": "Искате ли да ми изпратите email, за да ми кажете как да подобря приложението?",
+    "rate_the_app_message": "Ако ви харесва моята ап можете да ме възнагради с отделихте време да се даде добър рейтинг :-)",
+    "app_rating_prompt_yes_option_text": "Да, отведе ме до страницата на приложението",
+    "app_rating_prompt_later_option_text": "Може би по-късно, напомни ми",
+    "app_rating_prompt_never_option_text": "Не благодаря, не питай отново",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

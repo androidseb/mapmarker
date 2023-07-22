@@ -453,5 +453,12 @@
     "nav_navigation_description": "마커에 방향을 얻을이 응용 프로그램의 탐색 모드를 입력",
     "marker_direction": "오시는 길",
     "distance_to_x": "까지의 거리 %1$s",
+    "import_marker_from_text_confirmation_message": "다음 텍스트 데이터에서 마커를 가져오시겠습니까?",
+    "do_you_enjoy_the_app_question": "이 앱을 즐기십니까?",
+    "would_you_like_to_give_comments_on_how_to_improve": "앱을 개선 할 수있는 방법을 알려주기 위해 email을 보내시겠습니까?",
+    "rate_the_app_message": "당신이 내 응용 프로그램을 좋아하는 경우에 당신은 좋은 평가를 제공하기 위해 시간을내어 나를 보답 :-)",
+    "app_rating_prompt_yes_option_text": "예, 앱 페이지로 이동합니다.",
+    "app_rating_prompt_later_option_text": "나중에, 상기시켜줘",
+    "app_rating_prompt_never_option_text": "아니요, 다시 묻지 마세요.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

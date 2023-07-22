@@ -453,5 +453,12 @@
     "nav_navigation_description": "Вхід в режим навігації в цей додаток, щоб отримати направлення до маркера",
     "marker_direction": "Напрямки",
     "distance_to_x": "Відстань до %1$s",
+    "import_marker_from_text_confirmation_message": "Бажаєте спробувати імпортувати маркер із наведених нижче текстових даних?",
+    "do_you_enjoy_the_app_question": "Вам подобається програма?",
+    "would_you_like_to_give_comments_on_how_to_improve": "Хочете надіслати мені email, щоб повідомити мені, як я можу покращити програму?",
+    "rate_the_app_message": "Якщо вам подобається мій додаток, ви можете винагородити мене, знайшовши час дати хорошу оцінку :-)",
+    "app_rating_prompt_yes_option_text": "Так, перейти на сторінку програми",
+    "app_rating_prompt_later_option_text": "Може пізніше, нагадай",
+    "app_rating_prompt_never_option_text": "Ні, дякую, більше не питай",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

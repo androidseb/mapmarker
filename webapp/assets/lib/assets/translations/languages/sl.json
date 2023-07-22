@@ -453,5 +453,12 @@
     "nav_navigation_description": "V to aplikacijo vnesite navigacijski način, da dobite navodila za označevanje",
     "marker_direction": "Navodila",
     "distance_to_x": "Oddaljenost od %1$s",
+    "import_marker_from_text_confirmation_message": "Ali želite poskusiti uvoziti oznako iz naslednjih besedilnih podatkov?",
+    "do_you_enjoy_the_app_question": "Ali vam je aplikacija všeč?",
+    "would_you_like_to_give_comments_on_how_to_improve": "Ali bi mi radi poslali email in mi sporočilo, kako lahko še izboljšam aplikacijo?",
+    "rate_the_app_message": "Če vam je všeč moja aplikacija, mi lahko nagradite tako, da vzamete čas, da dobite dobro oceno :-)",
+    "app_rating_prompt_yes_option_text": "Da, odpelji me na stran aplikacije",
+    "app_rating_prompt_later_option_text": "Mogoče kasneje, spomni me",
+    "app_rating_prompt_never_option_text": "Ne, hvala, ne sprašuj več",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

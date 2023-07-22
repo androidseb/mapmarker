@@ -453,5 +453,12 @@
     "nav_navigation_description": "Ievadiet navigācijas režīmu šajā app, lai saņemtu norādes uz marķieri",
     "marker_direction": "Virzieni",
     "distance_to_x": "Attālums līdz %1$s",
+    "import_marker_from_text_confirmation_message": "Vai vēlaties mēģināt importēt marķieri no tālāk norādītajiem teksta datiem?",
+    "do_you_enjoy_the_app_question": "Vai jums patīk lietotne?",
+    "would_you_like_to_give_comments_on_how_to_improve": "Vai vēlaties nosūtīt man email, lai pastāstītu, kā es varētu uzlabot lietotni?",
+    "rate_the_app_message": "Ja jums patīk mans app jūs varat atalgot mani, ņemot vērā laiku, lai dotu labu novērtējumu :-)",
+    "app_rating_prompt_yes_option_text": "Jā, novirziet mani uz lietotnes lapu",
+    "app_rating_prompt_later_option_text": "Varbūt vēlāk atgādini man",
+    "app_rating_prompt_never_option_text": "Nē, paldies, vairs nejautājiet",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

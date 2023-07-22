@@ -453,5 +453,12 @@
     "nav_navigation_description": "マーカーへの道順を取得するには、このアプリでナビゲーションモードを入力してください。",
     "marker_direction": "方向",
     "distance_to_x": "%1$s までの距離",
+    "import_marker_from_text_confirmation_message": "以下のテキストデータからマーカーをインポートしてみますか?",
+    "do_you_enjoy_the_app_question": "あなたはアプリを楽しんでいますか？",
+    "would_you_like_to_give_comments_on_how_to_improve": "アプリを改善する方法を教えていただくために、emailを送っていただけませんか?",
+    "rate_the_app_message": "アプリを気に入ったならば、良い評価を与えることに時間を取ってほしいです。私に報いることができます:-)",
+    "app_rating_prompt_yes_option_text": "はい、アプリのページに移動します",
+    "app_rating_prompt_later_option_text": "たぶん後で思い出してください",
+    "app_rating_prompt_never_option_text": "いいえ、もう質問しないでください",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

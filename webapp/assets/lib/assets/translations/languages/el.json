@@ -453,5 +453,12 @@
     "nav_navigation_description": "Εισάγετε τη λειτουργία πλοήγησης σε αυτό το app για να πάρει οδηγίες για το δείκτη",
     "marker_direction": "Οδηγίες",
     "distance_to_x": "Απόσταση %1$s",
+    "import_marker_from_text_confirmation_message": "Θέλετε να δοκιμάσετε να εισαγάγετε έναν δείκτη από τα ακόλουθα δεδομένα κειμένου;",
+    "do_you_enjoy_the_app_question": "Απολαμβάνετε την εφαρμογή;",
+    "would_you_like_to_give_comments_on_how_to_improve": "Θα θέλατε να μου στείλετε ένα email για να μου πείτε πώς θα μπορούσα να βελτιώσω την εφαρμογή;",
+    "rate_the_app_message": "Αν σας αρέσει το app μου, μπορείτε να μου ανταμείψει με τη λήψη του χρόνου για να δώσει μια καλή πιστοληπτική :-)",
+    "app_rating_prompt_yes_option_text": "Ναι, μεταβείτε στη σελίδα της εφαρμογής",
+    "app_rating_prompt_later_option_text": "Ίσως αργότερα, θύμισέ μου",
+    "app_rating_prompt_never_option_text": "Όχι, ευχαριστώ, μην ξαναρωτήσεις",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

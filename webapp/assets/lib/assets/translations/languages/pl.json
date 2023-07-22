@@ -453,5 +453,12 @@
     "nav_navigation_description": "Wejdź w tryb nawigacji w tej aplikacji, aby uzyskać wskazówki do znacznika",
     "marker_direction": "Wskazówki",
     "distance_to_x": "Odległość do %1$s",
+    "import_marker_from_text_confirmation_message": "Czy chcesz spróbować zaimportować znacznik z następujących danych tekstowych?",
+    "do_you_enjoy_the_app_question": "Czy lubisz tę aplikację?",
+    "would_you_like_to_give_comments_on_how_to_improve": "Czy chcesz wysłać mi email, aby mi powiedzieć, jak mogę ulepszyć aplikację?",
+    "rate_the_app_message": "Jeśli podoba Ci się moja aplikacja możesz nagrodzić mnie za poświęcenie czasu, aby dać dobrą Ocenę :-)",
+    "app_rating_prompt_yes_option_text": "Tak, przenieś mnie na stronę aplikacji",
+    "app_rating_prompt_later_option_text": "Może później, przypomnij mi",
+    "app_rating_prompt_never_option_text": "Nie, dziękuję, nie pytaj ponownie",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

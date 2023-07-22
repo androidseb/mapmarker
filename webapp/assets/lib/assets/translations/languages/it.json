@@ -453,5 +453,12 @@
     "nav_navigation_description": "Accedere alla modalità di navigazione in questa applicazione per ottenere le indicazioni per il marcatore",
     "marker_direction": "Indicazioni",
     "distance_to_x": "Distanza al %1$s",
+    "import_marker_from_text_confirmation_message": "Vuoi provare a importare un marcatore dai seguenti dati di testo?",
+    "do_you_enjoy_the_app_question": "Ti piace l'app?",
+    "would_you_like_to_give_comments_on_how_to_improve": "Ti piacerebbe mandarmi un email per dirmi come potrei migliorare l'app?",
+    "rate_the_app_message": "Se ti piace la mia app che mi può premiare prendendo il tempo di dare un buon rating :-)",
+    "app_rating_prompt_yes_option_text": "Sì, portami alla pagina dell'app",
+    "app_rating_prompt_later_option_text": "Magari più tardi, ricordamelo",
+    "app_rating_prompt_never_option_text": "No grazie, non chiedere più",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

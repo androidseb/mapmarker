@@ -453,5 +453,12 @@
     "nav_navigation_description": "在此應用中進入導航模式以獲取前往標記的路線",
     "marker_direction": "路徑",
     "distance_to_x": "距離%1$s",
+    "import_marker_from_text_confirmation_message": "您想嘗試從以下文本數據中導入標記嗎？",
+    "do_you_enjoy_the_app_question": "你喜歡這款應用嗎？",
+    "would_you_like_to_give_comments_on_how_to_improve": "你想給我發一個email來告訴我如何改進應用程序嗎？",
+    "rate_the_app_message": "如果您喜歡我的應用程式，您可以花費一點時間給予好評:-)",
+    "app_rating_prompt_yes_option_text": "是的，帶我到應用程序頁面",
+    "app_rating_prompt_later_option_text": "也許以後再提醒我",
+    "app_rating_prompt_never_option_text": "不，謝謝，不要再問",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

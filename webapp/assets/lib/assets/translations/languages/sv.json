@@ -453,5 +453,12 @@
     "nav_navigation_description": "Starta navigeringsläget i denna app för att få en vägbeskrivning till markören",
     "marker_direction": "Avstånd",
     "distance_to_x": "Avstånd till %1$s",
+    "import_marker_from_text_confirmation_message": "Vill du försöka importera en markör från följande textdata?",
+    "do_you_enjoy_the_app_question": "Gillar du appen?",
+    "would_you_like_to_give_comments_on_how_to_improve": "Vill du skicka mig en email för att berätta för mig hur jag kan förbättra appen?",
+    "rate_the_app_message": "Om du gillar min app kan du belöna mig genom att ge den ett bra betyg.  :-)",
+    "app_rating_prompt_yes_option_text": "Ja, ta mig till appsidan",
+    "app_rating_prompt_later_option_text": "Kanske senare, påminn mig",
+    "app_rating_prompt_never_option_text": "Nej tack, fråga inte igen",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
