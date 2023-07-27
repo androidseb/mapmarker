@@ -436,7 +436,6 @@
     "marker_as_file_description2": "Експортуйте вибраний маркер як файл",
     "export_as_file": "Експортувати як файл",
     "sucessfully_saved_to_device_files": "Успішно збережено у файли пристрою",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "У хмарі не знайдено папки карт. Якщо ви шукаєте старі хмарні карти, створені за допомогою старої версії Map Marker (V2), спробуйте натомість опцію «Відкрити та перенести хмарну карту V2».",
     "file_export_intention_question": "Як ви хочете використовувати експортований файл?",
     "folders_added_x": "Додано папок: %s",
     "folders_modified_x": "Змінено папок: %s",

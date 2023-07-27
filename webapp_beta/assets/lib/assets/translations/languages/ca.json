@@ -436,7 +436,6 @@
     "marker_as_file_description2": "Exporteu el marcador seleccionat com a fitxer",
     "export_as_file": "Exporta com a fitxer",
     "sucessfully_saved_to_device_files": "S'ha desat correctament als fitxers del dispositiu",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "No s'ha trobat cap carpeta de mapes al núvol: si busqueu mapes de núvol antics creats amb la versió antiga de Map Marker (V2), proveu l'opció \"Obre i migra un mapa de núvols V2\".",
     "file_export_intention_question": "Com voleu utilitzar el fitxer exportat?",
     "folders_added_x": "Carpetes afegides: %s",
     "folders_modified_x": "Carpetes modificades: %s",

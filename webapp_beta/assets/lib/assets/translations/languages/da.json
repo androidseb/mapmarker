@@ -436,7 +436,6 @@
     "marker_as_file_description2": "Eksporter den valgte markør som en fil",
     "export_as_file": "Eksporter som fil",
     "sucessfully_saved_to_device_files": "Gemt i enhedsfiler",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Der blev ikke fundet nogen kortmappe på skyen - hvis du leder efter gamle skykort, der er oprettet med den gamle version af Map Marker (V2), så prøv i stedet muligheden 'Åbn og migrér et V2-skykort'.",
     "file_export_intention_question": "Hvordan vil du bruge den eksporterede fil?",
     "folders_added_x": "Tilføjede mapper: %s",
     "folders_modified_x": "Mapper ændret: %s",

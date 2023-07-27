@@ -436,7 +436,6 @@
     "marker_as_file_description2": "Seçili işaretçiyi dosya olarak dışa aktar",
     "export_as_file": "dosya olarak dışa aktar",
     "sucessfully_saved_to_device_files": "Cihaz dosyalarına başarıyla kaydedildi",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Bulutta harita klasörü bulunamadı - Map Marker'nin (V2) eski sürümüyle oluşturulmuş eski bulut haritalarını arıyorsanız, bunun yerine 'Bir V2 bulut haritasını aç ve taşı' seçeneğini deneyin.",
     "file_export_intention_question": "Dışa aktarılan dosyayı nasıl kullanmak istersiniz?",
     "folders_added_x": "Eklenen klasörler: %s",
     "folders_modified_x": "Değiştirilen klasörler: %s",

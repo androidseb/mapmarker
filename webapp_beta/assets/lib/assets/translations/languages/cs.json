@@ -436,7 +436,6 @@
     "marker_as_file_description2": "Exportujte vybranou značku jako soubor",
     "export_as_file": "Exportovat jako soubor",
     "sucessfully_saved_to_device_files": "Úspěšně uloženo do souborů zařízení",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "V cloudu nebyla nalezena žádná složka map – pokud hledáte staré cloudové mapy vytvořené pomocí staré verze Map Marker (V2), zkuste místo toho možnost „Otevřít a migrovat cloudovou mapu V2“.",
     "file_export_intention_question": "Jak chcete použít exportovaný soubor?",
     "folders_added_x": "Přidané složky: %s",
     "folders_modified_x": "Upravené složky: %s",

@@ -436,7 +436,6 @@
     "marker_as_file_description2": "Exporter le marqueur sélectionné en fichier",
     "export_as_file": "Exporter en fichier",
     "sucessfully_saved_to_device_files": "Sauvegarde réussie vers les fichiers de l'appareil",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Aucun dossier de carte trouvé sur le cloud - si vous recherchez d'anciennes versions de carte cloud créées avec l'ancienne version de Map Marker (V2), essayez l'option 'Ouvrir et migrer une carte cloud V2' à la place.",
     "file_export_intention_question": "Comment voulez-vous utiliser le fichier exporté ?",
     "folders_added_x": "Dossiers ajoutés: %s",
     "folders_modified_x": "Dossiers modifiés: %s",

@@ -436,7 +436,6 @@
     "marker_as_file_description2": "Экспортировать выбранный маркер в виде файла",
     "export_as_file": "Экспортировать как файл",
     "sucessfully_saved_to_device_files": "Успешно сохранено в файлы устройства",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "В облаке не найдена папка с картой. Если вы ищете старые облачные карты, созданные в старой версии Map Marker (V2), попробуйте вариант «Открыть и перенести облачную карту V2».",
     "file_export_intention_question": "Как вы хотите использовать экспортированный файл?",
     "folders_added_x": "Добавлено папок: %s",
     "folders_modified_x": "Папки изменены: %s",

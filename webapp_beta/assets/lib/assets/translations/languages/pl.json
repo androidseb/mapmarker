@@ -436,7 +436,6 @@
     "marker_as_file_description2": "Eksportuj wybrany znacznik jako plik",
     "export_as_file": "Eksportuj jako plik",
     "sucessfully_saved_to_device_files": "Pomyślnie zapisano w plikach urządzenia",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Nie znaleziono folderu map w chmurze — jeśli szukasz starych map w chmurze utworzonych za pomocą starej wersji Map Marker (V2), zamiast tego wypróbuj opcję „Otwórz i przeprowadź migrację mapy w chmurze w wersji 2”.",
     "file_export_intention_question": "Jak chcesz użyć wyeksportowanego pliku?",
     "folders_added_x": "Dodane foldery: %s",
     "folders_modified_x": "Zmodyfikowane foldery: %s",
