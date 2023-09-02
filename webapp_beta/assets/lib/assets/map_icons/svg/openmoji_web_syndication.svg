@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.48)">
+  
+  <g
+     id="line"
+     transform="translate(-11,-11)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 59.0349,60 h -46.07 C 12.7092,59.9992 12.4642,59.8973 12.2834,59.7164 12.1026,59.5356 12.0007,59.2906 12,59.0349 v -46.07 c 8e-4,-0.2557 0.1027,-0.5007 0.2836,-0.6815 0.1808,-0.1808 0.4258,-0.2827 0.6815,-0.2834 h 46.07 c 0.2557,8e-4 0.5007,0.1027 0.6815,0.2836 0.1808,0.1808 0.2827,0.4258 0.2834,0.6815 v 46.07 c -8e-4,0.2557 -0.1027,0.5007 -0.2836,0.6815 -0.1808,0.1808 -0.4258,0.2827 -0.6815,0.2834 z"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 29,47.5 C 29,49.9853 26.9853,52 24.5,52 22.0147,52 20,49.9853 20,47.5 20,45.0147 22.0147,43 24.5,43 c 2.4853,0 4.5,2.0147 4.5,4.5 z"
+       id="path4" />
+    <path
+       fill="none"
+       fill-rule="evenodd"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 41,52 C 41,40.402 31.598,31 20,31 v 6 c 8.2843,0 15,6.7157 15,15 z"
+       clip-rule="evenodd"
+       id="path6" />
+    <path
+       fill="none"
+       fill-rule="evenodd"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 52,52 C 52,34.3269 37.6731,20 20,20 v 6.0012 c 14.1062,0.1342 25.5,11.6109 25.5,25.7488 0,0.0834 -4e-4,0.1668 -0.0012,0.25 z"
+       clip-rule="evenodd"
+       id="path8" />
+  </g>
+</g></svg>

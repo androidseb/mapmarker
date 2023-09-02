@@ -459,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "是的，帶我到應用程序頁面",
     "app_rating_prompt_later_option_text": "也許以後再提醒我",
     "app_rating_prompt_never_option_text": "不，謝謝，不要再問",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

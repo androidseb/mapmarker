@@ -459,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "Да, отведе ме до страницата на приложението",
     "app_rating_prompt_later_option_text": "Може би по-късно, напомни ми",
     "app_rating_prompt_never_option_text": "Не благодаря, не питай отново",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

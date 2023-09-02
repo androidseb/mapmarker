@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.000047519811820606606 0.0) scale(0.4799980992075272)">
+  
+  <g
+     id="line"
+     transform="translate(-11,-10.3331)">
+    <g
+       id="NG_Button">
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width="2"
+         d="m 59.0349,59.3333 h -46.07 A 0.9679,0.9679 0 0 1 12,58.3682 v -46.07 a 0.9679,0.9679 0 0 1 0.9651,-0.9651 h 46.07 A 0.9679,0.9679 0 0 1 60,12.2984 v 46.07 a 0.9679,0.9679 0 0 1 -0.9651,0.9649 z"
+         id="path2" />
+      <polyline
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         points="22 42.833 22 27.833 32.714 42.833 32.714 27.833"
+         id="polyline4" />
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         d="m 50.1964,29.1816 a 5.3366,5.3366 0 0 0 -3.5535,-1.3483 v 0 a 5.3572,5.3572 0 0 0 -5.3572,5.3572 v 4.2857 a 5.3572,5.3572 0 0 0 5.3572,5.3571 v 0 A 5.3572,5.3572 0 0 0 52,37.4762 v -2.1709 h -4.2857"
+         id="path6" />
+    </g>
+  </g>
+</g></svg>

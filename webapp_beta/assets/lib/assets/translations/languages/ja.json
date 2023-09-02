@@ -459,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "はい、アプリのページに移動します",
     "app_rating_prompt_later_option_text": "たぶん後で思い出してください",
     "app_rating_prompt_never_option_text": "いいえ、もう質問しないでください",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -459,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "예, 앱 페이지로 이동합니다.",
     "app_rating_prompt_later_option_text": "나중에, 상기시켜줘",
     "app_rating_prompt_never_option_text": "아니요, 다시 묻지 마세요.",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

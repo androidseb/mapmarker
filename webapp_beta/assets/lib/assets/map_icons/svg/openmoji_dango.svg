@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 0.00025706710065698246) scale(0.4200442821183316)">
+  
+  <g
+     id="line"
+     transform="translate(-11.005767,-10.86439)">
+    <ellipse
+       cx="36.1418"
+       cy="35.9995"
+       rx="10"
+       ry="9.9996004"
+       transform="matrix(0.7071,-0.7071,0.7071,0.7071,-14.8698,36.0984)"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse2" />
+    <ellipse
+       cx="21.999701"
+       cy="21.8575"
+       rx="9.9997997"
+       ry="10.0003"
+       transform="matrix(0.7071,-0.7071,0.7071,0.7071,-9.012,21.9586)"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse4" />
+    <circle
+       cx="50.284199"
+       cy="50.141602"
+       transform="matrix(0.7071,-0.7071,0.7071,0.7071,-20.7276,50.2424)"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse6"
+       r="10.0003" />
+    <line
+       x1="60.142601"
+       x2="67.142601"
+       y1="60"
+       y2="67"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line8" />
+  </g>
+</g></svg>

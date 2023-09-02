@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 3.402904153846155) scale(0.46153846153846156)">
+  
+  <g
+     id="line"
+     transform="translate(-9,-18.301248)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 12,54.5 c 1.7419,-2.0295 4.3382,-4.4262 7,-4 2.888,0.4624 3.3025,3.4841 6,4 3.091,0.5912 4.9469,-3.523 9,-4 3.6107,-0.4249 4.0565,2.411 6.6667,3.5456 1.0297,0.4476 1.9472,0.4525 2.3333,0.4544 3.6617,0.0176 4.9951,-3.5954 8,-4 1.3292,-0.179 3.3015,0.2273 6,3"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 41.687,44.0801 C 50.7229,46.1438 56.7475,48.5 60,48.5"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 10,49 c 3.572,-0.3572 9.7488,-8.8785 22.8233,-6.6994 0.3311,0.0552 0.6606,0.1119 0.9885,0.17"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 52.2263,33.4883 C 53.3772,26.9616 48.7987,20.6988 42,19.5 35.2013,18.3012 28.757,22.6204 27.6061,29.1471 Z"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 44.8403,32.1859 C 45.9911,25.6592 44.7195,19.9795 42,19.5 39.2805,19.0205 36.143,23.9227 34.9922,30.4495 Z"
+       id="path10" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="39.9162,31.3177 39.9162,31.3177 37.3115,46.0898 "
+       id="polygon12" />
+  </g>
+</g></svg>

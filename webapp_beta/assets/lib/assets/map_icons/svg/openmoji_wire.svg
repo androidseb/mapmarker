@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 9.692307692307692) scale(0.46153846153846156)">
+  
+  <g
+     id="line"
+     transform="translate(-10,-31)">
+    <rect
+       x="16"
+       y="32"
+       width="40"
+       height="8"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect2" />
+    <line
+       x1="16"
+       x2="11"
+       y1="36"
+       y2="36"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line4" />
+    <line
+       x1="61"
+       x2="56"
+       y1="36"
+       y2="36"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line6" />
+  </g>
+</g></svg>

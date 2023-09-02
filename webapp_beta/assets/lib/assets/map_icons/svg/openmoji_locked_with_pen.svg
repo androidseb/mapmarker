@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 3.001963343136623) scale(0.453873463936179)">
+  
+  <g
+     id="line"
+     transform="translate(-9.561,-13.294023)">
+    <g
+       id="_1F50F-2">
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-linejoin="round"
+         stroke-width="2"
+         d="m 13.6972,34.3068 c 0,-7.5322 2.9241,-15.2583 10.1189,-15.2583 6.899,0 10.2745,6.0553 10.5858,15.2583"
+         id="path2" />
+      <polyline
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         points="37.48 50.39 37.48 51.944 10.561 51.944 10.561 34.3 11.907 34.3 36.134 34.3 37.48 34.3"
+         id="polyline4" />
+      <polyline
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         points="41.799 44.313 40.113 46.606 34.701 47.873 34.106 42.825 35.863 40.522"
+         id="polyline6" />
+      <line
+         x1="37.088402"
+         x2="35.402302"
+         y1="44.702099"
+         y2="46.994999"
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="line8" />
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         d="m 61.4392,17.0306 -2.1873,-1.3506 -2.16,-1.386 c 0,0 -7.1483,5.7268 -11.3965,11.7417 a 109.0153,109.0153 0 0 0 -7.9309,12.4935 l 2.8285,1.78 2.6586,1.6735 a 138.8534,138.8534 0 0 0 10.09,-11.1344 63.4177,63.4177 0 0 0 8.0976,-13.8177 z"
+         id="path10" />
+      <line
+         x1="43.208302"
+         x2="50.613201"
+         y1="29.643299"
+         y2="34.301399"
+         fill="none"
+         stroke="#000"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="line12" />
+    </g>
+  </g>
+</g></svg>

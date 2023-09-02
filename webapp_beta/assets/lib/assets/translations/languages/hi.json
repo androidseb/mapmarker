@@ -459,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "हां, मुझे ऐप पेज पर ले जाएं",
     "app_rating_prompt_later_option_text": "शायद बाद में, मुझे याद दिलाएँ",
     "app_rating_prompt_never_option_text": "नहीं धन्यवाद, दोबारा मत पूछो",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

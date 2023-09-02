@@ -459,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "Evet, beni uygulama sayfasına götür",
     "app_rating_prompt_later_option_text": "Belki sonra, bana hatırlat",
     "app_rating_prompt_never_option_text": "Hayır teşekkürler, bir daha sorma",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 0.8997042743130024) scale(0.5497526365105662)">
+  
+  <g
+     id="line"
+     transform="translate(-13.5,-15.000126)">
+    <g
+       id="g14">
+      <g
+         id="g6">
+        <polyline
+           fill="none"
+           stroke="#000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           points="14.5 27.5 27.156 39 27.156 30.567 43.5 30.567"
+           id="polyline2" />
+        <polyline
+           fill="none"
+           stroke="#000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           points="27.156 24.433 27.156 16 14.5 27.5"
+           id="polyline4" />
+      </g>
+      <g
+         id="g12">
+        <polyline
+           fill="none"
+           stroke="#000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           points="43.5 30.567 43.5 39 56.156 27.5"
+           id="polyline8" />
+        <polyline
+           fill="none"
+           stroke="#000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           points="56.156 27.5 43.5 16 43.5 24.433 27.156 24.433"
+           id="polyline10" />
+      </g>
+    </g>
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="33.392 54.383 33.392 44.383 40.534 54.383 40.534 44.383"
+       id="polyline16" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 26.9631,54.3449 v 0 a 3.5715,3.5715 0 0 1 -3.5715,-3.5714 v -2.8572 a 3.5715,3.5715 0 0 1 3.5715,-3.5714 v 0 a 3.5714,3.5714 0 0 1 3.5714,3.5714 v 2.8572 a 3.5714,3.5714 0 0 1 -3.5714,3.5714 z"
+       id="path18" />
+    <g
+       id="g24">
+      <line
+         x1="46.328701"
+         x2="46.328701"
+         y1="44"
+         y2="49.9291"
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="line20" />
+      <circle
+         cx="46.328701"
+         cy="53.598701"
+         r="1.3712"
+         id="circle22" />
+    </g>
+  </g>
+</g></svg>

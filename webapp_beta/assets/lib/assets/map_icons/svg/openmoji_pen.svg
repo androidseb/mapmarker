@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.27551631341663807 0.0) scale(0.4885972298206443)">
+  
+  <g
+     id="line"
+     transform="translate(-13.465,-12.226787)">
+    <line
+       x1="16.887501"
+       x2="14.465"
+       y1="57.9244"
+       y2="60.347"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line2" />
+    <line
+       x1="47.9151"
+       x2="57.5658"
+       y1="17.152599"
+       y2="26.8034"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 44.7513,14.022 v 0 C 43.5949,12.8657 41.608,12.9779 40.3132,14.2727 L 27.8096,26.7763"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 18.033,59.0699 c 7.3107,-1.7183 14.4552,-7.1937 18.0334,-10.0996 5.2841,-4.2911 15.6814,-15.0196 22.0242,-21.6934 2.9813,-3.137 3.1752,-7.8102 0.4421,-10.5434 l -10e-5,-10e-5 -0.4873,-0.4872 -10e-5,-1e-4 C 55.312,13.5129 50.6389,13.7067 47.5018,16.6881 40.828,23.0309 30.0995,33.4282 25.8084,38.7124 22.9026,42.2905 17.4271,49.4349 15.7088,56.7457 l 2.3242,2.3242"
+       id="path8" />
+    <line
+       x1="24.7862"
+       x2="18.787901"
+       y1="56.059502"
+       y2="50.061001"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="1.9613"
+       id="line10" />
+  </g>
+</g></svg>

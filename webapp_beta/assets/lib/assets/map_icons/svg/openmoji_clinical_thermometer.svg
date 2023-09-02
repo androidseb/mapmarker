@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 0.5024076318840773) scale(0.7598249160773379)">
+  
+  <g
+     id="line"
+     transform="translate(-19.528235,-22.170423)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 48.8521,24.6873 v 0 A 4.7576,4.7576 0 0 0 42.1287,24.4328 L 26.1505,39.2452 c -1.336,1.2384 -1.5632,4.9386 -1.7681,5.1272 l -3.1005,2.8552 a 2.3555,2.3555 0 0 0 -0.1371,3.3284 l 0.1148,0.1246 a 2.3555,2.3555 0 0 0 3.3283,0.1371 l 3.1005,-2.8552 c 0.2642,-0.2432 3.7053,-0.6033 4.9309,-1.7394 L 48.5976,31.4105 a 4.7574,4.7574 0 0 0 0.2545,-6.7232 z"
+       id="path2" />
+    <line
+       x1="23.4629"
+       x2="46.252998"
+       y1="48.575298"
+       y2="27.4172"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line4" />
+    <rect
+       x="27.9053"
+       y="37.731998"
+       rx="0.52340001"
+       width="2.8931999"
+       height="1.5706"
+       transform="rotate(45,29.351926,38.517266)"
+       id="rect6" />
+    <rect
+       x="31.086201"
+       y="34.330799"
+       rx="0.52340001"
+       width="2.1257999"
+       height="1.5706"
+       transform="rotate(45,32.149132,35.116107)"
+       id="rect8" />
+    <rect
+       x="33.602501"
+       y="32.2029"
+       rx="0.52340001"
+       width="3.3898001"
+       height="1.5706"
+       transform="rotate(45,35.297412,32.988267)"
+       id="rect10" />
+    <rect
+       x="36.8144"
+       y="29.0347"
+       rx="0.52340001"
+       width="2.7857001"
+       height="1.5706"
+       transform="rotate(45,38.20723,29.820053)"
+       id="rect12" />
+    <rect
+       x="39.726799"
+       y="26.248899"
+       rx="0.52340001"
+       width="2.7857001"
+       height="1.5706"
+       transform="rotate(45,41.119745,27.034256)"
+       id="rect14" />
+  </g>
+</g></svg>

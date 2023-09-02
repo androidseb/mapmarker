@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 0.45201305084676413) scale(0.4608810944251458)">
+  
+  <g
+     id="line-supplement"
+     transform="matrix(1.165,0,0,1.165,-15.833012,-16.304)">
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="47.58,52.3 50.12,56 54.5,56 57.29,49.9 53.38,56 52.11,48.61 51.44,56 "
+       id="polygon2" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="24.31,52.32 21.76,56.01 17.38,56.01 14.59,49.91 18.51,56.01 19.77,48.62 20.44,56.01 "
+       id="polygon4" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-9.9650122,-10.945)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.33"
+       d="M 16.79,47.51 V 31.32 A 19.21,19.21 0 0 1 36,12.11 v 0 a 19.21,19.21 0 0 1 19.21,19.21 v 16.19"
+       id="path7" />
+    <line
+       x1="25.99"
+       x2="46.009998"
+       y1="30.35"
+       y2="30.35"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.33"
+       id="line9" />
+    <line
+       x1="25.99"
+       x2="46.009998"
+       y1="35.57"
+       y2="35.57"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.33"
+       id="line11" />
+    <line
+       x1="30.75"
+       x2="41.25"
+       y1="44.389999"
+       y2="44.389999"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.33"
+       id="line13" />
+  </g>
+</g></svg>

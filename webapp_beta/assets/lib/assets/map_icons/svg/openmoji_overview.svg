@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 2.6400000000000006) scale(0.48)">
+  
+  <g
+     id="line"
+     transform="translate(-11,-17)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 59,25 H 25 c -0.5523,0 -1,-0.4477 -1,-1 v -5 c 0,-0.5523 0.4477,-1 1,-1 h 34 c 0.5523,0 1,0.4477 1,1 v 5 c 0,0.5523 -0.4477,1 -1,1 z"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 59,40 H 25 c -0.5523,0 -1,-0.4477 -1,-1 v -5 c 0,-0.5523 0.4477,-1 1,-1 h 34 c 0.5523,0 1,0.4477 1,1 v 5 c 0,0.5523 -0.4477,1 -1,1 z"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 59,55 H 25 c -0.5523,0 -1,-0.4477 -1,-1 v -5 c 0,-0.5523 0.4477,-1 1,-1 h 34 c 0.5523,0 1,0.4477 1,1 v 5 c 0,0.5523 -0.4477,1 -1,1 z"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 18,25 h -5 c -0.5523,0 -1,-0.4477 -1,-1 v -5 c 0,-0.5523 0.4477,-1 1,-1 h 5 c 0.5523,0 1,0.4477 1,1 v 5 c 0,0.5523 -0.4477,1 -1,1 z"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 18,40 h -5 c -0.5523,0 -1,-0.4477 -1,-1 v -5 c 0,-0.5523 0.4477,-1 1,-1 h 5 c 0.5523,0 1,0.4477 1,1 v 5 c 0,0.5523 -0.4477,1 -1,1 z"
+       id="path10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 18,55 h -5 c -0.5523,0 -1,-0.4477 -1,-1 v -5 c 0,-0.5523 0.4477,-1 1,-1 h 5 c 0.5523,0 1,0.4477 1,1 v 5 c 0,0.5523 -0.4477,1 -1,1 z"
+       id="path12" />
+  </g>
+</g></svg>

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.4707349938510242)">
+  
+  <g
+     id="line"
+     transform="translate(-10.4718,-10.0417)">
+    <g
+       id="g16">
+      <line
+         x1="21.320801"
+         x2="51.295601"
+         y1="25.122801"
+         y2="25.122801"
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-miterlimit="5"
+         stroke-width="2"
+         id="line2" />
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-miterlimit="5"
+         stroke-width="2"
+         d="m 34.4333,19.9967 a 46.0471,46.0471 0 0 1 -5.197,10.8748 25.378,25.378 0 0 1 -8.5626,8.4156"
+         id="path4" />
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-miterlimit="5"
+         stroke-width="2"
+         d="m 40.3044,51.304 h 5.89 a 0.6,0.6 0 0 0 0.661,-0.5073 V 32.0284 a 0.6,0.6 0 0 0 -0.661,-0.5073 h -15.587"
+         id="path6" />
+      <line
+         x1="29.850201"
+         x2="46.855202"
+         y1="37.900299"
+         y2="37.900299"
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-miterlimit="5"
+         stroke-width="2"
+         id="line8" />
+      <line
+         x1="29.225"
+         x2="29.225"
+         y1="32.0825"
+         y2="51.088299"
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-miterlimit="5"
+         stroke-width="2"
+         id="line10" />
+      <line
+         x1="29.225"
+         x2="46.855202"
+         y1="43.2285"
+         y2="43.2285"
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="5"
+         stroke-width="2"
+         id="line12" />
+      <rect
+         x="11.4718"
+         y="11.0417"
+         rx="1.6991"
+         width="48.9841"
+         height="48.9841"
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width="2"
+         id="rect14" />
+    </g>
+  </g>
+</g></svg>

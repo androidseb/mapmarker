@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 2.0902505624999996) scale(0.375)">
+  
+  <g
+     id="line"
+     transform="translate(-4,-15)">
+    <rect
+       x="5"
+       y="16"
+       width="62"
+       height="40"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect2" />
+    <line
+       x1="50.922901"
+       x2="22.077101"
+       y1="66.851997"
+       y2="66.851997"
+       fill="#000"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line4" />
+    <circle
+       cx="36.5"
+       cy="51"
+       r="2"
+       fill="#000"
+       stroke="none"
+       id="circle6" />
+    <rect
+       x="9"
+       y="20"
+       width="54"
+       height="26"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect8" />
+    <line
+       x1="38.5"
+       x2="38.5"
+       y1="59.9683"
+       y2="66.353798"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line10" />
+    <line
+       x1="34.5"
+       x2="34.5"
+       y1="59.9683"
+       y2="66.353798"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line12" />
+  </g>
+</g></svg>

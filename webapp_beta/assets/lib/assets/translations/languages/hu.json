@@ -459,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "Igen, vigyen az alkalmazás oldalára",
     "app_rating_prompt_later_option_text": "Talán később, emlékeztessen",
     "app_rating_prompt_never_option_text": "Nem, köszönöm, ne kérdezz többet",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

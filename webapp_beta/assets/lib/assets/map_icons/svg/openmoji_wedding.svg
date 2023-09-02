@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(5.25 0.0) scale(0.375)">
+  
+  <g
+     id="line"
+     transform="translate(-18,-4)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 53,41.4945 V 66.0032 C 53,66.5537 52.5994,67 52.1053,67 H 19.8947 C 19.4006,67 19,66.5537 19,66.0032 V 41.4945 c 0,-0.2897 0.1131,-0.565 0.3098,-0.7543 L 35.4151,25.2424 c 0.3359,-0.3232 0.8338,-0.3232 1.1698,0 L 52.6902,40.7402 C 52.8869,40.9295 53,41.2048 53,41.4945 Z"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 43,27 v -8.1598 -0.405 l -6.3823,-5.2163 c -0.3571,-0.2919 -0.8784,-0.2919 -1.2355,0 L 29,18.4352 V 18.8402 27"
+       id="path4" />
+    <line
+       x1="36"
+       x2="36"
+       y1="13"
+       y2="5"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line6" />
+    <line
+       x1="32.5"
+       x2="39.5"
+       y1="8"
+       y2="8"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 41,58.943 c 0,-3.8509 -3.3484,-6.1256 -4.5649,-6.8249 -0.274,-0.1575 -0.5962,-0.1575 -0.8702,0 C 34.3483,52.8174 31,55.0921 31,58.943 v 7.0894 C 31,66.5668 31.4092,67 31.914,67 h 8.172 C 40.5908,67 41,66.5668 41,66.0324 Z"
+       id="path10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 35.9997,45.8252 -4.8692,-6.2438 -0.1569,-0.232 c -0.8207,-1.3515 -0.3904,-3.1124 0.9611,-3.9331 1.3516,-0.8207 3.1125,-0.3904 3.9332,0.9611 0.0479,0.0789 0.092,0.1601 0.1321,0.2433 0.6865,-1.4244 2.3978,-2.0225 3.8222,-1.336 1.4243,0.6866 2.0224,2.3979 1.3359,3.8222 -0.0761,0.158 -0.1666,0.3086 -0.2703,0.45 z"
+       id="path12" />
+  </g>
+</g></svg>

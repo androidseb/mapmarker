@@ -459,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "Kyllä, vie minut sovellussivulle",
     "app_rating_prompt_later_option_text": "Ehkä myöhemmin, muistuta minua",
     "app_rating_prompt_never_option_text": "Ei kiitos, älä kysy uudestaan",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

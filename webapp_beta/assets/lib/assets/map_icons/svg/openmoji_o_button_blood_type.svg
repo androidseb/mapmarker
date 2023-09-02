@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.48)">
+  
+  <g
+     id="line-supplement"
+     transform="translate(-11,-11)">
+    <g
+       id="O_Button">
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width="2"
+         d="m 59.0349,60 h -46.07 A 0.9679,0.9679 0 0 1 12,59.0349 v -46.07 A 0.9679,0.9679 0 0 1 12.9651,12 h 46.07 A 0.9679,0.9679 0 0 1 60,12.9651 v 46.07 A 0.9679,0.9679 0 0 1 59.0349,60 Z"
+         id="path2" />
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         d="m 35.75,46.5116 v 0 A 7.8572,7.8572 0 0 1 27.8929,38.6545 V 32.3687 A 7.8572,7.8572 0 0 1 35.75,24.5116 v 0 a 7.8572,7.8572 0 0 1 7.8571,7.8571 v 6.2858 A 7.8572,7.8572 0 0 1 35.75,46.5116 Z"
+         id="path4" />
+    </g>
+  </g>
+  <g
+     id="line"
+     transform="translate(-11,-11)" />
+</g></svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.5217391304347826)">
+  
+  <g
+     id="line"
+     transform="translate(-13,-13)">
+    <circle
+       cx="36"
+       cy="36"
+       r="22"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle2" />
+    <circle
+       cx="36"
+       cy="36"
+       r="12.7559"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle4" />
+  </g>
+</g></svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(7.905867260419459 0.0) scale(0.41091106533675986)">
+  
+  <g
+     id="line"
+     transform="translate(-26.38,-6.4633996)">
+    <circle
+       cx="36.343601"
+       cy="10.4324"
+       r="2.9690001"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="circle2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 31.4771,24.2518 c 2.3523,3.5329 0.677,6.107 0.0317,8 a 33.3767,33.3767 0 0 0 -0.8975,5.6136 c -0.6,5.9762 -1.0025,24.0044 -1.0025,24.0044 -0.055,1.1 0.575,2 1.4,2 a 2.076,2.076 0 0 0 1.729,-1.987 l 2.539,-22.031 c 0.126,-1.093 0.679,-1.987 1.229,-1.987 0.55,0 1.1,0.894 1.229,1.987 l 2.5423,22.0314 a 2.076,2.076 0 0 0 1.729,1.987 c 0.825,0 1.455,-0.9 1.4,-2 0,0 -0.5226,-17.8415 -1.0731,-23.7627 a 35.8713,35.8713 0 0 0 -0.8269,-5.8553 c -0.6173,-1.9024 -2.416,-4.7392 -0.0287,-8"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 27.38,41.8423 0.792,-19 a 5.274,5.274 0 0 1 5.208,-5 h 5.9271 a 5.274,5.274 0 0 1 5.208,5 l 0.792,19"
+       id="path6" />
+    <ellipse
+       cx="38.843601"
+       cy="13.521"
+       rx="1.1343"
+       ry="0.75739998"
+       transform="rotate(-50,38.843594,13.521034)"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="ellipse8" />
+    <ellipse
+       cx="33.843601"
+       cy="13.521"
+       rx="0.75739998"
+       ry="1.1343"
+       transform="rotate(-40,33.843484,13.521062)"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="ellipse10" />
+    <circle
+       cx="36.343601"
+       cy="13.4014"
+       r="1.5"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="circle12" />
+    <circle
+       cx="39.630402"
+       cy="20.8745"
+       r="1"
+       id="circle14" />
+  </g>
+</g></svg>

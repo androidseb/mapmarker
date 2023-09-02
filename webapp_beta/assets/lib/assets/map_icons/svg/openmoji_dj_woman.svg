@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(1.0792671642230545 0.0) scale(0.5200348969417593)">
+  
+  <g
+     id="line"
+     transform="translate(-14.9981,-10.84925)">
+    <circle
+       cx="36.002499"
+       cy="19.886"
+       r="3.5"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2.3333"
+       id="circle2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 27.657,45.649 -4.5089,-5.66 c -0.4156,-0.8471 -0.455,-1.8301 -0.1086,-2.7078 0.3291,-0.8289 0.6675,-1.7276 0.8915,-2.3777 l 0.7652,-2.2192 c 0.473,-1.2232 1.1745,-2.3452 2.0669,-3.3062 l 0.1715,-0.1714 c 0.9502,-0.8572 2.1393,-1.4041 3.4085,-1.5678 l 9.0178,-0.6938 c 1.3227,-0.1212 2.6354,-0.3344 3.9285,-0.6378 l 4.1205,-1.03 c 1.1751,-0.3659 2.1263,-1.2359 2.5953,-2.3738 l 2.4688,-7.1108"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.2161"
+       d="m 30.7455,20.4549 v -3.2356 c 0,-2.9061 2.3559,-5.262 5.262,-5.262 v 0 c 2.9061,0 5.262,2.3559 5.262,5.262 v 3.2356"
+       id="path6" />
+    <line
+       x1="21.5343"
+       x2="34.299801"
+       y1="46.483398"
+       y2="46.483398"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line8" />
+    <line
+       x1="37.6926"
+       x2="50.458099"
+       y1="46.483398"
+       y2="46.483398"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line10" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="15.9981,49.323 15.9981,52.661 15.9981,56 55.9981,56 55.9981,52.661 55.9981,49.323 "
+       id="polygon12" />
+    <circle
+       cx="46.657398"
+       cy="52.661201"
+       r="1"
+       id="circle14" />
+    <circle
+       cx="49.645"
+       cy="52.661201"
+       r="1"
+       id="circle16" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.2161"
+       d="m 30.5259,20.61 c -0.9027,0 -1.6344,-0.7317 -1.6344,-1.6344 0,-0.9027 0.7317,-1.6344 1.6344,-1.6344"
+       id="path18" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.2161"
+       d="m 41.2571,17.3412 c 0.9027,0 1.6344,0.7317 1.6344,1.6344 0,0.9027 -0.7317,1.6344 -1.6344,1.6344"
+       id="path20" />
+    <g
+       id="line-2-2">
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1.9339"
+         d="M 42,42.8594 C 41.2614,40.4249 39.1092,36.7948 41.9657,32.622"
+         id="path22" />
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1.9339"
+         d="m 30,32.6214 c 2.8146,4.521 0.8101,7.815 0.0379,10.2374"
+         id="path24" />
+    </g>
+  </g>
+</g></svg>

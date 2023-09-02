@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 6.461538461538462) scale(0.46153846153846156)">
+  
+  <g
+     id="line"
+     transform="translate(-9.91,-23.91)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       d="m 54.09,46.91 h -36 c -3.85,0 -7,-3.15 -7,-7 v -8 c 0,-3.85 3.15,-7 7,-7 h 36 c 3.85,0 7,3.15 7,7 v 8 c 0,3.85 -3.15,7 -7,7 z"
+       id="path2" />
+    <circle
+       cx="21.617701"
+       cy="35.91"
+       r="5.0001001"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       id="circle4" />
+    <circle
+       cx="35.617699"
+       cy="35.91"
+       r="5.0001001"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       id="circle6" />
+    <circle
+       cx="50.617699"
+       cy="35.91"
+       r="5.0001001"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       id="circle8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 53.91,46.91 h -36 c -3.85,0 -7,-3.15 -7,-7 v -8 c 0,-3.85 3.15,-7 7,-7 h 36 c 3.85,0 7,3.15 7,7 v 8 c 0,3.85 -3.15,7 -7,7 z"
+       id="path10" />
+    <circle
+       cx="21.4377"
+       cy="35.91"
+       r="5.0001001"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle12" />
+    <circle
+       cx="35.437698"
+       cy="35.91"
+       r="5.0001001"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle14" />
+    <circle
+       cx="50.437698"
+       cy="35.91"
+       r="5.0001001"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle16" />
+  </g>
+</g></svg>

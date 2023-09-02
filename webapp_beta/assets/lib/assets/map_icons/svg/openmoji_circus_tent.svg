@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 4.470591764705882) scale(0.47058823529411764)">
+  
+  <g
+     id="line"
+     transform="translate(-10.5,-24.000015)">
+    <rect
+       x="11.5"
+       y="39"
+       width="49"
+       height="16"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect2" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="60.5,39 36,25 11.5,39 "
+       id="polygon4" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="51.5,39 36,25 20.5,39 "
+       id="polygon6" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="41.5,39 36,25 30.5,39 "
+       id="polygon8" />
+    <rect
+       x="21"
+       y="39"
+       width="30"
+       height="16"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect10" />
+    <rect
+       x="30.5"
+       y="39"
+       width="11"
+       height="16"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect12" />
+    <rect
+       x="36"
+       y="44"
+       width="0"
+       height="11"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect14" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="39,55 36,44 33,55 "
+       id="polygon16" />
+  </g>
+</g></svg>

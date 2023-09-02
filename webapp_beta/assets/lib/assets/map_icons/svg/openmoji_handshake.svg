@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 1.993320126108621) scale(0.37444288749011584)">
+  
+  <g
+     id="line"
+     transform="translate(-3.9504458,-9.2862521)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 15.05,43.95 c 0,0 -7.133,-5.822 -8.537,-8.259 -4.392,-7.595 0.9489,-19.79 10.44,-21.82"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 38.71,42.99 51.6,50.011"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 33.87,47.79 13,6.498"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 58.18,45.72 -5.1,-4.358 -8.279,-4.335"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 37.49,56.29 c 8.574,5.466 10.79,-0.2955 9.387,-1.994 2.734,1.625 6.209,-0.517 4.731,-4.283 3.844,1.847 7.022,-1.034 6.579,-4.283 3.326,0.591 5.395,-2.142 4.435,-5.392 6.721,-4.585 5.041,-19.03 -0.0988,-25.36 -9.287,-1.459 -11,-2.362 -20.98,-3.943 l -13.53,-0.6185 a 3.9934,3.9934 0 0 0 -4.779,2.533 32.8568,32.8568 0 0 1 -3.599,8.378 3.5387,3.5387 0 0 0 1.872,4.588 c 1.908,0.4767 2.78,-0.386 4.46,-1.686 a 25.9541,25.9541 0 0 0 3.805,-4.575 l 13.64,6.204 12.72,7.164 c 2.514,1.698 5.012,5.844 6.51,7.321"
+       id="path10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 31.51,54.15 a 3.0218,3.0218 0 0 1 4.144,-0.9 c 1.405,0.8125 2.439,2.362 1.478,4.063 l -1.774,3.101 A 3.27,3.27 0 0 1 29.7,57.2424 l 1.81,-3.094 z"
+       id="path12" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 25.84,50.98 a 3.0218,3.0218 0 0 1 4.144,-0.9 c 1.405,0.8125 2.439,2.362 1.478,4.063 l -1.774,3.101 A 3.27,3.27 0 0 1 24.03,54.0727 l 1.81,-3.094 z"
+       id="path14" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 20.18,47.82 a 3.0218,3.0218 0 0 1 4.144,-0.9 c 1.405,0.8125 2.439,2.362 1.478,4.063 l -1.774,3.101 A 3.27,3.27 0 0 1 18.37,50.9127 l 1.81,-3.094 z"
+       id="path16" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 14.53,44.65 a 3.0218,3.0218 0 0 1 4.144,-0.9 c 1.405,0.8125 2.439,2.362 1.478,4.063 l -1.774,3.101 A 3.27,3.27 0 0 1 12.72,47.7427 l 1.81,-3.094 z"
+       id="path18" />
+  </g>
+</g></svg>

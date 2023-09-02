@@ -459,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "Так, перейти на сторінку програми",
     "app_rating_prompt_later_option_text": "Може пізніше, нагадай",
     "app_rating_prompt_never_option_text": "Ні, дякую, більше не питай",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

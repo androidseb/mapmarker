@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(7.4349145432479204 0.0) scale(0.45138538921542126)">
+  
+  <g
+     id="line"
+     transform="translate(-25.886506,-4)">
+    <ellipse
+       cx="35.809601"
+       cy="10.1616"
+       rx="3.4814"
+       ry="5.1616001"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse2" />
+    <ellipse
+       cx="31.287001"
+       cy="19.206699"
+       rx="3.4814"
+       ry="5.1616001"
+       transform="rotate(-45,31.287015,19.206794)"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse4" />
+    <ellipse
+       cx="31.287001"
+       cy="27.347401"
+       rx="3.4814"
+       ry="5.1616001"
+       transform="rotate(-45,31.287019,27.347292)"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse6" />
+    <ellipse
+       cx="31.287001"
+       cy="35.487999"
+       rx="3.4814"
+       ry="5.1616001"
+       transform="rotate(-45,31.286974,35.487911)"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse8" />
+    <ellipse
+       cx="31.287001"
+       cy="43.628601"
+       rx="3.4814"
+       ry="5.1616001"
+       transform="rotate(-45,31.287049,43.62858)"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse10" />
+    <ellipse
+       cx="31.287001"
+       cy="51.769199"
+       rx="3.4814"
+       ry="5.1616001"
+       transform="rotate(-45,31.287004,51.769199)"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse12" />
+    <ellipse
+       cx="40.713001"
+       cy="19.206699"
+       rx="5.1616001"
+       ry="3.4814"
+       transform="rotate(-45,40.713023,19.206814)"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse14" />
+    <ellipse
+       cx="40.713001"
+       cy="27.347401"
+       rx="5.1616001"
+       ry="3.4814"
+       transform="rotate(-45,40.713027,27.347312)"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse16" />
+    <ellipse
+       cx="40.713001"
+       cy="35.487999"
+       rx="5.1616001"
+       ry="3.4814"
+       transform="rotate(-45,40.712982,35.487931)"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse18" />
+    <ellipse
+       cx="40.713001"
+       cy="43.628601"
+       rx="5.1616001"
+       ry="3.4814"
+       transform="rotate(-45,40.712937,43.628549)"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse20" />
+    <ellipse
+       cx="40.713001"
+       cy="51.769199"
+       rx="5.1616001"
+       ry="3.4814"
+       transform="rotate(-45,40.713012,51.769218)"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse22" />
+  </g>
+</g></svg>

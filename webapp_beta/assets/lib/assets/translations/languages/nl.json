@@ -459,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "Ja, breng me naar de app-pagina",
     "app_rating_prompt_later_option_text": "Misschien later, herinner me eraan",
     "app_rating_prompt_never_option_text": "Nee bedankt, vraag het niet nog een keer",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

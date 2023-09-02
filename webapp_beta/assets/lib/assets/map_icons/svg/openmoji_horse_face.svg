@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 0.9315747771447338) scale(0.4400069418428525)">
+  
+  <g
+     id="line"
+     transform="translate(-9.7404317,-10.425268)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 57.2049,36.8681 c 1.768,2.3617 6.5451,6.6821 6.0451,16.2382"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 31.25,40.9708 c 0,0 8.4783,6.7823 0,18.7647"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 33.9462,29.955 c 0.5489,8.3555 -9.3225,9.703 -11.954,10.3347 -0.3325,0.0798 -0.6318,0.25 -0.8736,0.4919 l -2.2227,2.2227 c -0.3494,0.3494 -0.8234,0.5458 -1.3176,0.5458 h -3.5121 c -1.203,0 -2.2711,-0.7698 -2.6515,-1.9111 l -0.531,-1.5931 c -0.258,-0.774 -0.1649,-1.6222 0.2549,-2.3218 l 8.7862,-14.6436 4.7238,-4.7238 -2.1151,-6.9054 c 0,0 7.8026,-0.6987 8.4135,5.3308 0,0 16.9281,2.4418 10.5531,19.383 0,0 -1.625,5.9489 2.375,11.1846"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 29.6667,13.1063 c 0,0 22.2444,-4.0208 19.9583,19.9583"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 48.6687,22.2404 c 0,0 14.7665,6.5865 5.4563,22.22 0,0 -5.375,6.5625 0.625,13.6042"
+       id="path10" />
+    <circle
+       cx="23.1667"
+       cy="28.0159"
+       r="2"
+       fill="#000"
+       stroke="none"
+       id="circle12" />
+  </g>
+</g></svg>

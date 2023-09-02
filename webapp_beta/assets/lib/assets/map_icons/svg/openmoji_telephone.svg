@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 2.6495891116186474) scale(0.40611316735984543)">
+  
+  <g
+     id="line"
+     transform="translate(-6.435485,-10.9519)">
+    <circle
+       cx="30"
+       cy="35"
+       r="2"
+       fill="#000"
+       stroke="none"
+       id="circle2" />
+    <circle
+       cx="30"
+       cy="41"
+       r="2"
+       fill="#000"
+       stroke="none"
+       id="circle4" />
+    <circle
+       cx="30"
+       cy="47"
+       r="2"
+       fill="#000"
+       stroke="none"
+       id="circle6" />
+    <circle
+       cx="36"
+       cy="35"
+       r="2"
+       fill="#000"
+       stroke="none"
+       id="circle8" />
+    <circle
+       cx="36"
+       cy="41"
+       r="2"
+       fill="#000"
+       stroke="none"
+       id="circle10" />
+    <circle
+       cx="36"
+       cy="47"
+       r="2"
+       fill="#000"
+       stroke="none"
+       id="circle12" />
+    <circle
+       cx="42"
+       cy="35"
+       r="2"
+       fill="#000"
+       stroke="none"
+       id="circle14" />
+    <circle
+       cx="42"
+       cy="41"
+       r="2"
+       fill="#000"
+       stroke="none"
+       id="circle16" />
+    <circle
+       cx="42"
+       cy="47"
+       r="2"
+       fill="#000"
+       stroke="none"
+       id="circle18" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 26,24 v 5 c 0,0 -3.5,0.5 -7,4 -3.5,3.5 -4,9.9999 -4,9.9999 V 56.0002 L 18,56 h 36 l 3,-1e-4 V 43.1252 C 57,43.1252 56.5,36.5 53,33 49.5,29.5 46,29 46,29 v -5 h -3 l -1.0003,3 H 29.8133 L 29,24 Z"
+       id="path20" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 61.9839,16.4519 c -8,-6 -44,-6 -52,0 0,0 -4,4 -2,10 h 13 v -5 c 6,-4 24,-4 30,0 v 5 h 13 c 2,-6 -2,-10 -2,-10 z"
+       id="path22" />
+  </g>
+</g></svg>

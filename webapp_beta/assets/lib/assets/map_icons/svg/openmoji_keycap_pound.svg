@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.48)">
+  
+  <g
+     id="line"
+     transform="translate(-11.125,-10.958)">
+    <rect
+       x="12.125"
+       y="11.958"
+       width="48"
+       height="48"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect2" />
+    <line
+       x1="33.453499"
+       x2="30.939899"
+       y1="27.615999"
+       y2="44.633999"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line4" />
+    <line
+       x1="40.810101"
+       x2="38.296501"
+       y1="27.615999"
+       y2="44.633999"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line6" />
+    <line
+       x1="28.0658"
+       x2="44.783298"
+       y1="32.356701"
+       y2="32.339699"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line8" />
+    <line
+       x1="26.9667"
+       x2="43.6842"
+       y1="39.846802"
+       y2="39.829601"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line10" />
+  </g>
+</g></svg>

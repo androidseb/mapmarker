@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 1.6098191171001357) scale(0.5243368891603595)">
+  
+  <g
+     id="line"
+     transform="translate(-12.7322,-15.420003)">
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2.069"
+       points="35.6352,54.0172 57.4698,48.7313 57.4698,21.7647 35.6167,26.5155 13.7667,21.7647 13.7667,48.7313 35.6013,54.0172 35.6013,30.3713"
+       id="polyline2" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2.069"
+       points="13.7667,21.7647 35.8082,16.4545 57.4698,21.7647"
+       id="polyline4" />
+    <circle
+       cx="21.2735"
+       cy="32.933899"
+       r="3"
+       id="circle6" />
+    <circle
+       cx="27.2446"
+       cy="44.376099"
+       r="3"
+       id="circle8" />
+    <circle
+       cx="41.766998"
+       cy="45.2211"
+       r="3"
+       id="circle10" />
+    <circle
+       cx="46.8274"
+       cy="38.066799"
+       r="3"
+       id="circle12" />
+    <circle
+       cx="51.887798"
+       cy="30.912399"
+       r="3"
+       id="circle14" />
+    <ellipse
+       cx="35.8312"
+       cy="21.121901"
+       rx="4"
+       ry="1.6191"
+       id="ellipse16" />
+  </g>
+</g></svg>

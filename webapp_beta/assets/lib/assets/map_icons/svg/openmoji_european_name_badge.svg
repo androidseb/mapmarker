@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 2.504878591482308) scale(0.3715170393658526)">
+  
+  <g
+     id="line"
+     transform="translate(-3.7,-9.2371998)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 40.5015,20.6474 h 23.389 A 3.4091,3.4091 0 0 1 67.3,24.0566 v 31.8868 a 3.4091,3.4091 0 0 1 -3.4091,3.4092 H 8.11 A 3.4091,3.4091 0 0 1 4.7,55.9434 V 24.0566 a 3.4091,3.4091 0 0 1 3.41,-3.4092 h 23.286"
+       id="path2" />
+    <rect
+       x="11.4738"
+       y="31.3668"
+       rx="2.9184"
+       ry="2.9184"
+       width="47.999802"
+       height="19.731199"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect4" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="52.396 38.141 48.396 38.141 48.396 45.141 52.396 45.141"
+       id="polyline6" />
+    <line
+       x1="48.396"
+       x2="51.396"
+       y1="41.640999"
+       y2="41.640999"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line8" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="34.396 45.141 31.396 38.141 28.396 45.141"
+       id="polyline10" />
+    <line
+       x1="29.396"
+       x2="33.396"
+       y1="43.464901"
+       y2="43.464901"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line12" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="19.396 45.141 19.396 38.141 24.396 45.141 24.396 38.141"
+       id="polyline14" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="44.396 45.141 44.396 38.141 41.396 44.141 38.396 38.141 38.396 45.141"
+       id="polyline16" />
+    <rect
+       x="31.4986"
+       y="10.2372"
+       rx="1.5573"
+       ry="1.5573"
+       width="9.0029001"
+       height="15.6727"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect18" />
+  </g>
+</g></svg>

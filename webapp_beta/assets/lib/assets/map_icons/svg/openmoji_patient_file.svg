@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 3.474635294117647) scale(0.5647058823529412)">
+  
+  <g
+     id="line"
+     transform="translate(-14.5,-20.903)">
+    <rect
+       x="15.5"
+       y="21.903"
+       width="7.29"
+       height="3.8940001"
+       fill="none"
+       id="rect2" />
+    <rect
+       x="25.107"
+       y="21.903"
+       width="7.29"
+       height="3.8940001"
+       fill="none"
+       id="rect4" />
+    <rect
+       x="34.713902"
+       y="21.903"
+       width="7.29"
+       height="3.8940001"
+       fill="none"
+       id="rect6" />
+    <rect
+       x="15.5"
+       y="25.797001"
+       width="40.5"
+       height="24.299999"
+       fill="none"
+       id="rect8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 16.4008,21.903 h 5.4885 c 0.4975,0 0.9008,0.4033 0.9008,0.9008 v 2.9932 0 H 15.5 v 0 -2.9932 c 0,-0.4975 0.4033,-0.9008 0.9008,-0.9008 z"
+       id="path10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 26.0077,21.903 h 5.4885 c 0.4975,0 0.9008,0.4033 0.9008,0.9008 v 2.9932 0 h -7.29 v 0 -2.9932 c 0,-0.4975 0.4032,-0.9007 0.9007,-0.9008 z"
+       id="path12" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 35.6147,21.903 h 5.4885 c 0.4975,0 0.9008,0.4033 0.9008,0.9008 v 2.9932 0 h -7.29 v 0 -2.9932 c 0,-0.4975 0.4032,-0.9007 0.9007,-0.9008 z"
+       id="path14" />
+    <rect
+       x="15.5"
+       y="25.797001"
+       width="40.5"
+       height="24.299999"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect16" />
+    <path
+       d="m 37.0761,32.8534 v 3.7674 h 3.7674 v 2.6523 h -3.7674 v 3.7675 h -2.6522 v -3.7675 h -3.7674 v -2.6523 h 3.7674 v -3.7674 h 2.6522 m 0,-2 h -2.6522 c -1.1046,0 -2,0.8954 -2,2 v 1.7674 h -1.7674 c -1.1046,0 -2,0.8954 -2,2 v 2.6523 c 0,1.1046 0.8954,2 2,2 h 1.7674 v 1.7675 c 0,1.1046 0.8954,2 2,2 h 2.6522 c 1.1046,0 2,-0.8954 2,-2 v -1.7675 h 1.7674 c 1.1046,0 2,-0.8954 2,-2 v -2.6523 c 0,-1.1046 -0.8954,-2 -2,-2 h -1.7674 v -1.7674 c 0,-1.1046 -0.8954,-2 -2,-2 z"
+       id="path18" />
+  </g>
+</g></svg>

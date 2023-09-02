@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(2.8571428571428577 0.0) scale(0.45714285714285713)">
+  
+  <g
+     id="line"
+     transform="translate(-16,-10)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 27,28 c 0,0 1,-1 2,-1 1,0 2,1 2,1"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 41,28 c 0,0 1,-1 2,-1 1,0 2,1 2,1"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 51,29.3 c 3,3 4,21.7 4,29.7 v 2.5"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 17,61.5 V 59 c 0,-8 1,-26.7 4,-29.7"
+       id="path8" />
+    <line
+       x1="32"
+       x2="31"
+       y1="16"
+       y2="17"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line10" />
+    <line
+       x1="36"
+       x2="35"
+       y1="15"
+       y2="17"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line12" />
+    <line
+       x1="40"
+       x2="41"
+       y1="16"
+       y2="17"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line14" />
+    <circle
+       cx="36"
+       cy="35.5"
+       r="3"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle16" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 32.7,35.6 C 31.6,35.3 31,35 31,35"
+       id="path18" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 41,35 c 0,0 -0.5,0.3 -1.5,0.6"
+       id="path20" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 44,42 C 52,39 51,30 51,26.2 51,17.3 44.8,11 36,11 27.2,11 21,17.3 21,26.2 21,30 20,39 28.1,42 c 3.7,1.4 12.1,1.3 15.9,0 z"
+       id="path22" />
+  </g>
+</g></svg>

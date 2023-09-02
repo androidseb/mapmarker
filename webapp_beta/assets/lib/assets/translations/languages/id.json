@@ -459,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "Ya, bawa saya ke halaman aplikasi",
     "app_rating_prompt_later_option_text": "Mungkin nanti, ingatkan aku",
     "app_rating_prompt_never_option_text": "Tidak terima kasih, jangan tanya lagi",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

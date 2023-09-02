@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.2888404956816881 0.0) scale(0.4504293069876731)">
+  
+  <g
+     id="line"
+     transform="translate(-10.000006,-8.6758)">
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="13,28.5 59,28.5 61,60.9583 11,60.9583 "
+       id="polygon2" />
+    <rect
+       x="21.9545"
+       y="31.943001"
+       width="9.2098999"
+       height="9.2098999"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect4" />
+    <rect
+       x="42.8843"
+       y="31.943001"
+       width="9.2098999"
+       height="9.2098999"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 24.5192,25.1873 c 0,-8.5667 1.31,-15.5115 11.4851,-15.5115 10.1751,0 11.4851,6.9447 11.4851,15.5115"
+       id="path8" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="13,28.5 59,28.5 61,60.9583 11,60.9583 "
+       id="polygon10" />
+  </g>
+</g></svg>

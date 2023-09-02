@@ -459,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "Ja, ta mig till appsidan",
     "app_rating_prompt_later_option_text": "Kanske senare, påminn mig",
     "app_rating_prompt_never_option_text": "Nej tack, fråga inte igen",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

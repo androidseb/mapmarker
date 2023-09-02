@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(3.4700581600064186 0.0) scale(0.39232356179576694)">
+  
+  <g
+     id="line"
+     transform="translate(-15.899804,-7.0199932)">
+    <line
+       x1="39.674198"
+       x2="41.208199"
+       y1="30.2782"
+       y2="29.3319"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line2" />
+    <line
+       x1="40.287399"
+       x2="42.149899"
+       y1="34.776199"
+       y2="33.712101"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line4" />
+    <line
+       x1="40.920101"
+       x2="42.747002"
+       y1="39.3144"
+       y2="37.959"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line6" />
+    <line
+       x1="41.679901"
+       x2="43.429901"
+       y1="44.252102"
+       y2="42.5051"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 47.9788,67.1744 -0.2473,0.0124 C 45.7839,67.2844 43.2035,66.5402 41.6799,63.3286 40.2973,60.4143 39.7354,56.5332 38.9574,50.168 37.1708,35.5509 35.3986,14.6804 32.8507,13.0012 29.1932,10.5908 16.4305,10.2961 16.9117,9.7612 17.0137,9.6478 17.3532,9.546 18.5256,9.5039 18.9869,9.4873 18.5618,8.024 19.136,8.0202 c 1.1638,-0.0077 3.7966,0.2283 5.2394,0.2793 0.2471,0.0088 0.5007,1.0585 0.7517,1.0691 4.3901,0.1854 8.9637,0.8552 11.0332,1.7268 0.5752,0.2423 1.2915,0.562 1.8241,2.5387 2.0671,7.6717 8.1527,43.2176 9.8464,43.2176 1.6937,0 1.3243,-18.9038 0.1054,-21.0217 -1.2188,-2.1179 10.4479,6.9191 10.4479,6.9191 0,0 -2.0679,1.2514 -2.8921,4.0368 -0.8243,2.7854 -0.3793,12.9091 -0.3793,12.9091 0,4.0863 -3.268,7.4093 -7.333,7.4982"
+       id="path10" />
+  </g>
+</g></svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.5180885738200054 0.0) scale(0.4416119779299998)">
+  
+  <g
+     id="line"
+     transform="translate(-10.0074,-9.7816473)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 11.0074,34.2178 v 9.4286 c 0,6.9143 5.4,12.5714 12,12.5714 h 26 c 6.6,0 12,-5.6571 12,-12.5714 v -9.4286 c 0,0 -23,2.0952 -50,0 z"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 58.6681,34.2178 V 14.3617 c 0,0 0,-6.9454 -6.5006,-1.4994"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 46.1661,14.3051 c 1.6097,-2.1022 4.2966,-2.7481 6.0014,-1.4428 1.7048,1.3053 1.7819,4.0678 0.1722,6.17 z"
+       id="path6" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="53.439,59.5982 54.5818,63.128 51.058,63.128 50.3913,61.0744"
+       id="polyline8" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="16.5342,59.5982 15.3913,63.128 18.9152,63.128 19.5818,61.0744"
+       id="polyline10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 11.0074,34.2178 v 9.4286 c 0,6.9143 5.4,12.5714 12,12.5714 h 26 c 6.6,0 12,-5.6571 12,-12.5714 v -9.4286 c 0,0 -23,2.0952 -50,0 z"
+       id="path12" />
+  </g>
+</g></svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 0.18614707103865946) scale(0.4737651651489106)">
+  
+  <g
+     id="line"
+     transform="translate(-10.478491,-11.591911)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 32.4064,14.4782 a 3.8921,3.8921 0 0 1 6.7064,0 L 59.5617,54.62 a 4.4616,4.4616 0 0 1 0.5748,1.9161 3.9267,3.9267 0 0 1 -3.8321,3.928 H 15.3106 a 3.8434,3.8434 0 0 1 -3.8321,-3.8322 3.4546,3.4546 0 0 1 0.5748,-1.9161 l 20.3531,-40.238"
+       id="path2" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="18.412 60.455 25.752 52.668 28.023 47.873 34.756 43.042 37.104 43.568 39.403 43.042 42.06 46.423 47.003 48.564 53.361 60.455"
+       id="polyline4" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="31.835 45.138 34.039 48.113 32.983 52.382 33.754 56.379"
+       id="polyline6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 32.4027,32.8359 a 3.4757,3.4757 0 0 0 3.1473,2.0173 1.3729,1.3729 0 0 0 0.5651,-0.0808 2.5246,2.5246 0 0 0 -1.0493,2.0176 2.6352,2.6352 0 0 0 2.6632,2.6631 2.518,2.518 0 0 0 2.421,-1.7753"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 42.5709,30.98 A 2.5847,2.5847 0 0 0 39.9885,28.4783 2.2532,2.2532 0 0 0 38.213,29.2046 3.4054,3.4054 0 0 0 35.55,27.9129 3.516,3.516 0 0 0 33.21,28.8006 2.5779,2.5779 0 0 0 31.2731,27.9129 2.6866,2.6866 0 0 0 28.61,30.576"
+       id="path10" />
+  </g>
+</g></svg>

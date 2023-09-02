@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(4.69227805679788 0.0) scale(0.37478331083045846)">
+  
+  <g
+     id="line"
+     transform="translate(-15.751801,-4)">
+    <g
+       id="g6">
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1.5"
+         d="m 48.4009,52.2372 a 2.4286,2.4286 0 1 0 -4.8,-8e-4 v 0.4452 3.1548 l -2.05,4.0979 -0.4957,0.991 -3.0563,6.11 3.2,5e-4 1.6,-1.6 1.6,1.6 1.6,-1.6 1.6,1.6 1.6,-1.6 1.6,1.6 3.2,5e-4 L 50.9358,60.91 50.3729,59.7837 48.4,55.8372 v -3.1548 z"
+         id="path2" />
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width="1.5"
+         d="m 48.4007,53.4372 v 2.4 c 0,0 -4.8,-0.0116 -4.8,-8e-4 v -2.4 z"
+         id="path4" />
+    </g>
+    <g
+       id="g14">
+      <polyline
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         points="24.22 48.658 23.641 53.203 23.641 67.037 27.37 67.037 27.37 53.203"
+         id="polyline8" />
+      <rect
+         x="24.751801"
+         y="29.5072"
+         width="1.5"
+         height="16"
+         id="rect10" />
+      <ellipse
+         cx="25.751801"
+         cy="16.8421"
+         rx="9"
+         ry="11.8421"
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width="2"
+         id="ellipse12" />
+    </g>
+  </g>
+</g></svg>

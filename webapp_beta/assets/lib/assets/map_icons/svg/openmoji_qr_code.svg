@@ -1,0 +1,426 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.48)">
+  
+  <g
+     id="line-supplement"
+     transform="translate(-11,-11)">
+    <rect
+       x="20"
+       y="20"
+       width="4"
+       height="4"
+       fill="#000"
+       id="rect2" />
+    <rect
+       x="20"
+       y="48"
+       width="4"
+       height="4"
+       fill="#000"
+       id="rect4" />
+    <rect
+       x="48"
+       y="20"
+       width="4"
+       height="4"
+       fill="#000"
+       id="rect6" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-11,-11)">
+    <circle
+       cx="18"
+       cy="40"
+       r="1"
+       fill="#000"
+       id="circle9" />
+    <circle
+       cx="16"
+       cy="38"
+       r="1"
+       fill="#000"
+       id="circle11" />
+    <circle
+       cx="20"
+       cy="38"
+       r="1"
+       fill="#000"
+       id="circle13" />
+    <circle
+       cx="34"
+       cy="46"
+       r="1"
+       fill="#000"
+       id="circle15" />
+    <circle
+       cx="40"
+       cy="38"
+       r="1"
+       fill="#000"
+       id="circle17" />
+    <circle
+       cx="40"
+       cy="28"
+       r="1"
+       fill="#000"
+       id="circle19" />
+    <circle
+       cx="32"
+       cy="16"
+       r="1"
+       fill="#000"
+       id="circle21" />
+    <circle
+       cx="46"
+       cy="32"
+       r="1"
+       fill="#000"
+       id="circle23" />
+    <circle
+       cx="52"
+       cy="32"
+       r="1"
+       fill="#000"
+       id="circle25" />
+    <circle
+       cx="52"
+       cy="44"
+       r="1"
+       fill="#000"
+       id="circle27" />
+    <circle
+       cx="54"
+       cy="48"
+       r="1"
+       fill="#000"
+       id="circle29" />
+    <circle
+       cx="56"
+       cy="56"
+       r="1"
+       fill="#000"
+       id="circle31" />
+    <circle
+       cx="32"
+       cy="56"
+       r="1"
+       fill="#000"
+       id="circle33" />
+    <circle
+       cx="44"
+       cy="56"
+       r="1"
+       fill="#000"
+       id="circle35" />
+    <circle
+       cx="46"
+       cy="54"
+       r="1"
+       fill="#000"
+       id="circle37" />
+    <circle
+       cx="44"
+       cy="52"
+       r="1"
+       fill="#000"
+       id="circle39" />
+    <circle
+       cx="16"
+       cy="32"
+       r="1"
+       fill="#000"
+       id="circle41" />
+    <circle
+       cx="40"
+       cy="54"
+       r="1"
+       fill="#000"
+       id="circle43" />
+    <rect
+       x="12"
+       y="12"
+       width="48"
+       height="48"
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect45" />
+    <rect
+       x="16"
+       y="16"
+       width="12"
+       height="12"
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect47" />
+    <rect
+       x="20"
+       y="20"
+       width="4"
+       height="4"
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect49" />
+    <rect
+       x="16"
+       y="44"
+       width="12"
+       height="12"
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect51" />
+    <rect
+       x="20"
+       y="48"
+       width="4"
+       height="4"
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect53" />
+    <rect
+       x="44"
+       y="16"
+       width="12"
+       height="12"
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect55" />
+    <rect
+       x="48"
+       y="20"
+       width="4"
+       height="4"
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect57" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 18,36 v -2 h 8"
+       id="path59" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 20,34 V 32"
+       id="path61" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 24,34 v 6"
+       id="path63" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 24,38 h 2"
+       id="path65" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 38,32 V 30"
+       id="path67" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 56,34 H 54"
+       id="path69" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 42,42 h 2 v -2"
+       id="path71" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 28,32 h 2"
+       id="path73" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 34,32 h 6"
+       id="path75" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 38,16 v 4 h -2 v 8"
+       id="path77" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 36,26 h -4 v 2"
+       id="path79" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 36,20 H 32"
+       id="path81" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 36,22 H 34 V 18"
+       id="path83" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 28,36 h 8"
+       id="path85" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 30,36 v 4 h -2"
+       id="path87" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 34,36 v 2"
+       id="path89" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 32,44 v -2 h 6 v 6 h 4 v -2 h 8 v 10"
+       id="path91" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 36,40 v 4 h 6 m 4,-4 h -4 v 8 h 2"
+       id="path93" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 48,34 v 4 h 2 v 4 h -2 v 4"
+       id="path95" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 50,38 v -2 h 2"
+       id="path97" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 52,50 h -4 v 2"
+       id="path99" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 32,52 h 2 v 2 h 2 v -4"
+       id="path101" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 56,32 v 6 h -2"
+       id="path103" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 44,36 V 34"
+       id="path105" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 56,42 v 2"
+       id="path107" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 54,52 h 2"
+       id="path109" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 40,22 v 2"
+       id="path111" />
+  </g>
+</g></svg>

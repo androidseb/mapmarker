@@ -459,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "Da, odpelji me na stran aplikacije",
     "app_rating_prompt_later_option_text": "Mogoče kasneje, spomni me",
     "app_rating_prompt_never_option_text": "Ne, hvala, ne sprašuj več",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

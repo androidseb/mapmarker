@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 2.833155549024024) scale(0.49578675253252524)">
+  
+  <g
+     id="line"
+     transform="translate(-11.796046,-17.02102)">
+    <rect
+       x="30"
+       y="20"
+       rx="1.732"
+       width="4"
+       height="4"
+       transform="rotate(9.6714,31.999751,21.999766)"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect2" />
+    <rect
+       x="35"
+       y="21"
+       rx="1.732"
+       width="4"
+       height="4"
+       transform="rotate(9.6714,36.999924,22.999989)"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect4" />
+    <rect
+       x="40"
+       y="22"
+       rx="1.732"
+       width="4"
+       height="4"
+       transform="matrix(0.9858,0.168,-0.168,0.9858,4.6289,-6.7148)"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect6" />
+    <rect
+       x="25"
+       y="19"
+       rx="1.732"
+       width="4"
+       height="4"
+       transform="matrix(0.9858,0.168,-0.168,0.9858,3.9117,-4.2375)"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect8" />
+    <line
+       x1="12"
+       x2="60"
+       y1="18"
+       y2="28"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line10" />
+    <line
+       x1="35"
+       x2="35"
+       y1="23"
+       y2="31"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line12" />
+    <rect
+       x="36"
+       y="34"
+       width="6"
+       height="11"
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect14" />
+    <rect
+       x="27"
+       y="34"
+       width="6"
+       height="13"
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect16" />
+    <rect
+       x="27"
+       y="30"
+       width="15"
+       height="23"
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect18" />
+  </g>
+</g></svg>

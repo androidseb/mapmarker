@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.41379310344827586)">
+  
+  <g
+     id="line"
+     transform="translate(-7,-7)">
+    <circle
+       cx="36"
+       cy="36"
+       r="28"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="circle2" />
+  </g>
+</g></svg>

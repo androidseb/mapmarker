@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 5.682710719196159) scale(0.37656705437749083)">
+  
+  <g
+     id="line"
+     transform="translate(-4.2723303,-20.948)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 67,36.5 H 41.84 a 1.286,1.286 0 0 1 -0.69,-2.37 l 7.259,-4.62 a 12.86,12.86 0 0 1 6.903,-2.01 h 11.68"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 15.61,36.5 h 9.502 a 12.86,12.86 0 0 0 6.903,-2.01 l 7.259,-4.62 A 1.286,1.286 0 0 0 38.584,27.5 H 29.11"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 67,48 H 8.27 A 3,3 0 0 1 6.606,42.504 l 24.95,-16.63 a 23.38,23.38 0 0 1 12.97,-3.926 h 22.48"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 67,53.5 H 12.65 A 1.004,1.004 0 0 1 12.1469,51.627 L 18.4109,48"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 66.93,44 H 18.64 a 0.5714,0.5714 0 0 1 -0.3068,-1.054 l 3.227,-2.053 a 5.714,5.714 0 0 1 3.068,-0.8934 h 42.3"
+       id="path10" />
+  </g>
+</g></svg>

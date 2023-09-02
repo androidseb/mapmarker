@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(2.160168374230029 0.0) scale(0.41832106839200867)">
+  
+  <g
+     id="line"
+     transform="translate(-12.4698,-7.1669)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 13.4698,62.5391 V 9.1669 c 0,-0.55 0.45,-1 1,-1 h 43.0444 c 0.55,0 1,0.45 1,1 v 53.3722 c 0,0.55 -0.45,1 -1,1 H 14.4698 c -0.55,0 -1,-0.45 -1,-1 z"
+       id="path2" />
+    <circle
+       cx="35.992001"
+       cy="59.084202"
+       r="2"
+       fill="#000"
+       stroke="none"
+       id="circle4" />
+    <rect
+       x="17.8806"
+       y="13.0368"
+       width="36.1591"
+       height="41.438702"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect6" />
+  </g>
+</g></svg>

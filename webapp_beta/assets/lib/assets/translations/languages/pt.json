@@ -459,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "Sim, leve-me para a página do aplicativo",
     "app_rating_prompt_later_option_text": "Talvez mais tarde, lembre-me",
     "app_rating_prompt_never_option_text": "Não, obrigado, não pergunte novamente",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

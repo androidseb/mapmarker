@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.4999979375085078)">
+  
+  <g
+     id="line"
+     transform="translate(-11.999901,-11.999901)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 36.4153,41.0924 c 0,0 10.5248,3.1956 0,5.5637 0,0 10.4577,2.9883 0,4.9125"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 21.1085,27.2016 c 0.7207,-1.3857 1.9278,-2.4541 3.3907,-3 1.4052,-0.7002 3.0205,-0.8486 4.5302,-0.4209"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 50.7189,27.2016 C 49.1369,24.4292 45.9152,23.0317 42.8097,23.771"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 23.4843,34.2452 c 0,0 3.9322,-2.1695 8,0"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 40.7343,34.2452 c 0,0 3.9322,-2.1695 8,0"
+       id="path10" />
+    <circle
+       cx="36"
+       cy="36"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse12"
+       r="23.000099" />
+  </g>
+</g></svg>

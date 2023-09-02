@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 0.16880518917199971) scale(0.36330513394205005)">
+  
+  <g
+     id="line"
+     transform="translate(-2.9921,-3.4109004)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 67.2748,8.7696 67.7809,7.9113 C 68.3366,6.9688 68.0201,5.7431 67.0776,5.1874 L 66.6492,4.9349 66.2208,4.6823 C 65.2784,4.1266 64.0526,4.4431 63.4969,5.3856 L 33.1938,56.7781 c -0.4812,0.7463 -1.3198,1.2404 -2.2739,1.2404 H 30.941 7.056 c -1.6851,0 -3.0639,1.3788 -3.0639,3.0639 v 2.5609 c 0,1.6852 1.3788,3.0639 3.0639,3.0639 h 24.2974 c 1.1031,0 2.0849,-0.5854 2.6246,-1.4662 v 0 L 65.2468,12.2092"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="1.9"
+       d="m 65.4897,61.6258 v 3.9515 c 0,1.1126 -4.2382,2.0145 -9.4662,2.0145 -5.228,0 -9.4662,-0.9019 -9.4662,-2.0145 v -3.9515"
+       id="path4" />
+    <ellipse
+       cx="56.023499"
+       cy="61.635799"
+       rx="9.4661999"
+       ry="1.8788"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="1.9"
+       id="ellipse6" />
+  </g>
+</g></svg>
