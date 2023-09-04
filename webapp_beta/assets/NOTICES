@@ -5275,10 +5275,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 cross_file
-file_selector_linux
-file_selector_macos
-file_selector_platform_interface
-file_selector_windows
 flutter_plugin_android_lifecycle
 google_identity_services_web
 google_maps_flutter
@@ -5291,10 +5287,7 @@ google_sign_in_ios
 google_sign_in_platform_interface
 google_sign_in_web
 image_picker_for_web
-image_picker_linux
-image_picker_macos
 image_picker_platform_interface
-image_picker_windows
 in_app_purchase
 in_app_purchase_android
 in_app_purchase_platform_interface
@@ -32539,7 +32532,7 @@ SOFTWARE.
 mocktail
 
 The MIT License (MIT)
-Copyright (c) 2023 Felix Angelov
+Copyright (c) 2020 Felix Angelov
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
