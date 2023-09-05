@@ -705,3 +705,18 @@
 					Since images are coming from Google Drive (drive.google.com) instead of mapmarker.app, the browser with third party content blocked might block this, resulting in images displayed as white squares.
 					To fix this on Google Chrome, go to the browser settings and change the settings under "Cookies and other site data" to allow third party cookies on mapmarker.app.
 				</p>
+				<h2>KMZ archive size limitations</h2>
+				<p>
+					Map Marker can handle KMZ archives with a size of up to 2GB without issues. Above 2GB, some limitations apply:
+				</p>
+				<ul>
+					<li>The Map Marker PC web app will fail to import or export archives exceeding 2GB</li>
+					<li>All versions of Map Marker will fail to import or export archives exceeding 4GB</li>
+				</ul>
+				<p>
+					You can work around these limitations in different ways:
+				</p>
+				<ul>
+					<li>If you're trying to <b>export</b> an archive exceeding the limit, try to export a smaller subset of POIs (e.g. export only a few folders at a time instead of exporting everything)</li>
+					<li>If you're trying to <b>import</b> an archive exceeding the limit, try to re-create that archive by splitting it into smaller chunks</li>
+				</ul>
