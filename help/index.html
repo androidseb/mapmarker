@@ -161,7 +161,6 @@
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Problems_with_map_display_blank_map">Problems with map display: blank map</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Problems_with_blocked_internet_access">Problems with blocked internet access</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_App_launch_error_DatabaseException_Row_too_big">App launch error: "DatabaseException Row too big..."</a><br>
-				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_KMZ_archive_size_limitations">KMZ archive size limitations</a><br>
 
 
 				<a name="devices_android_User_interface_description"></a>
@@ -881,22 +880,6 @@
 					<li>Exit the app completely, and launch it again: the initialization error should be gone</li>
 				</ol>
 
-				<a name="devices_android_KMZ_archive_size_limitations"></a>
-				<h2>KMZ archive size limitations</h2>
-				<p>
-					Map Marker can handle KMZ archives with a size of up to 2GB without issues. Above 2GB, some limitations apply:
-				</p>
-				<ul>
-					<li>The Map Marker PC web app will fail to import or export archives exceeding 2GB</li>
-					<li>All versions of Map Marker will fail to import or export archives exceeding 4GB</li>
-				</ul>
-				<p>
-					You can work around these limitations in different ways:
-				</p>
-				<ul>
-					<li>If you're trying to <b>export</b> an archive exceeding the limit, try to export a smaller subset of POIs (e.g. export only a few folders at a time instead of exporting everything)</li>
-					<li>If you're trying to <b>import</b> an archive exceeding the limit, try to re-create that archive by splitting it into smaller chunks</li>
-				</ul>
 			</div>
 			<div class="devices_ios">
 				<a style="display:inline-block;" href="#devices_ios_User_interface_description"><b>User interface description</b></a><br>
@@ -943,7 +926,6 @@
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Collecting_a_log_file">Collecting a log file</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Problems_importing_CSV_files">Problems importing CSV files</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Cloud_sync_error_404_file_not_found">Cloud sync error: 404 file not found</a><br>
-				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_KMZ_archive_size_limitations">KMZ archive size limitations</a><br>
 
 
 				<a name="devices_ios_User_interface_description"></a>
@@ -1516,22 +1498,6 @@
 					</ol>
 				</p>
 
-				<a name="devices_ios_KMZ_archive_size_limitations"></a>
-				<h2>KMZ archive size limitations</h2>
-				<p>
-					Map Marker can handle KMZ archives with a size of up to 2GB without issues. Above 2GB, some limitations apply:
-				</p>
-				<ul>
-					<li>The Map Marker PC web app will fail to import or export archives exceeding 2GB</li>
-					<li>All versions of Map Marker will fail to import or export archives exceeding 4GB</li>
-				</ul>
-				<p>
-					You can work around these limitations in different ways:
-				</p>
-				<ul>
-					<li>If you're trying to <b>export</b> an archive exceeding the limit, try to export a smaller subset of POIs (e.g. export only a few folders at a time instead of exporting everything)</li>
-					<li>If you're trying to <b>import</b> an archive exceeding the limit, try to re-create that archive by splitting it into smaller chunks</li>
-				</ul>
 			</div>
 			<div class="devices_web">
 				<a style="display:inline-block;" href="#devices_web_User_interface_description"><b>User interface description</b></a><br>
@@ -2163,12 +2129,8 @@
 				<a name="devices_web_KMZ_archive_size_limitations"></a>
 				<h2>KMZ archive size limitations</h2>
 				<p>
-					Map Marker can handle KMZ archives with a size of up to 2GB without issues. Above 2GB, some limitations apply:
+					The Map Marker PC web app can handle KMZ archives with a size of up to 2GB without issues. Above 2GB, the web app will fail to import or export archives.
 				</p>
-				<ul>
-					<li>The Map Marker PC web app will fail to import or export archives exceeding 2GB</li>
-					<li>All versions of Map Marker will fail to import or export archives exceeding 4GB</li>
-				</ul>
 				<p>
 					You can work around these limitations in different ways:
 				</p>
