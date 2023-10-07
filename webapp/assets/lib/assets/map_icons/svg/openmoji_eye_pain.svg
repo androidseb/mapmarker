@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 0.5822285714285709) scale(0.5714285714285714)">
+  
+  <g
+     id="line"
+     transform="translate(-15,-12.696)">
+    <ellipse
+       cx="36"
+       cy="39.921101"
+       rx="20"
+       ry="11.7371"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="ellipse2" />
+    <circle
+       cx="36.1436"
+       cy="39.6511"
+       r="4.8502002"
+       id="circle4" />
+    <circle
+       cx="36.1436"
+       cy="39.6511"
+       r="4.8502002"
+       fill="none"
+       id="circle6" />
+    <circle
+       cx="36.1436"
+       cy="39.6511"
+       r="8.8964005"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="circle8" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="43.135 24.35 45.118 20.313 47.144 22.465 49.635 17.393"
+       id="polyline10" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="24.316 16.259 26.649 20.104 23.745 20.653 26.675 25.483"
+       id="polyline12" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="36.48 22.682 36.29 18.188 33.569 19.342 33.331 13.696"
+       id="polyline14" />
+  </g>
+</g></svg>

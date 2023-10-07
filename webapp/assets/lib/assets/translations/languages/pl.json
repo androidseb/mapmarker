@@ -436,7 +436,6 @@
     "marker_as_file_description2": "Eksportuj wybrany znacznik jako plik",
     "export_as_file": "Eksportuj jako plik",
     "sucessfully_saved_to_device_files": "Pomyślnie zapisano w plikach urządzenia",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Nie znaleziono folderu map w chmurze — jeśli szukasz starych map w chmurze utworzonych za pomocą starej wersji Map Marker (V2), zamiast tego wypróbuj opcję „Otwórz i przeprowadź migrację mapy w chmurze w wersji 2”.",
     "file_export_intention_question": "Jak chcesz użyć wyeksportowanego pliku?",
     "folders_added_x": "Dodane foldery: %s",
     "folders_modified_x": "Zmodyfikowane foldery: %s",
@@ -460,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "Tak, przenieś mnie na stronę aplikacji",
     "app_rating_prompt_later_option_text": "Może później, przypomnij mi",
     "app_rating_prompt_never_option_text": "Nie, dziękuję, nie pytaj ponownie",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

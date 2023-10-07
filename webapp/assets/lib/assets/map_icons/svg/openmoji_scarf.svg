@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.9538732664208247 0.0) scale(0.4655133998904996)">
+  
+  <g
+     id="line"
+     transform="translate(-12.244468,-10.079622)">
+    <path
+       id="Scarf_Line_1"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 58.5325,26.2869 c -0.5538,-3.29 -3.2062,-3.5652 -5.06,-4.0526 a 1.65,1.65 0 0 1 -1.1647,-2.0749 9.3069,9.3069 0 0 0 0.3488,-4.9872 c -0.84,-2.7235 -4.5033,-4.4717 -5.0751,-4.0175 a 20.7541,20.7541 0 0 1 -11.6084,4.017 20.7541,20.7541 0 0 1 -11.6084,-4.017 c -0.5718,-0.4542 -4.2353,1.294 -5.0751,4.0175 a 9.497,9.497 0 0 0 0.394,5.1338 1.472,1.472 0 0 1 -0.9778,1.8647 c -1.8562,0.533 -4.7145,0.6862 -5.2919,4.1162 -1.1975,7.1144 3.9252,8.4664 6.6654,8.8068 7.8862,0.98 23.8853,0.8409 31.7876,0 2.7459,-0.2921 7.8631,-1.6924 6.6656,-8.8068 z" />
+    <line
+       id="Scarf_Line_2"
+       x1="56.056499"
+       x2="56.056499"
+       y1="54.711201"
+       y2="37.3367"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2" />
+    <line
+       id="Scarf_Line_3"
+       x1="42.800301"
+       x2="42.800301"
+       y1="56.117599"
+       y2="38.743099"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2" />
+    <line
+       id="Scarf_Line_4"
+       x1="52.219398"
+       x2="52.219398"
+       y1="59.979401"
+       y2="53.964802"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2" />
+    <line
+       id="Scarf_Line_5"
+       x1="49.553398"
+       x2="49.553398"
+       y1="60.307499"
+       y2="54.292999"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2" />
+    <line
+       id="Scarf_Line_6"
+       x1="46.887402"
+       x2="46.887402"
+       y1="60.635601"
+       y2="54.621101"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2" />
+    <path
+       id="Scarf_Line_7"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 22.98,23.4314 c 3.7066,1.6744 7.5693,2.1755 12.993,2.1755 a 25.1354,25.1354 0 0 0 7.1648,-1.0878" />
+  </g>
+</g></svg>

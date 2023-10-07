@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.8275862068965516 0.0) scale(0.41379310344827586)">
+  
+  <g
+     id="line"
+     transform="translate(-9,-7)">
+    <ellipse
+       cx="36"
+       cy="36"
+       rx="26"
+       ry="28"
+       fill="none"
+       stroke="#000"
+       stroke-width="2"
+       id="ellipse2" />
+    <ellipse
+       cx="36"
+       cy="36"
+       rx="26"
+       ry="28"
+       fill="none"
+       stroke="#000"
+       stroke-width="2"
+       id="ellipse4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-width="2"
+       d="M 29,17.1111 C 31.1144,15.7588 33.4897,15 36,15 c 8.8366,0 16,9.402 16,21 0,11.598 -7.1634,21 -16,21 -2.5103,0 -4.8856,-0.7588 -7,-2.1111"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-width="2"
+       d="M 31,11.3723 C 24.4484,16.1117 20,25.3632 20,36 c 0,10.6368 4.4484,19.8883 11,24.6277"
+       id="path8" />
+  </g>
+</g></svg>

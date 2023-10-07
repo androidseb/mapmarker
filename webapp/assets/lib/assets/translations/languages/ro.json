@@ -436,7 +436,6 @@
     "marker_as_file_description2": "Exportați marcatorul selectat ca fișier",
     "export_as_file": "Exportați ca fișier",
     "sucessfully_saved_to_device_files": "Salvat cu succes în fișierele dispozitivului",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Nu s-a găsit niciun folder de hărți în cloud - dacă căutați hărți cloud vechi create cu versiunea veche a Map Marker (V2), încercați în schimb opțiunea „Deschideți și migrați o hartă cloud V2”.",
     "file_export_intention_question": "Cum doriți să utilizați fișierul exportat?",
     "folders_added_x": "Dosare adăugate: %s",
     "folders_modified_x": "Foldere modificate: %s",
@@ -460,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "Da, du-mă la pagina aplicației",
     "app_rating_prompt_later_option_text": "Poate mai târziu, amintește-mi",
     "app_rating_prompt_never_option_text": "Nu, mulțumesc, nu mai întreba",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

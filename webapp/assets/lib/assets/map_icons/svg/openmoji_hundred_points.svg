@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 1.4829310959490911) scale(0.47804858654776855)">
+  
+  <g
+     id="line"
+     transform="translate(-10.9843,-12.059)">
+    <line
+       x1="59.182899"
+       x2="13.1829"
+       y1="46.058998"
+       y2="46.058998"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="4"
+       id="line2" />
+    <line
+       x1="59.182899"
+       x2="13.1829"
+       y1="54.058998"
+       y2="54.058998"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="4"
+       id="line4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="4"
+       d="m 32.9833,37.0046 v 0 c -3.4677,0 -6.2789,-2.8112 -6.2789,-6.2789 V 20.3382 c 0,-3.4677 2.8112,-6.2792 6.2789,-6.2792 v 0 c 3.4681,0 6.2792,2.8115 6.2792,6.2792 v 10.3875 c 0,3.4677 -2.8112,6.2789 -6.2792,6.2789 z"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="4"
+       d="m 52.9092,37.0046 v 0 c -3.4677,0 -6.2789,-2.8112 -6.2789,-6.2789 V 20.3382 c 0,-3.4677 2.8112,-6.2792 6.2789,-6.2792 v 0 c 3.4681,0 6.2792,2.8115 6.2792,6.2792 v 10.3875 c 0,3.4677 -2.8111,6.2789 -6.2792,6.2789 z"
+       id="path8" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="4"
+       points="12.9843,18.8851 19.3366,14.1262 19.3366,37.0718"
+       id="polyline10" />
+  </g>
+</g></svg>

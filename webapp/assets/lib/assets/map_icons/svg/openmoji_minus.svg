@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 8.947107651868654) scale(0.49658289926987625)">
+  
+  <g
+     id="line"
+     transform="translate(-12.4865,-29.6127)">
+    <rect
+       x="31.503901"
+       y="12.5953"
+       width="10.2956"
+       height="46.330299"
+       transform="rotate(-90,36.6517,35.7605)"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect2" />
+  </g>
+</g></svg>

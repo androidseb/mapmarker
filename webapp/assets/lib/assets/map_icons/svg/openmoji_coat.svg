@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(3.1432926160417622 0.0) scale(0.4446953184848578)">
+  
+  <g
+     id="line"
+     transform="translate(-16.1673,-7.0304636)">
+    <circle
+       cx="35.900002"
+       cy="39.900002"
+       r="0.89999998"
+       fill="#000"
+       id="circle2" />
+    <circle
+       cx="35.900002"
+       cy="43.900002"
+       r="0.89999998"
+       fill="#000"
+       id="circle4" />
+    <circle
+       cx="35.900002"
+       cy="47.900002"
+       r="0.89999998"
+       fill="#000"
+       id="circle6" />
+    <g
+       id="_">
+      <polyline
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         points="26.944 35 24 60 36.079 60 48.158 60 45.214 35"
+         id="polyline8" />
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         d="m 22.4461,26.3725 v 10.5687 h -5.2788 v -18.95 A 1.4518,1.4518 0 0 1 18.01,16.7129 L 27,11"
+         id="path10" />
+      <line
+         x1="30"
+         x2="42"
+         y1="35"
+         y2="35"
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="line12" />
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         d="m 45.1673,11 8.99,5.7132 A 1.4518,1.4518 0 0 1 55,17.9915 v 18.95 h -5.2788 v -10.569"
+         id="path14" />
+    </g>
+    <g
+       id="_2">
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         d="M 29,10.5385 34.376,15.22 31.6271,17 C 25.528,10.5308 27.59,10.7137 27.59,10.7137 a 14.6763,14.6763 0 0 1 16.923,0 c 0,0 2.1475,-0.2556 -4.0375,6.2136 L 37.7266,15.1473 43,10.5385"
+         id="path17" />
+    </g>
+    <circle
+       cx="35.900002"
+       cy="21.9"
+       r="0.89999998"
+       fill="#000"
+       id="circle20" />
+    <circle
+       cx="35.900002"
+       cy="25.9"
+       r="0.89999998"
+       fill="#000"
+       id="circle22" />
+    <circle
+       cx="35.900002"
+       cy="29.9"
+       r="0.89999998"
+       fill="#000"
+       id="circle24" />
+  </g>
+</g></svg>

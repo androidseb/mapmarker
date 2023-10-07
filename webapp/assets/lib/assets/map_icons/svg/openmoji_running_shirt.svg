@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(4.139532687329115 0.0) scale(0.37490511971524954)">
+  
+  <g
+     id="line"
+     transform="translate(-13.9583,-4)">
+    <g
+       id="g10">
+      <g
+         id="g6">
+        <path
+           fill="none"
+           stroke="#000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="M 16.8914,46.4939 V 24.0162 c 5.3229,-0.1787 4.9687,-13.0313 4.9687,-13.0313 l 0.0313,-5.9687 h 3.8363 a 10,10 0 0 0 20,0 h 4.1637 v 6 c 0,0 -0.41,13 5,13 v 43 h -38 v -14.75"
+           id="path2" />
+        <path
+           fill="none"
+           stroke="#000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="M 41.6674,8.3189 A 10.0055,10.0055 0 0 1 29.5179,8.203"
+           id="path4" />
+      </g>
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         d="M 14.9583,52.0078 V 47.0331 C 30.7508,47.0331 45.7971,28.1679 45.7971,5 H 50 C 50,30.9117 33.4936,52.0078 14.9583,52.0078 Z"
+         id="path8" />
+    </g>
+  </g>
+</g></svg>

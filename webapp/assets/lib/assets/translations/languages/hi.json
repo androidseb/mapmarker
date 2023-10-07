@@ -436,7 +436,6 @@
     "marker_as_file_description2": "चयनित मार्कर को फ़ाइल के रूप में निर्यात करें",
     "export_as_file": "फ़ाइल के रूप में निर्यात करें",
     "sucessfully_saved_to_device_files": "डिवाइस फ़ाइलों में सफलतापूर्वक सहेजा गया",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "क्लाउड पर कोई नक्शा फ़ोल्डर नहीं मिला - यदि आप Map Marker (V2) के पुराने संस्करण के साथ बनाए गए पुराने क्लाउड मैप्स की तलाश कर रहे हैं, तो इसके बजाय 'V2 क्लाउड मैप खोलें और माइग्रेट करें' विकल्प का प्रयास करें।",
     "file_export_intention_question": "आप निर्यात की गई फ़ाइल का उपयोग कैसे करना चाहते हैं?",
     "folders_added_x": "फ़ोल्डर जोड़े गए: %s",
     "folders_modified_x": "फ़ोल्डर संशोधित: %s",
@@ -460,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "हां, मुझे ऐप पेज पर ले जाएं",
     "app_rating_prompt_later_option_text": "शायद बाद में, मुझे याद दिलाएँ",
     "app_rating_prompt_never_option_text": "नहीं धन्यवाद, दोबारा मत पूछो",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

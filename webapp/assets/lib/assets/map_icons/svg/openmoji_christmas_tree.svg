@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(4.619727122936845 0.0) scale(0.37338350031069395)">
+  
+  <g
+     id="line-supplement"
+     transform="translate(-16.234068,-3.758126)">
+    <circle
+       cx="36.080799"
+       cy="25.7442"
+       r="2"
+       id="circle2" />
+    <circle
+       cx="43.680599"
+       cy="49.952999"
+       r="2"
+       id="circle4" />
+    <circle
+       cx="28.4046"
+       cy="51.923801"
+       r="2"
+       id="circle6" />
+    <circle
+       cx="41.680599"
+       cy="38.673901"
+       r="2"
+       id="circle8" />
+    <circle
+       cx="32.404598"
+       cy="34.1987"
+       r="2"
+       id="circle10" />
+    <circle
+       cx="34.404598"
+       cy="45.0546"
+       r="2"
+       id="circle12" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-16.234068,-3.758126)">
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="39.778 19.109 47.308 30.774 43.378 30.291 51.471 44.127 46.384 43.491 54.766 60.207 41.932 59.373"
+       id="polyline15" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="30.068 59.373 17.234 60.207 25.616 43.491 20.529 44.127 28.622 30.291 24.692 30.774 32.222 19.109"
+       id="polyline17" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 40.45,62.4235 v 3.0417 a 1.4565,1.4565 0 0 1 -1.2931,1.57 h -6.3133 a 1.4565,1.4565 0 0 1 -1.2931,-1.57 v -3.0417"
+       id="path19" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="42.052,9.155 39.026,12.105 39.74,16.27 36,14.304 32.26,16.27 32.974,12.105 29.948,9.155 34.13,8.548 36,4.758 37.87,8.548 "
+       id="polygon21" />
+  </g>
+</g></svg>

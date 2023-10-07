@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 3.184498536798209) scale(0.6018310710336198)">
+  
+  <g
+     id="line"
+     transform="translate(-16.060801,-21.3522)">
+    <g
+       id="line-2">
+      <rect
+         x="17.060801"
+         y="22.3522"
+         width="37.8783"
+         height="10.2956"
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="rect2" />
+    </g>
+    <g
+       id="line-3">
+      <rect
+         x="17.060801"
+         y="39.3522"
+         width="37.8783"
+         height="10.2956"
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="rect5" />
+    </g>
+  </g>
+</g></svg>

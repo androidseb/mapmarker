@@ -436,7 +436,6 @@
     "marker_as_file_description2": "Xuất điểm đánh dấu đã chọn dưới dạng tệp",
     "export_as_file": "Xuất dưới dạng tệp",
     "sucessfully_saved_to_device_files": "Đã lưu thành công vào tệp thiết bị",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Không tìm thấy thư mục bản đồ nào trên đám mây - nếu bạn đang tìm bản đồ đám mây cũ được tạo bằng phiên bản Map Marker (V2) cũ, hãy thử tùy chọn 'Mở và di chuyển bản đồ đám mây V2' để thay thế.",
     "file_export_intention_question": "Bạn muốn sử dụng tệp đã xuất như thế nào?",
     "folders_added_x": "Đã thêm thư mục: %s",
     "folders_modified_x": "Các thư mục được sửa đổi: %s",
@@ -460,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "Vâng, đưa tôi đến trang ứng dụng",
     "app_rating_prompt_later_option_text": "Có lẽ sau này, nhắc nhở tôi",
     "app_rating_prompt_never_option_text": "Không, cảm ơn, đừng hỏi lại",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

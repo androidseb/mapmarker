@@ -436,7 +436,6 @@
     "marker_as_file_description2": "Exporteer de geselecteerde markering als een bestand",
     "export_as_file": "Exporteren als bestand",
     "sucessfully_saved_to_device_files": "Succesvol opgeslagen in apparaatbestanden",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Geen kaartmap gevonden in de cloud - als u op zoek bent naar oude cloudkaarten die zijn gemaakt met de oude versie van Map Marker (V2), probeer dan de optie 'Open en migreer een V2-cloudkaart'.",
     "file_export_intention_question": "Hoe wilt u het geëxporteerde bestand gebruiken?",
     "folders_added_x": "Mappen toegevoegd: %s",
     "folders_modified_x": "Mappen aangepast: %s",
@@ -460,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "Ja, breng me naar de app-pagina",
     "app_rating_prompt_later_option_text": "Misschien later, herinner me eraan",
     "app_rating_prompt_never_option_text": "Nee bedankt, vraag het niet nog een keer",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

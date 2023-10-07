@@ -436,7 +436,6 @@
     "marker_as_file_description2": "將所選標記導出為文件",
     "export_as_file": "導出為文件",
     "sucessfully_saved_to_device_files": "成功保存到設備文件",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "在雲上找不到地圖文件夾 - 如果您正在尋找使用舊版本 Map Marker (V2) 創建的舊雲地圖，請嘗試“打開並遷移 V2 雲地圖”選項。",
     "file_export_intention_question": "您想如何使用導出的文件？",
     "folders_added_x": "添加的文件夾：%s",
     "folders_modified_x": "修改的文件夾：%s",
@@ -460,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "是的，帶我到應用程序頁面",
     "app_rating_prompt_later_option_text": "也許以後再提醒我",
     "app_rating_prompt_never_option_text": "不，謝謝，不要再問",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

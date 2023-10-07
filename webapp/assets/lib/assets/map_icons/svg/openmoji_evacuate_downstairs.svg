@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(3.5365726688875263 0.0) scale(0.4364346482484941)">
+  
+  <g
+     id="line"
+     transform="translate(-17.824,-8.2019507)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 30.2458,35.1754 -0.8973,3.1093 a 5.4643,5.4643 0 0 1 -1.3964,2.2871 l -4.0583,3.6811 a 1.8738,1.8738 0 0 1 -2.4513,-0.0421 2.0485,2.0485 0 0 1 0.2987,-2.3233 l 4.1637,-4.6711 0.3187,-2.0831"
+       id="path2" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="18.824 46.107 29.697 46.107 29.697 51.728 41.132 51.728 41.132 57.349 52.371 57.349 52.371 62.193"
+       id="polyline4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 33.3071,27.6766 v 2.7558 l 3.487,4.9631 a 8.5845,8.5845 0 0 1 0.1944,2.8445 l -0.3742,9.2773 a 1.61,1.61 0 0 1 -1.5094,1.586 1.5787,1.5787 0 0 1 -1.622,-1.6012 l -0.2389,-9.97 -5.6953,-5.66 A 4.7267,4.7267 0 0 1 26.6156,29.0353 V 23.64"
+       id="path6" />
+    <line
+       x1="40.9226"
+       x2="55.608398"
+       y1="32.2169"
+       y2="38.790001"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 40.2627,28.2575 33.3071,24.3215 33.276,20.84 c -0.1861,-1.5978 -0.7752,-3.0314 -3.0842,-3.0314 -3.2685,0 -7.3183,4.1 -7.3183,5.8843 v 6.1942"
+       id="path10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 30.8582,12.4667 a 3.2656,3.2656 0 1 1 3.2656,3.2656"
+       id="path12" />
+  </g>
+</g></svg>

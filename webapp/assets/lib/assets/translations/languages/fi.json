@@ -436,7 +436,6 @@
     "marker_as_file_description2": "Vie valittu merkki tiedostona",
     "export_as_file": "Vie tiedostona",
     "sucessfully_saved_to_device_files": "Tallentaminen laitetiedostoihin onnistui",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Pilvestä ei löytynyt karttakansiota – jos etsit vanhoja pilvikarttoja, jotka on luotu Map Marker:n (V2) vanhalla versiolla, kokeile vaihtoehtoa \"Avaa ja siirrä V2-pilvikartta\".",
     "file_export_intention_question": "Miten haluat käyttää vietyä tiedostoa?",
     "folders_added_x": "Lisätyt kansiot: %s",
     "folders_modified_x": "Muokatut kansiot: %s",
@@ -460,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "Kyllä, vie minut sovellussivulle",
     "app_rating_prompt_later_option_text": "Ehkä myöhemmin, muistuta minua",
     "app_rating_prompt_never_option_text": "Ei kiitos, älä kysy uudestaan",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

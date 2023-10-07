@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.48)">
+  
+  <g
+     id="line"
+     transform="translate(-11,-11)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 59.0349,60 H 12.9651 C 12.4343,60 12,59.5657 12,59.0349 V 12.9651 C 12,12.4343 12.4343,12 12.9651,12 H 59.0349 C 59.5657,12 60,12.4343 60,12.9651 V 59.0349 C 60,59.5657 59.5657,60 59.0349,60 Z"
+       id="path2" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="33.6112,33.175 28.9827,22.375 24.3541,33.175"
+       id="polyline4" />
+    <line
+       x1="25.8969"
+       x2="32.068401"
+       y1="30.589001"
+       y2="30.589001"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 32.1905,48.4044 c -0.6809,0.6039 -1.5768,0.9706 -2.5585,0.9706 v 0 c -2.1302,0 -3.8571,-1.7269 -3.8571,-3.8571 v -3.0857 3.0857 -3.0857 c 0,-2.1302 1.7269,-3.8571 3.8571,-3.8571 v 0 c 0.9817,0 1.8777,0.3667 2.5585,0.9708"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 44.8168,27.7749 h -4.1182 v -5.3798 h 4.1182 c 1.4856,0 2.69,1.2044 2.69,2.69 v 0 c -10e-5,1.4856 -1.2044,2.6898 -2.69,2.6898 z"
+       id="path10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 44.8168,33.1549 H 40.6986 V 27.775 h 4.1182 c 1.4856,0 2.69,1.2044 2.69,2.69 v 0 c -10e-5,1.4855 -1.2044,2.6899 -2.69,2.6899 z"
+       id="path12" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 45.4998,49.3549 H 40.6259 V 38.5951 h 4.8739 c 1.1485,0 2.0796,0.9311 2.0796,2.0796 v 6.6005 c 0,1.1486 -0.9311,2.0797 -2.0796,2.0797 z"
+       id="path14" />
+  </g>
+</g></svg>

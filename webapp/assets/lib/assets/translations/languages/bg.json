@@ -436,7 +436,6 @@
     "marker_as_file_description2": "Експортирайте избрания маркер като файл",
     "export_as_file": "Експортиране като файл",
     "sucessfully_saved_to_device_files": "Успешно запазени във файловете на устройството",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "В облака не е намерена папка с карти – ако търсите стари облачни карти, създадени със старата версия на Map Marker (V2), опитайте вместо това опцията „Отворете и мигрирайте облачна карта V2“.",
     "file_export_intention_question": "Как искате да използвате експортирания файл?",
     "folders_added_x": "Добавени папки: %s",
     "folders_modified_x": "Променени папки: %s",
@@ -460,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "Да, отведе ме до страницата на приложението",
     "app_rating_prompt_later_option_text": "Може би по-късно, напомни ми",
     "app_rating_prompt_never_option_text": "Не благодаря, не питай отново",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

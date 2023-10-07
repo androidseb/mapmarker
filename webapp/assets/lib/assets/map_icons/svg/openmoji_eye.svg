@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 4.819288882889256) scale(0.3351056606299523)">
+  
+  <g
+     id="line"
+     transform="translate(0.05960083,-15)">
+    <ellipse
+       cx="35.75"
+       cy="36.4282"
+       rx="34.809601"
+       ry="20.4282"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse2" />
+    <circle
+       cx="36"
+       cy="35.958302"
+       r="8.4415998"
+       fill="#000"
+       stroke="none"
+       id="circle4" />
+    <circle
+       cx="36"
+       cy="35.958302"
+       r="8.4415998"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle6" />
+    <circle
+       cx="36"
+       cy="35.958302"
+       r="15.484"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle8" />
+  </g>
+</g></svg>

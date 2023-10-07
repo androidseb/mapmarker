@@ -436,7 +436,6 @@
     "marker_as_file_description2": "Εξαγάγετε τον επιλεγμένο δείκτη ως αρχείο",
     "export_as_file": "Εξαγωγή ως αρχείο",
     "sucessfully_saved_to_device_files": "Αποθηκεύτηκε με επιτυχία στα αρχεία της συσκευής",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Δεν βρέθηκε φάκελος χάρτη στο cloud - εάν αναζητάτε παλιούς χάρτες cloud που έχουν δημιουργηθεί με την παλιά έκδοση του Map Marker (V2), δοκιμάστε την επιλογή 'Άνοιγμα και μετεγκατάσταση χάρτη νέφους V2'.",
     "file_export_intention_question": "Πώς θέλετε να χρησιμοποιήσετε το εξαγόμενο αρχείο;",
     "folders_added_x": "Προστέθηκαν φάκελοι: %s",
     "folders_modified_x": "Τροποποιημένοι φάκελοι: %s",
@@ -460,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "Ναι, μεταβείτε στη σελίδα της εφαρμογής",
     "app_rating_prompt_later_option_text": "Ίσως αργότερα, θύμισέ μου",
     "app_rating_prompt_never_option_text": "Όχι, ευχαριστώ, μην ξαναρωτήσεις",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

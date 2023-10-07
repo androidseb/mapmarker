@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(3.724137931034482 0.0) scale(0.41379310344827586)">
+  
+  <g
+     id="line"
+     transform="translate(-16,-7)">
+    <ellipse
+       cx="36"
+       cy="36"
+       rx="19"
+       ry="28"
+       fill="none"
+       stroke="#000"
+       stroke-width="2"
+       id="ellipse2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 36,36 C 36,36 33,30.4036 33,23.5 33,16.5964 36,11 36,11"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 36,36 c 0,0 3,5.5964 3,12.5 0,6.9036 -3,12.5 -3,12.5"
+       id="path6" />
+  </g>
+</g></svg>

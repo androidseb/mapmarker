@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.7170300400631572)">
+  
+  <g
+     id="line-supplement"
+     transform="translate(-19.2643,-19.3059)">
+    <path
+       id="kleines mittleres schwarzes quadrat color 1"
+       fill="#000"
+       d="M 51.7357,20.3059 H 20.2643 v 31.4714 h 31.4714 z" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-19.2643,-19.3059)">
+    <path
+       id="kleines mittleres schwarzes quadrat line 1"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 51.7357,20.3059 H 20.2643 v 31.4714 h 31.4714 z" />
+  </g>
+</g></svg>

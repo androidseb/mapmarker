@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(2.78454338204215 0.0) scale(0.6064585868509216)">
+  
+  <g
+     id="line"
+     transform="translate(-19.398968,-16.722007)">
+    <ellipse
+       cx="31.5844"
+       cy="51.769501"
+       rx="3.7291999"
+       ry="3.0028"
+       transform="matrix(0.55587,-0.83127,0.83127,0.55587,-29.007,49.247)"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse2" />
+    <path
+       d="m 30.5831,48.93 -0.2992,-2.1686 c 0,0 -1.1385,0.02 -0.5878,-0.7848 l 2.3613,-0.279 0.3392,2.4585 A 3.2,3.2 0 0 0 30.5831,48.93 Z"
+       id="path4" />
+    <line
+       x1="31.221001"
+       x2="38.088001"
+       y1="46.152599"
+       y2="32.714199"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line6" />
+    <ellipse
+       cx="23.568001"
+       cy="47.536999"
+       rx="3.7291999"
+       ry="3.0028"
+       transform="matrix(0.45941,-0.88822,0.88822,0.45941,-29.483,46.632)"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse8" />
+    <path
+       d="m 26.2019,46.375 2.0434,-0.7854 c 0,0 0.532,1.0067 0.971,0.1356 l -0.8,-2.0978 -2.3166,0.89 a 3.1724,3.1724 0 0 1 0.1022,1.8576 z"
+       id="path10" />
+    <line
+       x1="28.339701"
+       x2="37.2929"
+       y1="44.6479"
+       y2="31.8871"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line12" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 47.0234,19.2768 c 0,0 4.32,2.9181 -0.5265,5.981 l -5.8929,3.1068"
+       id="path14" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 44.32,18.1092 c 0,0 -4.7619,-2.1223 -4.7969,3.6111 l 0.4813,6.6443"
+       id="path16" />
+    <rect
+       x="37.288898"
+       y="27.319"
+       rx="1.7358"
+       width="3.4714999"
+       height="5.6787"
+       transform="matrix(0.86603,0.5,-0.5,0.86603,20.307,-15.472)"
+       id="rect18" />
+  </g>
+</g></svg>

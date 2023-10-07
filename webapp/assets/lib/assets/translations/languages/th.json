@@ -436,7 +436,6 @@
     "marker_as_file_description2": "ส่งออกเครื่องหมายที่เลือกเป็นไฟล์",
     "export_as_file": "ส่งออกเป็นไฟล์",
     "sucessfully_saved_to_device_files": "บันทึกลงในไฟล์อุปกรณ์เรียบร้อยแล้ว",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "ไม่พบโฟลเดอร์แผนที่บนคลาวด์ - หากคุณกำลังมองหาแผนที่คลาวด์เก่าที่สร้างด้วย Map Marker เวอร์ชันเก่า (V2) ให้ลองใช้ตัวเลือก 'เปิดและย้ายแผนที่คลาวด์ V2' แทน",
     "file_export_intention_question": "คุณต้องการใช้ไฟล์ที่ส่งออกอย่างไร",
     "folders_added_x": "เพิ่มโฟลเดอร์: %s",
     "folders_modified_x": "แก้ไขโฟลเดอร์: %s",
@@ -460,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "ใช่ พาฉันไปที่หน้าแอป",
     "app_rating_prompt_later_option_text": "คราวหลังช่วยเตือนฉันที",
     "app_rating_prompt_never_option_text": "ไม่ ขอบคุณ ไม่ต้องถามอีก",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

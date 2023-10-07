@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 0.6575744189065933) scale(0.4202909611280245)">
+  
+  <g
+     id="line"
+     transform="translate(-7.4925,-6.9766413)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 41.9901,59.9508 H 53.982 c 0.55,0 1,-0.45 1,-1 v -24.938"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 17.058,34.0128 v 24.938 c 0,0.55 0.45,1 1,1 h 12.1346"
+       id="path4" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="8.4925,35.5947 36.0155,7.9766 63.5958,35.3474"
+       id="polyline6" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="41.8149,59.9327 41.8149,41.6273 30.2251,41.6273 30.2251,59.9327"
+       id="polyline8" />
+  </g>
+</g></svg>

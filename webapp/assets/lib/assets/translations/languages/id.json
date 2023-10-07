@@ -436,7 +436,6 @@
     "marker_as_file_description2": "Ekspor penanda yang dipilih sebagai file",
     "export_as_file": "Ekspor sebagai file",
     "sucessfully_saved_to_device_files": "Berhasil disimpan ke file perangkat",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Tidak ada folder peta yang ditemukan di cloud - jika Anda mencari peta cloud lama yang dibuat dengan versi lama Map Marker (V2), coba opsi 'Buka dan migrasikan peta cloud V2' sebagai gantinya.",
     "file_export_intention_question": "Bagaimana Anda ingin menggunakan file yang diekspor?",
     "folders_added_x": "Folder ditambahkan: %s",
     "folders_modified_x": "Folder diubah: %s",
@@ -460,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "Ya, bawa saya ke halaman aplikasi",
     "app_rating_prompt_later_option_text": "Mungkin nanti, ingatkan aku",
     "app_rating_prompt_never_option_text": "Tidak terima kasih, jangan tanya lagi",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

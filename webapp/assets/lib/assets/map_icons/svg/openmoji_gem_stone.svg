@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 2.16292709090909) scale(0.36363636363636365)">
+  
+  <g
+     id="line"
+     transform="translate(-3,-10.9798)">
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="4,23.3481 36,64.0837 68,23.3481 56.3771,11.9798 16.3771,11.9798 "
+       id="polygon2" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="55.7486,23.8595 36,64.0837 36,24.3482 36,11.9798 16.2556,23.3482"
+       id="polyline4" />
+    <line
+       x1="16.2556"
+       x2="36.0042"
+       y1="23.859501"
+       y2="64.083702"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line6" />
+    <line
+       x1="4"
+       x2="68"
+       y1="23.3482"
+       y2="23.3482"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line8" />
+    <line
+       x1="36"
+       x2="55.7486"
+       y1="11.9798"
+       y2="23.3482"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line10" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="4,23.3481 36,64.0837 68,23.3481 56.3771,11.9798 16.3771,11.9798 "
+       id="polygon12" />
+  </g>
+</g></svg>

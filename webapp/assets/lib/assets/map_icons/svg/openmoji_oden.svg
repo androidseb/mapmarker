@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.00011119868213249617 0.0) scale(0.4447947285301013)">
+  
+  <g
+     id="line"
+     transform="translate(-14.043027,-14.042527)">
+    <circle
+       cx="36.0005"
+       cy="35.999001"
+       transform="matrix(0.7071,-0.7071,0.7071,0.7071,-14.9108,36.0019)"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse2"
+       r="10" />
+    <line
+       x1="54"
+       x2="67"
+       y1="54"
+       y2="67"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line4" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="36.0439,19.1704 19.1699,36.042 15.043,15.0425 "
+       id="polygon6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 39.6855,55.3848 c 1.2901,1.289 2.8448,2.1445 4.4883,2.582 L 58.0703,44.0703 C 57.6318,42.4277 56.7783,40.8711 55.4893,39.582 54.1992,38.291 52.6436,37.4375 51,37 L 37.1035,50.8965 c 0.4385,1.6426 1.293,3.1992 2.582,4.4883 z"
+       id="path8" />
+  </g>
+</g></svg>

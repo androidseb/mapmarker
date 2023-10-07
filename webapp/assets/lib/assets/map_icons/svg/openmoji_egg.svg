@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(2.9127312413793103 0.0) scale(0.41379310344827586)">
+  
+  <g
+     id="line"
+     transform="translate(-14.0391,-7)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 36,64 C 48.8581,64 56.9609,52.0227 56.9609,37.8428 56.9609,23.1911 48.5448,8 36,8 23.4552,8 15.0391,23.1911 15.0391,37.8428 15.0391,52.0227 23.1419,64 36,64 Z"
+       id="path2" />
+  </g>
+</g></svg>

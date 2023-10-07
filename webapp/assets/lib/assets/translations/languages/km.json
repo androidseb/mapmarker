@@ -436,7 +436,6 @@
     "marker_as_file_description2": "នាំចេញសញ្ញាសម្គាល់ដែលបានជ្រើសរើសជាឯកសារ",
     "export_as_file": "នាំចេញជាឯកសារ",
     "sucessfully_saved_to_device_files": "រក្សាទុកដោយជោគជ័យទៅក្នុងឯកសារឧបករណ៍",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "រកមិនឃើញថតផែនទីនៅលើពពកទេ - ប្រសិនបើអ្នកកំពុងស្វែងរកផែនទីពពកចាស់ដែលបានបង្កើតជាមួយកំណែចាស់របស់ Map Marker (V2) សូមសាកល្បងជម្រើស 'បើក និងផ្ទេរផែនទីពពក V2' ជំនួសវិញ។",
     "file_export_intention_question": "តើអ្នកចង់ប្រើឯកសារដែលបាននាំចេញដោយរបៀបណា?",
     "folders_added_x": "ថតបន្ថែម៖ %s",
     "folders_modified_x": "ថតដែលបានកែប្រែ៖ %s",
@@ -460,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "បាទ នាំខ្ញុំទៅទំព័រកម្មវិធី",
     "app_rating_prompt_later_option_text": "ប្រហែលជាពេលក្រោយ សូមរំលឹកខ្ញុំ",
     "app_rating_prompt_never_option_text": "ទេ អរគុណ កុំសួរម្តងទៀត",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

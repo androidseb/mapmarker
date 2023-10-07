@@ -436,7 +436,6 @@
     "marker_as_file_description2": "선택한 마커를 파일로 내보내기",
     "export_as_file": "파일로 내보내기",
     "sucessfully_saved_to_device_files": "장치 파일에 성공적으로 저장되었습니다.",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "클라우드에서 지도 폴더를 찾을 수 없습니다. 이전 버전의 Map Marker(V2)으로 만든 이전 클라우드 지도를 찾고 있다면 대신 'V2 클라우드 지도 열기 및 마이그레이션' 옵션을 사용해 보세요.",
     "file_export_intention_question": "내보낸 파일을 어떻게 사용하시겠습니까?",
     "folders_added_x": "추가된 폴더: %s",
     "folders_modified_x": "수정된 폴더: %s",
@@ -460,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "예, 앱 페이지로 이동합니다.",
     "app_rating_prompt_later_option_text": "나중에, 상기시켜줘",
     "app_rating_prompt_never_option_text": "아니요, 다시 묻지 마세요.",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

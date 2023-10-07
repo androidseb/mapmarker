@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.41379310344827586)">
+  
+  <g
+     id="line-supplement"
+     transform="translate(-7,-6.9583015)">
+    <g
+       id="M_Button">
+      <circle
+         cx="36"
+         cy="35.958302"
+         r="28"
+         fill="none"
+         stroke="#000"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="circle2" />
+      <polyline
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         points="45.429 46.458 45.429 24.458 36 43.315 26.571 24.458 26.571 46.458"
+         id="polyline4" />
+    </g>
+  </g>
+  <g
+     id="line"
+     transform="translate(-7,-6.9583015)" />
+</g></svg>

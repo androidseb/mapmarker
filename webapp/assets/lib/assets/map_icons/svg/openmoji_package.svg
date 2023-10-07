@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(1.5551317301313965 0.0) scale(0.3913371903744226)">
+  
+  <g
+     id="line"
+     transform="translate(-8.882,-5.3360155)">
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="9.882,21.168 9.882,50.832 35.572,65.664 61.262,50.832 61.262,21.168 35.572,6.336 "
+       id="polygon2" />
+    <line
+       x1="35.572399"
+       x2="35.572399"
+       y1="36.033298"
+       y2="65.6642"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line4" />
+    <line
+       x1="35.6301"
+       x2="9.9400997"
+       y1="36.033298"
+       y2="21.2012"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line6" />
+    <line
+       x1="52.516899"
+       x2="61.262402"
+       y1="26.250401"
+       y2="21.2012"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line8" />
+    <line
+       x1="35.572399"
+       x2="44.187901"
+       y1="36.033298"
+       y2="31.059099"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 26.884,11.4565 25.6375,14.8018 v 6.0248 a 2.28,2.28 0 0 1 -1.14,1.9745 l -4.9439,2.8543 A 1.4967,1.4967 0 0 1 44.1925,35.8157 V 31.0671 L 18.6236,16.2488"
+       id="path12" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="22.785,41.706 31.083,46.359 31.083,38.917 22.785,34.264 "
+       id="polygon14" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 54.1667,54.6663 V 51.66 a 0.8472,0.8472 0 0 0 -1.2708,-0.7337 l -6.073,3.5062 a 1.97,1.97 0 0 0 -0.9853,1.7065 v 3.3361"
+       id="path16" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 44.4274,45.9464 v 0.8683 a 1.4967,1.4967 0 0 0 2.2451,1.2962 l 6.8048,-3.76 a 2.28,2.28 0 0 0 1.14,-1.9745 V 41.258 A 1.4442,1.4442 0 0 0 52.451,40.0073 l -6.7455,3.7252 a 2.5565,2.5565 0 0 0 -1.2781,2.2139 z"
+       id="path18" />
+  </g>
+</g></svg>

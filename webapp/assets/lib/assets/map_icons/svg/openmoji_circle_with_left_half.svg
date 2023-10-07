@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.41379310344827586)">
+  
+  <g
+     id="line-supplement"
+     transform="translate(-7,-7)">
+    <path
+       fill="#000"
+       d="M 37,44.2857 V 7 C 29.0435,7 21.4129,10.0553 15.7868,15.4939 10.1607,20.9325 7,28.3087 7,36 7,43.6913 10.1607,51.0675 15.7868,56.5061 21.4129,61.9446 29.0435,65 37,65 Z"
+       id="path2" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-7,-7)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 36,64 C 51.464,64 64,51.464 64,36 64,20.536 51.464,8 36,8 20.536,8 8,20.536 8,36 8,51.464 20.536,64 36,64 Z"
+       id="path5" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-width="2"
+       d="M 36,8 V 61"
+       id="path7" />
+  </g>
+</g></svg>

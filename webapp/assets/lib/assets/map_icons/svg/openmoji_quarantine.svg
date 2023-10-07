@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 1.0452518551480452) scale(0.4191063458253917)">
+  
+  <g
+     id="line"
+     transform="translate(-5,-9.88815)">
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.2237"
+       points="13.902 14.702 35.007 17.003 35.362 61.053 39.106 61.053 38.873 13.552 13.902 11"
+       id="polyline2" />
+    <g
+       id="line-2">
+      <g
+         id="Standing_Man">
+        <g
+           id="line-2-2">
+          <circle
+             cx="55.0471"
+             cy="23.097401"
+             r="2.075"
+             fill="none"
+             stroke="#000"
+             stroke-miterlimit="10"
+             stroke-width="2"
+             id="circle4" />
+          <path
+             fill="none"
+             stroke="#000"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2"
+             d="m 58.5178,32.14 1.3279,26.5574 c 0.0385,0.7688 -0.4018,1.3978 -0.9784,1.3978 A 1.4509,1.4509 0 0 1 57.6589,58.7065 L 55.8824,43.309 c -0.09,-0.7639 -0.4746,-1.3887 -0.859,-1.3887 -0.3844,0 -0.7708,0.6248 -0.8589,1.3887 L 52.39,58.706 a 1.4509,1.4509 0 0 1 -1.2084,1.3887 c -0.5766,0 -1.0169,-0.629 -0.9784,-1.3978 L 51.5311,32.14"
+             id="path6" />
+          <path
+             fill="none"
+             stroke="#000"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2"
+             d="m 48.7355,44.7193 0.5536,-13.2787 a 3.6858,3.6858 0 0 1 3.64,-3.4944 h 4.1933"
+             id="path8" />
+        </g>
+        <path
+           fill="none"
+           stroke="#000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="m 57.0712,27.9461 a 3.6859,3.6859 0 0 1 3.64,3.4944 l 0.5535,13.2787"
+           id="path11" />
+      </g>
+    </g>
+    <g
+       id="line-3">
+      <g
+         id="Standing_Man-2">
+        <g
+           id="line-2-3">
+          <circle
+             cx="16.6091"
+             cy="23.1635"
+             r="2.075"
+             fill="none"
+             stroke="#000"
+             stroke-miterlimit="10"
+             stroke-width="2"
+             id="circle15" />
+          <path
+             fill="none"
+             stroke="#000"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2"
+             d="m 20.08,32.2056 1.3277,26.5574 c 0.0384,0.7688 -0.4019,1.3978 -0.9785,1.3978 a 1.4509,1.4509 0 0 1 -1.2083,-1.3887 l -1.7766,-15.397 c -0.09,-0.7639 -0.4745,-1.3887 -0.8589,-1.3887 -0.3844,0 -0.7709,0.6248 -0.8589,1.3887 l -1.7745,15.397 a 1.4509,1.4509 0 0 1 -1.2084,1.3887 c -0.5765,0 -1.0168,-0.629 -0.9784,-1.3978 l 1.3279,-26.5574"
+             id="path17" />
+          <path
+             fill="none"
+             stroke="#000"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2"
+             d="M 10.2975,44.7854 10.851,31.5067 a 3.686,3.686 0 0 1 3.64,-3.4944 h 4.1933"
+             id="path19" />
+        </g>
+        <path
+           fill="none"
+           stroke="#000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="m 18.6331,28.0122 a 3.686,3.686 0 0 1 3.64,3.4944 l 0.5535,13.2788"
+           id="path22" />
+      </g>
+    </g>
+    <circle
+       cx="26.112499"
+       cy="29.337799"
+       r="2"
+       id="circle26" />
+    <circle
+       cx="9.2969999"
+       cy="19.002701"
+       r="2"
+       id="circle28" />
+    <circle
+       cx="7"
+       cy="26.0228"
+       r="2"
+       id="circle30" />
+    <circle
+       cx="22.826401"
+       cy="20"
+       r="2"
+       id="circle32" />
+    <circle
+       cx="28.112499"
+       cy="23.7843"
+       r="2"
+       id="circle34" />
+  </g>
+</g></svg>

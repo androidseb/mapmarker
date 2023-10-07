@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 2.608687304339478) scale(0.5217396521744347)">
+  
+  <g
+     id="line"
+     transform="translate(-14.000034,-16.000004)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 15,17 4,14 -1,16 30,-5 Q 47,30 46,18 Z"
+       id="path2" />
+    <line
+       x1="19"
+       x2="46"
+       y1="31"
+       y2="18"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line4" />
+    <line
+       x1="48"
+       x2="19"
+       y1="42"
+       y2="31"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line6" />
+    <line
+       x1="46"
+       x2="56"
+       y1="18"
+       y2="42"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line8" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="54 51 20 51 20 47"
+       id="polyline10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 46,18 13,4 -3,20 -5,5 -3,-5 Q 47,30 46,18 Z"
+       id="path12" />
+    <line
+       x1="46"
+       x2="56"
+       y1="18"
+       y2="42"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line14" />
+  </g>
+</g></svg>

@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(3.011508318834874 0.0) scale(0.490198070862257)">
+  
+  <g
+     id="line"
+     transform="translate(-18.327101,-11.875)">
+    <rect
+       x="22.357599"
+       y="23.2696"
+       width="6.0019002"
+       height="6.0019002"
+       fill="#000"
+       stroke="none"
+       id="rect2" />
+    <rect
+       x="28.359501"
+       y="17.2677"
+       width="6.0019002"
+       height="6.0019002"
+       fill="#000"
+       stroke="none"
+       id="rect4" />
+    <rect
+       x="28.359501"
+       y="29.2715"
+       width="6.0019002"
+       height="5.1395998"
+       fill="#000"
+       stroke="none"
+       id="rect6" />
+    <polygon
+       fill="#000"
+       stroke="none"
+       points="23.0418,16.6469 28.3595,16.0262 28.3595,17.2677 22.3576,17.2677 "
+       id="polygon8" />
+    <polygon
+       fill="#000"
+       stroke="none"
+       points="34.3615,15.6486 40.3634,16.621 40.3634,17.2677 34.3615,17.2677 "
+       id="polygon10" />
+    <rect
+       x="34.3615"
+       y="23.2696"
+       width="6.0019002"
+       height="6.0019002"
+       fill="#000"
+       stroke="none"
+       id="rect12" />
+    <polygon
+       fill="#000"
+       stroke="none"
+       points="40.3634,18.6459 46.3653,19.9674 46.3653,23.2696 40.3634,23.2696 "
+       id="polygon14" />
+    <rect
+       x="40.3634"
+       y="29.2715"
+       width="6.0019002"
+       height="6.0019002"
+       fill="#000"
+       stroke="none"
+       id="rect16" />
+    <rect
+       x="46.365299"
+       y="23.2696"
+       width="6.0019002"
+       height="6.0019002"
+       fill="#000"
+       stroke="none"
+       id="rect18" />
+    <rect
+       x="52.367199"
+       y="20.309401"
+       width="1.7444"
+       height="2.9602001"
+       fill="#000"
+       stroke="none"
+       id="rect20" />
+    <rect
+       x="52.367199"
+       y="29.2715"
+       width="1.9094"
+       height="6.0019002"
+       fill="#000"
+       stroke="none"
+       id="rect22" />
+    <rect
+       x="46.365299"
+       y="35.273399"
+       width="6.0019002"
+       height="3.4735"
+       fill="#000"
+       stroke="none"
+       id="rect24" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 23.0844,17.488 C 25.9694,15.6897 31.5062,13.2554 37.5,16 c 3.689,1.6892 5.6344,4.6976 15.0405,4.1142 C 53.3291,20.0653 54,20.7109 54,21.5248 c 0,3.3025 0,11.1393 0,15.1253 0,0.6226 -0.4235,1.0771 -0.9648,1.354 C 51.0882,39 45.7637,38.939 37.5,35 34.1347,33.3959 28.9297,32.4317 23.0418,36.4425"
+       id="path26" />
+    <line
+       x1="19.327101"
+       x2="19.327101"
+       y1="12.875"
+       y2="59.834801"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line28" />
+  </g>
+</g></svg>

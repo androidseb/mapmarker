@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(4.035515795464676 0.0) scale(0.3428579265324035)">
+  
+  <g
+     id="line"
+     transform="translate(-12.770308,-1.0208)">
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="58.2299,43.888 44.4911,53.8699 49.7388,70.0208 36,60.039 22.2612,70.0208 27.5089,53.8699 13.7701,43.888 30.7522,43.888 36,27.7371 41.2478,43.888 "
+       id="polygon2" />
+    <line
+       x1="36"
+       x2="36"
+       y1="19.064301"
+       y2="2.0208001"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line4" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="16,2.0208 16,8.9792 36,23.737 56,8.9792 56,2.0208 "
+       id="polygon6" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="58.2299,43.888 44.4911,53.8699 49.7388,70.0208 36,60.039 22.2612,70.0208 27.5089,53.8699 13.7701,43.888 30.7522,43.888 36,27.7371 41.2478,43.888 "
+       id="polygon8" />
+    <line
+       x1="36"
+       x2="36"
+       y1="19.064301"
+       y2="2.0208001"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line10" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="16,2.0208 16,8.9792 36,23.737 56,8.9792 56,2.0208 "
+       id="polygon12" />
+  </g>
+</g></svg>

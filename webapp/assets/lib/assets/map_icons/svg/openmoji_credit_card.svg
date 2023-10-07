@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 4.2583843846153835) scale(0.46153846153846156)">
+  
+  <g
+     id="line"
+     transform="translate(-10,-20.2473)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 59.9589,52.7943 H 12.0411 c -0.5523,0 -1,-0.4477 -1,-1 v -29.547 c 0,-0.5523 0.4477,-1 1,-1 h 47.9178 c 0.5523,0 1,0.4477 1,1 v 29.547 c 0,0.5523 -0.4477,1 -1,1 z"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 60,31 H 12 c -0.5523,0 -1,-0.4477 -1,-1 v -2.8 c 0,-0.5523 0.4477,-1 1,-1 h 48 c 0.5523,0 1,0.4477 1,1 V 30 c 0,0.5523 -0.4477,1 -1,1 z"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 20.9984,47.8 h -1.9471 c -1.6645,0 -3.0264,-1.3619 -3.0264,-3.0264 v -1.9471 c 0,-1.6645 1.3619,-3.0265 3.0264,-3.0265 h 1.9471 c 1.6645,0 3.0264,1.3619 3.0264,3.0265 v 1.9471 C 24.0249,46.4381 22.663,47.8 20.9984,47.8 Z"
+       id="path6" />
+  </g>
+</g></svg>

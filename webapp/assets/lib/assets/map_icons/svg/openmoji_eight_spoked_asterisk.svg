@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.4615092444532165)">
+  
+  <g
+     id="line-supplement"
+     transform="translate(-9.9983542,-9.9983542)">
+    <line
+       x1="36"
+       x2="36"
+       y1="20.9811"
+       y2="51.018902"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="4"
+       id="line2" />
+    <line
+       x1="51.018902"
+       x2="20.9811"
+       y1="36"
+       y2="36"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="4"
+       id="line4" />
+    <line
+       x1="46.619999"
+       x2="25.379999"
+       y1="25.379999"
+       y2="46.619999"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="4"
+       id="line6" />
+    <line
+       x1="46.619999"
+       x2="25.379999"
+       y1="46.619999"
+       y2="25.379999"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="4"
+       id="line8" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-9.9983542,-9.9983542)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 60,61 H 12 A 0.9448,0.9448 0 0 1 11,60 V 12 a 0.9448,0.9448 0 0 1 1,-1 h 48 a 0.9448,0.9448 0 0 1 1,1 v 48 a 0.9448,0.9448 0 0 1 -1,1 z"
+       id="path11" />
+  </g>
+</g></svg>

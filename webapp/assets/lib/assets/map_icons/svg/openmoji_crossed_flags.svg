@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 3.6200119682840466) scale(0.39894280157582407)">
+  
+  <g
+     id="line"
+     transform="translate(-5.8409355,-14.989023)">
+    <g
+       id="Flag">
+      <line
+         x1="46"
+         x2="27"
+         y1="56"
+         y2="16"
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="line2" />
+      <rect
+         x="9"
+         y="20"
+         width="22"
+         height="15"
+         transform="rotate(-25.551,19.999903,27.500028)"
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="rect4" />
+      <line
+         x1="25.8409"
+         x2="44.8409"
+         y1="56"
+         y2="16"
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="line6" />
+      <rect
+         x="40.8409"
+         y="20"
+         width="22"
+         height="15"
+         transform="rotate(-154.449,51.840901,27.500015)"
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="rect8" />
+    </g>
+  </g>
+</g></svg>

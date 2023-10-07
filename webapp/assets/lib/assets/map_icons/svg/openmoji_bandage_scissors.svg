@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.5607049782254627 0.0) scale(0.8103850027720232)">
+  
+  <g
+     id="line"
+     transform="translate(-21.878247,-21.150599)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 28.4384,43.7691 c -0.0087,0 -0.0175,0.0088 -0.0263,0.0088 a 6.3265,6.3265 0 0 1 -1.6928,0.5789 8.3128,8.3128 0 0 1 -3.2015,0.2017 c -0.9648,-0.3771 -0.8069,-2.298 0.2719,-2.64 0,0 8.359,-1.6753 8.7624,-1.7893 a 1.442,1.442 0 0 1 0.1667,-0.0351"
+       id="path2" />
+    <ellipse
+       cx="34.830101"
+       cy="25.957899"
+       rx="3.7478001"
+       ry="3.8073001"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="ellipse4" />
+    <ellipse
+       cx="45.362202"
+       cy="33.7938"
+       rx="3.7478001"
+       ry="3.8073001"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="ellipse6" />
+    <line
+       x1="37.3675"
+       x2="35.402802"
+       y1="28.823099"
+       y2="35.348801"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line8" />
+    <line
+       x1="41.972401"
+       x2="37.797298"
+       y1="32.173599"
+       y2="37.787201"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 24.2836,47.1122 c 0,0 8.3412,-6.635 8.4676,-7.0773 0.1264,-0.4423 0.78,-3.5549 1.7646,-4.3054 0.9107,-0.6942 2.2162,-0.5281 2.9824,0.9378 0.7662,1.4659 0.09,4.73 -0.6357,5.8347 -0.7257,1.1047 -9.6907,6.6726 -10.3866,7.082 -0.6959,0.4094 -3.3612,0.3372 -2.1923,-2.4718 z"
+       id="path12" />
+  </g>
+</g></svg>

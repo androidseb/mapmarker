@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(1.577076013286975 0.0) scale(0.5338600633989967)">
+  
+  <g
+     id="line"
+     transform="translate(-16.3325,-13.651701)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 44.0447,53.3654 0.9629,4.2419"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 27.5069,52.3557 26.544,57.6073"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 44.0447,53.3654 0.9629,4.2419"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 27.5069,52.3557 26.544,57.6073"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 42.4083,47.855 v 0"
+       id="path10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 31.9885,45.0752 h 5.3745 c 2.7606,0 4.3909,0.8926 5.0453,2.78"
+       id="path12" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 23.9418,35.9037 v 1.7 a 9.5391,9.5391 0 0 0 5.2783,8.98 c 1.5335,0.6681 2.3676,1.3319 2.3676,2.8875 A 2.6368,2.6368 0 0 1 28.7754,52.03 c -5.1552,0 -11.4429,-6.4679 -11.4429,-15.14 0,-8.8036 5.3449,-11.6923 8.0955,-11.6923 h 7.0138 a 5.1725,5.1725 0 0 1 5.1472,4.9914 v 1.423"
+       id="path14" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 47.7707,38.3017 v 0.69 a 9.539,9.539 0 0 1 -5.2784,8.98 c -1.5335,0.6681 -2.3675,1.3319 -2.3675,2.8875 a 2.607,2.607 0 0 0 2.8122,2.5583 c 5.1552,0 11.4429,-6.4679 11.4429,-15.14 0,-8.2189 -5.3448,-11.0192 -8.0955,-11.0192 H 40.28"
+       id="path16" />
+    <circle
+       cx="29.515499"
+       cy="18.195101"
+       r="3.5434"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="circle18" />
+    <circle
+       cx="35.254398"
+       cy="38.647499"
+       r="3.5434"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="circle20" />
+    <circle
+       cx="42.738201"
+       cy="20.053801"
+       r="3.5434"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="circle22" />
+  </g>
+</g></svg>

@@ -436,7 +436,6 @@
     "marker_as_file_description2": "Izvozite izbrani marker kot datoteko",
     "export_as_file": "Izvozi kot datoteko",
     "sucessfully_saved_to_device_files": "Uspešno shranjeno v datoteke naprave",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "V oblaku ni bilo mogoče najti mape z zemljevidi – če iščete stare zemljevide v oblaku, ustvarjene s staro različico Map Marker (V2), namesto tega poskusite z možnostjo »Odpri in preseli zemljevid v oblaku V2«.",
     "file_export_intention_question": "Kako želite uporabiti izvoženo datoteko?",
     "folders_added_x": "Dodane mape: %s",
     "folders_modified_x": "Spremenjene mape: %s",
@@ -460,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "Da, odpelji me na stran aplikacije",
     "app_rating_prompt_later_option_text": "Mogoče kasneje, spomni me",
     "app_rating_prompt_never_option_text": "Ne, hvala, ne sprašuj več",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

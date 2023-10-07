@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(1.2807352272513306 0.0) scale(0.4130737710857379)">
+  
+  <g
+     id="line"
+     transform="translate(-10.049999,-6.9519997)">
+    <ellipse
+       cx="31.23"
+       cy="15.32"
+       rx="20.18"
+       ry="7.368"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 11.05,14.93 10e-7,41.76 c 0,4.074 9.037,7.363 20.18,7.363 6.02,0 10.53,-0.6946 14.26,-1.873 8.515,-2.892 15.46,-10.42 15.46,-10.42 V 12.78 c -3.73,3.326 -13.38,6.865 -13.38,6.865"
+       id="path4" />
+    <line
+       x1="31.23"
+       x2="31.23"
+       y1="22.690001"
+       y2="26.01"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line6" />
+    <line
+       x1="31.23"
+       x2="31.23"
+       y1="32.959999"
+       y2="57.25"
+       fill="none"
+       stroke="#000"
+       stroke-dasharray="5.2132, 5.2132"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line8" />
+    <line
+       x1="31.23"
+       x2="31.23"
+       y1="60.720001"
+       y2="64.050003"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line10" />
+    <ellipse
+       cx="30.790001"
+       cy="15.31"
+       rx="4.7389998"
+       ry="2.1600001"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="ellipse12" />
+  </g>
+</g></svg>

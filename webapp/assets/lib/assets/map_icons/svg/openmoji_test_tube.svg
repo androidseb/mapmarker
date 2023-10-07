@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(7.917592681745112 0.0) scale(0.4863888242115602)">
+  
+  <g
+     id="line"
+     transform="translate(-27.150001,-11.0868)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 42.06,16.9372 v 35.43 A 6.7993,6.7993 0 0 1 35.55,59.43 6.7992,6.7992 0 0 1 29.04,52.3672 V 17.2855"
+       id="path2" />
+    <ellipse
+       cx="35.543301"
+       cy="15.2238"
+       rx="7.3933001"
+       ry="3.1370001"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 42.06,29.84 V 52.92 A 6.506,6.506 0 0 1 35.55,59.43 6.3082,6.3082 0 0 1 33.7746,59.1814 6.5,6.5 0 0 1 29.04,52.92 V 29.84"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 29.277,30.8938 a 14.0534,14.0534 0 0 0 6.273,1.3137 15.9069,15.9069 0 0 0 2.9589,-0.26 c 0.071,-0.0119 0.1539,-0.0236 0.2249,-0.0355 a 11.5513,11.5513 0 0 0 3.0891,-1.0178"
+       id="path8" />
+  </g>
+</g></svg>

@@ -436,7 +436,6 @@
     "marker_as_file_description2": "Eksportuokite pasirinktą žymeklį kaip failą",
     "export_as_file": "Eksportuoti kaip failą",
     "sucessfully_saved_to_device_files": "Sėkmingai išsaugota įrenginio failuose",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Debesyje nerasta žemėlapio aplanko – jei ieškote senų debesies žemėlapių, sukurtų naudojant seną Map Marker (V2) versiją, išbandykite parinktį „Atidaryti ir perkelti V2 debesies žemėlapį“.",
     "file_export_intention_question": "Kaip norite naudoti eksportuotą failą?",
     "folders_added_x": "Pridėta aplankų: %s",
     "folders_modified_x": "Pakeisti aplankai: %s",
@@ -460,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "Taip, nukreipkite mane į programos puslapį",
     "app_rating_prompt_later_option_text": "Gal vėliau, primink",
     "app_rating_prompt_never_option_text": "Ne, ačiū, daugiau neklausk",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

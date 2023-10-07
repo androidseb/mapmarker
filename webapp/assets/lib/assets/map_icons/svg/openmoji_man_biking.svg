@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.3933417536580812 0.0) scale(0.4468266843629893)">
+  
+  <g
+     id="line"
+     transform="translate(-8.4379005,-6.5812998)">
+    <circle
+       cx="19.161301"
+       cy="49.57"
+       r="9.7234001"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle2" />
+    <circle
+       cx="49.666"
+       cy="49.57"
+       r="9.7234001"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 19.2566,49.57 1.9066,-22.8785 h 3.6224"
+       id="path6" />
+    <circle
+       cx="32.792801"
+       cy="10.5813"
+       r="3"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 25.0713,26.7869 29.17,24.0224 a 11.8183,11.8183 0 0 0 2.67,-2.6691 l 1.8113,-2.5739 a 3.9415,3.9415 0 0 1 2.9551,-1.5252 3.0555,3.0555 0 0 1 2.5736,1.8112 l 4.3851,10.0094 a 4.7412,4.7412 0 0 1 -0.0954,3.4317 l -0.0953,0.1907 A 5.875,5.875 0 0 1 40.705,35.08 l -5.243,2.2878 a 1.9349,1.9349 0 0 0 -1.0486,2.4785 l 2.4785,6.101 a 2.2847,2.2847 0 0 1 -0.6673,2.6691 1.73,1.73 0 0 1 -2.3832,-0.7626 L 29.647,40.0374 a 8.65,8.65 0 0 1 -0.8579,-3.2411 3.6664,3.6664 0 0 1 1.62,-2.5739 l 4.3851,-2.7645 a 2.7844,2.7844 0 0 0 1.1439,-2.86 l -1.43,-5.72"
+       id="path10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 36.2246,48.6168 -0.9533,2.9552 a 2.6607,2.6607 0 0 1 -2.2878,1.8112 1.6224,1.6224 0 0 1 -1.5253,-1.9066 l 0.858,-6.3869"
+       id="path12" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 40.419,35.1757 36.9872,46.1383"
+       id="path14" />
+  </g>
+</g></svg>

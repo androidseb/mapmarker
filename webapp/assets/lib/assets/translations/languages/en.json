@@ -436,7 +436,6 @@
     "marker_as_file_description2": "Export the selected marker as a file",
     "export_as_file": "Export as file",
     "sucessfully_saved_to_device_files": "Successfully saved to device files",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.",
     "file_export_intention_question": "How do you want to use the exported file ?",
     "folders_added_x": "Folders added: %s",
     "folders_modified_x": "Folders modified: %s",
@@ -460,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "Yes, take me to the app page",
     "app_rating_prompt_later_option_text": "Maybe later, remind me",
     "app_rating_prompt_never_option_text": "No thanks, don't ask again",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

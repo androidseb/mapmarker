@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.7472616676691395 0.0) scale(0.450184615083338)">
+  
+  <g
+     id="line"
+     transform="translate(-11.001907,-9.5365628)">
+    <path
+       id="Swan_Line_1"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 27.1986,41.0877 c 3.045,-0.91 8.4833,-7.14 19.8118,-2.7989 8.2484,3.1606 12.9832,-2.8445 12.9832,-2.8445 0,0 -2.102,22.3487 -12.5891,24.9166 -7.2623,1.7782 -22.7242,2.1761 -28.0357,0 -9.18,-3.7611 -8.2246,-15.4921 -5.3956,-20.54 2.911,-5.1941 10.142,-8.5786 10.2681,-19.3019" />
+    <path
+       id="Swan_Line_2"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 23.77,43.5077 c 0.71,-12.0817 7.0657,-20.416 6.1609,-26.3062 -0.6954,-4.5273 -3.7741,-7.76 -8.2922,-6.3379 -3.1468,0.99 -7.0343,9.2494 -7.0343,9.2494 2.9462,1.17 7.426,-2.1242 7.426,-2.1242" />
+    <path
+       id="Swan_Line_3"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 49.6121,44.31 c -2.1331,3.4989 -11.9,5.3058 -16.6525,5.4247" />
+  </g>
+</g></svg>

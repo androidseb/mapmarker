@@ -436,7 +436,6 @@
     "marker_as_file_description2": "Exportar o marcador selecionado como um arquivo",
     "export_as_file": "Exportar como arquivo",
     "sucessfully_saved_to_device_files": "Salvo com sucesso nos arquivos do dispositivo",
-    "no_map_folder_found_on_the_cloud_maybe_try_v2": "Nenhuma pasta de mapa encontrada na nuvem - se você estiver procurando por mapas de nuvem antigos criados com a versão antiga de Map Marker (V2), tente a opção 'Abrir e migrar um mapa de nuvem V2'.",
     "file_export_intention_question": "Como você deseja usar o arquivo exportado?",
     "folders_added_x": "Pastas adicionadas: %s",
     "folders_modified_x": "Pastas modificadas: %s",
@@ -460,5 +459,6 @@
     "app_rating_prompt_yes_option_text": "Sim, leve-me para a página do aplicativo",
     "app_rating_prompt_later_option_text": "Talvez mais tarde, lembre-me",
     "app_rating_prompt_never_option_text": "Não, obrigado, não pergunte novamente",
+    "openmoji": "OpenMoji",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

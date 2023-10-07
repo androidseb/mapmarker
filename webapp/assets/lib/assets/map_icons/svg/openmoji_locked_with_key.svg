@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 0.32239896039193106) scale(0.4466949598290945)">
+  
+  <g
+     id="line"
+     transform="translate(-9.2827,-9.747706)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 39.4673,33.4202 C 40.0484,25.3864 33.5783,18.8334 26.6477,19.0514 19.7749,19.2676 14.1961,26.134 14.1961,33.4202"
+       id="path2" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="43.3283,59.6918 10.2827,59.6918 10.2827,36.3207 11.9132,36.3207 41.6978,36.3207 43.3283,36.3207 "
+       id="polygon4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 17.8248,33.4202 c 0,-5.5092 3.979,-10.701 8.8809,-10.8645 4.9432,-0.1648 9.5578,4.79 9.1434,10.8645"
+       id="path6" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="56.0253,36.0256 56.2815,56.4716 51.7209,61.0322 46.9553,56.2666 49.8761,53.3458 46.6478,50.1175 50.3373,46.428 47.1258,43.2165 47.1258,40.1873 49.8712,37.4419 48.6019,36.1726"
+       id="polyline8" />
+    <circle
+       cx="51.5355"
+       cy="18.1091"
+       transform="matrix(0.7071,-0.7071,0.7071,0.7071,2.2893,41.7451)"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse10"
+       r="3.5206001" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 56.0171,31.6362 c 3.5704,-1.7692 6.0267,-5.5901 5.9932,-10 C 61.9642,15.5789 57.238,10.7041 51.454,10.748 45.67,10.792 41.0185,15.7381 41.0646,21.7955 c 0.0372,4.8974 3.1337,9.0217 7.3751,10.3985"
+       id="path12" />
+  </g>
+</g></svg>

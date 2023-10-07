@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.4572352300417233 0.0) scale(0.46171059079833104)">
+  
+  <g
+     id="line"
+     transform="translate(-11.0133,-10.0194)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 12.0133,16.0194 c 0,7.5 5,13.75 5,13.75 0,0 5,-6.25 5,-13.75"
+       id="path2" />
+    <circle
+       cx="17.0133"
+       cy="16.0194"
+       r="5"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 50.0133,44.0194 c 0,7.5 5,13.75 5,13.75 0,0 5,-6.25 5,-13.75"
+       id="path6" />
+    <circle
+       cx="55.013302"
+       cy="44.019402"
+       r="5"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 17,33 c 0,0 16,0 17,14 1,14 16,14 21,14"
+       id="path10" />
+    <line
+       x1="31.9713"
+       x2="44.028702"
+       y1="21.741301"
+       y2="32.258701"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line12" />
+    <line
+       x1="43.547501"
+       x2="44.028702"
+       y1="25.2041"
+       y2="32.258701"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line14" />
+    <line
+       x1="36.974098"
+       x2="44.028702"
+       y1="32.740002"
+       y2="32.258701"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line16" />
+  </g>
+</g></svg>

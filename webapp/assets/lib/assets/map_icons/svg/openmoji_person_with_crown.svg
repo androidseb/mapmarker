@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(3.7666731429787017 0.0) scale(0.4116663428510649)">
+  
+  <g
+     id="line"
+     transform="translate(-16,-2.7003608)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 44.0974,14.0887 C 48.2289,16.6842 50,21.3421 50,26 c 0,7 0,13 -4,13"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 26,39 c -4,0 -4,-6 -4,-13 0,-4.6575 1.7708,-9.3149 5.9014,-11.9106"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 17,60 v -3 c 0,-4.9941 5.0078,-9 10,-9 6,5 12,5 18,0 4.9941,0 10,4.0059 10,9 v 3"
+       id="path6" />
+    <path
+       d="m 41.873,30 c 0,1.1046 -0.8954,2 -2,2 -1.1046,0 -2,-0.8954 -2,-2 0,-1.1046 0.8954,-2 2,-2 1.1046,0 2,0.8954 2,2"
+       id="path8" />
+    <path
+       d="m 33.873,30 c 0,1.1046 -0.8954,2 -2,2 -1.1046,0 -2,-0.8954 -2,-2 0,-1.1046 0.8954,-2 2,-2 1.1046,0 2,0.8954 2,2"
+       id="path10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 24.9365,31 c 0,9 4.9365,14 11,14 C 41.873,45 47,40 47,31 c 0.0245,-1.7187 -0.3164,-3.4229 -1,-5 -3,-3 -7,-8 -7,-8 -4,3 -7,6 -13,7 0,0 -1.0635,1 -1.0635,6 z"
+       id="path12" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 33,38 c 1.8826,0.9693 4.1174,0.9693 6,0"
+       id="path14" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="34.557,7.2462 35.972,3.7002 37.441,7.1092 40.285,4.5942 40.285,14.3372 31.44,14.3372 31.442,4.5942 "
+       id="polygon16" />
+  </g>
+</g></svg>
