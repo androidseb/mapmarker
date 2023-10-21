@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "Možná později, připomeňte mi to",
     "app_rating_prompt_never_option_text": "Ne, děkuji, už se neptejte",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "Vyberte možnost pro uložení exportovaného souboru.",
+    "action_save_as": "Uložit jako",
+    "file_export_save_as_forced_web": "Exportovaný soubor je velký a musí být uložen pomocí 'Uložit jako'.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

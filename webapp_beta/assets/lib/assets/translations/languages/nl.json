@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "Misschien later, herinner me eraan",
     "app_rating_prompt_never_option_text": "Nee bedankt, vraag het niet nog een keer",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "Selecteer een optie om het geëxporteerde bestand op te slaan.",
+    "action_save_as": "Opslaan als",
+    "file_export_save_as_forced_web": "Het geëxporteerde bestand is groot en moet worden opgeslagen met 'Opslaan als'.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

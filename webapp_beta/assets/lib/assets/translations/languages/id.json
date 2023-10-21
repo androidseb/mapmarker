@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "Mungkin nanti, ingatkan aku",
     "app_rating_prompt_never_option_text": "Tidak terima kasih, jangan tanya lagi",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "Pilih opsi untuk menyimpan file yang diekspor.",
+    "action_save_as": "Simpan sebagai",
+    "file_export_save_as_forced_web": "File yang diekspor berukuran besar dan harus disimpan dengan 'Simpan sebagai'.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

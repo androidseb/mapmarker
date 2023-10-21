@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "Talán később, emlékeztessen",
     "app_rating_prompt_never_option_text": "Nem, köszönöm, ne kérdezz többet",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "Válasszon egy lehetőséget az exportált fájl mentéséhez.",
+    "action_save_as": "Mentés másként",
+    "file_export_save_as_forced_web": "Az exportált fájl nagy, és a „Mentés másként” paranccsal kell menteni.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

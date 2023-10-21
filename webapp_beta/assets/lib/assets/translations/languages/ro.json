@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "Poate mai târziu, amintește-mi",
     "app_rating_prompt_never_option_text": "Nu, mulțumesc, nu mai întreba",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "Selectați o opțiune pentru a salva fișierul exportat.",
+    "action_save_as": "Salvează ca",
+    "file_export_save_as_forced_web": "Fișierul exportat este mare și trebuie salvat cu „Salvare ca”.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

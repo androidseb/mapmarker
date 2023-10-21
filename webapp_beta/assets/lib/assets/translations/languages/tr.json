@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "Belki sonra, bana hatırlat",
     "app_rating_prompt_never_option_text": "Hayır teşekkürler, bir daha sorma",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "Dışa aktarılan dosyayı kaydetmek için bir seçenek belirleyin.",
+    "action_save_as": "Farklı kaydet",
+    "file_export_save_as_forced_web": "Dışa aktarılan dosya büyüktür ve 'Farklı kaydet' seçeneğiyle kaydedilmelidir.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

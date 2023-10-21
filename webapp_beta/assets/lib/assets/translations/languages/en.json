@@ -436,7 +436,7 @@
     "marker_as_file_description2": "Export the selected marker as a file",
     "export_as_file": "Export as file",
     "sucessfully_saved_to_device_files": "Successfully saved to device files",
-    "file_export_intention_question": "How do you want to use the exported file ?",
+    "file_export_intention_question": "How do you want to use the exported file?",
     "folders_added_x": "Folders added: %s",
     "folders_modified_x": "Folders modified: %s",
     "folders_deleted_x": "Folders deleted: %s",
@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "Maybe later, remind me",
     "app_rating_prompt_never_option_text": "No thanks, don't ask again",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "Select an option to save the exported file.",
+    "action_save_as": "Save as",
+    "file_export_save_as_forced_web": "The exported file is large and must be saved with 'Save as'.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

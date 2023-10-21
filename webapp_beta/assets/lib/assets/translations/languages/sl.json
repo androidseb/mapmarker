@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "Mogoče kasneje, spomni me",
     "app_rating_prompt_never_option_text": "Ne, hvala, ne sprašuj več",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "Izberite možnost za shranjevanje izvožene datoteke.",
+    "action_save_as": "Shrani kot",
+    "file_export_save_as_forced_web": "Izvožena datoteka je velika in jo je treba shraniti s funkcijo »Shrani kot«.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

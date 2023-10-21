@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "Może później, przypomnij mi",
     "app_rating_prompt_never_option_text": "Nie, dziękuję, nie pytaj ponownie",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "Wybierz opcję zapisania wyeksportowanego pliku.",
+    "action_save_as": "Zapisz jako",
+    "file_export_save_as_forced_web": "Wyeksportowany plik jest duży i należy go zapisać za pomocą opcji „Zapisz jako”.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

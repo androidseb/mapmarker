@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "Có lẽ sau này, nhắc nhở tôi",
     "app_rating_prompt_never_option_text": "Không, cảm ơn, đừng hỏi lại",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "Chọn một tùy chọn để lưu tệp đã xuất.",
+    "action_save_as": "Lưu thành",
+    "file_export_save_as_forced_web": "Tệp đã xuất có dung lượng lớn và phải được lưu bằng 'Save as'.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

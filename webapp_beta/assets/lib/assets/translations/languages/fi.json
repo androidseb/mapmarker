@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "Ehkä myöhemmin, muistuta minua",
     "app_rating_prompt_never_option_text": "Ei kiitos, älä kysy uudestaan",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "Valitse vaihtoehto viedyn tiedoston tallentamiseksi.",
+    "action_save_as": "Tallenna nimellä",
+    "file_export_save_as_forced_web": "Viety tiedosto on suuri ja se on tallennettava Tallenna nimellä.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

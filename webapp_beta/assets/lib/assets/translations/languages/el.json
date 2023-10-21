@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "Ίσως αργότερα, θύμισέ μου",
     "app_rating_prompt_never_option_text": "Όχι, ευχαριστώ, μην ξαναρωτήσεις",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "Ορίστε μια επιλογή για να αποθηκεύσετε το εξαγόμενο αρχείο.",
+    "action_save_as": "Αποθήκευση ως",
+    "file_export_save_as_forced_web": "Το εξαγόμενο αρχείο είναι μεγάλο και πρέπει να αποθηκευτεί με «Αποθήκευση ως».",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

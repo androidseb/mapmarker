@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "Можда касније, подсети ме",
     "app_rating_prompt_never_option_text": "Не, хвала, не питај поново",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "Изаберите опцију да сачувате извезену датотеку.",
+    "action_save_as": "Сачувај као",
+    "file_export_save_as_forced_web": "Извезена датотека је велика и мора се сачувати са „Сачувај као“.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

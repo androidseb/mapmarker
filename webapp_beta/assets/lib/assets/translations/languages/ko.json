@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "나중에, 상기시켜줘",
     "app_rating_prompt_never_option_text": "아니요, 다시 묻지 마세요.",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "내보낸 파일을 저장하는 옵션을 선택합니다.",
+    "action_save_as": "다른 이름으로 저장",
+    "file_export_save_as_forced_web": "내보낸 파일이 크기 때문에 '다른 이름으로 저장'으로 저장해야 합니다.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "Может быть позже, напомни мне",
     "app_rating_prompt_never_option_text": "Нет, спасибо, больше не спрашивай",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "Выберите вариант сохранения экспортированного файла.",
+    "action_save_as": "Сохранить как",
+    "file_export_save_as_forced_web": "Экспортированный файл имеет большой размер, и его необходимо сохранить с помощью команды «Сохранить как».",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "אולי מאוחר יותר, תזכיר לי",
     "app_rating_prompt_never_option_text": "לא תודה, אל תשאל שוב",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "בחר אפשרות לשמור את הקובץ המיוצא.",
+    "action_save_as": "שמור כ",
+    "file_export_save_as_forced_web": "הקובץ המיוצא גדול ויש לשמור אותו באמצעות 'שמור בשם'.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "Gal vėliau, primink",
     "app_rating_prompt_never_option_text": "Ne, ačiū, daugiau neklausk",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "Pasirinkite parinktį, kad išsaugotumėte eksportuotą failą.",
+    "action_save_as": "Išsaugoti kaip",
+    "file_export_save_as_forced_web": "Eksportuotas failas yra didelis ir turi būti išsaugotas naudojant „Išsaugoti kaip“.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

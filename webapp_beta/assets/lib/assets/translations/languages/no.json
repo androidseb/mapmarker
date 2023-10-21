@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "Kanskje senere, minn meg på",
     "app_rating_prompt_never_option_text": "Nei takk, ikke spør igjen",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "Velg et alternativ for å lagre den eksporterte filen.",
+    "action_save_as": "Lagre som",
+    "file_export_save_as_forced_web": "Den eksporterte filen er stor og må lagres med 'Lagre som'.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

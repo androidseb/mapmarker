@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "Potser més tard, recordeu-m'ho",
     "app_rating_prompt_never_option_text": "No, gràcies, no ho tornis a preguntar",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "Seleccioneu una opció per desar el fitxer exportat.",
+    "action_save_as": "Guardar com",
+    "file_export_save_as_forced_web": "El fitxer exportat és gran i s'ha de desar amb \"Desa com\".",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

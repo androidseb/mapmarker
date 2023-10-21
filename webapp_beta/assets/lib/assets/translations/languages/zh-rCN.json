@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "也许以后再提醒我",
     "app_rating_prompt_never_option_text": "不，谢谢，不要再问",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "选择一个选项来保存导出的文件。",
+    "action_save_as": "另存为",
+    "file_export_save_as_forced_web": "导出的文件很大，必须使用“另存为”保存。",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

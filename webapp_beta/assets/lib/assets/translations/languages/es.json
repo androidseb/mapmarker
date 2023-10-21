@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "Tal vez más tarde, recuérdame",
     "app_rating_prompt_never_option_text": "No gracias, no vuelvas a preguntar.",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "Seleccione una opción para guardar el archivo exportado.",
+    "action_save_as": "Guardar como",
+    "file_export_save_as_forced_web": "El archivo exportado es grande y debe guardarse con \"Guardar como\".",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

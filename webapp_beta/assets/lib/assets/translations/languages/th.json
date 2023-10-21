@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "คราวหลังช่วยเตือนฉันที",
     "app_rating_prompt_never_option_text": "ไม่ ขอบคุณ ไม่ต้องถามอีก",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "เลือกตัวเลือกเพื่อบันทึกไฟล์ที่ส่งออก",
+    "action_save_as": "บันทึกเป็น",
+    "file_export_save_as_forced_web": "ไฟล์ที่ส่งออกมีขนาดใหญ่และต้องบันทึกด้วย \"บันทึกเป็น\"",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

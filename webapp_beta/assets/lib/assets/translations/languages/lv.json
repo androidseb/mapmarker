@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "Varbūt vēlāk atgādini man",
     "app_rating_prompt_never_option_text": "Nē, paldies, vairs nejautājiet",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "Izvēlieties iespēju saglabāt eksportēto failu.",
+    "action_save_as": "Saglabāt kā",
+    "file_export_save_as_forced_web": "Eksportētais fails ir liels, un tas ir jāsaglabā, izmantojot “Saglabāt kā”.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

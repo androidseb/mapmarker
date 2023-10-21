@@ -460,5 +460,8 @@
     "app_rating_prompt_later_option_text": "ប្រហែលជាពេលក្រោយ សូមរំលឹកខ្ញុំ",
     "app_rating_prompt_never_option_text": "ទេ អរគុណ កុំសួរម្តងទៀត",
     "openmoji": "OpenMoji",
+    "file_export_save_option_question_web": "ជ្រើសរើសជម្រើសមួយដើម្បីរក្សាទុកឯកសារដែលបាននាំចេញ។",
+    "action_save_as": "រក្សាទុក​ជា",
+    "file_export_save_as_forced_web": "ឯកសារដែលបាននាំចេញមានទំហំធំ ហើយត្រូវតែរក្សាទុកជាមួយ 'Save as'។",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
