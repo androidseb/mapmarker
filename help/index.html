@@ -11,6 +11,26 @@
 	/>
 	<meta name="description" content="The Map Marker help center" />
 	<meta name="keywords" content="Map Marker, places, organizer ,help center" />
+	<style>
+		.screenshot-image {
+			max-width: 80%;
+			height: auto;
+		}
+		iframe {
+			width: 100%;
+			height: 270px;
+		}
+		@media screen and (min-width: 480px) {
+			.screenshot-image {
+				width: 360px;
+				height: auto;
+			}
+			iframe {
+				width: 640px; /* Set a specific width for the iframe on desktop */
+				height: 360px; /* Adjust the height accordingly */
+			}
+		}
+	</style>
 	<script type="text/javascript">
 		function getURLParameter(sParam) {
 			let sPageURL = window.location.search.substring(1);
@@ -125,6 +145,7 @@
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Mass_assign_color_and_custom_fields">Mass assign color and custom fields</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Presets_templates_and_bulk_icons_with_folders">Presets, templates and bulk icons with folders</a><br>
 				<a style="display:inline-block;" href="#devices_android_Cloud_and_collaborating"><b>Cloud and collaborating</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Cloud_sync_tutorial_video">Cloud sync tutorial video</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_How_to_sync_a_local_map_folder_on_the_cloud">How to sync a local map folder on the cloud</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_How_to_create_a_new_map_folder_on_the_cloud">How to create a new map folder on the cloud</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_How_to_share_your_map_cloud_folder_with_collaborators_on_the_cloud">How to share your map cloud folder with collaborators on the cloud</a><br>
@@ -189,7 +210,7 @@
 						<li>More button (bottom right): presents a list of possible actions on the marker (call phone, text phone, delete, etc.)</li>
 					</ul>
 				</ul>
-				<img src="images/app_screenshot_1.jpg" style="width: 256px" />
+				<img class="screenshot-image" src="images/app_screenshot_1.jpg" />
 
 				<a name="devices_android_Main_menu_interface"></a>
 				<h2>Main menu interface</h2>
@@ -203,7 +224,7 @@
 					<li>About button</li>
 					<li>Premium-related elements</li>
 				</ul>
-				<img src="images/app_screenshot_2.jpg" style="width: 256px" />
+				<img class="screenshot-image" src="images/app_screenshot_2.jpg" />
 
 
 				<a name="devices_android_Using_markers_lines_and_polygons"></a>
@@ -259,7 +280,7 @@
 					<li>Select all button: select all the elements in the list</li>
 					<li>Organize POIs / Organize Folders switch button: switch between organising POIs or Folders</li>
 				</ul>
-				<img src="images/app_screenshot_3.jpg" style="width: 256px" />
+				<img class="screenshot-image" src="images/app_screenshot_3.jpg" />
 				<p>
 					When organizing POIs, with at least one POI selected, the following buttons will become visible:
 					<ul>
@@ -344,8 +365,12 @@
 
 				<a name="devices_android_Cloud_and_collaborating"></a>
 				<h1>Cloud and collaborating</h1>
+
+				<a name="devices_android_Cloud_sync_tutorial_video"></a>
+				<h2>Cloud sync tutorial video</h2>
 				<p>
-					You can watch a video showcasing the basic steps for syncing and collaborating <a href="https://youtu.be/Vds_gWcW1_M" target="_blank" rel="noopener">here</a>
+					This tutorial video shows the basic steps to use the cloud sync:<br>
+					<iframe max-width="100%" width="640" height=auto src="https://www.youtube.com/embed/Vds_gWcW1_M" allowfullscreen></iframe>
 				</p>
 
 				<a name="devices_android_How_to_sync_a_local_map_folder_on_the_cloud"></a>
@@ -902,6 +927,7 @@
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Mass_assign_color_and_custom_fields">Mass assign color and custom fields</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Presets_templates_and_bulk_icons_with_folders">Presets, templates and bulk icons with folders</a><br>
 				<a style="display:inline-block;" href="#devices_ios_Cloud_and_collaborating"><b>Cloud and collaborating</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Cloud_sync_tutorial_video">Cloud sync tutorial video</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_How_to_sync_a_local_map_folder_on_the_cloud">How to sync a local map folder on the cloud</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_How_to_create_a_new_map_folder_on_the_cloud">How to create a new map folder on the cloud</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_How_to_share_your_map_cloud_folder_with_collaborators_on_the_cloud">How to share your map cloud folder with collaborators on the cloud</a><br>
@@ -957,7 +983,7 @@
 						<li>More button (bottom right): presents a list of possible actions on the marker (call phone, text phone, delete, etc.)</li>
 					</ul>
 				</ul>
-				<img src="images/app_screenshot_1.jpg" style="width: 256px" />
+				<img class="screenshot-image" src="images/app_screenshot_1.jpg" />
 
 				<a name="devices_ios_Main_menu_interface"></a>
 				<h2>Main menu interface</h2>
@@ -971,7 +997,7 @@
 					<li>About button</li>
 					<li>Premium-related elements</li>
 				</ul>
-				<img src="images/app_screenshot_2.jpg" style="width: 256px" />
+				<img class="screenshot-image" src="images/app_screenshot_2.jpg" />
 
 
 				<a name="devices_ios_Using_markers_lines_and_polygons"></a>
@@ -1027,7 +1053,7 @@
 					<li>Select all button: select all the elements in the list</li>
 					<li>Organize POIs / Organize Folders switch button: switch between organising POIs or Folders</li>
 				</ul>
-				<img src="images/app_screenshot_3.jpg" style="width: 256px" />
+				<img class="screenshot-image" src="images/app_screenshot_3.jpg" />
 				<p>
 					When organizing POIs, with at least one POI selected, the following buttons will become visible:
 					<ul>
@@ -1112,8 +1138,12 @@
 
 				<a name="devices_ios_Cloud_and_collaborating"></a>
 				<h1>Cloud and collaborating</h1>
+
+				<a name="devices_ios_Cloud_sync_tutorial_video"></a>
+				<h2>Cloud sync tutorial video</h2>
 				<p>
-					You can watch a video showcasing the basic steps for syncing and collaborating <a href="https://youtu.be/Vds_gWcW1_M" target="_blank" rel="noopener">here</a>
+					This tutorial video shows the basic steps to use the cloud sync:<br>
+					<iframe max-width="100%" width="640" height=auto src="https://www.youtube.com/embed/Vds_gWcW1_M" allowfullscreen></iframe>
 				</p>
 
 				<a name="devices_ios_How_to_sync_a_local_map_folder_on_the_cloud"></a>
@@ -1524,6 +1554,7 @@
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Mass_assign_color_and_custom_fields">Mass assign color and custom fields</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Presets_templates_and_bulk_icons_with_folders">Presets, templates and bulk icons with folders</a><br>
 				<a style="display:inline-block;" href="#devices_web_Cloud_and_collaborating"><b>Cloud and collaborating</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Cloud_sync_tutorial_video">Cloud sync tutorial video</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_How_to_sync_a_local_map_folder_on_the_cloud">How to sync a local map folder on the cloud</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_How_to_create_a_new_map_folder_on_the_cloud">How to create a new map folder on the cloud</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_How_to_share_your_map_cloud_folder_with_collaborators_on_the_cloud">How to share your map cloud folder with collaborators on the cloud</a><br>
@@ -1585,7 +1616,7 @@
 						<li>More button (bottom right): presents a list of possible actions on the marker (call phone, text phone, delete, etc.)</li>
 					</ul>
 				</ul>
-				<img src="images/app_screenshot_1.jpg" style="width: 256px" />
+				<img class="screenshot-image" src="images/app_screenshot_1.jpg" />
 
 				<a name="devices_web_Main_menu_interface"></a>
 				<h2>Main menu interface</h2>
@@ -1599,7 +1630,7 @@
 					<li>About button</li>
 					<li>Premium-related elements</li>
 				</ul>
-				<img src="images/app_screenshot_2.jpg" style="width: 256px" />
+				<img class="screenshot-image" src="images/app_screenshot_2.jpg" />
 
 
 				<a name="devices_web_Using_markers_lines_and_polygons"></a>
@@ -1655,7 +1686,7 @@
 					<li>Select all button: select all the elements in the list</li>
 					<li>Organize POIs / Organize Folders switch button: switch between organising POIs or Folders</li>
 				</ul>
-				<img src="images/app_screenshot_3.jpg" style="width: 256px" />
+				<img class="screenshot-image" src="images/app_screenshot_3.jpg" />
 				<p>
 					When organizing POIs, with at least one POI selected, the following buttons will become visible:
 					<ul>
@@ -1740,8 +1771,12 @@
 
 				<a name="devices_web_Cloud_and_collaborating"></a>
 				<h1>Cloud and collaborating</h1>
+
+				<a name="devices_web_Cloud_sync_tutorial_video"></a>
+				<h2>Cloud sync tutorial video</h2>
 				<p>
-					You can watch a video showcasing the basic steps for syncing and collaborating <a href="https://youtu.be/Vds_gWcW1_M" target="_blank" rel="noopener">here</a>
+					This tutorial video shows the basic steps to use the cloud sync:<br>
+					<iframe max-width="100%" width="640" height=auto src="https://www.youtube.com/embed/Vds_gWcW1_M" allowfullscreen></iframe>
 				</p>
 
 				<a name="devices_web_How_to_sync_a_local_map_folder_on_the_cloud"></a>

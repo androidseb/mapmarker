@@ -11,6 +11,26 @@
 	/>
 	<meta name="description" content="The Map Marker help center" />
 	<meta name="keywords" content="Map Marker, places, organizer ,help center" />
+	<style>
+		.screenshot-image {
+			max-width: 80%;
+			height: auto;
+		}
+		iframe {
+			width: 100%;
+			height: 270px;
+		}
+		@media screen and (min-width: 480px) {
+			.screenshot-image {
+				width: 360px;
+				height: auto;
+			}
+			iframe {
+				width: 640px; /* Set a specific width for the iframe on desktop */
+				height: 360px; /* Adjust the height accordingly */
+			}
+		}
+	</style>
 	<script type="text/javascript">
 		function getURLParameter(sParam) {
 			let sPageURL = window.location.search.substring(1);
