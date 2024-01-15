@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "Si desea otorgar este permiso, vaya a la configuración de permisos de esta aplicación en la configuración de su sistema.",
     "background_permission_leave_disabled_hint_message": "Si deja este permiso deshabilitado, la grabación de pistas solo funcionará mientras la aplicación esté visible en primer plano.",
     "notification_permission_asking_message": "La aplicación deberá mostrar una notificación para permanecer activa en segundo plano mientras graba una pista.",
-    "background_location_permission_asking_message": "La aplicación necesitará el permiso de ubicación \"siempre\" para poder grabar pistas mientras se ejecuta en segundo plano.",
     "save_x_unsaved_tracks_question": "La grabación de la(s) pista(s) (%s) se interrumpió antes de poder guardarla. ¿Quieres guardarlo ahora?",
     "delete_unsaved_tracks_forever_question": "¿Quieres eliminar para siempre la grabación de las pistas no guardadas?",
     "empty_track_discarded_message": "Esta pista no tenía puntos registrados y simplemente ha sido descartada.",

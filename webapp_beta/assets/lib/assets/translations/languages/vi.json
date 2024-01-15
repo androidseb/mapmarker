@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "Nếu bạn muốn cấp quyền này, hãy đi tới cài đặt quyền của ứng dụng này trong cài đặt hệ thống của bạn.",
     "background_permission_leave_disabled_hint_message": "Nếu bạn tắt quyền này, tính năng ghi bản nhạc sẽ chỉ hoạt động khi ứng dụng hiển thị ở nền trước.",
     "notification_permission_asking_message": "Ứng dụng sẽ cần hiển thị thông báo để duy trì hoạt động ở chế độ nền trong khi ghi một bản nhạc.",
-    "background_location_permission_asking_message": "Ứng dụng sẽ cần có quyền 'luôn luôn' vị trí để ghi lại các bản nhạc trong khi chạy ở chế độ nền.",
     "save_x_unsaved_tracks_question": "(Các) bản ghi (%s) đã bị gián đoạn trước khi có thể lưu. Bạn có muốn lưu nó bây giờ không?",
     "delete_unsaved_tracks_forever_question": "Bạn có muốn xóa vĩnh viễn (các) bản ghi chưa được lưu không?",
     "empty_track_discarded_message": "Bài hát này không có điểm nào được ghi lại và đơn giản là đã bị loại bỏ.",

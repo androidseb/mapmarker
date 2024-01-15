@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "Dacă doriți să acordați această permisiune, accesați setările de permisiuni ale acestei aplicații din setările sistemului.",
     "background_permission_leave_disabled_hint_message": "Dacă lăsați această permisiune dezactivată, înregistrarea piesei va funcționa numai în timp ce aplicația este vizibilă în prim-plan.",
     "notification_permission_asking_message": "Aplicația va trebui să afișeze o notificare pentru a rămâne activă în fundal în timp ce înregistrează o piesă.",
-    "background_location_permission_asking_message": "Aplicația va avea nevoie de permisiunea de locație „întotdeauna” pentru a înregistra piese în timp ce rulează în fundal.",
     "save_x_unsaved_tracks_question": "Înregistrarea piesei (%s) a fost întreruptă înainte de a putea fi salvată. Vrei să-l salvezi acum?",
     "delete_unsaved_tracks_forever_question": "Doriți să ștergeți pentru totdeauna piesele nesalvate?",
     "empty_track_discarded_message": "Această pistă nu a avut puncte înregistrate și a fost pur și simplu aruncată.",

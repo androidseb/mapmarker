@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "إذا كنت تريد منح هذا الإذن، فانتقل إلى إعدادات أذونات هذا التطبيق ضمن إعدادات النظام لديك.",
     "background_permission_leave_disabled_hint_message": "إذا تركت هذا الإذن معطلاً، فلن يعمل تسجيل المسار إلا عندما يكون التطبيق مرئيًا في المقدمة.",
     "notification_permission_asking_message": "سيحتاج التطبيق إلى عرض إشعار ليظل نشطًا في الخلفية أثناء تسجيل المسار.",
-    "background_location_permission_asking_message": "سيحتاج التطبيق إلى إذن الموقع \"دائمًا\" لتسجيل المسارات أثناء التشغيل في الخلفية.",
     "save_x_unsaved_tracks_question": "تمت مقاطعة تسجيل المسار (المسارات) (%s) قبل أن يتم حفظه. هل تريد حفظه الآن؟",
     "delete_unsaved_tracks_forever_question": "هل تريد حذف المسار (المسارات) غير المحفوظ الذي تم تسجيله إلى الأبد؟",
     "empty_track_discarded_message": "لم يتم تسجيل أي نقاط في هذا المسار وتم تجاهله ببساطة.",

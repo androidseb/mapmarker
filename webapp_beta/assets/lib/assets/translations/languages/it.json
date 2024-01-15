@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "Se desideri concedere questa autorizzazione, vai alle impostazioni delle autorizzazioni di questa applicazione nelle impostazioni di sistema.",
     "background_permission_leave_disabled_hint_message": "Se lasci questa autorizzazione disabilitata, la registrazione della traccia funzionerà solo mentre l'app è visibile in primo piano.",
     "notification_permission_asking_message": "L'app dovrà visualizzare una notifica per rimanere attiva in background durante la registrazione di una traccia.",
-    "background_location_permission_asking_message": "L'app avrà bisogno dell'autorizzazione alla posizione \"sempre\" per registrare le tracce mentre è in esecuzione in background.",
     "save_x_unsaved_tracks_question": "La registrazione della traccia (%s) è stata interrotta prima di poter essere salvata. Vuoi salvarlo adesso?",
     "delete_unsaved_tracks_forever_question": "Vuoi eliminare per sempre la registrazione delle tracce non salvate?",
     "empty_track_discarded_message": "Questa traccia non aveva punti registrati ed è stata semplicemente scartata.",

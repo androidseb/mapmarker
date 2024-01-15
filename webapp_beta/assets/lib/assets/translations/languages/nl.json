@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "Als u deze toestemming wilt verlenen, gaat u naar de machtigingsinstellingen van deze applicatie onder uw systeeminstellingen.",
     "background_permission_leave_disabled_hint_message": "Als je deze toestemming uitgeschakeld laat, werkt de trackopname alleen als de app zichtbaar is op de voorgrond.",
     "notification_permission_asking_message": "De app moet een melding weergeven om op de achtergrond actief te kunnen blijven tijdens het opnemen van een track.",
-    "background_location_permission_asking_message": "De app heeft de 'altijd' locatietoestemming nodig om tracks op te nemen terwijl deze op de achtergrond draait.",
     "save_x_unsaved_tracks_question": "De opname van de track(s) (%s) werd onderbroken voordat deze kon worden opgeslagen. Wil je het nu opslaan?",
     "delete_unsaved_tracks_forever_question": "Wilt u de niet-opgeslagen track(s)-opname voor altijd verwijderen?",
     "empty_track_discarded_message": "Voor dit nummer zijn geen punten geregistreerd en het is simpelweg weggegooid.",

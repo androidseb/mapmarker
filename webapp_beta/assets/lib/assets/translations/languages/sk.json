@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "Ak chcete udeliť toto povolenie, prejdite do nastavení povolení tejto aplikácie v nastaveniach systému.",
     "background_permission_leave_disabled_hint_message": "Ak toto povolenie necháte vypnuté, nahrávanie trasy bude fungovať len vtedy, keď je aplikácia viditeľná v popredí.",
     "notification_permission_asking_message": "Aplikácia bude musieť zobraziť upozornenie, aby zostala aktívna na pozadí počas nahrávania trasy.",
-    "background_location_permission_asking_message": "Aplikácia bude potrebovať povolenie na umiestnenie „vždy“, aby mohla zaznamenávať trasy pri spustení na pozadí.",
     "save_x_unsaved_tracks_question": "Nahrávanie stôp (%s) bolo prerušené skôr, ako sa dalo uložiť. Chcete to teraz uložiť?",
     "delete_unsaved_tracks_forever_question": "Chcete navždy vymazať neuložené záznamy stôp?",
     "empty_track_discarded_message": "Táto skladba nemala zaznamenané žiadne body a bola jednoducho vyradená.",

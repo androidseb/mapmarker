@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "Hvis du vil give denne tilladelse, skal du gå til denne applikations tilladelsesindstillinger under dine systemindstillinger.",
     "background_permission_leave_disabled_hint_message": "Hvis du lader denne tilladelse være deaktiveret, vil sporoptagelse kun fungere, mens appen er synlig i forgrunden.",
     "notification_permission_asking_message": "Appen skal vise en meddelelse for at forblive aktiv i baggrunden, mens den optager et spor.",
-    "background_location_permission_asking_message": "Appen har brug for 'altid' placeringstilladelse for at optage spor, mens den kører i baggrunden.",
     "save_x_unsaved_tracks_question": "Sporoptagelsen (%s) blev afbrudt, før den kunne gemmes. Vil du gemme det nu?",
     "delete_unsaved_tracks_forever_question": "Vil du slette de ikke-gemte sporoptagelser for altid?",
     "empty_track_discarded_message": "Dette spor havde ingen point registreret og er simpelthen blevet kasseret.",

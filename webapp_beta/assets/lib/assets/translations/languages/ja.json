@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "この権限を付与したい場合は、システム設定でこのアプリケーションの権限設定に移動してください。",
     "background_permission_leave_disabled_hint_message": "この権限を無効のままにすると、アプリがフォアグラウンドで表示されている間のみトラックの記録が機能します。",
     "notification_permission_asking_message": "アプリは、トラックの録音中にバックグラウンドでアクティブな状態を維持するために通知を表示する必要があります。",
-    "background_location_permission_asking_message": "アプリがバックグラウンドで実行中にトラックを記録するには、「常に」位置情報のアクセス許可が必要です。",
     "save_x_unsaved_tracks_question": "トラックの録音 (%s) は保存する前に中断されました。今すぐ保存しますか?",
     "delete_unsaved_tracks_forever_question": "保存されていないトラックの録音を永久に削除しますか?",
     "empty_track_discarded_message": "このトラックにはポイントが記録されていなかったため、単に破棄されました。",

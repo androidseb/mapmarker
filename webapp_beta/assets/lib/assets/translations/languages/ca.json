@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "Si voleu concedir aquest permís, aneu a la configuració de permisos d'aquesta aplicació a la configuració del vostre sistema.",
     "background_permission_leave_disabled_hint_message": "Si deixeu aquest permís desactivat, l'enregistrament de la pista només funcionarà mentre l'aplicació sigui visible en primer pla.",
     "notification_permission_asking_message": "L'aplicació haurà de mostrar una notificació per mantenir-se activa en segon pla mentre grava una pista.",
-    "background_location_permission_asking_message": "L'aplicació necessitarà el permís d'ubicació \"sempre\" per gravar pistes mentre s'executa en segon pla.",
     "save_x_unsaved_tracks_question": "La gravació de pistes (%s) s'ha interromput abans que es pogués desar. Vols desar-lo ara?",
     "delete_unsaved_tracks_forever_question": "Voleu suprimir per sempre la gravació de pistes no desades?",
     "empty_track_discarded_message": "Aquesta pista no tenia punts registrats i simplement s'ha descartat.",

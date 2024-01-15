@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "If you want to grant this permission, go to this application's permissions settings under your system settings.",
     "background_permission_leave_disabled_hint_message": "If you leave this permission disabled, track recording will only work while the app is visible in the foreground.",
     "notification_permission_asking_message": "The app will need to display a notification in order to remain active in the background while recording a track.",
-    "background_location_permission_asking_message": "The app will need the 'always' location permission in order to record tracks while running in the background.",
     "save_x_unsaved_tracks_question": "The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?",
     "delete_unsaved_tracks_forever_question": "Do you want to delete the unsaved track(s) recording forever?",
     "empty_track_discarded_message": "This track had no points recorded and has simply been discarded.",

@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "Ha meg szeretné adni ezt az engedélyt, nyissa meg az alkalmazás engedélybeállításait a rendszerbeállítások alatt.",
     "background_permission_leave_disabled_hint_message": "Ha letiltja ezt az engedélyt, a műsorszám rögzítése csak akkor működik, ha az alkalmazás látható az előtérben.",
     "notification_permission_asking_message": "Az alkalmazásnak értesítést kell megjelenítenie, hogy aktív maradjon a háttérben a műsorszám rögzítése közben.",
-    "background_location_permission_asking_message": "Az alkalmazásnak szüksége lesz a „mindig” helymeghatározási engedélyre, hogy a háttérben futva rögzítse a műsorszámokat.",
     "save_x_unsaved_tracks_question": "A műsorszám(ok) rögzítése (%s) megszakadt, mielőtt elmenthette volna. Szeretné most menteni?",
     "delete_unsaved_tracks_forever_question": "Örökre törölni szeretné a nem mentett műsorszám(ok) felvételét?",
     "empty_track_discarded_message": "Ennek a számnak nem volt rögzített pontja, és egyszerűen eldobták.",

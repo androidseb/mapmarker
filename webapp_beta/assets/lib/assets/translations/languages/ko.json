@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "이 권한을 부여하려면 시스템 설정에서 이 애플리케이션의 권한 설정으로 이동하세요.",
     "background_permission_leave_disabled_hint_message": "이 권한을 비활성화된 상태로 두면 트랙 녹음은 앱이 포그라운드에 표시되는 동안에만 작동합니다.",
     "notification_permission_asking_message": "트랙을 녹음하는 동안 백그라운드에서 활성 상태를 유지하려면 앱에 알림이 표시되어야 합니다.",
-    "background_location_permission_asking_message": "앱이 백그라운드에서 실행되는 동안 트랙을 기록하려면 '항상' 위치 권한이 필요합니다.",
     "save_x_unsaved_tracks_question": "트랙 녹음(%s)이 저장되기 전에 중단되었습니다. 지금 저장하시겠습니까?",
     "delete_unsaved_tracks_forever_question": "저장되지 않은 트랙 녹음을 완전히 삭제하시겠습니까?",
     "empty_track_discarded_message": "이 트랙에는 기록된 포인트가 없으며 단순히 삭제되었습니다.",

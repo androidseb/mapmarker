@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "Jos haluat myöntää tämän luvan, siirry tämän sovelluksen käyttöoikeusasetuksiin järjestelmäasetuksissasi.",
     "background_permission_leave_disabled_hint_message": "Jos jätät tämän luvan pois käytöstä, raidan tallennus toimii vain, kun sovellus on näkyvissä etualalla.",
     "notification_permission_asking_message": "Sovelluksen on näytettävä ilmoitus, jotta se pysyy aktiivisena taustalla raidan tallennuksen aikana.",
-    "background_location_permission_asking_message": "Sovellus tarvitsee \"aina\" sijaintiluvan tallentaakseen jälkiä taustalla käynnissä.",
     "save_x_unsaved_tracks_question": "Kappaleiden tallennus (%s) keskeytettiin ennen kuin se voitiin tallentaa. Haluatko tallentaa sen nyt?",
     "delete_unsaved_tracks_forever_question": "Haluatko poistaa tallentamattomat raidat pysyvästi?",
     "empty_track_discarded_message": "Tällä kappaleella ei ollut tallennettuja pisteitä ja se on yksinkertaisesti hylätty.",

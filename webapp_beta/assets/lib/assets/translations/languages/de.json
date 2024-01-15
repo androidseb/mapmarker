@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "Wenn Sie diese Berechtigung erteilen möchten, gehen Sie in Ihren Systemeinstellungen zu den Berechtigungseinstellungen dieser Anwendung.",
     "background_permission_leave_disabled_hint_message": "Wenn Sie diese Berechtigung deaktiviert lassen, funktioniert die Trackaufzeichnung nur, während die App im Vordergrund sichtbar ist.",
     "notification_permission_asking_message": "Die App muss eine Benachrichtigung anzeigen, um während der Aufnahme eines Tracks im Hintergrund aktiv zu bleiben.",
-    "background_location_permission_asking_message": "Die App benötigt die Standortberechtigung „immer“, um Tracks aufzuzeichnen, während sie im Hintergrund läuft.",
     "save_x_unsaved_tracks_question": "Die Aufnahme der Spur(en) (%s) wurde unterbrochen, bevor sie gespeichert werden konnte. Möchten Sie es jetzt speichern?",
     "delete_unsaved_tracks_forever_question": "Möchten Sie die nicht gespeicherte(n) Track(s)-Aufnahme endgültig löschen?",
     "empty_track_discarded_message": "Für diese Strecke wurden keine Punkte erfasst und sie wurde einfach verworfen.",

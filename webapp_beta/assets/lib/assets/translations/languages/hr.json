@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "Ako želite dati ovo dopuštenje, idite na postavke dopuštenja ove aplikacije u postavkama sustava.",
     "background_permission_leave_disabled_hint_message": "Ako ovo dopuštenje ostavite onemogućenim, snimanje zapisa radit će samo dok je aplikacija vidljiva u prvom planu.",
     "notification_permission_asking_message": "Aplikacija će morati prikazati obavijest kako bi ostala aktivna u pozadini tijekom snimanja staze.",
-    "background_location_permission_asking_message": "Aplikacija će trebati dopuštenje za lokaciju \"uvijek\" kako bi snimala staze dok radi u pozadini.",
     "save_x_unsaved_tracks_question": "Snimanje zapisa(a) (%s) je prekinuto prije nego što se moglo spremiti. Želite li ga sada spremiti?",
     "delete_unsaved_tracks_forever_question": "Želite li zauvijek izbrisati zapis(e) koji nije spremljen?",
     "empty_track_discarded_message": "Ova staza nije imala zabilježenih bodova i jednostavno je odbačena.",

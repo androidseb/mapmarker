@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "Pokud chcete toto oprávnění udělit, přejděte do nastavení oprávnění této aplikace v nastavení systému.",
     "background_permission_leave_disabled_hint_message": "Pokud toto oprávnění necháte deaktivované, záznam trasy bude fungovat pouze tehdy, když je aplikace viditelná v popředí.",
     "notification_permission_asking_message": "Aplikace bude muset zobrazit upozornění, aby zůstala aktivní na pozadí při nahrávání trasy.",
-    "background_location_permission_asking_message": "Aplikace bude potřebovat oprávnění k poloze „vždy“, aby mohla zaznamenávat trasy při běhu na pozadí.",
     "save_x_unsaved_tracks_question": "Nahrávání stopy (%s) bylo přerušeno před uložením. Chcete jej uložit nyní?",
     "delete_unsaved_tracks_forever_question": "Přejete si smazat neuloženou stopu(y) navždy?",
     "empty_track_discarded_message": "Tato stopa neměla zaznamenány žádné body a byla jednoduše vyřazena.",

@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "Ja vēlaties piešķirt šo atļauju, sistēmas iestatījumos atveriet šīs lietojumprogrammas atļauju iestatījumus.",
     "background_permission_leave_disabled_hint_message": "Ja atstāsit šo atļauju atspējotu, ierakstu ierakstīšana darbosies tikai tad, ja lietotne būs redzama priekšplānā.",
     "notification_permission_asking_message": "Lietotnei būs jāparāda paziņojums, lai tā paliktu aktīva fonā ieraksta ierakstīšanas laikā.",
-    "background_location_permission_asking_message": "Lietotnei būs nepieciešama atrašanās vietas atļauja vienmēr, lai ierakstītu ierakstus, darbojoties fonā.",
     "save_x_unsaved_tracks_question": "Ieraksta(-u) ierakstīšana (%s) tika pārtraukta, pirms to varēja saglabāt. Vai vēlaties to saglabāt tagad?",
     "delete_unsaved_tracks_forever_question": "Vai vēlaties neatgriezeniski dzēst nesaglabāto(-o) ierakstu(-us)?",
     "empty_track_discarded_message": "Šajā trasē netika reģistrēts neviens punkts, un tas ir vienkārši izmests.",

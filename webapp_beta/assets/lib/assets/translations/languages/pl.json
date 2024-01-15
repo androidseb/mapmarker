@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "Jeśli chcesz przyznać to uprawnienie, przejdź do ustawień uprawnień tej aplikacji w ustawieniach systemu.",
     "background_permission_leave_disabled_hint_message": "Jeśli pozostawisz to uprawnienie wyłączone, nagrywanie trasy będzie działać tylko wtedy, gdy aplikacja będzie widoczna na pierwszym planie.",
     "notification_permission_asking_message": "Aplikacja będzie musiała wyświetlić powiadomienie, aby pozostać aktywna w tle podczas nagrywania ścieżki.",
-    "background_location_permission_asking_message": "Aplikacja będzie potrzebować pozwolenia na lokalizację „zawsze”, aby nagrywać trasy podczas działania w tle.",
     "save_x_unsaved_tracks_question": "Nagrywanie ścieżki (%s) zostało przerwane, zanim można było je zapisać. Czy chcesz to teraz zapisać?",
     "delete_unsaved_tracks_forever_question": "Czy chcesz na zawsze usunąć niezapisane nagranie ścieżki?",
     "empty_track_discarded_message": "Na tym torze nie zapisano żadnych punktów i został on po prostu odrzucony.",

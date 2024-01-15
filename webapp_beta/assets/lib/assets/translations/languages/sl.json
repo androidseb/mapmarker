@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "Če želite podeliti to dovoljenje, pojdite na nastavitve dovoljenj te aplikacije v sistemskih nastavitvah.",
     "background_permission_leave_disabled_hint_message": "Če pustite to dovoljenje onemogočeno, bo snemanje sledi delovalo le, ko je aplikacija vidna v ospredju.",
     "notification_permission_asking_message": "Aplikacija bo morala prikazati obvestilo, da bo med snemanjem skladbe ostala aktivna v ozadju.",
-    "background_location_permission_asking_message": "Aplikacija bo potrebovala dovoljenje za lokacijo »vedno«, da lahko snema sledi, medtem ko teče v ozadju.",
     "save_x_unsaved_tracks_question": "Snemanje skladb (%s) je bilo prekinjeno, preden jih je bilo mogoče shraniti. Ali ga želite zdaj shraniti?",
     "delete_unsaved_tracks_forever_question": "Ali želite za vedno izbrisati neshranjene posnetke skladb?",
     "empty_track_discarded_message": "Ta skladba ni imela zabeleženih točk in je bila preprosto zavržena.",

@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "如果您想授予此权限，请转到系统设置下此应用程序的权限设置。",
     "background_permission_leave_disabled_hint_message": "如果您禁用此权限，则仅当应用程序在前台可见时，轨迹记录才会起作用。",
     "notification_permission_asking_message": "该应用程序需要显示通知，以便在录制曲目时在后台保持活动状态。",
-    "background_location_permission_asking_message": "该应用程序需要“始终”位置权限才能在后台运行时记录轨迹。",
     "save_x_unsaved_tracks_question": "曲目录制 (%s) 在保存之前被中断。您现在想保存它吗？",
     "delete_unsaved_tracks_forever_question": "您想永久删除未保存的曲目录音吗？",
     "empty_track_discarded_message": "这条赛道没有记录任何分数，只是被丢弃了。",

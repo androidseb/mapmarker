@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "Bu izni vermek istiyorsanız sistem ayarlarınız altında bu uygulamanın izin ayarlarına gidin.",
     "background_permission_leave_disabled_hint_message": "Bu izni devre dışı bırakırsanız parça kaydı yalnızca uygulama ön planda görünürken çalışır.",
     "notification_permission_asking_message": "Bir parçayı kaydederken arka planda aktif kalabilmek için uygulamanın bir bildirim görüntülemesi gerekecektir.",
-    "background_location_permission_asking_message": "Uygulamanın arka planda çalışırken parçaları kaydedebilmesi için 'her zaman' konum iznine ihtiyacı olacak.",
     "save_x_unsaved_tracks_question": "Parça(lar)ın kaydı (%s) kaydedilmeden kesildi. Şimdi kaydetmek istiyor musunuz?",
     "delete_unsaved_tracks_forever_question": "Kaydedilmemiş parça(lar)ın kaydını kalıcı olarak silmek istiyor musunuz?",
     "empty_track_discarded_message": "Bu parçanın hiçbir puanı kaydedilmedi ve basitçe iptal edildi.",

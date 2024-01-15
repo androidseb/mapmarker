@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "Om du vill ge denna behörighet, gå till denna applikations behörighetsinställningar under dina systeminställningar.",
     "background_permission_leave_disabled_hint_message": "Om du lämnar denna behörighet inaktiverad fungerar spårinspelning bara när appen är synlig i förgrunden.",
     "notification_permission_asking_message": "Appen måste visa ett meddelande för att förbli aktiv i bakgrunden medan du spelar in ett spår.",
-    "background_location_permission_asking_message": "Appen kommer att behöva platsbehörigheten \"alltid\" för att kunna spela in spår medan den körs i bakgrunden.",
     "save_x_unsaved_tracks_question": "Spårinspelningen (%s) avbröts innan den kunde sparas. Vill du spara den nu?",
     "delete_unsaved_tracks_forever_question": "Vill du radera osparade spårinspelningar för alltid?",
     "empty_track_discarded_message": "Det här spåret hade inga poäng registrerade och har helt enkelt kasserats.",

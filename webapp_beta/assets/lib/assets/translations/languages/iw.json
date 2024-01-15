@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "אם ברצונך להעניק הרשאה זו, עבור אל הגדרות ההרשאות של יישום זה תחת הגדרות המערכת שלך.",
     "background_permission_leave_disabled_hint_message": "אם תשאיר את ההרשאה הזו מושבתת, הקלטת הרצועה תפעל רק כשהאפליקציה גלויה בחזית.",
     "notification_permission_asking_message": "האפליקציה תצטרך להציג התראה כדי להישאר פעילה ברקע בזמן הקלטת רצועה.",
-    "background_location_permission_asking_message": "האפליקציה תצטרך את הרשאת המיקום 'תמיד' על מנת להקליט רצועות תוך כדי ריצה ברקע.",
     "save_x_unsaved_tracks_question": "הקלטת הרצועה (%s) נקטעה לפני שניתן היה לשמור אותה. האם אתה רוצה לשמור את זה עכשיו?",
     "delete_unsaved_tracks_forever_question": "האם אתה רוצה למחוק את הקלטת הרצועות שלא נשמרו לנצח?",
     "empty_track_discarded_message": "לרצועה הזו לא נרשמו נקודות והוא פשוט נמחק.",

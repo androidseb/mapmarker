@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "Se você deseja conceder essa permissão, acesse as configurações de permissões deste aplicativo nas configurações do sistema.",
     "background_permission_leave_disabled_hint_message": "Se você deixar essa permissão desativada, a gravação de trilhas só funcionará enquanto o aplicativo estiver visível em primeiro plano.",
     "notification_permission_asking_message": "O aplicativo precisará exibir uma notificação para permanecer ativo em segundo plano enquanto grava uma trilha.",
-    "background_location_permission_asking_message": "O aplicativo precisará da permissão de localização ‘sempre’ para gravar trilhas enquanto é executado em segundo plano.",
     "save_x_unsaved_tracks_question": "A gravação da(s) faixa(s) (%s) foi interrompida antes que pudesse ser salva. Quer salvá-lo agora?",
     "delete_unsaved_tracks_forever_question": "Você deseja excluir a(s) gravação(ões) de faixa(s) não salva(s) para sempre?",
     "empty_track_discarded_message": "Esta pista não teve pontos registrados e simplesmente foi descartada.",

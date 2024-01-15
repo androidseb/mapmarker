@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "Jei norite suteikti šį leidimą, eikite į šios programos leidimų nustatymus sistemos nustatymuose.",
     "background_permission_leave_disabled_hint_message": "Jei paliksite šį leidimą išjungtą, maršruto įrašymas veiks tik tada, kai programa bus matoma priekiniame plane.",
     "notification_permission_asking_message": "Programa turės rodyti pranešimą, kad įrašant takelį išliktų aktyvi fone.",
-    "background_location_permission_asking_message": "Programai reikės „visada“ buvimo vietos leidimo, kad galėtų įrašyti takelius veikiant fone.",
     "save_x_unsaved_tracks_question": "Takelio (-ų) įrašymas (%s) buvo nutrauktas prieš jį įrašant. Ar norite jį išsaugoti dabar?",
     "delete_unsaved_tracks_forever_question": "Ar norite visam laikui ištrinti neišsaugotą (-us) takelį (-ius)?",
     "empty_track_discarded_message": "Šiame takelyje nebuvo įrašytų taškų ir jis buvo tiesiog išmestas.",

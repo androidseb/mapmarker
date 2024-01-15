@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "Si vous voulez donner cette permission, ouvrez les réglages de permissions de l'application dans les réglages système.",
     "background_permission_leave_disabled_hint_message": "Si vous laissez cette permission désactivée, l'enregistrement de tracé fonctionneral seulement lorsque l'application est visible en avant-plan.",
     "notification_permission_asking_message": "L'application aura besoin d'afficher une notification afin de rester active en arrière plan durant l'enregistrement d'un tracé.",
-    "background_location_permission_asking_message": "L'application a besoin de la permission de position 'toujours' afin d'enregistrer des tracés en arrière plan.",
     "save_x_unsaved_tracks_question": "L'enregistrement de tracé(s) (%s) a été interrompu avant de pouvoir être sauvegardé. Voulez-vous le sauvegarder maintenant ?",
     "delete_unsaved_tracks_forever_question": "Voulez-vous supprimer l'enregistrement de tracé non-sauvegardé pour toujours ?",
     "empty_track_discarded_message": "Ce tracé n'a enregistré aucun point et a simplement été annulé.",

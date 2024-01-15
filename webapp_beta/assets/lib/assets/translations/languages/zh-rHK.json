@@ -481,7 +481,6 @@
     "grant_hint_text_forever_denied": "如果您想授予此權限，請前往系統設定下此應用程式的權限設定。",
     "background_permission_leave_disabled_hint_message": "如果您停用此權限，則僅當應用程式在前台可見時，軌跡記錄才會起作用。",
     "notification_permission_asking_message": "該應用程式需要顯示通知，以便在錄製曲目時在背景保持活動狀態。",
-    "background_location_permission_asking_message": "該應用程式需要“始終”位置權限才能在背景運行時記錄軌跡。",
     "save_x_unsaved_tracks_question": "曲目錄製 (%s) 在儲存之前被中斷。您現在想保存它嗎？",
     "delete_unsaved_tracks_forever_question": "您想永久刪除未儲存的曲目錄音嗎？",
     "empty_track_discarded_message": "這條賽道沒有記錄任何分數，只是被丟棄了。",
