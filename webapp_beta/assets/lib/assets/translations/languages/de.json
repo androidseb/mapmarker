@@ -488,5 +488,6 @@
     "settings_privacy_info_description": "Informationen zum Datenschutz anzeigen",
     "display_on_app_start": "Anzeige beim Start",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Diese App sammelt Standortdaten, um die Funktion „Tracks-Aufzeichnung“ zu aktivieren, auch wenn die App geschlossen ist oder nicht verwendet wird.\n\nDiese Standortdatenerfassung dient ausschließlich der Aufzeichnung von Tracks in Ihren Markern und erfolgt nur, wenn Sie explizit eine Trackaufzeichnung initiiert haben.\n\nWeitere allgemeine Informationen zum Datenschutz finden Sie in der Datenschutzerklärung unter folgendem Link:\n%s",
+    "track_editing_hint_text": "Wechseln Sie die Punkte mit den Schaltflächen „Zurück“ und „Weiter“, verschieben Sie die Karte, um die Punkte zu platzieren, und klicken Sie auf „-“, um einen Punkt zu entfernen. Klicken Sie abschließend auf Speichern, um den bearbeiteten Track zu speichern.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

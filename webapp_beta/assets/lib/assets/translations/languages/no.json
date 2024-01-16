@@ -488,5 +488,6 @@
     "settings_privacy_info_description": "Se informasjon om personvern",
     "display_on_app_start": "Visning ved start",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Denne appen samler inn plasseringsdata for å aktivere funksjonen \"sporopptak\" selv når appen er stengt eller ikke er i bruk.\n\nDenne innsamlingen av stedsdata brukes utelukkende til å registrere spor i markørene dine, og skjer kun når du eksplisitt har startet en sporregistrering.\n\nDu kan finne mer generell informasjon om personvern i personvernreglene som er tilgjengelig på følgende lenke:\n%s",
+    "track_editing_hint_text": "Bytt punkter med forrige/neste-knappene, flytt kartet rundt for å plassere punktene og klikk '-' for å fjerne et punkt. Klikk til slutt lagre for å lagre det redigerte sporet.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

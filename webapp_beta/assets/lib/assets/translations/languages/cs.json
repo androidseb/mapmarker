@@ -488,5 +488,6 @@
     "settings_privacy_info_description": "Zobrazit informace o soukromí",
     "display_on_app_start": "Displej při startu",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Tato aplikace shromažďuje údaje o poloze, aby umožnila funkci „nahrávání tras“, i když je aplikace zavřená nebo se nepoužívá.\n\nToto shromažďování údajů o poloze se používá výhradně k zaznamenávání tras do vašich značek a dochází k němu pouze v případě, že jste výslovně zahájili záznam trasy.\n\nDalší obecné informace o ochraně osobních údajů naleznete v zásadách ochrany osobních údajů, které jsou k dispozici na následujícím odkazu:\n%s",
+    "track_editing_hint_text": "Přepínejte body pomocí tlačítek předchozí/další, pohybujte mapou a umístěte body a kliknutím na '-' bod odstraňte. Nakonec klikněte na Uložit pro uložení upravené stopy.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

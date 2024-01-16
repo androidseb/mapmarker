@@ -488,5 +488,6 @@
     "settings_privacy_info_description": "Ver informações sobre privacidade",
     "display_on_app_start": "Exibir no início",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Este aplicativo coleta dados de localização para ativar o recurso de ‘gravação de trilhas’ mesmo quando o aplicativo está fechado ou não está em uso.\n\nEsta coleta de dados de localização é usada exclusivamente para registrar trilhas em seus marcadores e ocorre apenas quando você inicia explicitamente uma gravação de trilha.\n\nVocê pode encontrar informações mais gerais sobre privacidade na política de privacidade disponível no seguinte link:\n%s",
+    "track_editing_hint_text": "Troque os pontos com os botões anterior/próximo, mova o mapa para posicionar os pontos e clique em '-' para remover um ponto. Por fim, clique em salvar para salvar a trilha editada.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

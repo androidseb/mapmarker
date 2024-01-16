@@ -488,5 +488,6 @@
     "settings_privacy_info_description": "Voir des informations sur la confidentialité",
     "display_on_app_start": "Afficher au démarrage",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Cette application collecte des données de localisation pour permettre la fonctionnalité 'enregistrement de tracés' même lorsque l'application est fermée ou n'est pas utilisée.\n\nCette collecte de données de localisation est utilisée exclusivement pour enregistrer des tracés dans vos marqueurs, et ne se produit que lorsque vous avez explicitement lancé un enregistrement de tracé.\n\nVous pouvez trouver plus d'information sur la confidentialité dans la politique de confidentialité disponible au lien suivant:\n%s",
+    "track_editing_hint_text": "Changez de point avec les boutons suivant/précédent, déplacez la carte pour placer les points, et cliquez '-' pour retirer un point. Enfin, cliquez sauvegarder pour enregistrer le tracé.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

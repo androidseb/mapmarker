@@ -488,5 +488,6 @@
     "settings_privacy_info_description": "개인 정보 보호에 대한 정보 보기",
     "display_on_app_start": "시작 시 표시",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "이 앱은 앱이 닫혀 있거나 사용되지 않는 경우에도 '트랙 기록' 기능을 활성화하기 위해 위치 데이터를 수집합니다.\n\n이 위치 데이터 수집은 트랙을 마커에 기록하는 데에만 사용되며, 트랙 기록을 명시적으로 시작한 경우에만 발생합니다.\n\n다음 링크의 개인정보 보호정책에서 개인정보 보호에 대한 보다 일반적인 정보를 확인할 수 있습니다.\n%s",
+    "track_editing_hint_text": "이전/다음 버튼으로 포인트를 전환하고 지도를 움직여 포인트를 배치한 다음 '-'를 클릭하여 포인트를 제거하세요. 마지막으로 저장을 클릭하여 편집된 트랙을 저장합니다.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

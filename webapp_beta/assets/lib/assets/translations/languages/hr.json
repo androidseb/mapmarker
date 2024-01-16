@@ -488,5 +488,6 @@
     "settings_privacy_info_description": "Pogledajte informacije o privatnosti",
     "display_on_app_start": "Prikaz pri pokretanju",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Ova aplikacija prikuplja podatke o lokaciji kako bi omogućila značajku 'snimanja zapisa' čak i kada je aplikacija zatvorena ili se ne koristi.\n\nOvo prikupljanje podataka o lokaciji koristi se isključivo za snimanje staza u vaše markere i događa se samo kada ste izričito pokrenuli snimanje staze.\n\nOpćenitije informacije o privatnosti možete pronaći u politici privatnosti dostupnoj na sljedećoj poveznici:\n%s",
+    "track_editing_hint_text": "Mijenjajte točke s prethodnim/sljedećim gumbima, pomičite kartu kako biste postavili točke i kliknite '-' za uklanjanje točke. Na kraju kliknite spremi kako biste spremili uređenu stazu.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -488,5 +488,6 @@
     "settings_privacy_info_description": "Visa information om integritet",
     "display_on_app_start": "Display vid start",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Den här appen samlar in platsdata för att aktivera funktionen för \"spårinspelning\" även när appen är stängd eller inte används.\n\nDenna platsdatainsamling används uteslutande för att spela in spår i dina markörer, och sker endast när du uttryckligen har initierat en spårregistrering.\n\nDu kan hitta mer allmän information om integritet i integritetspolicyn som finns på följande länk:\n%s",
+    "track_editing_hint_text": "Byt punkter med föregående/nästa-knapparna, flytta runt kartan för att placera punkterna och klicka på '-' för att ta bort en punkt. Klicka slutligen på spara för att spara det redigerade spåret.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

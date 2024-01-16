@@ -488,5 +488,6 @@
     "settings_privacy_info_description": "Veure informació sobre privadesa",
     "display_on_app_start": "Mostra a l'inici",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Aquesta aplicació recull dades d'ubicació per habilitar la funció de \"enregistrament de pistes\", fins i tot quan l'aplicació està tancada o no s'utilitza.\n\nAquesta recopilació de dades d'ubicació s'utilitza exclusivament per gravar pistes als vostres marcadors i només es produeix quan heu iniciat explícitament una gravació de pistes.\n\nPodeu trobar més informació general sobre privadesa a la política de privadesa disponible al següent enllaç:\n%s",
+    "track_editing_hint_text": "Canvia els punts amb els botons anterior/següent, mou el mapa per col·locar els punts i fes clic a \"-\" per eliminar un punt. Finalment, feu clic a desa per desar la pista editada.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

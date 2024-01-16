@@ -488,5 +488,6 @@
     "settings_privacy_info_description": "Lihat informasi tentang privasi",
     "display_on_app_start": "Tampilan di awal",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Aplikasi ini mengumpulkan data lokasi untuk mengaktifkan fitur 'perekaman trek' bahkan ketika aplikasi ditutup atau tidak digunakan.\n\nPengumpulan data lokasi ini digunakan secara eksklusif untuk merekam jejak ke dalam penanda Anda, dan hanya terjadi bila Anda telah secara eksplisit memulai perekaman jejak.\n\nAnda dapat menemukan informasi lebih umum tentang privasi dalam kebijakan privasi yang tersedia di tautan berikut:\n%s",
+    "track_editing_hint_text": "Ganti titik dengan tombol sebelumnya/berikutnya, gerakkan peta untuk menempatkan titik dan klik '-' untuk menghapus titik. Terakhir klik simpan untuk menyimpan track yang telah diedit.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -488,5 +488,6 @@
     "settings_privacy_info_description": "プライバシーに関する情報を表示する",
     "display_on_app_start": "起動時の表示",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "このアプリは位置データを収集し、アプリが閉じているときや使用していないときでも「トラックの記録」機能を有効にします。\n\nこの位置データの収集は、トラックをマーカーに記録するためにのみ使用され、トラックの記録を明示的に開始した場合にのみ発生します。\n\nプライバシーに関する一般的な情報については、次のリンクにあるプライバシー ポリシーをご覧ください。\n%s",
+    "track_editing_hint_text": "前/次ボタンでポイントを切り替え、マップを移動してポイントを配置し、「-」をクリックしてポイントを削除します。最後に「保存」をクリックして、編集したトラックを保存します。",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

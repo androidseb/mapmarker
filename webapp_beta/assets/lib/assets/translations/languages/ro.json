@@ -488,5 +488,6 @@
     "settings_privacy_info_description": "Vizualizați informații despre confidențialitate",
     "display_on_app_start": "Afișare la pornire",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Această aplicație colectează date despre locație pentru a activa funcția de „înregistrare a melodiilor” chiar și atunci când aplicația este închisă sau nu este utilizată.\n\nAceastă colecție de date despre locație este utilizată exclusiv pentru a înregistra traseele în marcatoarele dvs. și are loc numai atunci când ați inițiat în mod explicit o înregistrare a piesei.\n\nPuteți găsi mai multe informații generale despre confidențialitate în politica de confidențialitate disponibilă la următorul link:\n%s",
+    "track_editing_hint_text": "Comutați punctele cu butoanele anterior/următorul, mutați harta pentru a plasa punctele și faceți clic pe „-” pentru a elimina un punct. În cele din urmă, faceți clic pe Salvare pentru a salva piesa editată.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

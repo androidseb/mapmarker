@@ -488,5 +488,6 @@
     "settings_privacy_info_description": "Gizlilikle ilgili bilgileri görüntüleyin",
     "display_on_app_start": "Başlangıçta görüntüle",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Bu uygulama, uygulama kapalıyken veya kullanılmadığında bile 'parça kaydetme' özelliğini etkinleştirmek için konum verilerini toplar.\n\nBu konum verisi toplama, yalnızca parkurları işaretleyicilerinize kaydetmek için kullanılır ve yalnızca bir parkur kaydını açıkça başlattığınızda gerçekleşir.\n\nGizlilik hakkında daha genel bilgileri aşağıdaki bağlantıda bulunan gizlilik politikasında bulabilirsiniz:\n%s",
+    "track_editing_hint_text": "Önceki/sonraki düğmeleriyle noktaları değiştirin, noktaları yerleştirmek için haritayı hareket ettirin ve bir noktayı kaldırmak için '-'ye tıklayın. Son olarak düzenlenen parçayı kaydetmek için kaydet'i tıklayın.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

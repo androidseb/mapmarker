@@ -488,5 +488,6 @@
     "settings_privacy_info_description": "Katso yksityisyyttä koskevia tietoja",
     "display_on_app_start": "Näyttö käynnistyksessä",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Tämä sovellus kerää sijaintitietoja mahdollistaakseen jälkitallennusominaisuuden, vaikka sovellus olisi suljettu tai sitä ei käytetä.\n\nTätä sijaintitietojen kokoelmaa käytetään yksinomaan jälkien tallentamiseen merkkeihisi, ja se tapahtuu vain, kun olet nimenomaisesti aloittanut jäljen tallennuksen.\n\nLöydät yleistä tietoa tietosuojasta seuraavasta linkistä löytyvästä tietosuojakäytännöstä:\n%s",
+    "track_editing_hint_text": "Vaihda pisteitä edellinen/seuraava-painikkeilla, sijoita pisteet siirtämällä karttaa ja poista piste napsauttamalla '-'. Lopuksi napsauta Tallenna tallentaaksesi muokatun kappaleen.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

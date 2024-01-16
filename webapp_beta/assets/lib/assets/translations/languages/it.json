@@ -488,5 +488,6 @@
     "settings_privacy_info_description": "Visualizza l'informativa sulla privacy",
     "display_on_app_start": "Visualizzazione all'avvio",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Questa app raccoglie dati sulla posizione per abilitare la funzione di \"registrazione delle tracce\" anche quando l'app è chiusa o non in uso.\n\nQuesta raccolta dei dati sulla posizione viene utilizzata esclusivamente per registrare le tracce nei tuoi marcatori e avviene solo quando hai avviato esplicitamente la registrazione della traccia.\n\nPuoi trovare informazioni più generali sulla privacy nella privacy policy disponibile al seguente link:\n%s",
+    "track_editing_hint_text": "Cambia punto con i pulsanti precedente/successivo, sposta la mappa per posizionare i punti e fai clic su \"-\" per rimuovere un punto. Infine fai clic su Salva per salvare la traccia modificata.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

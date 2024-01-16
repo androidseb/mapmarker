@@ -488,5 +488,6 @@
     "settings_privacy_info_description": "Bekijk informatie over privacy",
     "display_on_app_start": "Weergave bij starten",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Deze app verzamelt locatiegegevens om de functie 'tracks opnemen' mogelijk te maken, zelfs wanneer de app gesloten is of niet in gebruik is.\n\nDeze verzameling van locatiegegevens wordt uitsluitend gebruikt om tracks in uw markeringen op te nemen en vindt alleen plaats als u expliciet een trackopname hebt gestart.\n\nMeer algemene informatie over privacy vindt u in het privacybeleid dat beschikbaar is via de volgende link:\n%s",
+    "track_editing_hint_text": "Wissel van punt met de vorige/volgende knoppen, verplaats de kaart om de punten te plaatsen en klik op '-' om een punt te verwijderen. Klik ten slotte op Opslaan om de bewerkte track op te slaan.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

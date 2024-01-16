@@ -488,5 +488,6 @@
     "settings_privacy_info_description": "Oglejte si informacije o zasebnosti",
     "display_on_app_start": "Prikaz ob zagonu",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Ta aplikacija zbira podatke o lokaciji, da omogoči funkcijo »snemanja sledi«, tudi ko je aplikacija zaprta ali ni v uporabi.\n\nTo zbiranje podatkov o lokaciji se uporablja izključno za snemanje poti v vaše označevalce in se zgodi samo, ko ste izrecno sprožili snemanje poti.\n\nVeč splošnih informacij o zasebnosti najdete v politiki zasebnosti, ki je na voljo na naslednji povezavi:\n%s",
+    "track_editing_hint_text": "Menjajte točke z gumboma prej/naslednji, premikajte zemljevid, da postavite točke, in kliknite '-', da odstranite točko. Na koncu kliknite Shrani, da shranite urejeno skladbo.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
