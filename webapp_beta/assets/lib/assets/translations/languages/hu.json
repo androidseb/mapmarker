@@ -489,5 +489,11 @@
     "display_on_app_start": "Kijelzés induláskor",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Ez az alkalmazás helyadatokat gyűjt, hogy lehetővé tegye a „nyomvonalrögzítés” funkciót, még akkor is, ha az alkalmazás be van zárva vagy nincs használatban.\n\nEzt a helyadatgyűjtést kizárólag a nyomvonalak jelölőibe történő rögzítésére használják, és csak akkor történik meg, ha kifejezetten kezdeményezte a nyomvonal rögzítését.\n\nAz adatvédelemmel kapcsolatos általánosabb információkat az alábbi linken elérhető adatvédelmi szabályzatban talál:\n%s",
     "track_editing_hint_text": "Váltson a pontok között az előző/következő gombokkal, mozgassa a térképet a pontok elhelyezéséhez, majd kattintson a '-' gombra egy pont eltávolításához. Végül kattintson a Mentés gombra a szerkesztett szám mentéséhez.",
+    "duration_x": "Időtartam: %s",
+    "minimum_speed_x": "Minimális sebesség: %s",
+    "minimum_moving_speed_x": "Minimális mozgási sebesség: %s",
+    "maximum_speed_x": "Maximális sebesség: %s",
+    "average_speed_x": "Átlagsebesség: %s",
+    "altitude_variation_x": "Magasságváltozás: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

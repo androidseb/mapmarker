@@ -489,5 +489,11 @@
     "display_on_app_start": "Visning ved start",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Denne app indsamler lokationsdata for at aktivere funktionen 'sporoptagelse', selv når appen er lukket eller ikke er i brug.\n\nDenne placeringsdataindsamling bruges udelukkende til at optage spor i dine markører, og sker kun, når du eksplicit har startet en sporregistrering.\n\nDu kan finde mere generel information om privatlivets fred i privatlivspolitikken, der er tilgængelig på følgende link:\n%s",
     "track_editing_hint_text": "Skift punkter med forrige/næste-knapperne, flyt rundt på kortet for at placere punkterne og klik på '-' for at fjerne et punkt. Klik til sidst på Gem for at gemme det redigerede nummer.",
+    "duration_x": "Varighed: %s",
+    "minimum_speed_x": "Minimumshastighed: %s",
+    "minimum_moving_speed_x": "Minimum flyttehastighed: %s",
+    "maximum_speed_x": "Maksimal hastighed: %s",
+    "average_speed_x": "Gennemsnitshastighed: %s",
+    "altitude_variation_x": "Højdevariation: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

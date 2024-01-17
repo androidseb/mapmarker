@@ -489,5 +489,11 @@
     "display_on_app_start": "Display on start",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.\n\nThis location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.\n\nYou can find more general information about privacy in the privacy policy available at the following link:\n%s",
     "track_editing_hint_text": "Switch points with the previous/next buttons, move the map around to place the points and click '-' to remove a point. Finally click save to save the edited track.",
+    "duration_x": "Duration: %s",
+    "minimum_speed_x": "Minimum speed: %s",
+    "minimum_moving_speed_x": "Minimum moving speed: %s",
+    "maximum_speed_x": "Maximum speed: %s",
+    "average_speed_x": "Average speed: %s",
+    "altitude_variation_x": "Altitude variation: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

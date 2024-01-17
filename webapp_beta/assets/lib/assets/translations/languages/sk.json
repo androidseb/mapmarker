@@ -489,5 +489,11 @@
     "display_on_app_start": "Displej pri štarte",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Táto aplikácia zhromažďuje údaje o polohe, aby umožnila funkciu „nahrávania stôp“, aj keď je aplikácia zatvorená alebo sa nepoužíva.\n\nToto zhromažďovanie údajov o polohe sa používa výlučne na zaznamenávanie trás do vašich značiek a prebieha iba vtedy, keď ste explicitne spustili zaznamenávanie trás.\n\nViac všeobecných informácií o ochrane osobných údajov nájdete v zásadách ochrany osobných údajov, ktoré sú k dispozícii na nasledujúcom odkaze:\n%s",
     "track_editing_hint_text": "Prepínajte body pomocou tlačidiel predchádzajúci/nasledujúci, pohybujte po mape a umiestnite body a kliknutím na '-' bod odstráňte. Nakoniec kliknite na Uložiť pre uloženie upravenej stopy.",
+    "duration_x": "Trvanie: %s",
+    "minimum_speed_x": "Minimálna rýchlosť: %s",
+    "minimum_moving_speed_x": "Minimálna rýchlosť pohybu: %s",
+    "maximum_speed_x": "Maximálna rýchlosť: %s",
+    "average_speed_x": "Priemerná rýchlosť: %s",
+    "altitude_variation_x": "Zmena nadmorskej výšky: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

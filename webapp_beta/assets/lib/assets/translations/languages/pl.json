@@ -489,5 +489,11 @@
     "display_on_app_start": "Wyświetl na początku",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Ta aplikacja zbiera dane o lokalizacji, aby włączyć funkcję „zapisu śladów”, nawet gdy aplikacja jest zamknięta lub nieużywana.\n\nTo gromadzenie danych o lokalizacji służy wyłącznie do zapisywania śladów w Twoich znacznikach i ma miejsce tylko wtedy, gdy wyraźnie zainicjowałeś rejestrację śladu.\n\nWięcej ogólnych informacji na temat prywatności znajdziesz w polityce prywatności dostępnej pod poniższym linkiem:\n%s",
     "track_editing_hint_text": "Przełączaj punkty za pomocą przycisków Poprzedni/Dalej, przesuwaj mapę, aby umieścić punkty i kliknij „-”, aby usunąć punkt. Na koniec kliknij przycisk Zapisz, aby zapisać edytowany utwór.",
+    "duration_x": "Czas trwania: %s",
+    "minimum_speed_x": "Minimalna prędkość: %s",
+    "minimum_moving_speed_x": "Minimalna prędkość poruszania się: %s",
+    "maximum_speed_x": "Maksymalna prędkość: %s",
+    "average_speed_x": "Średnia prędkość: %s",
+    "altitude_variation_x": "Zmiana wysokości: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

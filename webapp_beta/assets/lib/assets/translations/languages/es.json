@@ -489,5 +489,11 @@
     "display_on_app_start": "Mostrar al inicio",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Esta aplicación recopila datos de ubicación para habilitar la función de \"grabación de pistas\" incluso cuando la aplicación está cerrada o no está en uso.\n\nEsta recopilación de datos de ubicación se utiliza exclusivamente para grabar recorridos en sus marcadores y solo ocurre cuando usted ha iniciado explícitamente una grabación de recorrido.\n\nPuede encontrar más información general sobre privacidad en la política de privacidad disponible en el siguiente enlace:\n%s",
     "track_editing_hint_text": "Cambie de punto con los botones anterior/siguiente, mueva el mapa para colocar los puntos y haga clic en '-' para eliminar un punto. Finalmente haga clic en guardar para guardar la pista editada.",
+    "duration_x": "Duración: %s",
+    "minimum_speed_x": "Velocidad mínima: %s",
+    "minimum_moving_speed_x": "Velocidad mínima de movimiento: %s",
+    "maximum_speed_x": "Velocidad máxima: %s",
+    "average_speed_x": "Velocidad media: %s",
+    "altitude_variation_x": "Variación de altitud: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

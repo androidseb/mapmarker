@@ -489,5 +489,11 @@
     "display_on_app_start": "启动时显示",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "即使应用程序关闭或未使用，该应用程序也会收集位置数据以启用“轨迹记录”功能。\n\n此位置数据收集专门用于将轨迹记录到标记中，并且仅在您明确启动轨迹记录时才会发生。\n\n您可以在以下链接提供的隐私政策中找到有关隐私的更多一般信息：\n%s",
     "track_editing_hint_text": "使用上一个/下一个按钮切换点，移动地图以放置点，然后单击“-”删除点。最后点击保存即可保存编辑好的轨迹。",
+    "duration_x": "持续时间：%s",
+    "minimum_speed_x": "最低速度：%s",
+    "minimum_moving_speed_x": "最小移动速度：%s",
+    "maximum_speed_x": "最大速度：%s",
+    "average_speed_x": "平均速度：%s",
+    "altitude_variation_x": "海拔高度变化：%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -489,5 +489,11 @@
     "display_on_app_start": "Ekranas paleidžiant",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Ši programa renka vietos duomenis, kad įgalintų „takų įrašymo“ funkciją, net kai programa uždaryta arba nenaudojama.\n\nŠis vietos duomenų rinkimas naudojamas išskirtinai įrašyti takelius į žymeklius ir tik tada, kai aiškiai inicijavote maršruto įrašymą.\n\nDaugiau bendros informacijos apie privatumą galite rasti privatumo politikoje, kurią rasite šioje nuorodoje:\n%s",
     "track_editing_hint_text": "Perjunkite taškus naudodami ankstesnį / kitą mygtuką, perkelkite žemėlapį, kad nustatytumėte taškus, ir spustelėkite „-“, kad pašalintumėte tašką. Galiausiai spustelėkite išsaugoti, kad išsaugotumėte redaguotą takelį.",
+    "duration_x": "Trukmė: %s",
+    "minimum_speed_x": "Minimalus greitis: %s",
+    "minimum_moving_speed_x": "Mažiausias judėjimo greitis: %s",
+    "maximum_speed_x": "Maksimalus greitis: %s",
+    "average_speed_x": "Vidutinis greitis: %s",
+    "altitude_variation_x": "Aukščio kitimas: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

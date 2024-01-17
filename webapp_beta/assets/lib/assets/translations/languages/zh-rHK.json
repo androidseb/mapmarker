@@ -489,5 +489,11 @@
     "display_on_app_start": "啟動時顯示",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "即使應用程式關閉或未使用，該應用程式也會收集位置資料以啟用「軌跡記錄」功能。\n\n此位置資料收集專門用於將軌跡記錄到標記中，並且僅在您明確啟動軌跡記錄時才會發生。\n\n您可以在以下連結提供的隱私權政策中找到有關隱私的更多一般資訊：\n%s",
     "track_editing_hint_text": "使用上一個/下一個按鈕切換點，移動地圖以放置點，然後按一下「-」刪除點。最後點選儲存即可儲存編輯好的曲目。",
+    "duration_x": "持續時間：%s",
+    "minimum_speed_x": "最低速度：%s",
+    "minimum_moving_speed_x": "最小移動速度：%s",
+    "maximum_speed_x": "最大速度：%s",
+    "average_speed_x": "平均速度：%s",
+    "altitude_variation_x": "海拔高度變化：%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

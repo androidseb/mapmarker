@@ -489,5 +489,11 @@
     "display_on_app_start": "Hiển thị khi bắt đầu",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Ứng dụng này thu thập dữ liệu vị trí để kích hoạt tính năng 'ghi dấu vết' ngay cả khi ứng dụng bị đóng hoặc không được sử dụng.\n\nViệc thu thập dữ liệu vị trí này được sử dụng riêng để ghi lại các tuyến đường vào điểm đánh dấu của bạn và chỉ xảy ra khi bạn đã bắt đầu ghi tuyến đường một cách rõ ràng.\n\nBạn có thể tìm thêm thông tin chung về quyền riêng tư trong chính sách quyền riêng tư có sẵn tại liên kết sau:\n%s",
     "track_editing_hint_text": "Chuyển đổi điểm bằng các nút trước/tiếp theo, di chuyển bản đồ xung quanh để đặt các điểm và nhấp vào '-' để xóa một điểm. Cuối cùng nhấn lưu để lưu bản nhạc đã chỉnh sửa.",
+    "duration_x": "Thời lượng: %s",
+    "minimum_speed_x": "Tốc độ tối thiểu: %s",
+    "minimum_moving_speed_x": "Tốc độ di chuyển tối thiểu: %s",
+    "maximum_speed_x": "Tốc độ tối đa: %s",
+    "average_speed_x": "Tốc độ trung bình: %s",
+    "altitude_variation_x": "Sự thay đổi độ cao: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

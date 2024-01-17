@@ -489,5 +489,11 @@
     "display_on_app_start": "Displejs sākumā",
     "bg_location_prominent_prompt_with_privacy_link_x_text": "Šī lietotne apkopo atrašanās vietas datus, lai iespējotu 'trases ierakstīšanas' funkciju, pat ja lietotne ir aizvērta vai netiek lietota.\n\nŠī atrašanās vietas datu kolekcija tiek izmantota tikai, lai ierakstītu maršrutus jūsu marķieros, un tas notiek tikai tad, ja esat skaidri sācis maršrutu ierakstīšanu.\n\nPlašāku informāciju par privātumu varat atrast privātuma politikā, kas pieejama šajā saitē:\n%s",
     "track_editing_hint_text": "Pārslēdziet punktus, izmantojot iepriekšējās/nākamās pogas, pārvietojiet karti, lai novietotu punktus, un noklikšķiniet uz “-”, lai noņemtu punktu. Visbeidzot noklikšķiniet uz Saglabāt, lai saglabātu rediģēto ierakstu.",
+    "duration_x": "Ilgums: %s",
+    "minimum_speed_x": "Minimālais ātrums: %s",
+    "minimum_moving_speed_x": "Minimālais kustības ātrums: %s",
+    "maximum_speed_x": "Maksimālais ātrums: %s",
+    "average_speed_x": "Vidējais ātrums: %s",
+    "altitude_variation_x": "Augstuma izmaiņas: %s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
