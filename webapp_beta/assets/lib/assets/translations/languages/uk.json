@@ -495,5 +495,6 @@
     "maximum_speed_x": "Максимальна швидкість: %s",
     "average_speed_x": "Середня швидкість: %s",
     "altitude_variation_x": "Перепад висоти: %s",
+    "track_details": "Деталі треку",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -495,5 +495,6 @@
     "maximum_speed_x": "Maximální rychlost: %s",
     "average_speed_x": "Průměrná rychlost: %s",
     "altitude_variation_x": "Změna nadmořské výšky: %s",
+    "track_details": "Podrobnosti stopy",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

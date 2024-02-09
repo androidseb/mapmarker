@@ -495,5 +495,6 @@
     "maximum_speed_x": "ល្បឿនអតិបរមា៖ %s",
     "average_speed_x": "ល្បឿនមធ្យម៖ %s",
     "altitude_variation_x": "ការប្រែប្រួលកម្ពស់៖ %s",
+    "track_details": "តាមដានព័ត៌មានលម្អិត",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

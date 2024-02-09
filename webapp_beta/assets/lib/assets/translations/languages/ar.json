@@ -495,5 +495,6 @@
     "maximum_speed_x": "السرعة القصوى: %s",
     "average_speed_x": "متوسط السرعة: %s",
     "altitude_variation_x": "اختلاف الارتفاع: %s",
+    "track_details": "تفاصيل المسار",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

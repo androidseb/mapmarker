@@ -495,5 +495,9 @@
     "maximum_speed_x": "Maximum speed: %s",
     "average_speed_x": "Average speed: %s",
     "altitude_variation_x": "Altitude variation: %s",
+    "track_details": "Track details",
+    "distance": "Distance",
+    "speed": "Speed",
+    "altitude": "Altitude",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

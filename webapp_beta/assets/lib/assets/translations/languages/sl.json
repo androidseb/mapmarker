@@ -495,5 +495,6 @@
     "maximum_speed_x": "Največja hitrost: %s",
     "average_speed_x": "Povprečna hitrost: %s",
     "altitude_variation_x": "Sprememba nadmorske višine: %s",
+    "track_details": "Podrobnosti skladbe",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

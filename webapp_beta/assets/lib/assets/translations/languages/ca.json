@@ -495,5 +495,6 @@
     "maximum_speed_x": "Velocitat màxima: %s",
     "average_speed_x": "Velocitat mitjana: %s",
     "altitude_variation_x": "Variació d'altitud: %s",
+    "track_details": "Detalls del seguiment",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

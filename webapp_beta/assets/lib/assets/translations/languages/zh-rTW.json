@@ -495,5 +495,6 @@
     "maximum_speed_x": "最大速度：%s",
     "average_speed_x": "平均速度：%s",
     "altitude_variation_x": "海拔高度變化：%s",
+    "track_details": "追蹤詳情",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

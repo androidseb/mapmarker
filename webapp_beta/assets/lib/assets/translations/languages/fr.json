@@ -495,5 +495,9 @@
     "maximum_speed_x": "Vitesse maximum: %s",
     "average_speed_x": "Vitesse moyenne : %s",
     "altitude_variation_x": "Variation d'altitude : %s",
+    "track_details": "Détails du tracé",
+    "distance": "Distance",
+    "speed": "Vitesse",
+    "altitude": "Altitude",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

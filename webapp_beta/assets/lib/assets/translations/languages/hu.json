@@ -495,5 +495,6 @@
     "maximum_speed_x": "Maximális sebesség: %s",
     "average_speed_x": "Átlagsebesség: %s",
     "altitude_variation_x": "Magasságváltozás: %s",
+    "track_details": "A pálya részletei",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

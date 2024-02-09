@@ -495,5 +495,6 @@
     "maximum_speed_x": "Maksimal hastighet: %s",
     "average_speed_x": "Gjennomsnittlig hastighet: %s",
     "altitude_variation_x": "Høydevariasjon: %s",
+    "track_details": "Spordetaljer",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

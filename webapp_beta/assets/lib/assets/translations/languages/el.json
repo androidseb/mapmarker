@@ -495,5 +495,6 @@
     "maximum_speed_x": "Μέγιστη ταχύτητα: %s",
     "average_speed_x": "Μέση ταχύτητα: %s",
     "altitude_variation_x": "Υψομετρική διακύμανση: %s",
+    "track_details": "Λεπτομέρειες κομματιού",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

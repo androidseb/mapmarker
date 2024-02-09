@@ -495,5 +495,6 @@
     "maximum_speed_x": "अधिकतम गति: %s",
     "average_speed_x": "औसत गति: %s",
     "altitude_variation_x": "ऊंचाई भिन्नता: %s",
+    "track_details": "ट्रैक विवरण",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

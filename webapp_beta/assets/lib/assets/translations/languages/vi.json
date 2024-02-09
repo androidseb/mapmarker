@@ -495,5 +495,6 @@
     "maximum_speed_x": "Tốc độ tối đa: %s",
     "average_speed_x": "Tốc độ trung bình: %s",
     "altitude_variation_x": "Sự thay đổi độ cao: %s",
+    "track_details": "Theo dõi chi tiết",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

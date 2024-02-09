@@ -495,5 +495,6 @@
     "maximum_speed_x": "Максимална скорост: %s",
     "average_speed_x": "Средна скорост: %s",
     "altitude_variation_x": "Вариация на надморската височина: %s",
+    "track_details": "Подробности за песента",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
