@@ -496,5 +496,8 @@
     "average_speed_x": "Priemerná rýchlosť: %s",
     "altitude_variation_x": "Zmena nadmorskej výšky: %s",
     "track_details": "Podrobnosti sledovania",
+    "distance": "Vzdialenosť",
+    "speed": "Rýchlosť",
+    "altitude": "Nadmorská výška",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -496,5 +496,8 @@
     "average_speed_x": "متوسط السرعة: %s",
     "altitude_variation_x": "اختلاف الارتفاع: %s",
     "track_details": "تفاصيل المسار",
+    "distance": "مسافة",
+    "speed": "سرعة",
+    "altitude": "ارتفاع",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

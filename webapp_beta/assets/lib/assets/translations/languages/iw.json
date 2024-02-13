@@ -496,5 +496,8 @@
     "average_speed_x": "מהירות ממוצעת: %s",
     "altitude_variation_x": "שינוי גובה: %s",
     "track_details": "פרטי מסלול",
+    "distance": "מֶרְחָק",
+    "speed": "מְהִירוּת",
+    "altitude": "גוֹבַה",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -496,5 +496,8 @@
     "average_speed_x": "Средняя скорость: %s",
     "altitude_variation_x": "Изменение высоты: %s",
     "track_details": "Подробности отслеживания",
+    "distance": "Расстояние",
+    "speed": "Скорость",
+    "altitude": "Высота",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -496,5 +496,8 @@
     "average_speed_x": "Átlagsebesség: %s",
     "altitude_variation_x": "Magasságváltozás: %s",
     "track_details": "A pálya részletei",
+    "distance": "Távolság",
+    "speed": "Sebesség",
+    "altitude": "Magasság",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

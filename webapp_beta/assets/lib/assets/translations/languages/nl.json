@@ -496,5 +496,8 @@
     "average_speed_x": "Gemiddelde snelheid: %s",
     "altitude_variation_x": "Hoogtevariatie: %s",
     "track_details": "Volg details",
+    "distance": "Afstand",
+    "speed": "Snelheid",
+    "altitude": "Hoogte",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

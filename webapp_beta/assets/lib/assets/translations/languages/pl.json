@@ -496,5 +496,8 @@
     "average_speed_x": "Średnia prędkość: %s",
     "altitude_variation_x": "Zmiana wysokości: %s",
     "track_details": "Szczegóły śledzenia",
+    "distance": "Dystans",
+    "speed": "Prędkość",
+    "altitude": "Wysokość",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

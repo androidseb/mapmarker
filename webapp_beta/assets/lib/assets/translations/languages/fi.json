@@ -496,5 +496,8 @@
     "average_speed_x": "Keskinopeus: %s",
     "altitude_variation_x": "Korkeuden vaihtelu: %s",
     "track_details": "Raidan tiedot",
+    "distance": "Etäisyys",
+    "speed": "Nopeus",
+    "altitude": "Korkeus",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

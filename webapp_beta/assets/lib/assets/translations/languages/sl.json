@@ -496,5 +496,8 @@
     "average_speed_x": "Povprečna hitrost: %s",
     "altitude_variation_x": "Sprememba nadmorske višine: %s",
     "track_details": "Podrobnosti skladbe",
+    "distance": "Razdalja",
+    "speed": "Hitrost",
+    "altitude": "Nadmorska višina",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

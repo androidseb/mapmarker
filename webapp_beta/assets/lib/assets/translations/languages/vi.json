@@ -496,5 +496,8 @@
     "average_speed_x": "Tốc độ trung bình: %s",
     "altitude_variation_x": "Sự thay đổi độ cao: %s",
     "track_details": "Theo dõi chi tiết",
+    "distance": "Khoảng cách",
+    "speed": "Tốc độ",
+    "altitude": "Độ cao",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

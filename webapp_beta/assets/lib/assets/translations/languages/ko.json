@@ -496,5 +496,8 @@
     "average_speed_x": "평균 속도: %s",
     "altitude_variation_x": "고도 변화: %s",
     "track_details": "세부정보 추적",
+    "distance": "거리",
+    "speed": "속도",
+    "altitude": "고도",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -496,5 +496,8 @@
     "average_speed_x": "औसत गति: %s",
     "altitude_variation_x": "ऊंचाई भिन्नता: %s",
     "track_details": "ट्रैक विवरण",
+    "distance": "दूरी",
+    "speed": "रफ़्तार",
+    "altitude": "ऊंचाई",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

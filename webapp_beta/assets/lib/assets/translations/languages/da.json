@@ -496,5 +496,8 @@
     "average_speed_x": "Gennemsnitshastighed: %s",
     "altitude_variation_x": "Højdevariation: %s",
     "track_details": "Spordetaljer",
+    "distance": "Afstand",
+    "speed": "Fart",
+    "altitude": "Højde",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

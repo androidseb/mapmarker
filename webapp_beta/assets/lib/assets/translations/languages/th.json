@@ -496,5 +496,8 @@
     "average_speed_x": "ความเร็วเฉลี่ย: %s",
     "altitude_variation_x": "การเปลี่ยนแปลงระดับความสูง: %s",
     "track_details": "ติดตามรายละเอียด",
+    "distance": "ระยะทาง",
+    "speed": "ความเร็ว",
+    "altitude": "ระดับความสูง",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
