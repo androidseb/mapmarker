@@ -597,6 +597,7 @@
 						<li>Power your device back on</li>
 					</ol>
 				</p>
+
 				<h2 class="devices_android">Problems with Google My Maps</h2>
 				<p>Google My Maps cannot import the KML/KMZ files produced by Map Marker if they contain the default folder, because it
 					cannot handle an empty folder name. To work around this, you will need to import only one folder at a time, that is
@@ -705,12 +706,14 @@
 					Right now, the only officially supported browser is Google Chrome.
 					The app is built with best effort support for other browsers as well without any guarantee.
 				</p>
+
 				<h2 class="devices_web">Images not displaying (white squares instead)</h2>
 				<p>
 					This can happen if your browser has a setting of blocking third-party content.
 					Since images are coming from Google Drive (drive.google.com) instead of mapmarker.app, the browser with third party content blocked might block this, resulting in images displayed as white squares.
 					To fix this on Google Chrome, go to the browser settings and change the settings under "Cookies and other site data" to allow third party cookies on mapmarker.app.
 				</p>
+
 				<h2 class="devices_web">KMZ archive size limitations</h2>
 				<p>
 					The Map Marker PC web app can handle KMZ archives with a size of up to 2GB without issues. Above 2GB, the web app will fail to import or export archives.
@@ -722,3 +725,33 @@
 					<li>If you're trying to <b>export</b> an archive exceeding the limit, try to export a smaller subset of POIs (e.g. export only a few folders at a time instead of exporting everything)</li>
 					<li>If you're trying to <b>import</b> an archive exceeding the limit, try to re-create that archive by splitting it into smaller chunks</li>
 				</ul>
+
+				<h2 class="devices_android">Issues with migrating / migrated V2 map</h2>
+				<p>
+					The V2 map migration has some limitations and can cause various issues. If you're encountering one
+					of these issues, the most straightforward way to resolve this is to export your maps as a KMZ file
+					and start with a fresh new map. You can do so by following these steps:
+				</p>
+				<ol>
+					<li>Export your markers as a KMZ file</li>
+					<li>Import your markers back to another device to confirm that the backup worked</li>
+					<li>Once you're confident your data is safely backed-up, uninstall the app, this will result in all app date being deleted</li>
+					<li>Install the app again, this should start you with a fresh new map</li>
+					<li>Import your markers back</li>
+					<li>If you're using the cloud sync feature, sync your map to the cloud</li>
+				</ol>
+
+				<h2 class="devices_ios">Issues with migrating / migrated V2 map</h2>
+				<p>
+					The V2 map migration has some limitations and can cause various issues. If you're encountering one
+					of these issues, the most straightforward way to resolve this is to export your maps as a KMZ file
+					and start with a fresh new map. You can do so by following these steps:
+				</p>
+				<ol>
+					<li>Export your markers as a KMZ file</li>
+					<li>Import your markers back to another device to confirm that the backup worked</li>
+					<li>Once you're confident your data is safely backed-up, uninstall the app, this will result in all app date being deleted</li>
+					<li>Install the app again, this should start you with a fresh new map</li>
+					<li>Import your markers back</li>
+					<li>If you're using the cloud sync feature, sync your map to the cloud</li>
+				</ol>
