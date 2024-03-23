@@ -499,5 +499,6 @@
     "distance": "ระยะทาง",
     "speed": "ความเร็ว",
     "altitude": "ระดับความสูง",
+    "x_hours_y_minutes_z_seconds": "%1$s ชั่วโมง %2$s นาที %3$s วินาที",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

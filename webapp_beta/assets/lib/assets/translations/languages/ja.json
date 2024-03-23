@@ -499,5 +499,6 @@
     "distance": "距離",
     "speed": "スピード",
     "altitude": "高度",
+    "x_hours_y_minutes_z_seconds": "%1$s時間 %2$s分 %3$s秒",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

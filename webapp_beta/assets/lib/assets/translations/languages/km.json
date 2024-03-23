@@ -499,5 +499,6 @@
     "distance": "ចម្ងាយ",
     "speed": "ល្បឿន",
     "altitude": "កម្ពស់",
+    "x_hours_y_minutes_z_seconds": "%1$sម៉ោង%2$sនាទី%3$sវិនាទី",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

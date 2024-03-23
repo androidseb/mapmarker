@@ -499,5 +499,6 @@
     "distance": "Distància",
     "speed": "Velocitat",
     "altitude": "Altitud",
+    "x_hours_y_minutes_z_seconds": "%1$s hores %2$s minuts %3$s segons",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

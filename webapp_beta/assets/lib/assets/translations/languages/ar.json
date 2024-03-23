@@ -499,5 +499,6 @@
     "distance": "مسافة",
     "speed": "سرعة",
     "altitude": "ارتفاع",
+    "x_hours_y_minutes_z_seconds": "%1$s ساعات %2$s دقائق %3$s ثواني",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

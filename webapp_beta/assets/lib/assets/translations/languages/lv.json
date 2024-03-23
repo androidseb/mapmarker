@@ -499,5 +499,6 @@
     "distance": "Attālums",
     "speed": "Ātrums",
     "altitude": "Augstums virs jūras līmeņa",
+    "x_hours_y_minutes_z_seconds": "%1$s stundas %2$s minūtes %3$s sekundes",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

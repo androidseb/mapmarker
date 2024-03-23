@@ -499,5 +499,6 @@
     "distance": "Distanz",
     "speed": "Geschwindigkeit",
     "altitude": "Höhe",
+    "x_hours_y_minutes_z_seconds": "%1$s Stunden %2$s Minuten %3$s Sekunden",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

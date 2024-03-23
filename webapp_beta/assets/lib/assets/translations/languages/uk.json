@@ -499,5 +499,6 @@
     "distance": "Відстань",
     "speed": "швидкість",
     "altitude": "Висота",
+    "x_hours_y_minutes_z_seconds": "%1$s години %2$s хвилини %3$s секунд",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

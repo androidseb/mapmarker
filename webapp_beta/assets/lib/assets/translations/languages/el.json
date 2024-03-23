@@ -499,5 +499,6 @@
     "distance": "Απόσταση",
     "speed": "Ταχύτητα",
     "altitude": "Υψόμετρο",
+    "x_hours_y_minutes_z_seconds": "%1$s ώρες %2$s λεπτά %3$s δευτερόλεπτα",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

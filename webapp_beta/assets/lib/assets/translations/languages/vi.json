@@ -499,5 +499,6 @@
     "distance": "Khoảng cách",
     "speed": "Tốc độ",
     "altitude": "Độ cao",
+    "x_hours_y_minutes_z_seconds": "%1$s giờ %2$s phút %3$s giây",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

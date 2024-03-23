@@ -499,5 +499,6 @@
     "distance": "दूरी",
     "speed": "रफ़्तार",
     "altitude": "ऊंचाई",
+    "x_hours_y_minutes_z_seconds": "%1$s घंटे %2$s मिनट %3$s सेकंड",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

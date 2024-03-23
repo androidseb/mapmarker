@@ -499,5 +499,6 @@
     "distance": "Vzdálenost",
     "speed": "Rychlost",
     "altitude": "Nadmořská výška",
+    "x_hours_y_minutes_z_seconds": "%1$s hodiny %2$s minuty %3$s sekund",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

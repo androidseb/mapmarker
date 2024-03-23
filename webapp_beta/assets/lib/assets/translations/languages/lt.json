@@ -499,5 +499,6 @@
     "distance": "Atstumas",
     "speed": "Greitis",
     "altitude": "Aukštis virš jūros lygio",
+    "x_hours_y_minutes_z_seconds": "%1$s valandos %2$s minutės %3$s sekundės",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

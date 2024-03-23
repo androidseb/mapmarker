@@ -499,5 +499,6 @@
     "distance": "Mesafe",
     "speed": "Hız",
     "altitude": "Rakım",
+    "x_hours_y_minutes_z_seconds": "%1$s saat %2$s dakika %3$s saniye",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
