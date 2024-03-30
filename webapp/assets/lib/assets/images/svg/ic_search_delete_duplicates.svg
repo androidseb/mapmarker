@@ -11,20 +11,7 @@
    height="24"
    viewBox="0 0 24 24"
    version="1.1"
-   id="svg8"
-   sodipodi:docname="baseline-image_search-24px.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
-  <metadata
-     id="metadata14">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   id="svg8" >
   <defs
      id="defs12">
     <linearGradient
@@ -94,35 +81,7 @@
          offset="1.0000000"
          style="stop-color:#9b650c;stop-opacity:1.0000000;" />
     </linearGradient>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       inkscape:label="Greyscale"
-       id="filter1024">
-      <feColorMatrix
-         values="-10 -10 -10 0 0 -10 -10 -10 0 0 -10 -10 -10 0 0 0 0 0 1 0 "
-         id="feColorMatrix1022" />
-    </filter>
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="960"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="13.906433"
-     inkscape:cx="10.355353"
-     inkscape:cy="19.691162"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg8" />
   <path
      fill="none"
      d="M0 0h24v24H0V0z"

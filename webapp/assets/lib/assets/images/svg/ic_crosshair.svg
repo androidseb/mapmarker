@@ -14,17 +14,6 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="ic_new_marker_target_c.svg">
-  <metadata
-     id="metadata12">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
   <path
      d="M0 0h24v24h-24z"
      fill="none"
