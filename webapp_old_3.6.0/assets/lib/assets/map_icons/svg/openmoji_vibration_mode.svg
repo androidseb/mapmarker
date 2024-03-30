@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 0.353438551925521) scale(0.46151316706680495)">
+  
+  <g
+     id="line"
+     transform="translate(-9.997125,-10.5288)">
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="60.9978,12 54.9993,19.9997 60.9978,27.9995 54.9993,35.9992 55.0058,35.9977 61,44.0005 54.9971,51.9972 60.9912,60"
+       id="polyline2" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="10.9993,60 16.9978,52.0003 10.9993,44.0005 16.9978,36.0008 16.9912,36.0023 10.9971,27.9995 17,20.0028 11.0058,12"
+       id="polyline4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 49.7892,60 H 22.2108 c -0.4616,0 -0.8357,-0.3741 -0.8357,-0.8357 V 12.3645 c 0,-0.4616 0.3741,-0.8357 0.8357,-0.8357 h 27.5784 c 0.4616,0 0.8357,0.3741 0.8357,0.8357 V 59.1643 C 50.6249,59.6259 50.2508,60 49.7892,60 Z"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 46.0569,51.8398 H 25.9431 c -0.4459,0 -0.8074,-0.3614 -0.8074,-0.8074 V 17.5473 c 0,-0.4459 0.3614,-0.8074 0.8074,-0.8074 h 20.1137 c 0.4459,0 0.8074,0.3614 0.8074,0.8074 v 33.4851 c 0,0.4459 -0.3614,0.8074 -0.8073,0.8074 z"
+       id="path8" />
+    <circle
+       cx="36"
+       cy="56.018299"
+       r="1.6714"
+       fill="#000"
+       stroke="none"
+       id="circle10" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="40.1786,14.2328 31.8214,14.2328 40.1786,14.2328 "
+       id="polygon12" />
+  </g>
+</g></svg>

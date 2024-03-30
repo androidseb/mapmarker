@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(1.3560972646511011 0.0) scale(0.4792625204188299)">
+  
+  <g
+     id="line"
+     transform="translate(-13.581262,-10.85456)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 24.2829,51.1876 h -7.58 a 2.1405,2.1405 0 0 0 -2.1216,2.1217 v 0 a 2.1406,2.1406 0 0 0 2.1216,2.1217 h 7.58"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 24.2829,40.5791 h -7.58 a 2.1405,2.1405 0 0 0 -2.1216,2.1217 v 0 a 2.1405,2.1405 0 0 0 2.1216,2.1217 h 7.58"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 24.3472,59.9315 h 7.3938 a 11.7015,11.7015 0 0 0 0,-23.4029 h -7.3938 z"
+       id="path6" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="42.735 52.473 46.721 51.38 46.721 45.015 42.735 43.987"
+       id="polyline8" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="55.929 50.802 46.721 50.802 46.721 45.594 55.929 45.594"
+       id="polyline10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 53.6682,17.2111 V 12.5087 A 0.617,0.617 0 0 0 53.0151,11.8556 H 18.2045 a 0.617,0.617 0 0 0 -0.6531,0.6531 v 16.3277 a 0.617,0.617 0 0 0 0.6531,0.6531 h 34.8106 a 0.617,0.617 0 0 0 0.6531,-0.6531 v -4.3758 h 3.3309 v -7.25 z"
+       id="path12" />
+    <rect
+       x="21.4408"
+       y="15.1572"
+       width="5.5840998"
+       height="11.096"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect14" />
+  </g>
+</g></svg>

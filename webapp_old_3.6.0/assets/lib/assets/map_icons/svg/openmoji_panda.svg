@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 1.6436160650736422) scale(0.4015999003764514)">
+  
+  <g
+     id="line"
+     transform="translate(-6.0878154,-9.9221686)">
+    <circle
+       cx="28.6022"
+       cy="38.999001"
+       r="2"
+       fill="#000"
+       stroke="none"
+       id="circle2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 35.9683,49.1352 c 0,0 -4.0706,1.7971 -4.172,-1.2109"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 25.9772,18.8949 c 0,0 -7.6875,-11.625 -14.9375,-6.8125 -6.6011,4.3818 -3.9113,13.9584 0.603,16.915"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 21.0397,57.5824 C 5.1022,51.2699 13.1891,33.5691 13.1891,33.5691 c 0,0 3.645,-9.3586 9.3416,-11.6086"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 51.0661,57.5824 c 15.9375,-6.3125 7.8506,-24.0133 7.8506,-24.0133 0,0 -3.645,-9.3586 -9.3416,-11.6086"
+       id="path10" />
+    <circle
+       cx="43.3344"
+       cy="38.999001"
+       r="2"
+       fill="#000"
+       stroke="none"
+       id="circle12" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 44.6566,51.5312 c -1.2194,1.924 -4.0542,5.1185 -8.2597,2.2386 H 35.5397 C 31.3342,56.6496 28.4995,53.4551 27.28,51.5312"
+       id="path14" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 35.9683,49.1352 c 0,0 4.0706,1.7971 4.172,-1.2109"
+       id="path16" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 45.9594,18.8949 c 0,0 7.6875,-11.625 14.9375,-6.8125 6.6011,4.3818 3.9113,13.9584 -0.603,16.915"
+       id="path18" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 24.6335,16.9512 c 0,0 8.7098,-4.9304 22.3259,0"
+       id="path20" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 30.6022,59.5824 c 3.5914,1.2214 7.1689,1.2311 10.7321,0"
+       id="path22" />
+    <line
+       x1="35.9683"
+       x2="36"
+       y1="49.135201"
+       y2="53.769901"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line24" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 43.9375,45.8355 c 0,0 7.3693,1.6133 7.4134,-4.2067 0.0229,-3.021 -1.8972,-5.6794 -4.6072,-7.0147 -3.522,-1.7354 -8.4313,-2.5763 -8.4313,6.2213"
+       id="path26" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 28.2573,45.8355 c 0,0 -7.3692,1.6133 -7.4134,-4.2067 -0.0229,-3.021 1.8972,-5.6794 4.6072,-7.0147 3.522,-1.7354 8.4312,-2.5763 8.4312,6.2213"
+       id="path28" />
+  </g>
+</g></svg>

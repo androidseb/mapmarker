@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.48)">
+  
+  <g
+     id="line"
+     transform="translate(-11,-11)">
+    <g
+       id="UP_Button">
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width="2"
+         d="m 59.0349,60 h -46.07 A 0.9679,0.9679 0 0 1 12,59.0349 v -46.07 A 0.9679,0.9679 0 0 1 12.9651,12 h 46.07 A 0.9679,0.9679 0 0 1 60,12.9651 v 46.07 A 0.9679,0.9679 0 0 1 59.0349,60 Z"
+         id="path2" />
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         d="m 30.4261,30.015 v 6.75 a 3.75,3.75 0 0 1 -3.75,3.75 v 0 a 3.75,3.75 0 0 1 -3.75,-3.75 v -6.75"
+         id="path4" />
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         d="m 35.6477,40.47 v -10.5 h 4.0038 a 2.6151,2.6151 0 0 1 2.6151,2.6153 v 0 A 2.6149,2.6149 0 0 1 39.6515,35.2 h -4.0038"
+         id="path6" />
+      <g
+         id="g12">
+        <line
+           x1="49.8694"
+           x2="49.8694"
+           y1="29.9699"
+           y2="36.4557"
+           fill="none"
+           stroke="#000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           id="line8" />
+        <circle
+           cx="49.8694"
+           cy="40.469898"
+           r="1.5"
+           id="circle10" />
+      </g>
+    </g>
+  </g>
+</g></svg>

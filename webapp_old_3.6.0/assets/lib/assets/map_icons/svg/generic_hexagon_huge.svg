@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path
+    style="fill:#0F0;fill-opacity:1;stroke-width:0.5;stroke:#F00;stroke-opacity:1;"
+    d="m 6.125,0.25 h 11.75 L 23.75,12 17.875,23.75 H 6.125 L 0.25,12 Z" />
+  <path style="opacity:0;stroke:#FF0;stroke-width:2;" d="M 12,12 M 1,12 a 11,11 0 1 1 22,0 11,11 0 1 1 -22,0"/>
+  <g id="selected_state_path" style="opacity: 0;">
+    <path
+        style="fill:none;fill-opacity:1;stroke-width:2;stroke:#FF0;stroke-opacity:1;"
+        d="M 6.5,1 H 17.5 L 23,12 17.5,23 H 6.5 L 1,12 Z"
+    />
+  </g>
+</svg>

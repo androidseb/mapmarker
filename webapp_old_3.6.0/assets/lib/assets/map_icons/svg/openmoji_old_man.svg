@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(1.3201361068554185 -1.7763568394002505e-15) scale(0.533993194657229)">
+  
+  <g
+     id="line"
+     transform="translate(-16.1,-15.945609)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 17.1,59.89 v -3 c 0,-5 5,-9 10,-9 q 9,7.5 18,0 c 5,0 10,4 10,9 v 3"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 43.05,19.5 A 10.59,10.59 0 0 0 29.27,19.48"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 25.28,33.75 c 0.85,6.528 4.67,11.14 10.72,11.14 6.243,0 10.09,-4.64 10.93,-11.2"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 38.1,37.89 a 3.629,3.629 0 0 1 -4,0"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 31.1,35.89 a 3.491,3.491 0 0 1 -1,2"
+       id="path10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 41.1,35.89 a 3.491,3.491 0 0 0 1,2"
+       id="path12" />
+    <path
+       d="m 42,28.89 a 2,2 0 1 1 -2,-2 2.006,2.006 0 0 1 2,2"
+       id="path14" />
+    <path
+       d="m 34,28.89 a 2,2 0 1 1 -2,-2 2.006,2.006 0 0 1 2,2"
+       id="path16" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 29.28,25.72 v -6.218 c 0,0 -6.523,-0.3406 -6.523,6.523 0,6.8636 2.652,8.687 2.652,8.687 0,0 0.3141,-8.991 3.87,-8.991 z"
+       id="path18" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 42.91,25.72 v -6.218 c 0,0 6.523,-0.3406 6.523,6.523 0,6.8636 -2.652,8.687 -2.652,8.687 0,0 -0.3144,-8.991 -3.871,-8.991 z"
+       id="path20" />
+  </g>
+</g></svg>

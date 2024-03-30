@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 2.4000000000000004) scale(0.48)">
+  
+  <g
+     id="line"
+     transform="translate(-11,-16)">
+    <rect
+       x="12"
+       y="17"
+       width="48"
+       height="38"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect2" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="12,24.9369 33.9591,24.9369 33.9591,46.9796 12,46.9796"
+       id="polyline4" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="60,46.9796 38.2303,46.9796 38.2303,24.9369 60,24.9369"
+       id="polyline6" />
+    <circle
+       cx="18.0947"
+       cy="20.908001"
+       r="1.0793999"
+       fill="#000"
+       stroke="none"
+       id="circle8" />
+    <circle
+       cx="24.0947"
+       cy="20.908001"
+       r="1.0793999"
+       fill="#000"
+       stroke="none"
+       id="circle10" />
+    <circle
+       cx="30.0947"
+       cy="20.908001"
+       r="1.0793999"
+       fill="#000"
+       stroke="none"
+       id="circle12" />
+    <circle
+       cx="36.0947"
+       cy="20.908001"
+       r="1.0793999"
+       fill="#000"
+       stroke="none"
+       id="circle14" />
+    <circle
+       cx="42.0947"
+       cy="20.908001"
+       r="1.0793999"
+       fill="#000"
+       stroke="none"
+       id="circle16" />
+    <circle
+       cx="48.0947"
+       cy="20.908001"
+       r="1.0793999"
+       fill="#000"
+       stroke="none"
+       id="circle18" />
+    <circle
+       cx="54.0947"
+       cy="20.908001"
+       r="1.0793999"
+       fill="#000"
+       stroke="none"
+       id="circle20" />
+    <circle
+       cx="18.077801"
+       cy="51.025501"
+       r="1.0793999"
+       fill="#000"
+       stroke="none"
+       id="circle22" />
+    <circle
+       cx="24.077801"
+       cy="51.025501"
+       r="1.0793999"
+       fill="#000"
+       stroke="none"
+       id="circle24" />
+    <circle
+       cx="30.077801"
+       cy="51.025501"
+       r="1.0793999"
+       fill="#000"
+       stroke="none"
+       id="circle26" />
+    <circle
+       cx="36.077801"
+       cy="51.025501"
+       r="1.0793999"
+       fill="#000"
+       stroke="none"
+       id="circle28" />
+    <circle
+       cx="42.077801"
+       cy="51.025501"
+       r="1.0793999"
+       fill="#000"
+       stroke="none"
+       id="circle30" />
+    <circle
+       cx="48.077801"
+       cy="51.025501"
+       r="1.0793999"
+       fill="#000"
+       stroke="none"
+       id="circle32" />
+    <circle
+       cx="54.077801"
+       cy="51.025501"
+       r="1.0793999"
+       fill="#000"
+       stroke="none"
+       id="circle34" />
+  </g>
+</g></svg>

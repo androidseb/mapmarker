@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.48)">
+  
+  <g
+     id="line"
+     transform="translate(-11,-11)">
+    <rect
+       x="12"
+       y="12"
+       width="48"
+       height="48"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.696"
+       d="M 36,18.67 50.97,44.63 36,44.629999 H 21.03 l 7.486,-12.98 7.482,-12.98"
+       paint-order="stroke fill markers"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.696"
+       d="m 21.01,27.39 29.97,0.01892 -14.97,25.93 -7.5,-12.97 -7.502,-12.97"
+       paint-order="stroke fill markers"
+       id="path6" />
+  </g>
+</g></svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(1.938433145792768 0.0) scale(0.4781148886171603)">
+  
+  <g
+     id="line"
+     transform="translate(-13.953208,-9.1972284)">
+    <circle
+       cx="29.5854"
+       cy="24.8305"
+       transform="rotate(-36.812602,29.583991,24.829853)"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse2"
+       r="14.6372" />
+    <ellipse
+       cx="29.5854"
+       cy="24.8305"
+       rx="11.1656"
+       ry="11.1657"
+       transform="rotate(-36.812602,29.583841,24.829803)"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 38.6805,41.7876 4.1839,-3.1316 11.6927,15.622 c 0.8354,1.1162 0.5758,2.7219 -0.5795,3.5867 v 0 c -1.1554,0.8647 -2.7691,0.661 -3.6045,-0.4551 z"
+       id="path6" />
+  </g>
+</g></svg>

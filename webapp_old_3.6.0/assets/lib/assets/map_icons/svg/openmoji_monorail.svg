@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 2.525249818181818) scale(0.36363636363636365)">
+  
+  <g
+     id="line"
+     transform="translate(-3,-16.888875)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 68,45 v 3.8 H 4 V 42 h 22.5 l 1.2,2.5 c 0.2,0.3 0.5,0.5 0.9,0.5 z"
+       id="path2" />
+    <rect
+       x="14"
+       y="48.799999"
+       width="4"
+       height="19.200001"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect4" />
+    <rect
+       x="54"
+       y="48.799999"
+       width="4"
+       height="19.200001"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 68,41 H 26 l 0.5,1 c 0,0 -1,-0.2 -2.4,-0.5 -0.1,0 -0.2,0 -0.3,-0.1 -1.1,-0.3 -2.5,-0.6 -4,-1.1 C 19.5,40.2 19.3,40.1 19,40 18.8,39.9 18.7,39.9 18.5,39.8 18.1,39.7 17.7,39.5 17.3,39.3 H 17.2 C 16.8,39.2 16.5,39 16.1,38.9 15.7,38.7 15.3,38.6 14.9,38.4 14.7,38.3 14.5,38.2 14.3,38.2 14.2,38.2 14.2,38.1 14.1,38.1 13.5,37.8 13,37.6 12.6,37.3 11.9,36.8 11.4,36.4 11.2,36 c -0.3,-0.7 -0.4,-1.3 -0.3,-1.8 0,-0.1 0,-0.2 0,-0.3 0,-0.1 0.1,-0.2 0.1,-0.3 0,-0.1 0.1,-0.2 0.1,-0.3 0,-0.1 0.1,-0.2 0.1,-0.3 0,-0.1 0.1,-0.2 0.2,-0.3 0.1,-0.1 0.1,-0.2 0.2,-0.2 l 0.1,-0.1 v 0 C 13.2,29.8 19.3,24 26,21 35,17 68,18 68,18 Z"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 11,36 c 0,0 -0.8,-0.8 -0.2,-2.5 -0.2,0.7 -0.3,1.6 0.2,2.5 z"
+       id="path10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 10.9,33.3 c 0,0.1 -0.1,0.2 -0.1,0.3 0,-0.1 0,-0.2 0.1,-0.3 z"
+       id="path12" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 18.4,39.9 c -0.5,-0.2 -0.9,-0.3 -1.4,-0.5 0.5,0.1 0.9,0.3 1.4,0.5 z"
+       id="path14" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 17,39.4 c -0.3,-0.1 -0.7,-0.2 -1,-0.4 -5,-2 -5,-3 -5,-3 0.5,1 3.2,2.3 6,3.4 z"
+       id="path16" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 11,33 c 0.2,-0.4 0.4,-0.6 0.4,-0.6 -0.2,0.2 -0.3,0.4 -0.4,0.6 z"
+       id="path18" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 23.8,41.4 c -1,-0.2 -2.4,-0.6 -4,-1.1 1.5,0.5 2.9,0.8 4,1.1 z"
+       id="path20" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 68,40.2 V 45 H 28.6 c -0.4,0 -0.7,-0.3 -0.9,-0.7 l -1.2,-3 -0.5,-1.1 z"
+       id="path22" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="34,23 34,30 19,30"
+       id="polyline24" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="34,23 34,30 19,30"
+       id="polyline26" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="59,23 59,30 38,30"
+       id="polyline28" />
+  </g>
+</g></svg>

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(2.922343099808918 0.0) scale(0.44151491936861376)">
+  
+  <g
+     id="line"
+     transform="translate(-14.9221,-6.7905998)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 32.1972,60.1489 H 15.9221 V 30.6956 h 7.9866 a 105.3443,105.3443 0 0 1 7.2549,9.6081 c 3.113,4.9454 1.0336,19.8452 1.0336,19.8452 z"
+       id="path2" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="32.266 43.944 22.651 43.944 22.715 57.397 32.298 57.397"
+       id="polyline4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 15.9221,30.6956 v -8.2041 c 0,0 2.4115,-6.4915 8.3296,-6.4915 h 8.844 v 3.7266 L 24.6088,22.84 v 5.9014 l -0.7,1.9545"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 27.3511,22.5106 c -0.3522,2.1438 3.8125,8.5738 3.8125,8.5738 l 0.4227,-0.1161 a 1.2323,1.2323 0 0 0 0.86,-1.55 38.2716,38.2716 0 0 1 -0.94,-7.477 l 0.1662,-1.6927"
+       id="path8" />
+    <rect
+       x="33.031898"
+       y="14.9945"
+       width="2.9783001"
+       height="5.6012998"
+       id="rect10" />
+    <circle
+       cx="54.042599"
+       cy="17.7906"
+       r="2"
+       id="circle12" />
+    <circle
+       cx="54.042599"
+       cy="8.7905998"
+       r="2"
+       id="circle14" />
+    <circle
+       cx="47.8363"
+       cy="13.7906"
+       r="2"
+       id="circle16" />
+    <circle
+       cx="47.8363"
+       cy="21.7906"
+       r="2"
+       id="circle18" />
+    <circle
+       cx="54.042599"
+       cy="26.9555"
+       r="2"
+       id="circle20" />
+    <circle
+       cx="40.870098"
+       cy="17.7906"
+       r="2"
+       id="circle22" />
+  </g>
+</g></svg>

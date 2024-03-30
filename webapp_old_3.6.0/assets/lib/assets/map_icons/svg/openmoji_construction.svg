@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 2.2401369445830266) scale(0.4130809092282585)">
+  
+  <g
+     id="line"
+     fill="none"
+     stroke="#000"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     stroke-width="2"
+     transform="translate(-6.95,-12.373999)">
+    <path
+       d="M 12.74,42.72 V 36.372"
+       id="path2" />
+    <path
+       d="m 16.92,50.9 v 6.509 c 0,0.6723 -0.5448,1.217 -1.217,1.217 h -1.748 c -0.672,0 -1.217,-0.5451 -1.217,-1.217 v -6.071"
+       id="path4" />
+    <path
+       d="m 16.92,36.37 v 6.348"
+       id="path6" />
+    <path
+       d="m 12.74,28.24 v -5.907 m 4.181,0 v 5.812"
+       id="path8" />
+    <path
+       d="M 55.1,43.29 V 36.369"
+       id="path10" />
+    <path
+       d="m 59.28,51.34 v 6.071 c 0,0.6723 -0.5448,1.217 -1.217,1.217 h -1.748 c -0.672,0 -1.217,-0.5451 -1.217,-1.217 V 51.34"
+       id="path12" />
+    <path
+       d="m 59.28,36.37 v 5.969"
+       id="path14" />
+    <path
+       d="m 55.1,28.03 v -5.891 m 4.181,0 v 5.796"
+       id="path16" />
+    <path
+       d="m 7.95,28.33 h 56.1 v 7.612 H 7.95 Z"
+       id="path18" />
+    <path
+       d="m 7.95,43.29 h 56.1 v 7.612 H 7.95 Z"
+       id="path20" />
+    <ellipse
+       cx="14.83"
+       cy="17.969999"
+       rx="4.5939999"
+       ry="4.5960002"
+       id="ellipse22" />
+    <ellipse
+       cx="57.189999"
+       cy="17.969999"
+       rx="4.5939999"
+       ry="4.5960002"
+       id="ellipse24" />
+  </g>
+</g></svg>

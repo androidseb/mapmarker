@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 7.875) scale(0.375)">
+  
+  <g
+     id="line"
+     transform="translate(-4,-34)">
+    <circle
+       cx="22"
+       cy="52"
+       r="3"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle2" />
+    <circle
+       cx="39"
+       cy="42"
+       r="3"
+       fill="#000"
+       stroke="none"
+       id="circle4" />
+    <circle
+       cx="59"
+       cy="52"
+       r="3"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle6" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="65.625,52 67,52 67,35 55,35 55,38 58.1875,41.1084"
+       id="polyline8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 16,53 -1,1 H 5 v -4 c 0,0 13,-6 26,-6 h 20"
+       id="path10" />
+    <line
+       x1="29"
+       x2="53"
+       y1="54"
+       y2="54"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line12" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 41,43 v -4 c 0,0 10,0 14,5"
+       id="path14" />
+  </g>
+</g></svg>

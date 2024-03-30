@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.000047519811820606606 0.0) scale(0.4799980992075272)">
+  
+  <g
+     id="line-supplement"
+     transform="translate(-11,-11.1371)">
+    <g
+       id="AB_Button">
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-linejoin="round"
+         stroke-width="2"
+         d="m 59.0349,60.1373 h -46.07 A 0.9679,0.9679 0 0 1 12,59.1722 v -46.07 a 0.9679,0.9679 0 0 1 0.9651,-0.9651 h 46.07 A 0.9679,0.9679 0 0 1 60,13.1024 v 46.07 a 0.9679,0.9679 0 0 1 -0.9651,0.9649 z"
+         id="path2" />
+      <g
+         id="g16">
+        <g
+           id="g8">
+          <polyline
+             fill="none"
+             stroke="#000"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2"
+             points="33.287 43.637 26.858 28.637 20.43 43.637"
+             id="polyline4" />
+          <line
+             x1="22.572399"
+             x2="31.143801"
+             y1="40.0457"
+             y2="40.0457"
+             fill="none"
+             stroke="#000"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2"
+             id="line6" />
+        </g>
+        <g
+           id="g14">
+          <path
+             fill="none"
+             stroke="#000"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2"
+             d="m 46.6551,36.1373 h -5.72 v -7.4719 h 5.72 a 3.736,3.736 0 0 1 3.736,3.736 v 0 a 3.7359,3.7359 0 0 1 -3.736,3.7359 z"
+             id="path10" />
+          <path
+             fill="none"
+             stroke="#000"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="2"
+             d="m 46.6551,43.6094 h -5.72 v -7.4721 h 5.72 a 3.736,3.736 0 0 1 3.736,3.736 v 0 a 3.7361,3.7361 0 0 1 -3.736,3.7361 z"
+             id="path12" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="line"
+     transform="translate(-11,-11.1371)" />
+</g></svg>

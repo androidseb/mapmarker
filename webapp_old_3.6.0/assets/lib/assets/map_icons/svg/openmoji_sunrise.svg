@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 7.181541621530367) scale(0.3751588563282265)">
+  
+  <g
+     id="line"
+     transform="translate(-4,-22.605337)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 8.48,32.188 a 7.7528,7.7528 0 0 1 9.8478,4.82"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 5,24.0262 a 7.7528,7.7528 0 0 1 9.8478,4.82"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 54.4754,40.5834 a 7.7527,7.7527 0 0 1 8.3317,-7.127"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 58.6412,30.7561 A 7.7529,7.7529 0 0 1 66.9729,23.629"
+       id="path8" />
+    <line
+       x1="5.1238999"
+       x2="66.876701"
+       y1="47.2929"
+       y2="47.2929"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 20.49,43.9627 a 15.6793,15.6793 0 1 1 30.7746,0.2534"
+       id="path12" />
+  </g>
+</g></svg>

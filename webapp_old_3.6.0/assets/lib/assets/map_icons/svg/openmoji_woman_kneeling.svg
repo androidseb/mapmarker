@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(4.316814309242886 -1.7763568394002505e-15) scale(0.5620048473854762)">
+  
+  <g
+     id="line"
+     transform="translate(-18.917938,-14.091926)">
+    <g
+       id="Kneeing_Woman">
+      <circle
+         cx="37.9688"
+         cy="18.094"
+         r="3"
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width="2"
+         id="circle2" />
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         d="m 29,51.042 c 4.0423,0 6.95,-0.1135 9.0284,-0.264 a 5.4916,5.4916 0 0 0 5.0991,-5.855 l -0.2027,-5.3 -0.6323,-10.5385 A 4.3671,4.3671 0 0 0 38,25.042 v 0 a 4.6314,4.6314 0 0 0 -4.4463,4.0171 L 33,34.021 32.3,41.042"
+         id="path4" />
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         d="m 31.89,44.762 -8.7493,2.4432 a 4.4945,4.4945 0 0 0 -1.75,0.9614 l -0.075,0.067 a 3.9881,3.9881 0 0 0 0.3105,6.3276 8.1207,8.1207 0 0 0 4.4127,1.23 145.2047,145.2047 0 0 0 15.94,-0.7448"
+         id="path6" />
+      <polyline
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         points="38.115 29.992 37.369 40.305 26.845 43.248"
+         id="polyline8" />
+    </g>
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 41.354,15.2087 c 0,0 0.5786,-0.27 0.9253,0.0177 0.408,0.3372 0.6855,1.5991 1.1679,2.145 a 3.2612,3.2612 0 0 0 1.8128,1.0717"
+       id="path11" />
+  </g>
+</g></svg>

@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(1.0417135916531048 0.0) scale(0.4420369637939679)">
+  
+  <g
+     id="line"
+     transform="translate(-12.8214,-6)">
+    <circle
+       cx="36.8214"
+       cy="36.294102"
+       r="23"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle2" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="56.366,17.7166 58.3424,16.187 61.4023,20.1407 59.5696,21.5591"
+       id="polyline4" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="32.3214,9.7271 32.3214,7 41.3214,7 41.3214,9.8931"
+       id="polyline6" />
+    <circle
+       cx="36.3475"
+       cy="16.981701"
+       r="1"
+       fill="#000"
+       stroke="none"
+       id="circle8" />
+    <circle
+       cx="36.3475"
+       cy="55.023899"
+       r="1"
+       fill="#000"
+       stroke="none"
+       id="circle10" />
+    <ellipse
+       cx="49.797501"
+       cy="22.552799"
+       rx="0.9878"
+       ry="1.0121"
+       transform="matrix(0.7071,-0.7071,0.7071,0.7071,-1.3619,41.8177)"
+       fill="#000"
+       stroke="none"
+       id="ellipse12" />
+    <ellipse
+       cx="22.897499"
+       cy="49.452801"
+       rx="0.9878"
+       ry="1.0121"
+       transform="matrix(0.7071,-0.7071,0.7071,0.7071,-28.2619,30.6754)"
+       fill="#000"
+       stroke="none"
+       id="ellipse14" />
+    <circle
+       cx="55.368599"
+       cy="36.0028"
+       r="1"
+       fill="#000"
+       stroke="none"
+       id="circle16" />
+    <circle
+       cx="17.326401"
+       cy="36.0028"
+       r="1"
+       fill="#000"
+       stroke="none"
+       id="circle18" />
+    <line
+       x1="36.839901"
+       x2="21.439899"
+       y1="35.91"
+       y2="35.91"
+       fill="#000"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line20" />
+    <line
+       x1="36.884602"
+       x2="25.995199"
+       y1="35.925301"
+       y2="46.814701"
+       fill="#000"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line22" />
+    <ellipse
+       cx="49.797501"
+       cy="49.452801"
+       rx="1.0121"
+       ry="0.9878"
+       transform="matrix(0.7071,-0.7071,0.7071,0.7071,-20.3831,49.6965)"
+       fill="#000"
+       stroke="none"
+       id="ellipse24" />
+    <ellipse
+       cx="22.897499"
+       cy="22.552799"
+       rx="1.0121"
+       ry="0.9878"
+       transform="matrix(0.7071,-0.7071,0.7071,0.7071,-9.2407,22.7965)"
+       fill="#000"
+       stroke="none"
+       id="ellipse26" />
+  </g>
+</g></svg>

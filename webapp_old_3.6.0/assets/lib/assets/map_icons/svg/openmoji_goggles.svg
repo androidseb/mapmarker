@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 6.941935045455157) scale(0.3775247260999124)">
+  
+  <g
+     id="line"
+     transform="translate(-4.1680025,-23.238429)">
+    <path
+       id="Goggles_Line_1"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 60.9993,28.0757 C 56.6971,25.968 46.4159,24.024 35.9682,24.2585 25.5205,24.024 15.2392,25.968 10.9371,28.0757 a 3.6433,3.6433 0 0 0 -2.0242,3.3275 l 0.0689,5.424 c 0,5.8974 2.47,14.3065 18.0489,11.7363 a 6.9243,6.9243 0 0 0 5.5518,-5.1653 l 0.899,-3.1641 a 2.43,2.43 0 0 1 0.7017,-1.1973 2.7591,2.7591 0 0 1 2.9227,-0.4146 2.6605,2.6605 0 0 1 1.3933,1.7426 l 0.8547,3.0334 a 6.9243,6.9243 0 0 0 5.5518,5.1653 c 15.5789,2.57 18.0489,-5.8389 18.0489,-11.7363 l 0.0689,-5.424 a 3.6433,3.6433 0 0 0 -2.0242,-3.3275 z" />
+    <polyline
+       id="Goggles_Line_2"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="9.503 29.17 5.168 31.951 5.549 40.438 10.078 43.096" />
+    <polyline
+       id="Goggles_Line_3"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="62.405 29.17 66.74 31.951 66.359 40.438 61.83 43.096" />
+  </g>
+</g></svg>

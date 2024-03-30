@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 2.3555664879292486) scale(0.37592217233143266)">
+  
+  <g
+     id="line"
+     transform="translate(-4.0784998,-10.302902)">
+    <ellipse
+       cx="19.547701"
+       cy="35.958302"
+       rx="14.4692"
+       ry="24.655399"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse2" />
+    <ellipse
+       cx="52.452301"
+       cy="35.958302"
+       rx="14.4692"
+       ry="24.655399"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="ellipse4" />
+    <circle
+       cx="13.1058"
+       cy="37.817299"
+       r="3.6229"
+       id="circle6" />
+    <circle
+       cx="46.010399"
+       cy="37.817299"
+       r="3.6229"
+       id="circle8" />
+    <circle
+       cx="13.1058"
+       cy="37.817299"
+       r="3.6229"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle10" />
+    <circle
+       cx="13.1058"
+       cy="37.817299"
+       r="8.0272999"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle12" />
+    <circle
+       cx="46.010399"
+       cy="37.817299"
+       r="3.6229"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle14" />
+    <circle
+       cx="46.010399"
+       cy="37.817299"
+       r="8.0272999"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle16" />
+  </g>
+</g></svg>

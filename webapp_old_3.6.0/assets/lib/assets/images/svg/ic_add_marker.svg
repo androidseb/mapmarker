@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="ic_add_marker.svg">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>white google map pin</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#000"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1380"
+     inkscape:window-height="948"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="0.64400271"
+     inkscape:cx="-107.23963"
+     inkscape:cy="425.63195"
+     inkscape:window-x="13"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">white google map pin</title>
+  <path
+     style="fill:none;stroke-width:21.00233078"
+     inkscape:connector-curvature="0"
+     d="M 3.97204,3.97204 H 508.02796 V 508.02796 H 3.97204 Z"
+     id="path4139" />
+  <path
+     sodipodi:nodetypes="ccccccccccccc"
+     inkscape:connector-curvature="0"
+     d="M 129.98602,213.99534 V 150.98835 H 87.98136 v 63.00699 H 24.97437 V 256 h 63.00699 v 63.00699 h 42.00466 V 256 h 63.00699 v -42.00466 z"
+     id="path4141"
+     style="stroke-width:21.00233078;fill:#000;fill-opacity:1" />
+  <g
+     id="g4152"
+     transform="translate(96.272887,-8.9391244e-7)">
+    <path
+       style="clip-rule:evenodd;fill:#000;fill-opacity:0;fill-rule:evenodd;stroke:#000;stroke-width:30;stroke-miterlimit:10;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       id="svg_2"
+       stroke-miterlimit="10"
+       d="m 256.27854,394.42361 c -7.7532,-38.06 -21.42321,-69.734 -37.9806,-99.08802 -12.2814,-21.774 -26.5088,-41.87198 -39.6728,-62.98798 -4.3944,-7.0486 -8.1868,-14.4952 -12.4094,-21.8106 -8.4432,-14.6274 -15.2888,-31.587 -14.8538,-53.5864 0.425,-21.4946 6.6416,-38.7368 15.606,-52.8344 14.7438,-23.187001 39.4402,-42.197801 72.5768,-47.193811 27.0932,-4.08479 52.49499,2.8164 70.50861,13.3496 14.71919,8.60761 26.11919,20.10541 34.78319,33.656011 9.044,14.1432 15.272,30.852 15.794,52.64639 0.268,11.16601 -1.56,21.50641 -4.136,30.08361 -2.606,8.6818 -6.798,15.939 -10.528,23.6908 -7.282,15.1318 -16.41,28.9968 -25.572,42.8688 -27.2874,41.322 -52.8992,83.462 -64.116,141.206 z" />
+    <path
+       sodipodi:open="true"
+       d="m 241.485,226.70591 a 71.214561,71.153084 0 0 1 -55.20872,-84.14099 71.214561,71.153084 0 0 1 84.19691,-55.186606 71.214561,71.153084 0 0 1 55.25987,84.107456 71.214561,71.153084 0 0 1 -84.16335,55.23771"
+       sodipodi:end="1.7748443"
+       sodipodi:start="1.7760592"
+       sodipodi:ry="71.153084"
+       sodipodi:rx="71.214561"
+       sodipodi:cy="157.04651"
+       sodipodi:cx="256.00027"
+       sodipodi:type="arc"
+       id="path4148"
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000;stroke-width:50;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4150"
+       d="m 183.22904,221.62855 149.0677,-1.55279 -72.98106,136.64539 z"
+       style="fill:#000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>

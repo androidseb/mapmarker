@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.01924321967802456 0.0) scale(0.4017415563424371)">
+  
+  <g
+     id="line"
+     transform="translate(-6.1779,-5.1951)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 62.3587,6.1951 c 0,0 -25.8251,55.94 -55.1808,35.974"
+       id="path2" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="41.313,63.935 47.718,63.935 47.718,36.383 41.313,42.796 "
+       id="polygon4" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="24.208,63.893 30.613,63.893 30.613,48.78 24.208,50.473 "
+       id="polygon6" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="7.178,63.893 13.583,63.893 13.583,50.034 7.178,47.472 "
+       id="polygon8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 39.8608,16.45 c 5.5494,-3.9305 8.754,-0.6339 8.754,-0.6339 a 2.3228,2.3228 0 0 1 0.2327,3.267 l -9.9662,11.4947 a 2.3228,2.3228 0 0 1 -3.267,0.2328 l -3.7134,-3.2195 a 2.3227,2.3227 0 0 1 -0.2328,-3.267 l 1.6319,-1.8819 3.2342,2.8041 5.8114,-6.7029 z"
+       id="path10" />
+    <circle
+       cx="48.575401"
+       cy="20.769501"
+       r="1.5501"
+       id="circle12" />
+    <circle
+       cx="46.884102"
+       cy="22.991501"
+       r="1.5501"
+       id="circle14" />
+    <circle
+       cx="40.021"
+       cy="30.636299"
+       r="1.5501"
+       id="circle16" />
+    <circle
+       cx="42.2104"
+       cy="28.608"
+       r="1.5501"
+       id="circle18" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="58.417,63.893 64.822,63.893 64.822,11.896 58.417,22.378 "
+       id="polygon20" />
+  </g>
+</g></svg>

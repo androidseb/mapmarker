@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 2.8571428571428577) scale(0.5714285714285714)">
+  
+  <g
+     id="line"
+     transform="translate(-15,-20)">
+    <line
+       x1="21"
+       x2="16"
+       y1="32"
+       y2="32"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line2" />
+    <line
+       x1="21"
+       x2="16"
+       y1="36"
+       y2="36"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line4" />
+    <line
+       x1="21"
+       x2="16"
+       y1="40"
+       y2="40"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line6" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="27,41.4 27,42 21,42 21,30 27,30 27,30.6"
+       id="polyline8" />
+    <circle
+       cx="41"
+       cy="36"
+       r="15"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle10" />
+    <circle
+       cx="41"
+       cy="36"
+       r="4"
+       id="circle12" />
+  </g>
+</g></svg>

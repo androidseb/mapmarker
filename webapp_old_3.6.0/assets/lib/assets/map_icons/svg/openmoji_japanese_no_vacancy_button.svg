@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.48)">
+  
+  <g
+     id="line"
+     fill="none"
+     stroke="#000"
+     stroke-width="2"
+     transform="translate(-11,-11)">
+    <path
+       stroke-miterlimit="10"
+       d="m 59.0349,60 h -46.07 A 0.9679,0.9679 0 0 1 12,59.0349 v -46.07 A 0.9679,0.9679 0 0 1 12.9651,12 h 46.07 A 0.9679,0.9679 0 0 1 60,12.9651 v 46.07 A 0.9679,0.9679 0 0 1 59.0349,60 Z"
+       id="path2" />
+    <line
+       x1="20.950001"
+       x2="23.950001"
+       y1="21.5"
+       y2="24.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="line4" />
+    <line
+       x1="19.950001"
+       x2="22.950001"
+       y1="29.5"
+       y2="32.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="line6" />
+    <line
+       x1="27.049999"
+       x2="50.049999"
+       y1="24"
+       y2="24"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="line8" />
+    <line
+       x1="34.049999"
+       x2="34.049999"
+       y1="21"
+       y2="29"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="line10" />
+    <line
+       x1="44.049999"
+       x2="44.049999"
+       y1="21"
+       y2="29"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="line12" />
+    <line
+       x1="26.049999"
+       x2="52.049999"
+       y1="30"
+       y2="30"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="line14" />
+    <polyline
+       transform="translate(-0.4469,0.5)"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       points="39.5 30.5 39.5 44.5 44.5 44.5 44.5 39.5"
+       id="polyline16" />
+    <polyline
+       transform="translate(-0.4469,0.5)"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       points="34.5 39.5 34.5 44.5 34.5 46.5"
+       id="polyline18" />
+    <line
+       x1="39.049999"
+       x2="35.049999"
+       y1="45"
+       y2="45"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="line20" />
+    <path
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       d="m 24.05,40 c 0,0 -1,7 -4,9"
+       id="path22" />
+    <polyline
+       transform="translate(-0.4469,0.5)"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       points="28.5 50.5 28.5 34.5 49.5 34.5 49.5 49.5 44.5 49.5"
+       id="polyline24" />
+  </g>
+</g></svg>

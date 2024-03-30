@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(1.7202225728143858 0.0) scale(0.4786906756900391)">
+  
+  <g
+     id="line"
+     transform="translate(-13.025039,-6.8632403)">
+    <rect
+       x="41.966702"
+       y="15.0079"
+       height="3"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       id="rect2"
+       width="0" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 54.4746,32 a 8.2793,8.2793 0 0 1 -1.04,4 h -22.92 a 8.2793,8.2793 0 0 1 -1.04,-4 c 0,-5.52 5.6,-10 12.5,-10 6.9,0 12.5,4.48 12.5,10 z"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 54.9746,56 h -38.5"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 28.9746,52.9243 V 36 h 26 v 16.9243"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 21.4746,41.42 h 7.5"
+       id="path10" />
+    <circle
+       cx="41.966702"
+       cy="20.0079"
+       r="2"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="circle12" />
+    <rect
+       x="41.966702"
+       y="15.0079"
+       height="3"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect14"
+       width="0" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 45.9746,47.91 V 56 h -8 v -8.09 a 3.11,3.11 0 0 1 0.5,-1.67 l 2.84,-4.25 0.66,-0.99 0.66,0.99 2.84,4.25 a 3.11,3.11 0 0 1 0.5,1.67 z"
+       id="path16" />
+    <line
+       x1="16.4746"
+       x2="16.4746"
+       y1="52.924301"
+       y2="41.419998"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line18" />
+    <line
+       x1="21.4746"
+       x2="21.4746"
+       y1="41.419998"
+       y2="52.924301"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line20" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="16.475 21.316 16.475 16 21.475 16 21.475 21.316"
+       id="polyline22" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="14.025,21.316 23.924,21.316 21.908,27.193 16,27.193 "
+       id="polygon24" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="14.025,35.529 23.924,35.529 21.908,41.405 16,41.405 "
+       id="polygon26" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="16.475 16 18.975 7.863 21.475 16"
+       id="polyline28" />
+    <line
+       x1="16.4746"
+       x2="16.4746"
+       y1="27.1926"
+       y2="35.528702"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line30" />
+    <line
+       x1="21.4746"
+       x2="21.4746"
+       y1="27.1926"
+       y2="35.528702"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line32" />
+  </g>
+</g></svg>

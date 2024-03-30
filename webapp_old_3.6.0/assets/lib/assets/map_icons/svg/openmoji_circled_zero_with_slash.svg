@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.4130809092282585)">
+  
+  <g
+     id="line"
+     transform="translate(-6.9499998,-6.9499998)">
+    <circle
+       cx="36"
+       cy="36"
+       r="26.68"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="4.74"
+       paint-order="normal"
+       id="circle2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="4.74"
+       d="m 43.24,22.41 -15.01,26 -0.3267,-0.1886"
+       id="path4" />
+    <g
+       transform="matrix(4.347,0,0,4.347,36,20.78)"
+       fill-rule="evenodd"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       clip-rule="evenodd"
+       id="g8">
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width="1.84"
+         d="M 0,7 C -1.058,7 -1.916,6.143 -1.916,5.084 V 1.916 C -1.916,0.858 -1.058,0 0,0 1.058,0 1.916,0.858 1.916,1.916 V 5.084 C 1.916,6.143 1.058,7 0,7 Z"
+         id="path6" />
+    </g>
+  </g>
+</g></svg>

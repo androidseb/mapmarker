@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(1.7894905263157899 0.0) scale(0.42105263157894735)">
+  
+  <g
+     id="line"
+     transform="translate(-16.500081,-4)">
+    <g
+       id="line_2">
+      <path
+         fill="none"
+         fill-rule="evenodd"
+         stroke="#000"
+         stroke-linejoin="round"
+         stroke-width="2"
+         d="m 22,15 c 0,-1.6569 1.3431,-3 3,-3 h 22 c 1.6569,0 3,1.3431 3,3 v 2 4.9556 2.6888 V 56 c 0,2.2091 -1.7909,4 -4,4 H 26 c -2.2091,0 -4,-1.7909 -4,-4 V 21.5 L 17.5,18 22,15.5 Z"
+         clip-rule="evenodd"
+         id="path2" />
+    </g>
+    <path
+       fill="#000"
+       d="m 50,50 h -1 v 1 h 1 z m 0,-4 v -1 h -1 v 1 z m 0,-24 v -1 h -1 v 1 z m 0,4 h -1 v 1 h 1 z m 1,24 v -4 h -2 v 4 z M 63,36 c 0,7.1797 -5.8203,13 -13,13 v 2 c 8.2843,0 15,-6.7157 15,-15 z M 50,23 c 7.1797,0 13,5.8203 13,13 h 2 C 65,27.7157 58.2843,21 50,21 Z m 1,3 v -4 h -2 v 4 z m -1,1 c 4.9706,0 9,4.0294 9,9 h 2 C 61,29.9249 56.0751,25 50,25 Z m 9,9 c 0,4.9706 -4.0294,9 -9,9 v 2 c 6.0751,0 11,-4.9249 11,-11 z"
+       id="path5" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-width="2"
+       d="M 22,15.5 H 47"
+       id="path7" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-width="2"
+       d="M 32.3368,10 C 32.1208,9.54537 32,9.0368 32,8.5 32,6.567 33.567,5 35.5,5 37.433,5 39,6.567 39,8.5 39,9.0368 38.8792,9.54537 38.6632,10"
+       id="path9" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-width="2"
+       d="m 34,16 v 8"
+       id="path11" />
+    <line
+       x1="37"
+       x2="37"
+       y1="16"
+       y2="26"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-width="2"
+       id="line13" />
+    <line
+       x1="23"
+       x2="31"
+       y1="22"
+       y2="22"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-width="2"
+       id="line15" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-width="2"
+       d="M 40,22 H 50"
+       id="path17" />
+  </g>
+</g></svg>

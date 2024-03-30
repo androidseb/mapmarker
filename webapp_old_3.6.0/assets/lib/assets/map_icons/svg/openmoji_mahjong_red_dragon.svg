@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(3.724137931034482 0.0) scale(0.41379310344827586)">
+  
+  <g
+     id="line"
+     transform="translate(-16,-7)">
+    <rect
+       x="17"
+       y="8"
+       width="38"
+       height="56"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect2" />
+    <line
+       x1="36"
+       x2="36"
+       y1="16"
+       y2="56"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line4" />
+    <rect
+       x="24"
+       y="24"
+       width="24"
+       height="12"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect6" />
+  </g>
+</g></svg>

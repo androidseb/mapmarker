@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(2.6412131331171196 0.0) scale(0.4664676611964522)">
+  
+  <g
+     id="line"
+     transform="translate(-15.910301,-8.6619877)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 24.7614,27.38 a 17.585,17.585 0 0 0 -0.1145,2.0118 c 0,7.83 5.08,14.18 11.34,14.18 6.26,0 11.34,-6.35 11.34,-14.18 a 17.8642,17.8642 0 0 0 -0.1132,-2.0119"
+       id="path2" />
+    <path
+       d="m 40.0984,26.2525 a 2,2 0 1 1 -2,2 2,2 0 0 1 2,-2 z"
+       id="path4" />
+    <path
+       d="m 39.9884,36.0625 a 0.9935,0.9935 0 0 1 -0.4392,1.3346 l -0.0108,0.0054 a 7.33,7.33 0 0 1 -6.89,0 1.0108,1.0108 0 0 1 -0.45,-1.34 0.9935,0.9935 0 0 1 1.3292,-0.4554 l 0.0108,0.0054 a 5.383,5.383 0 0 0 5.11,0 0.9935,0.9935 0 0 1 1.3346,0.4391 z"
+       id="path6" />
+    <path
+       d="m 32.0984,26.2525 a 2,2 0 1 1 -2,2 2.0258,2.0258 0 0 1 0.45,-1.27 2.0008,2.0008 0 0 1 1.55,-0.73 z"
+       id="path8" />
+    <path
+       d="m 40.0984,26.2525 a 2,2 0 1 1 -2,2 2,2 0 0 1 2,-2 z"
+       id="path10" />
+    <path
+       d="m 32.0984,26.2525 a 2,2 0 1 1 -2,2 2.0258,2.0258 0 0 1 0.45,-1.27 2.0008,2.0008 0 0 1 1.55,-0.73 z"
+       id="path12" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 44.9084,46.1125 c 12,0 10,13 10,13"
+       id="path14" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 41.4684,48.1825 a 35.3441,35.3441 0 0 0 3.33,-2"
+       id="path16" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 17.0384,59.1125 c 0,0 -2,-13 10,-13 3.14,2.09 5.84,3.55 8.87,3.59 h 0.13 a 12.204,12.204 0 0 0 5.42,-1.51"
+       id="path18" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 24.8484,27.7725 c 0.33,-0.22 1.59,-1.07 3.17,-2.35 a 39.4579,39.4579 0 0 0 4.08,-3.79 18.7212,18.7212 0 0 0 4.07,-6.24 9.0835,9.0835 0 0 0 0.47,-1.95 6.8916,6.8916 0 0 0 -0.53,-3.75 c 0,-0.01 -0.01,-0.02 -0.01,-0.03 a 13.1,13.1 0 0 0 -3.84,0.54 c -15.84,4.84 -7.5,17.63 -7.5,17.63 l 0.09,-0.06"
+       id="path20" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 23.4084,23.9625 a 40.6219,40.6219 0 0 0 9.66,-10.11"
+       id="path22" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 47.4084,27.7625 a 46.0977,46.0977 0 0 1 -6.98,-6.13 21.3536,21.3536 0 0 1 -4.13,-6.19"
+       id="path24" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 36.1684,9.6625 a 13.2154,13.2154 0 0 1 3.85,0.54 c 10.25,3.13 10.37,9.6 9.18,13.76 a 15.5842,15.5842 0 0 1 -1.69,3.87 c 0,0 -0.03,-0.02 -0.1,-0.07"
+       id="path26" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 48.8584,23.9625 a 49.7138,49.7138 0 0 1 -9.3,-10.11"
+       id="path28" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 32.0984,21.6325 c 0,0 4.59,3.57 8.33,0 h 0.01"
+       id="path30" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 44.9084,46.1125 a 0.9213,0.9213 0 0 0 -0.11,0.07 c -0.37,0.21 -1.64,0.96 -3.33,2 a 0.01,0.01 0 0 1 -0.01,0.01 c -5.09,3.14 -14.05,8.95 -14.05,10.92"
+       id="path32" />
+  </g>
+</g></svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.48)">
+  
+  <g
+     id="line"
+     transform="translate(-11,-11)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 59.0349,60 h -46.07 A 0.9679,0.9679 0 0 1 12,59.0349 v -46.07 A 0.9679,0.9679 0 0 1 12.9651,12 h 46.07 A 0.9679,0.9679 0 0 1 60,12.9651 v 46.07 A 0.9679,0.9679 0 0 1 59.0349,60 Z"
+       id="path2" />
+    <line
+       x1="25.5"
+       x2="46.5"
+       y1="41.5"
+       y2="41.5"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line4" />
+    <line
+       x1="46.5"
+       x2="25.5"
+       y1="33.5"
+       y2="33.5"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line6" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="47.5 43.5 47.5 26.5 24.5 26.5 24.5 43.5"
+       id="polyline8" />
+    <line
+       x1="36.5"
+       x2="36.5"
+       y1="21.5"
+       y2="51.5"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line10" />
+  </g>
+</g></svg>

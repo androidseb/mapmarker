@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.41379310344827586)">
+  
+  <g
+     id="line"
+     transform="translate(-7,-7)">
+    <g
+       id="line-2">
+      <circle
+         cx="36"
+         cy="36"
+         r="28"
+         fill="none"
+         stroke="#000"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="circle2" />
+    </g>
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 43.2744,21.0385 c -0.5254,-0.1509 -1.084,0.1548 -1.2363,0.6865 L 35,46.3598 27.9619,21.725 c -0.1523,-0.5317 -0.709,-0.8364 -1.2363,-0.6865 -0.5312,0.1519 -0.8389,0.7051 -0.6875,1.2363 l 8,28 c 0.123,0.4292 0.5156,0.7251 0.9619,0.7251 0.4463,0 0.8389,-0.2959 0.9619,-0.7251 l 8,-28 c 0.1514,-0.5312 -0.1562,-1.0845 -0.6875,-1.2363 z"
+       id="path5" />
+  </g>
+</g></svg>

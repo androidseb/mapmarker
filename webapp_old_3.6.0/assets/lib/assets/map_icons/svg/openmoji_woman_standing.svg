@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(7.878743872797825 0.0) scale(0.41363332687835547)">
+  
+  <g
+     id="line"
+     transform="translate(-25.3729,-6.5945973)">
+    <g
+       id="Standing_Woman">
+      <g
+         id="line-2">
+        <circle
+           cx="35.4039"
+           cy="10.6511"
+           r="2.9690001"
+           fill="none"
+           stroke="#000"
+           stroke-miterlimit="10"
+           stroke-width="2"
+           id="circle2" />
+        <path
+           fill="none"
+           stroke="#000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="m 30.47,23.9986 c 2.3523,3.5329 0.677,6.107 0.0317,8 a 33.37,33.37 0 0 0 -0.8975,5.6136 c -0.6,5.9762 -1.0025,24.0044 -1.0025,24.0044 -0.055,1.1 0.575,2 1.4,2 a 2.076,2.076 0 0 0 1.729,-1.987 l 2.539,-22.031 c 0.126,-1.093 0.679,-1.987 1.229,-1.987 0.55,0 1.1,0.894 1.229,1.987 L 39.27,61.63 a 2.076,2.076 0 0 0 1.729,1.987 c 0.825,0 1.455,-0.9 1.4,-2 0,0 -0.5226,-17.8415 -1.0731,-23.7627 A 35.8732,35.8732 0 0 0 40.499,31.999 c -0.6173,-1.9024 -2.416,-4.7392 -0.0287,-8"
+           id="path4" />
+      </g>
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         d="m 26.3729,41.5891 0.792,-19 a 5.274,5.274 0 0 1 5.208,-5 H 38.3 a 5.274,5.274 0 0 1 5.208,5 l 0.792,19"
+         id="path7" />
+    </g>
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 39.1284,7.7112 c 0,0 0.5786,-0.2695 0.9252,0.0177 0.4081,0.3372 0.6856,1.5991 1.168,2.145 a 3.2605,3.2605 0 0 0 1.8128,1.0717"
+       id="path10" />
+  </g>
+</g></svg>

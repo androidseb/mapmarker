@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(4.484047302648498 0.0) scale(0.4475398371525606)">
+  
+  <g
+     id="line"
+     transform="translate(-21.1568,-10.264488)">
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="39.05,47.175 39.025,62.881 37.817,62.883 34.193,62.889 32.984,62.891 33.009,47.185 34.223,43.558 34.252,21.5 37.877,21.5 37.848,43.552 "
+       id="polygon2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 29.7035,11.6 v 9.9 h 12.7279 v -5.6576 c 0,0 8.4853,0 11.3137,2.8284 A 15.1442,15.1442 0 0 0 42.4314,11.6 a 60.523,60.523 0 0 0 -12.7279,0 z"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 25.89,12.4785 -0.0319,8.02 v 0 a 3.3363,3.3363 0 0 1 -3.7013,0.0147 v 0 l 0.0319,-8.0195 v 0 A 2.6172,2.6172 0 0 1 25.89,12.479 Z"
+       id="path6" />
+  </g>
+</g></svg>

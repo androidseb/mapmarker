@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 2.16) scale(0.48)">
+  
+  <g
+     id="line-supplement"
+     transform="translate(-11,-27)">
+    <line
+       id="xx"
+       x1="36.799999"
+       x2="58.400002"
+       y1="37"
+       y2="37"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-11,-27)">
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       points="60,28 55.5,67 16.5,67 12,28"
+       id="polyline4" />
+    <rect
+       x="38.214001"
+       y="48.513599"
+       width="13.3"
+       height="13.6"
+       transform="matrix(0.157,-0.9876,0.9876,0.157,-16.8073,90.937)"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="1.7923"
+       id="rect6" />
+    <rect
+       x="18.808001"
+       y="35.890499"
+       width="14.5005"
+       height="12.7004"
+       transform="matrix(0.9535,-0.3015,0.3015,0.9535,-11.5227,9.8218)"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="1.8081"
+       id="rect8" />
+  </g>
+</g></svg>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(7.870481156371102 0.0) scale(0.41446052065808525)">
+  
+  <g
+     id="line"
+     transform="translate(-26.1728,-6.4633996)">
+    <circle
+       cx="36.2038"
+       cy="10.4324"
+       r="2.9690001"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="circle2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 41.17,23.37 1.9,38 c 0.055,1.1 -0.575,2 -1.4,2 A 2.076,2.076 0 0 1 39.941,61.383 L 37.399,39.352 C 37.27,38.259 36.72,37.365 36.17,37.365 c -0.55,0 -1.103,0.894 -1.229,1.987 l -2.539,22.031 a 2.076,2.076 0 0 1 -1.729,1.987 c -0.825,0 -1.455,-0.9 -1.4,-2 l 1.9,-38"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 27.1728,41.37 0.792,-19 a 5.274,5.274 0 0 1 5.208,-5 h 6"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 39.1,17.37 a 5.274,5.274 0 0 1 5.208,5 l 0.792,19"
+       id="path8" />
+    <circle
+       cx="39.630402"
+       cy="20.5849"
+       r="1"
+       id="circle10" />
+    <ellipse
+       cx="38.7038"
+       cy="13.521"
+       rx="1.1343"
+       ry="0.75739998"
+       transform="rotate(-50,38.703805,13.520989)"
+       stroke="#000"
+       stroke-miterlimit="10"
+       id="ellipse12" />
+    <ellipse
+       cx="33.7038"
+       cy="13.521"
+       rx="0.75739998"
+       ry="1.1343"
+       transform="rotate(-40,33.703773,13.521083)"
+       stroke="#000"
+       stroke-miterlimit="10"
+       id="ellipse14" />
+    <circle
+       cx="36.2038"
+       cy="13.4014"
+       r="1.5"
+       stroke="#000"
+       stroke-miterlimit="10"
+       id="circle16" />
+  </g>
+</g></svg>
