@@ -500,5 +500,7 @@
     "speed": "Speed",
     "altitude": "Altitude",
     "x_hours_y_minutes_z_seconds": "%1$s hours %2$s minutes %3$s seconds",
+    "circle_radius": "Circle radius",
+    "enter_circle_radius_with_units_x": "Enter circle radius (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
