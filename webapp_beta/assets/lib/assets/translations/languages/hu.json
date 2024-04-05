@@ -500,5 +500,7 @@
     "speed": "Sebesség",
     "altitude": "Magasság",
     "x_hours_y_minutes_z_seconds": "%1$s óra %2$s perc %3$s másodperc",
+    "circle_radius": "A kör sugara",
+    "enter_circle_radius_with_units_x": "Írja be a kör sugarát (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

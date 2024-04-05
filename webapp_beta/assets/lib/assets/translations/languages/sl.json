@@ -500,5 +500,7 @@
     "speed": "Hitrost",
     "altitude": "Nadmorska višina",
     "x_hours_y_minutes_z_seconds": "%1$s ure %2$s minute %3$s sekund",
+    "circle_radius": "Polmer kroga",
+    "enter_circle_radius_with_units_x": "Vnesite polmer kroga (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

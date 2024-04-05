@@ -500,5 +500,7 @@
     "speed": "Greitis",
     "altitude": "Aukštis virš jūros lygio",
     "x_hours_y_minutes_z_seconds": "%1$s valandos %2$s minutės %3$s sekundės",
+    "circle_radius": "Apskritimo spindulys",
+    "enter_circle_radius_with_units_x": "Įveskite apskritimo spindulį (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

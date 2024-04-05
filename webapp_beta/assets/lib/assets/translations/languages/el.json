@@ -500,5 +500,7 @@
     "speed": "Ταχύτητα",
     "altitude": "Υψόμετρο",
     "x_hours_y_minutes_z_seconds": "%1$s ώρες %2$s λεπτά %3$s δευτερόλεπτα",
+    "circle_radius": "Ακτίνα κύκλου",
+    "enter_circle_radius_with_units_x": "Εισαγάγετε την ακτίνα κύκλου (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

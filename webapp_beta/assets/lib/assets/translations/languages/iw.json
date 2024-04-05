@@ -500,5 +500,7 @@
     "speed": "מְהִירוּת",
     "altitude": "גוֹבַה",
     "x_hours_y_minutes_z_seconds": "%1$s שעות %2$s דקות %3$s שניות",
+    "circle_radius": "רדיוס עיגול",
+    "enter_circle_radius_with_units_x": "הזן רדיוס עיגול (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

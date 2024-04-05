@@ -500,5 +500,7 @@
     "speed": "速度",
     "altitude": "高度",
     "x_hours_y_minutes_z_seconds": "%1$s小時%2$s分鐘%3$s秒",
+    "circle_radius": "圓半徑",
+    "enter_circle_radius_with_units_x": "輸入圓半徑 (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

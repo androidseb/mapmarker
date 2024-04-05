@@ -500,5 +500,7 @@
     "speed": "Nopeus",
     "altitude": "Korkeus",
     "x_hours_y_minutes_z_seconds": "%1$s tuntia %2$s minuuttia %3$s sekuntia",
+    "circle_radius": "Ympyrän säde",
+    "enter_circle_radius_with_units_x": "Anna ympyrän säde (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -500,5 +500,7 @@
     "speed": "Ubrzati",
     "altitude": "Visina",
     "x_hours_y_minutes_z_seconds": "%1$s sata %2$s minute %3$s sekundi",
+    "circle_radius": "Polumjer kruga",
+    "enter_circle_radius_with_units_x": "Unesite polumjer kruga (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

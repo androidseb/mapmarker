@@ -500,5 +500,7 @@
     "speed": "Tốc độ",
     "altitude": "Độ cao",
     "x_hours_y_minutes_z_seconds": "%1$s giờ %2$s phút %3$s giây",
+    "circle_radius": "Bán kính vòng tròn",
+    "enter_circle_radius_with_units_x": "Nhập bán kính hình tròn (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

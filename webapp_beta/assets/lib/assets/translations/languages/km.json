@@ -500,5 +500,7 @@
     "speed": "ល្បឿន",
     "altitude": "កម្ពស់",
     "x_hours_y_minutes_z_seconds": "%1$sម៉ោង%2$sនាទី%3$sវិនាទី",
+    "circle_radius": "កាំរង្វង់",
+    "enter_circle_radius_with_units_x": "បញ្ចូលកាំរង្វង់ (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

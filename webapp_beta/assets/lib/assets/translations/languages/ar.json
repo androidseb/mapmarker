@@ -500,5 +500,7 @@
     "speed": "سرعة",
     "altitude": "ارتفاع",
     "x_hours_y_minutes_z_seconds": "%1$s ساعات %2$s دقائق %3$s ثواني",
+    "circle_radius": "نصف قطر الدائرة",
+    "enter_circle_radius_with_units_x": "أدخل نصف قطر الدائرة (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

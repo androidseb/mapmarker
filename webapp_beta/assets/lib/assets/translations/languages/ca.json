@@ -500,5 +500,7 @@
     "speed": "Velocitat",
     "altitude": "Altitud",
     "x_hours_y_minutes_z_seconds": "%1$s hores %2$s minuts %3$s segons",
+    "circle_radius": "Radi del cercle",
+    "enter_circle_radius_with_units_x": "Introduïu el radi del cercle (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

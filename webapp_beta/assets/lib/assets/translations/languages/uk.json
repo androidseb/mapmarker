@@ -500,5 +500,7 @@
     "speed": "швидкість",
     "altitude": "Висота",
     "x_hours_y_minutes_z_seconds": "%1$s години %2$s хвилини %3$s секунд",
+    "circle_radius": "Радіус кола",
+    "enter_circle_radius_with_units_x": "Введіть радіус кола (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

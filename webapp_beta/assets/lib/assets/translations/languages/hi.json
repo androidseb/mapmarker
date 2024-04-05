@@ -500,5 +500,7 @@
     "speed": "रफ़्तार",
     "altitude": "ऊंचाई",
     "x_hours_y_minutes_z_seconds": "%1$s घंटे %2$s मिनट %3$s सेकंड",
+    "circle_radius": "वृत्त त्रिज्या",
+    "enter_circle_radius_with_units_x": "वृत्त त्रिज्या दर्ज करें (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

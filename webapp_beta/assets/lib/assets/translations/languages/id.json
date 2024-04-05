@@ -500,5 +500,7 @@
     "speed": "Kecepatan",
     "altitude": "Ketinggian",
     "x_hours_y_minutes_z_seconds": "%1$s jam %2$s menit %3$s detik",
+    "circle_radius": "Jari-jari lingkaran",
+    "enter_circle_radius_with_units_x": "Masukkan radius lingkaran (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

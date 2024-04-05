@@ -500,5 +500,7 @@
     "speed": "Скорость",
     "altitude": "Высота",
     "x_hours_y_minutes_z_seconds": "%1$s часа %2$s минуты %3$s секунд",
+    "circle_radius": "Радиус окружности",
+    "enter_circle_radius_with_units_x": "Введите радиус окружности (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

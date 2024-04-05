@@ -500,5 +500,7 @@
     "speed": "속도",
     "altitude": "고도",
     "x_hours_y_minutes_z_seconds": "%1$s시간 %2$s분 %3$s초",
+    "circle_radius": "원 반경",
+    "enter_circle_radius_with_units_x": "원 반경(%s)을 입력하세요.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

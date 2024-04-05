@@ -500,5 +500,7 @@
     "speed": "Fart",
     "altitude": "Höjd över havet",
     "x_hours_y_minutes_z_seconds": "%1$s timmar %2$s minuter %3$s sekunder",
+    "circle_radius": "Cirkelradie",
+    "enter_circle_radius_with_units_x": "Ange cirkelradie (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

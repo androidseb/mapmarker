@@ -500,5 +500,7 @@
     "speed": "スピード",
     "altitude": "高度",
     "x_hours_y_minutes_z_seconds": "%1$s時間 %2$s分 %3$s秒",
+    "circle_radius": "円の半径",
+    "enter_circle_radius_with_units_x": "円の半径を入力してください (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -500,5 +500,7 @@
     "speed": "Rychlost",
     "altitude": "Nadmořská výška",
     "x_hours_y_minutes_z_seconds": "%1$s hodiny %2$s minuty %3$s sekund",
+    "circle_radius": "Poloměr kruhu",
+    "enter_circle_radius_with_units_x": "Zadejte poloměr kruhu (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

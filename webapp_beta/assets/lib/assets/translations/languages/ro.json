@@ -500,5 +500,7 @@
     "speed": "Viteză",
     "altitude": "Altitudine",
     "x_hours_y_minutes_z_seconds": "%1$s ore %2$s minute %3$s secunde",
+    "circle_radius": "Raza cercului",
+    "enter_circle_radius_with_units_x": "Introduceți raza cercului (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

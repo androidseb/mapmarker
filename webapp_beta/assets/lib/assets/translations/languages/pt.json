@@ -500,5 +500,7 @@
     "speed": "Velocidade",
     "altitude": "Altitude",
     "x_hours_y_minutes_z_seconds": "%1$s horas %2$s minutos %3$s segundos",
+    "circle_radius": "Raio do círculo",
+    "enter_circle_radius_with_units_x": "Insira o raio do círculo (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

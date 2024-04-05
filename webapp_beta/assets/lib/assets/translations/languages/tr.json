@@ -500,5 +500,7 @@
     "speed": "Hız",
     "altitude": "Rakım",
     "x_hours_y_minutes_z_seconds": "%1$s saat %2$s dakika %3$s saniye",
+    "circle_radius": "Daire yarıçapı",
+    "enter_circle_radius_with_units_x": "Daire yarıçapını girin (%s)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
