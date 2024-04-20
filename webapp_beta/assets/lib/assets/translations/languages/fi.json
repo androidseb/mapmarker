@@ -502,5 +502,13 @@
     "x_hours_y_minutes_z_seconds": "%1$s tuntia %2$s minuuttia %3$s sekuntia",
     "circle_radius": "Ympyrän säde",
     "enter_circle_radius_with_units_x": "Anna ympyrän säde (%s)",
+    "use_premium_code_title": "Käytä premium-koodia",
+    "use_premium_code_description": "Aktivoi premium toisesta laitteesta luodusta koodista",
+    "hint_enter_premium_code": "Anna premium-koodi",
+    "premium_activation_failed_reason_x": "Premiumin aktivointi epäonnistui:\n%s",
+    "hint_for_guest_premium_access": "Olet aktivoinut Guest Premium -käyttöoikeuden tällä laitteella",
+    "generate_premium_code_title": "Luo premium-koodi",
+    "generate_premium_code_description": "Luo premium-koodi aktivoidaksesi premium toisessa laitteessasi",
+    "premium_code_generated_hint_message_x": "Premium-koodi luotu onnistuneesti: %s\nKäytä tätä koodia toisesta laitteestasi aktivoidaksesi premium siellä.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

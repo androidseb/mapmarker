@@ -502,5 +502,13 @@
     "x_hours_y_minutes_z_seconds": "%1$s hores %2$s minuts %3$s segons",
     "circle_radius": "Radi del cercle",
     "enter_circle_radius_with_units_x": "Introduïu el radi del cercle (%s)",
+    "use_premium_code_title": "Utilitzeu el codi premium",
+    "use_premium_code_description": "Activa la premium a partir d'un codi generat des d'un altre dispositiu",
+    "hint_enter_premium_code": "Introduïu el codi premium",
+    "premium_activation_failed_reason_x": "No s'ha pogut activar la prima:\n%s",
+    "hint_for_guest_premium_access": "Heu activat l'accés premium de convidat en aquest dispositiu",
+    "generate_premium_code_title": "Generar codi premium",
+    "generate_premium_code_description": "Genereu un codi premium per activar-lo en un dels vostres altres dispositius",
+    "premium_code_generated_hint_message_x": "Codi Premium generat correctament: %s\nUtilitzeu aquest codi des del vostre altre dispositiu per activar-hi el premium.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

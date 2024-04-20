@@ -502,5 +502,13 @@
     "x_hours_y_minutes_z_seconds": "%1$s horas %2$s minutos %3$s segundos",
     "circle_radius": "Raio do círculo",
     "enter_circle_radius_with_units_x": "Insira o raio do círculo (%s)",
+    "use_premium_code_title": "Usar código premium",
+    "use_premium_code_description": "Ative o prêmio a partir de um código gerado em outro dispositivo",
+    "hint_enter_premium_code": "Insira o código premium",
+    "premium_activation_failed_reason_x": "Falha ao ativar o prêmio:\n%s",
+    "hint_for_guest_premium_access": "Você ativou o acesso premium de convidado neste dispositivo",
+    "generate_premium_code_title": "Gerar código premium",
+    "generate_premium_code_description": "Gere um código premium para ativar o prêmio em um de seus outros dispositivos",
+    "premium_code_generated_hint_message_x": "Código premium gerado com sucesso: %s\nUse este código do seu outro dispositivo para ativar o premium lá.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -502,5 +502,13 @@
     "x_hours_y_minutes_z_seconds": "%1$s giờ %2$s phút %3$s giây",
     "circle_radius": "Bán kính vòng tròn",
     "enter_circle_radius_with_units_x": "Nhập bán kính hình tròn (%s)",
+    "use_premium_code_title": "Sử dụng mã cao cấp",
+    "use_premium_code_description": "Kích hoạt phí bảo hiểm từ mã được tạo từ thiết bị khác",
+    "hint_enter_premium_code": "Nhập mã ưu đãi",
+    "premium_activation_failed_reason_x": "Không thể kích hoạt phí bảo hiểm:\n%s",
+    "hint_for_guest_premium_access": "Bạn đã kích hoạt quyền truy cập cao cấp dành cho khách trên thiết bị này",
+    "generate_premium_code_title": "Tạo mã cao cấp",
+    "generate_premium_code_description": "Tạo mã cao cấp để kích hoạt phí bảo hiểm trên một trong các thiết bị khác của bạn",
+    "premium_code_generated_hint_message_x": "Mã cao cấp được tạo thành công: %s\nSử dụng mã này từ thiết bị khác của bạn để kích hoạt phí bảo hiểm ở đó.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

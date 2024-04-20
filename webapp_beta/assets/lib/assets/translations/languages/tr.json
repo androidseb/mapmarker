@@ -502,5 +502,13 @@
     "x_hours_y_minutes_z_seconds": "%1$s saat %2$s dakika %3$s saniye",
     "circle_radius": "Daire yarıçapı",
     "enter_circle_radius_with_units_x": "Daire yarıçapını girin (%s)",
+    "use_premium_code_title": "Premium kodu kullan",
+    "use_premium_code_description": "Premium'u başka bir cihazdan oluşturulan koddan etkinleştirin",
+    "hint_enter_premium_code": "Premium kodunu girin",
+    "premium_activation_failed_reason_x": "Premium etkinleştirilemedi:\n%s",
+    "hint_for_guest_premium_access": "Bu cihazda misafir premium erişimini etkinleştirdiniz",
+    "generate_premium_code_title": "Premium kod oluştur",
+    "generate_premium_code_description": "Premium'u diğer cihazlarınızdan birinde etkinleştirmek için premium kodu oluşturun",
+    "premium_code_generated_hint_message_x": "Premium kodu başarıyla oluşturuldu: %s\nPremium'u orada etkinleştirmek için diğer cihazınızdaki bu kodu kullanın.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

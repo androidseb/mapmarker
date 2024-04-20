@@ -502,5 +502,13 @@
     "x_hours_y_minutes_z_seconds": "%1$s ساعات %2$s دقائق %3$s ثواني",
     "circle_radius": "نصف قطر الدائرة",
     "enter_circle_radius_with_units_x": "أدخل نصف قطر الدائرة (%s)",
+    "use_premium_code_title": "استخدم الرمز المميز",
+    "use_premium_code_description": "قم بتفعيل قسط التأمين من خلال رمز تم إنشاؤه من جهاز آخر",
+    "hint_enter_premium_code": "أدخل رمز قسط",
+    "premium_activation_failed_reason_x": "فشل في تفعيل قسط التأمين:\n%s",
+    "hint_for_guest_premium_access": "لقد قمت بتنشيط وصول الضيف المميز على هذا الجهاز",
+    "generate_premium_code_title": "إنشاء رمز مميز",
+    "generate_premium_code_description": "أنشئ رمزًا مميزًا لتفعيل الاشتراك المميز على أحد أجهزتك الأخرى",
+    "premium_code_generated_hint_message_x": "تم إنشاء الرمز المميز بنجاح: %s\nاستخدم هذا الرمز من جهازك الآخر لتفعيل الإصدار المميز هناك.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

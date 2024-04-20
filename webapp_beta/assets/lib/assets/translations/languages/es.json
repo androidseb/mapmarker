@@ -502,5 +502,13 @@
     "x_hours_y_minutes_z_seconds": "%1$s horas %2$s minutos %3$s segundos",
     "circle_radius": "Radio del círculo",
     "enter_circle_radius_with_units_x": "Introduzca el radio del círculo (%s)",
+    "use_premium_code_title": "Usar código premium",
+    "use_premium_code_description": "Activar la prima a partir de un código generado desde otro dispositivo",
+    "hint_enter_premium_code": "Introduce el código premium",
+    "premium_activation_failed_reason_x": "No se pudo activar la prima:\n%s",
+    "hint_for_guest_premium_access": "Has activado el acceso premium para invitados en este dispositivo",
+    "generate_premium_code_title": "Generar código premium",
+    "generate_premium_code_description": "Genera un código premium para activar la prima en uno de tus otros dispositivos",
+    "premium_code_generated_hint_message_x": "Código premium generado exitosamente: %s\nUtilice este código desde su otro dispositivo para activar la prima allí.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

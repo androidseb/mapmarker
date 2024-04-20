@@ -502,5 +502,13 @@
     "x_hours_y_minutes_z_seconds": "%1$s시간 %2$s분 %3$s초",
     "circle_radius": "원 반경",
     "enter_circle_radius_with_units_x": "원 반경(%s)을 입력하세요.",
+    "use_premium_code_title": "프리미엄 코드 사용",
+    "use_premium_code_description": "다른 기기에서 생성된 코드로 프리미엄을 활성화하세요",
+    "hint_enter_premium_code": "프리미엄 코드를 입력하세요",
+    "premium_activation_failed_reason_x": "프리미엄 활성화 실패:\n%s",
+    "hint_for_guest_premium_access": "이 기기에서 게스트 프리미엄 액세스를 활성화했습니다.",
+    "generate_premium_code_title": "프리미엄 코드 생성",
+    "generate_premium_code_description": "다른 기기 중 하나에서 프리미엄을 활성화하려면 프리미엄 코드를 생성하세요.",
+    "premium_code_generated_hint_message_x": "프리미엄 코드가 성공적으로 생성되었습니다: %s\n다른 기기에서 이 코드를 사용하여 해당 기기에서 프리미엄을 활성화하세요.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

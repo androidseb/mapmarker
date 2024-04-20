@@ -502,5 +502,13 @@
     "x_hours_y_minutes_z_seconds": "%1$s Stunden %2$s Minuten %3$s Sekunden",
     "circle_radius": "Kreisradius",
     "enter_circle_radius_with_units_x": "Kreisradius eingeben (%s)",
+    "use_premium_code_title": "Premium-Code verwenden",
+    "use_premium_code_description": "Aktivieren Sie die Prämie mit einem Code, der auf einem anderen Gerät generiert wurde",
+    "hint_enter_premium_code": "Premium-Code eingeben",
+    "premium_activation_failed_reason_x": "Premium konnte nicht aktiviert werden:\n%s",
+    "hint_for_guest_premium_access": "Du hast den Premium-Gastzugang auf diesem Gerät aktiviert",
+    "generate_premium_code_title": "Premium Code generieren",
+    "generate_premium_code_description": "Generieren Sie einen Premium-Code, um die Premium-Mitgliedschaft auf einem Ihrer anderen Geräte zu aktivieren",
+    "premium_code_generated_hint_message_x": "Premium-Code erfolgreich generiert: %s\nVerwende diesen Code von deinem anderen Gerät, um dort die Prämie zu aktivieren.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

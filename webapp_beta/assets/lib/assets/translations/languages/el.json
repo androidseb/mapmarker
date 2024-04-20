@@ -502,5 +502,13 @@
     "x_hours_y_minutes_z_seconds": "%1$s ώρες %2$s λεπτά %3$s δευτερόλεπτα",
     "circle_radius": "Ακτίνα κύκλου",
     "enter_circle_radius_with_units_x": "Εισαγάγετε την ακτίνα κύκλου (%s)",
+    "use_premium_code_title": "Χρησιμοποιήστε κωδικό premium",
+    "use_premium_code_description": "Ενεργοποιήστε το premium από έναν κωδικό που δημιουργήθηκε από άλλη συσκευή",
+    "hint_enter_premium_code": "Εισαγάγετε τον κωδικό premium",
+    "premium_activation_failed_reason_x": "Απέτυχε η ενεργοποίηση του premium:\n%s",
+    "hint_for_guest_premium_access": "Έχετε ενεργοποιήσει την premium πρόσβαση επισκέπτη σε αυτήν τη συσκευή",
+    "generate_premium_code_title": "Δημιουργήστε premium κωδικό",
+    "generate_premium_code_description": "Δημιουργήστε έναν κωδικό premium για να ενεργοποιήσετε το premium σε μία από τις άλλες συσκευές σας",
+    "premium_code_generated_hint_message_x": "Ο κωδικός Premium δημιουργήθηκε με επιτυχία: %s\nΧρησιμοποιήστε αυτόν τον κωδικό από την άλλη συσκευή σας για να ενεργοποιήσετε το premium εκεί.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

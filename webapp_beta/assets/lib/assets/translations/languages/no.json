@@ -502,5 +502,13 @@
     "x_hours_y_minutes_z_seconds": "%1$s timer %2$s minutter %3$s sekunder",
     "circle_radius": "Sirkelradius",
     "enter_circle_radius_with_units_x": "Angi sirkelradius (%s)",
+    "use_premium_code_title": "Bruk premium-kode",
+    "use_premium_code_description": "Aktiver premien fra en kode generert fra en annen enhet",
+    "hint_enter_premium_code": "Skriv inn premiumkode",
+    "premium_activation_failed_reason_x": "Kunne ikke aktivere premien:\n%s",
+    "hint_for_guest_premium_access": "Du har aktivert gjestepremietilgangen på denne enheten",
+    "generate_premium_code_title": "Generer premium-kode",
+    "generate_premium_code_description": "Generer en premiumkode for å aktivere premiumen på en av de andre enhetene dine",
+    "premium_code_generated_hint_message_x": "Premium-koden ble generert: %s\nBruk denne koden fra den andre enheten for å aktivere premien der.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

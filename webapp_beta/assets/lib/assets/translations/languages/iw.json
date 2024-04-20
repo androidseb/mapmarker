@@ -502,5 +502,13 @@
     "x_hours_y_minutes_z_seconds": "%1$s שעות %2$s דקות %3$s שניות",
     "circle_radius": "רדיוס עיגול",
     "enter_circle_radius_with_units_x": "הזן רדיוס עיגול (%s)",
+    "use_premium_code_title": "השתמש בקוד פרימיום",
+    "use_premium_code_description": "הפעל את הפרמיה מקוד שנוצר ממכשיר אחר",
+    "hint_enter_premium_code": "הזן קוד פרימיום",
+    "premium_activation_failed_reason_x": "הפעלת הפרימיום נכשלה:\n%s",
+    "hint_for_guest_premium_access": "הפעלת את גישת הפרימיום לאורחים במכשיר זה",
+    "generate_premium_code_title": "צור קוד פרימיום",
+    "generate_premium_code_description": "צור קוד פרימיום כדי להפעיל את הפרימיום באחד מהמכשירים האחרים שלך",
+    "premium_code_generated_hint_message_x": "קוד פרימיום נוצר בהצלחה: %s\nהשתמש בקוד זה מהמכשיר השני שלך כדי להפעיל את הפרימיום שם.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

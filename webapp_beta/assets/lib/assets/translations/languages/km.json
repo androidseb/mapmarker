@@ -502,5 +502,13 @@
     "x_hours_y_minutes_z_seconds": "%1$sម៉ោង%2$sនាទី%3$sវិនាទី",
     "circle_radius": "កាំរង្វង់",
     "enter_circle_radius_with_units_x": "បញ្ចូលកាំរង្វង់ (%s)",
+    "use_premium_code_title": "ប្រើលេខកូដបុព្វលាភ",
+    "use_premium_code_description": "បើកដំណើរការបុព្វលាភពីលេខកូដដែលបានបង្កើតពីឧបករណ៍ផ្សេងទៀត។",
+    "hint_enter_premium_code": "បញ្ចូលលេខកូដបុព្វលាភ",
+    "premium_activation_failed_reason_x": "បរាជ័យក្នុងការដំណើរការបុព្វលាភ៖\n%s",
+    "hint_for_guest_premium_access": "អ្នកបានបើកដំណើរការការចូលប្រើបុព្វលាភរបស់ភ្ញៀវនៅលើឧបករណ៍នេះ។",
+    "generate_premium_code_title": "បង្កើតលេខកូដបុព្វលាភ",
+    "generate_premium_code_description": "បង្កើតលេខកូដបុព្វលាភ ដើម្បីដំណើរការបុព្វលាភនៅលើឧបករណ៍មួយក្នុងចំណោមឧបករណ៍ផ្សេងទៀតរបស់អ្នក។",
+    "premium_code_generated_hint_message_x": "លេខកូដពិសេសបានបង្កើតដោយជោគជ័យ៖ %s\nប្រើលេខកូដនេះពីឧបករណ៍ផ្សេងទៀតរបស់អ្នក ដើម្បីបើកដំណើរការបុព្វលាភនៅទីនោះ។",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

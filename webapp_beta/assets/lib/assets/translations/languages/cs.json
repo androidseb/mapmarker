@@ -502,5 +502,13 @@
     "x_hours_y_minutes_z_seconds": "%1$s hodiny %2$s minuty %3$s sekund",
     "circle_radius": "Poloměr kruhu",
     "enter_circle_radius_with_units_x": "Zadejte poloměr kruhu (%s)",
+    "use_premium_code_title": "Použijte prémiový kód",
+    "use_premium_code_description": "Aktivujte prémii z kódu vygenerovaného z jiného zařízení",
+    "hint_enter_premium_code": "Zadejte prémiový kód",
+    "premium_activation_failed_reason_x": "Nepodařilo se aktivovat prémii:\n%s",
+    "hint_for_guest_premium_access": "Na tomto zařízení jste aktivovali prémiový přístup pro hosty",
+    "generate_premium_code_title": "Vygenerujte prémiový kód",
+    "generate_premium_code_description": "Vygenerujte prémiový kód pro aktivaci prémie na jednom ze svých dalších zařízení",
+    "premium_code_generated_hint_message_x": "Prémiový kód byl úspěšně vygenerován: %s\nPoužijte tento kód ze svého druhého zařízení k aktivaci prémie tam.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -502,5 +502,13 @@
     "x_hours_y_minutes_z_seconds": "%1$s ure %2$s minute %3$s sekund",
     "circle_radius": "Polmer kroga",
     "enter_circle_radius_with_units_x": "Vnesite polmer kroga (%s)",
+    "use_premium_code_title": "Uporabite premium kodo",
+    "use_premium_code_description": "Aktivirajte premium s kodo, ustvarjeno iz druge naprave",
+    "hint_enter_premium_code": "Vnesite premium kodo",
+    "premium_activation_failed_reason_x": "Aktivacija premije ni uspela:\n%s",
+    "hint_for_guest_premium_access": "V tej napravi ste aktivirali premijski dostop za goste",
+    "generate_premium_code_title": "Ustvari premium kodo",
+    "generate_premium_code_description": "Ustvarite premium kodo, da aktivirate premium na eni od vaših drugih naprav",
+    "premium_code_generated_hint_message_x": "Premium koda je bila uspešno ustvarjena: %s\nUporabite to kodo iz svoje druge naprave, da tam aktivirate premium.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

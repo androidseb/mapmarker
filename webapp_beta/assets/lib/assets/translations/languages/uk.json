@@ -502,5 +502,13 @@
     "x_hours_y_minutes_z_seconds": "%1$s години %2$s хвилини %3$s секунд",
     "circle_radius": "Радіус кола",
     "enter_circle_radius_with_units_x": "Введіть радіус кола (%s)",
+    "use_premium_code_title": "Використовуйте преміум код",
+    "use_premium_code_description": "Активуйте преміум з коду, згенерованого з іншого пристрою",
+    "hint_enter_premium_code": "Введіть преміум код",
+    "premium_activation_failed_reason_x": "Не вдалося активувати преміум:\n%s",
+    "hint_for_guest_premium_access": "Ви активували гостьовий преміум-доступ на цьому пристрої",
+    "generate_premium_code_title": "Створіть преміум-код",
+    "generate_premium_code_description": "Створіть преміум-код, щоб активувати преміум-код на одному з ваших інших пристроїв",
+    "premium_code_generated_hint_message_x": "Преміум-код успішно створено: %s\nВикористовуйте цей код з іншого пристрою, щоб активувати там преміум.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
