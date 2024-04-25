@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(6.206896551724138 0.0) scale(0.41379310344827586)">
+  
+  <g
+     id="line"
+     transform="translate(-22,-7)">
+    <rect
+       x="26"
+       y="18.5"
+       rx="1"
+       ry="1"
+       width="20"
+       height="3"
+       id="rect2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 38,54.01 v 5.986 h 6.986"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 27,54.01 v 5.986 h 6.986"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 38,44 v 6 h 7"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 27,44.01 v 5.986 h 6.986"
+       id="path10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 38,34.01 v 5.986 h 6.986"
+       id="path12" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 27,34.01 v 5.986 h 6.986"
+       id="path14" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 38,24.01 v 5.986 h 6.986"
+       id="path16" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 27,24.01 v 5.986 h 6.986"
+       id="path18" />
+    <rect
+       x="23"
+       y="16"
+       rx="1"
+       width="26"
+       height="48"
+       fill="none"
+       stroke="#000"
+       stroke-width="2"
+       id="rect20" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-width="2"
+       d="M 34,12 V 9.6 C 34,8.7163 34.8954,8 36,8 c 1.1046,0 2,0.7163 2,1.6 V 12"
+       id="path22" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-width="2"
+       d="m 25,16 v -3 c 0,-0.5523 0.4477,-1 1,-1 h 19 c 0.5523,0 1,0.4477 1,1 v 3"
+       id="path24" />
+  </g>
+</g></svg>

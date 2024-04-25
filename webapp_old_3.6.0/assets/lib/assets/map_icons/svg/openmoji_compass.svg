@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.48)">
+  
+  <g
+     id="line-supplement"
+     transform="translate(-11,-11)">
+    <polyline
+       points="33.2 33.2 48 24 38.8 38.8"
+       id="polyline2" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-11,-11)">
+    <circle
+       cx="36"
+       cy="36"
+       r="24"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="circle5" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="33.2 33.2 24 48 38.8 38.8"
+       id="polyline7" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="33.2 33.2 48 24 38.8 38.8"
+       id="polyline9" />
+    <line
+       x1="36"
+       x2="36"
+       y1="21"
+       y2="16"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line11" />
+    <line
+       x1="36"
+       x2="36"
+       y1="56"
+       y2="51"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line13" />
+    <line
+       x1="51"
+       x2="56"
+       y1="36"
+       y2="36"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line15" />
+    <line
+       x1="16"
+       x2="21"
+       y1="36"
+       y2="36"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line17" />
+  </g>
+</g></svg>

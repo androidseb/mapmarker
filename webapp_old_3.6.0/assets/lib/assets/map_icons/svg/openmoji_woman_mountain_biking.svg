@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.4433763771024051 0.0) scale(0.3944280529458525)">
+  
+  <g
+     id="line"
+     transform="translate(-4.6087,-4.1524)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 51.5245,60.693 56.5059,60.5715 60.1719,64"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 22.9705,52.3383 6.2039,2.8146 4.7947,-1.0571 5.2654,1.0212"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 5.6087,43.9473 1.7866,-0.7215 2.949,2.1407"
+       id="path6" />
+    <circle
+       cx="21.5986"
+       cy="36.333801"
+       r="9.7234001"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle8" />
+    <circle
+       cx="52.484699"
+       cy="48.247299"
+       r="9.7234001"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 21.6874,36.3682 14.3041,-16.6914 2.9446,2.11"
+       id="path12" />
+    <circle
+       cx="45.3922"
+       cy="8.1524"
+       r="3"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle14" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 38.4583,20.5583 40.97,20.011 a 13.2985,13.2985 0 0 0 3.7966,-1.2442 c 0,0 0.4293,-2.64 0.6235,-3.5021 a 0.8012,0.8012 0 0 1 0.4229,-0.679 3.1213,3.1213 0 0 1 3.01,-0.38 c 1.3024,0.5516 1.9216,2.389 2.16,2.9884 a 63.0047,63.0047 0 0 1 3.1266,9.7039 4.1364,4.1364 0 0 1 -1.3296,3.1656 l -0.1578,0.1433 a 5.8752,5.8752 0 0 1 -3.35,1.2575 l -5.7154,0.2384 a 1.9349,1.9349 0 0 0 -1.8735,1.932 l 0.1061,6.5843 a 2.2848,2.2848 0 0 1 -1.5868,2.2476 1.73,1.73 0 0 1 -1.9465,-1.5724 L 37.17,32.09 a 8.651,8.651 0 0 1 0.3714,-3.3322 3.6664,3.6664 0 0 1 2.4412,-1.8141 l 5.0878,-0.9929 c 1.0067,-0.2232 2.4916,-1.7072 2.316,-2.8626"
+       id="path16" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 40.2026,42.4667 -1.9569,2.4109 a 2.6607,2.6607 0 0 1 -2.7878,0.8619 1.6224,1.6224 0 0 1 -0.7331,-2.3289 l 3.1082,-5.6451"
+       id="path18" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 48.9711,31.45 -7.1617,8.9814"
+       id="path20" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 49.008,5.9936 c 0,0 0.5982,-0.2747 0.9541,0.0234 0.4189,0.35 0.698,1.653 1.1924,2.2187 A 3.3623,3.3623 0 0 0 53.018,9.351"
+       id="path22" />
+  </g>
+</g></svg>

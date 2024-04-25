@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.5)">
+  
+  <g
+     id="line"
+     transform="translate(-12,-12)">
+    <circle
+       cx="36"
+       cy="36"
+       r="23"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle2" />
+    <line
+       x1="44.536098"
+       x2="50.921398"
+       y1="21.4389"
+       y2="24.715799"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line4" />
+    <line
+       x1="26.9214"
+       x2="20.5361"
+       y1="21.4389"
+       y2="24.715799"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 24,28 c 2.3334,1.3333 4.6666,2.6667 7,4 -2.3334,1.3333 -4.6666,2.6667 -7,4"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 48,28 c -2.3334,1.3333 -4.6666,2.6667 -7,4 2.3334,1.3333 4.6666,2.6667 7,4"
+       id="path10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 28,51 c 0.2704,-0.3562 1,-8 8.4211,-8.0038 C 43,42.9929 43.6499,50.5372 44,51 38.6667,51 33.3333,51 28,51 Z"
+       id="path12" />
+  </g>
+</g></svg>

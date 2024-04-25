@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.6153846153846154)">
+  
+  <g
+     id="line"
+     transform="translate(-16.5,-16.5)">
+    <line
+       x1="17.5"
+       x2="54.5"
+       y1="17.5"
+       y2="54.5"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line2" />
+    <line
+       x1="54.5"
+       x2="17.5"
+       y1="17.5"
+       y2="54.5"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line4" />
+  </g>
+</g></svg>

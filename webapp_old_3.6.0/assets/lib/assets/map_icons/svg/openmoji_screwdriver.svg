@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(-1.7763568394002505e-15 0.03197936628330922) scale(0.5199854681394505)">
+  
+  <g
+     id="line-supplement"
+     transform="translate(-13.72102,-13.347019)">
+    <line
+       x1="41.635201"
+       x2="53.290199"
+       y1="43.302101"
+       y2="54.9571"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line2" />
+    <line
+       x1="43.676701"
+       x2="55.3316"
+       y1="41.2607"
+       y2="52.9156"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line4" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-13.72102,-13.347019)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 44.3357,36.9691 13.64,13.64 A 3.3,3.3 0 0 1 57.858,55.271 l -2.09,2.09 a 3.3,3.3 0 0 1 -4.662,0.1176 l -13.64,-13.64 0.922,-0.9219 -2.1194,-2.1194 -0.9219,0.922 -2.64,-2.64 6.87,-6.87 2.64,2.64 -0.9919,0.992 2.1194,2.1193 z"
+       id="path7" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="34.778 32.313 22.813 20.397 22.03 16.647 16.763 14.347 14.721 16.388 17.074 21.603 20.772 22.439 32.736 34.355"
+       id="polyline9" />
+  </g>
+</g></svg>

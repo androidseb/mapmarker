@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(5.032258064516129 0.0) scale(0.3870967741935484)">
+  
+  <g
+     id="line"
+     transform="translate(-18,-5)">
+    <path
+       fill="#000"
+       stroke="none"
+       d="M 36,28.3609 52,42.5558 V 65 H 20 V 42.5558 L 36,28.3609 M 35.9999,26 c -0.2207,0 -0.4415,0.0789 -0.6193,0.2367 L 18.3281,41.3654 C 18.1197,41.5502 18,41.819 18,42.1017 V 66.027 C 18,66.5644 18.4241,67 18.9474,67 H 53.0526 C 53.5759,67 54,66.5644 54,66.027 V 42.1017 C 54,41.819 53.8803,41.5502 53.6719,41.3654 L 36.6193,26.2367 C 36.4414,26.0789 36.2207,26 35.9999,26 Z"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 43,29 v -8.0991 -0.4092 l -6.3823,-5.2706 c -0.3571,-0.2948 -0.8784,-0.2948 -1.2355,0 L 29,20.4917 V 20.9009 29"
+       id="path4" />
+    <line
+       x1="36"
+       x2="36"
+       y1="14"
+       y2="6"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line6" />
+    <line
+       x1="32.5"
+       x2="39.5"
+       y1="10"
+       y2="10"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 41,57.943 c 0,-3.8509 -3.3484,-6.1256 -4.5649,-6.8249 -0.274,-0.1575 -0.5962,-0.1575 -0.8702,0 C 34.3483,51.8174 31,54.0921 31,57.943 v 7.0894 C 31,65.5668 31.4092,66 31.914,66 h 8.172 C 40.5908,66 41,65.5668 41,65.0324 Z"
+       id="path10" />
+    <circle
+       cx="36"
+       cy="42"
+       r="5"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle12" />
+  </g>
+</g></svg>

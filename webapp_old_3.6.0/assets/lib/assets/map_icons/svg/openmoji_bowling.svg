@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.04510217135765693 0.0) scale(0.3731384008575466)">
+  
+  <g
+     id="line"
+     transform="translate(-3.9983006,-3.8322499)">
+    <circle
+       cx="19.998301"
+       cy="52.091499"
+       r="15"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="circle2" />
+    <circle
+       cx="16.197001"
+       cy="47.652401"
+       r="2"
+       id="circle4" />
+    <circle
+       cx="19.777"
+       cy="51.652401"
+       r="2"
+       id="circle6" />
+    <circle
+       cx="12.4566"
+       cy="53.652401"
+       r="2"
+       id="circle8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.3031"
+       d="m 8.7027,37.8423 a 19.06,19.06 0 0 1 5.2688,-10.3984 c 6.8233,-6.8233 0.445,-11.226 0.336,-16.1643 l 0.0045,0.0261 a 6.3219,6.3219 0 0 1 6.3219,-6.3219 6.4947,6.4947 0 0 1 6.3218,6.3219 c -0.1053,4.7754 -6.0734,9.05 -0.2966,15.497"
+       id="path10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.3031"
+       d="m 26.3992,35.0074 a 18.4794,18.4794 0 0 1 4.5723,-7.5635 c 6.8233,-6.8233 0.445,-11.226 0.336,-16.1643 l 0.0045,0.0261 a 6.3219,6.3219 0 0 1 6.3219,-6.3219 6.4947,6.4947 0 0 1 6.3218,6.3219 c -0.1052,4.7674 -6.0534,9.0357 -0.3255,15.4646"
+       id="path12" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.3031"
+       d="M 49,67 C 42.0564,52.5329 38.7133,36.702 47.9715,27.4439 c 6.8233,-6.8233 0.445,-11.226 0.336,-16.1643 l 0.0045,0.0261 a 6.3219,6.3219 0 0 1 6.3219,-6.3219 6.4947,6.4947 0 0 1 6.3218,6.3219 C 60.8468,16.244 54.4685,20.6466 61.2918,27.4699 70.55,36.7281 67.1192,52.5329 60.1756,67 Z"
+       id="path14" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.0967"
+       points="32.321 65.557 32.703 66.902 42.547 66.902 43.784 63.329"
+       id="polyline16" />
+  </g>
+</g></svg>

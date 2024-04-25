@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.000047519811820606606 0.0) scale(0.4799980992075272)">
+  
+  <g
+     id="line-supplement"
+     transform="translate(-11,-11.1372)">
+    <g
+       id="A_Button">
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-linejoin="round"
+         stroke-width="2"
+         d="m 59.0349,60.1374 h -46.07 A 0.9679,0.9679 0 0 1 12,59.1723 v -46.07 a 0.9679,0.9679 0 0 1 0.9651,-0.9651 h 46.07 A 0.9679,0.9679 0 0 1 60,13.1025 v 46.07 a 0.9679,0.9679 0 0 1 -0.9651,0.9649 z"
+         id="path2" />
+      <g
+         id="g8">
+        <polyline
+           fill="none"
+           stroke="#000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           points="45.429 46.313 36 24.313 26.571 46.313"
+           id="polyline4" />
+        <line
+           x1="29.7143"
+           x2="42.285702"
+           y1="41.0457"
+           y2="41.0457"
+           fill="none"
+           stroke="#000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           id="line6" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="line"
+     transform="translate(-11,-11.1372)" />
+</g></svg>

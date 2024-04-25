@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(6.914264516129032 0.0) scale(0.3870967741935484)">
+  
+  <g
+     id="line"
+     transform="translate(-22.8633,-5)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 48.1396,15.9063 C 47.6396,15.4004 46.96,15.0723 46.2041,15.0205 46.6934,14.4863 47,13.7813 47,13 47,11.3438 45.6563,10 44,10 44,8.3438 42.6563,7 41,7 40.1309,7 39.3535,7.376 38.8066,7.9668 38.3838,6.8213 37.292,6 36,6 34.708,6 33.6162,6.8213 33.1934,7.9668 32.6465,7.376 31.8691,7 31,7 c -1.6562,0 -3,1.3438 -3,3 -1.6562,0 -3,1.3438 -3,3 0,0.7813 0.3066,1.4863 0.7959,2.0205 -0.7549,0.0518 -1.4326,0.3789 -1.9326,0.8838"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 35.9805,48.0537 C 34.7578,52.7949 32.4297,57.2695 29,61"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 43,61 C 32.334,49.4023 32.334,30.5977 43,19 h 2 c 1.6563,0 3,1.3438 3,3 v 39 c 0,2.7617 -2.2383,5 -5,5 H 29 c -2.7617,0 -5,-2.2383 -5,-5 V 22 c 0,-1.6562 1.3438,-3 3,-3 h 2 c 3.4346,3.7344 5.7637,8.2168 6.9863,12.9648"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 41.9873,15.9941 C 41.1543,15.3706 40.1211,15 39,15 38.6768,15 38.3623,15.0366 38.0557,15.0952 37.1484,13.8311 35.6748,13 34,13 c -1.9131,0 -3.5605,1.0811 -4.3975,2.6611"
+       id="path8" />
+  </g>
+</g></svg>

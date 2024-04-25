@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 0.5521031969048735) scale(0.48834424036629076)">
+  
+  <g
+     id="line"
+     transform="translate(-10.573,-13.869264)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 11.573,26.6752 c 0,0 12.6532,-19.2328 34.2828,-8.6423 21.6296,10.5905 9.6793,38.3971 8.6422,34.2828 -1.0371,-4.1143 -4.2925,-2.564 -4.2925,-2.564 0,0 -2.4084,-3.7683 -8.585,-5.1281"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 17.5825,30.2648 a 11.97,11.97 0 0 1 9.4435,5.641 c 10.1234,2.5526 14.5945,8.7178 14.5945,8.7178"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 27.026,35.9058 a 33.1393,33.1393 0 0 1 18.76,-17.85 c 0.0259,-0.0086 0.0184,-0.044 -0.0069,-0.0544 -12.7136,-5.232 -27.4668,11.4277 -28.17,12.2336 -0.01,0.0118 -0.0243,0.0015 -0.0237,-0.0142 0.0827,-2.2035 -6.012,-3.5453 -6.012,-3.5453"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 41.6205,44.6236 c 10.1963,-15.8669 5.0526,-25.2738 4.318,-26.4624 a 0.0218,0.0218 0 0 1 0.0339,-0.027 c 1.3665,1.213 14.1087,13.2371 4.2331,31.6175"
+       id="path8" />
+    <line
+       x1="22.0993"
+       x2="34.577801"
+       y1="59.753799"
+       y2="38.863602"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line10" />
+    <line
+       x1="47.739899"
+       x2="46.714298"
+       y1="16.828699"
+       y2="18.5457"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line12" />
+  </g>
+</g></svg>

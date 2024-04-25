@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0000047586206903815764 0.0) scale(0.41379310344827586)">
+  
+  <g
+     id="line"
+     transform="translate(-7.0000122,-7)">
+    <rect
+       x="34"
+       y="37"
+       width="4"
+       height="2"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.25"
+       id="rect2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 36,64 A 28,28 0 0 1 36,8"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 36,8 a 28,28 0 0 1 0,56"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 36,39.5 c 1.1046,0 2.5,-0.8954 2.5,-2 H 34 a 2,2 0 0 0 2,2 z"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 26.92,45.92 c 0,0 3.705,3.389 9.652,3.771 6.942,0.3136 10.42,-3.695 10.42,-3.695"
+       id="path10" />
+    <circle
+       cx="26.5"
+       cy="27.5"
+       r="5"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="circle12" />
+    <circle
+       cx="45.5"
+       cy="27.5"
+       r="5"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="circle14" />
+    <circle
+       cx="45.5"
+       cy="27.5"
+       r="5"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="circle16" />
+    <circle
+       cx="43.450001"
+       cy="27.75"
+       r="1.75"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="circle18" />
+    <circle
+       cx="26.5"
+       cy="27.5"
+       r="5"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="circle20" />
+    <circle
+       cx="24.25"
+       cy="27.75"
+       r="1.75"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="circle22" />
+  </g>
+</g></svg>

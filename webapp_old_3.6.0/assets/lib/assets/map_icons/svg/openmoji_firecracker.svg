@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 3.8544705852127823) scale(0.3723382931689948)">
+  
+  <g
+     id="line-supplement"
+     transform="translate(-4.1993845,-13.3431)">
+    <g
+       id="g8">
+      <line
+         x1="62"
+         x2="67.656898"
+         y1="23"
+         y2="21.5858"
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width="2"
+         id="line2" />
+      <line
+         x1="55"
+         x2="56.4142"
+         y1="14.3431"
+         y2="20"
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width="2"
+         id="line4" />
+      <line
+         x1="60"
+         x2="63"
+         y1="20"
+         y2="15"
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-miterlimit="10"
+         stroke-width="2"
+         id="line6" />
+    </g>
+  </g>
+  <g
+     id="line"
+     transform="translate(-4.1993845,-13.3431)">
+    <rect
+       x="3.5162001"
+       y="31.279699"
+       rx="1"
+       width="40"
+       height="13"
+       transform="rotate(-45,23.516194,37.779773)"
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect11" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 58,23.28 c 0,0 -2.7574,6.8285 -7,4 -4.2426,-2.8285 0.4721,-8.7639 -4,-11 -4,-2 -9.3417,7.3573 -9.3417,7.3573"
+       id="path13" />
+  </g>
+</g></svg>

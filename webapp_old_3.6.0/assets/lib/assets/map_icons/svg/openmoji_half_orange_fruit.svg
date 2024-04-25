@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.4444444444444444)">
+  
+  <g
+     id="line-supplement"
+     transform="translate(-9,-9)">
+    <circle
+       cx="36"
+       cy="36"
+       r="2.4030001"
+       fill-rule="evenodd"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 28.46,17.87 43.53,54.26"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 17.73,43.54 54.1,28.47"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 17.75,28.44 54.06,43.48"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 43.43,17.96 28.46,54.09"
+       id="path10" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-9,-9)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 62,36 A 26,26 0 0 1 36,62 26,26 0 0 1 10,36 26,26 0 0 1 36,10 26,26 0 0 1 62,36"
+       id="path13" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 55.63,36 A 19.63,19.63 0 0 1 36,55.63 19.63,19.63 0 0 1 16.37,36 19.63,19.63 0 0 1 36,16.37 19.63,19.63 0 0 1 55.63,36"
+       id="path15" />
+  </g>
+</g></svg>

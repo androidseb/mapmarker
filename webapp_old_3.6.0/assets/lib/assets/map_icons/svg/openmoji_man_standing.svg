@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(7.870530611661274 0.0) scale(0.4144576577191418)">
+  
+  <g
+     id="line"
+     transform="translate(-25.3729,-6.6821001)">
+    <g
+       id="Standing_Man">
+      <g
+         id="line-2">
+        <circle
+           cx="35.4039"
+           cy="10.6511"
+           r="2.9690001"
+           fill="none"
+           stroke="#000"
+           stroke-miterlimit="10"
+           stroke-width="2"
+           id="circle2" />
+        <path
+           fill="none"
+           stroke="#000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="m 40.37,23.5891 1.9,38 c 0.055,1.1 -0.575,2 -1.4,2 a 2.076,2.076 0 0 1 -1.729,-1.987 l -2.542,-22.031 c -0.129,-1.093 -0.679,-1.987 -1.229,-1.987 -0.55,0 -1.103,0.894 -1.229,1.987 l -2.539,22.031 a 2.076,2.076 0 0 1 -1.729,1.987 c -0.825,0 -1.455,-0.9 -1.4,-2 l 1.9,-38"
+           id="path4" />
+        <path
+           fill="none"
+           stroke="#000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2"
+           d="m 26.3729,41.5891 0.792,-19 a 5.274,5.274 0 0 1 5.208,-5 h 6"
+           id="path6" />
+      </g>
+      <path
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         d="m 38.3,17.589 a 5.274,5.274 0 0 1 5.208,5 l 0.792,19"
+         id="path9" />
+    </g>
+  </g>
+</g></svg>

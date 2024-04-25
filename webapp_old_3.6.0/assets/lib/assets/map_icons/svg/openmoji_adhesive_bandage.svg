@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.4824209426649946)">
+  
+  <g
+     id="line"
+     transform="translate(-11.125458,-11.625458)">
+    <line
+       x1="43.677101"
+       x2="14.8878"
+       y1="15.3878"
+       y2="44.177101"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line2" />
+    <line
+       x1="21.605301"
+       x2="35.040298"
+       y1="37.459599"
+       y2="50.894699"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 57.1122,28.8228 A 9.5,9.5 0 0 0 43.6772,15.3878"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 28.3228,57.6122 A 9.5,9.5 0 0 1 14.8878,44.1772"
+       id="path8" />
+    <line
+       x1="36.959599"
+       x2="50.394699"
+       y1="22.105301"
+       y2="35.540401"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line10" />
+    <line
+       x1="28.322901"
+       x2="57.112202"
+       y1="57.612202"
+       y2="28.8228"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line12" />
+    <circle
+       cx="19.9739"
+       cy="44.465"
+       r="0.67860001"
+       id="circle14" />
+    <circle
+       cx="22.6609"
+       cy="47.152"
+       r="0.67860001"
+       id="circle16" />
+    <circle
+       cx="25.348"
+       cy="49.8391"
+       r="0.67860001"
+       id="circle18" />
+    <circle
+       cx="28.035"
+       cy="52.5261"
+       r="0.67860001"
+       id="circle20" />
+    <circle
+       cx="17.094999"
+       cy="47.344002"
+       r="0.67860001"
+       id="circle22" />
+    <circle
+       cx="19.782"
+       cy="50.030998"
+       r="0.67860001"
+       id="circle24" />
+    <circle
+       cx="22.469"
+       cy="52.717999"
+       r="0.67860001"
+       id="circle26" />
+    <circle
+       cx="25.156"
+       cy="55.404999"
+       r="0.67860001"
+       id="circle28" />
+    <circle
+       cx="46.844002"
+       cy="17.594999"
+       r="0.67860001"
+       id="circle30" />
+    <circle
+       cx="49.530998"
+       cy="20.282"
+       r="0.67860001"
+       id="circle32" />
+    <circle
+       cx="52.217999"
+       cy="22.969"
+       r="0.67860001"
+       id="circle34" />
+    <circle
+       cx="54.904999"
+       cy="25.656"
+       r="0.67860001"
+       id="circle36" />
+    <circle
+       cx="43.965"
+       cy="20.4739"
+       r="0.67860001"
+       id="circle38" />
+    <circle
+       cx="46.652"
+       cy="23.1609"
+       r="0.67860001"
+       id="circle40" />
+    <circle
+       cx="49.3391"
+       cy="25.848"
+       r="0.67860001"
+       id="circle42" />
+    <circle
+       cx="52.0261"
+       cy="28.535"
+       r="0.67860001"
+       id="circle44" />
+  </g>
+</g></svg>

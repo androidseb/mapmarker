@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.4130809092282585)">
+  
+  <g
+     id="line"
+     transform="translate(-6.9499998,-6.9499998)">
+    <circle
+       cx="36"
+       cy="36"
+       r="26.68"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="4.74"
+       paint-order="normal"
+       id="circle2" />
+    <g
+       transform="matrix(0.6662,0,0,0.6662,12.46,12.26)"
+       id="g10">
+      <circle
+         cx="35.400002"
+         cy="10.65"
+         r="2.9690001"
+         fill="#000"
+         stroke="#000"
+         stroke-miterlimit="10"
+         stroke-width="2"
+         id="circle4" />
+      <path
+         fill="#000"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1.999"
+         d="m 26.37,41.59 0.792,-19 c 0.1444,-2.78 2.425,-4.969 5.208,-5 l 5.964,-5e-5 c 2.747,0.03103 5.027,2.22 5.172,5 l 0.792,19 z"
+         paint-order="normal"
+         id="path6" />
+      <path
+         fill="#000"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         d="m 40.37,23.59 1.9,38 c 0.055,1.1 -0.575,2 -1.4,2 A 2.076,2.076 0 0 1 39.141,61.603 L 36.599,39.573 C 36.47,38.48 35.92,37.586 35.37,37.586 c -0.55,0 -1.103,0.894 -1.229,1.987 l -2.539,22.03 a 2.076,2.076 0 0 1 -1.729,1.987 c -0.825,0 -1.455,-0.9 -1.4,-2 l 1.9,-38"
+         id="path8" />
+    </g>
+  </g>
+</g></svg>

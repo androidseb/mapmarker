@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 7.122943928626042) scale(0.37070961543511266)">
+  
+  <g
+     id="line"
+     transform="translate(-3,-27.009636)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 7,52.0608 C 4.7515,50.208 4,43.8052 4,40.6642 4,37.8746 5.1307,30.3491 6.9588,28.521 c 0,0 2.6586,-1.1324 4.0412,0 4.5288,3.7092 13.6575,12.2147 25.0042,0 0,0 17.5773,8.3421 22.3198,9.5458 8.1427,2.0668 8.4167,4.1197 8.4167,6.8223 0,8.6515 -10.0838,7.5391 -16.8102,7.1718 C 46.2237,51.8584 11.1297,52.2863 7,52.0608"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 8,46.8163 c 0,0 15.134,-2.4608 24.4956,0.1105 9.3616,2.5713 28.3456,1.2299 28.3456,1.2299"
+       id="path4" />
+    <line
+       x1="40.441898"
+       x2="35.3703"
+       y1="35.958302"
+       y2="41.896301"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line6" />
+    <line
+       x1="45.526402"
+       x2="41.994202"
+       y1="37.760601"
+       y2="41.896301"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 7,52.0608 C 4.7515,50.208 4,43.8052 4,40.6642 4,37.8746 5.1307,30.3491 6.9588,28.521 c 0,0 2.6586,-1.1324 4.0412,0 4.5288,3.7092 13.6575,12.2147 25.0042,0 0,0 17.5773,8.3421 22.3198,9.5458 8.1427,2.0668 8.4167,4.1197 8.4167,6.8223 0,8.6515 -10.0838,7.5391 -16.8102,7.1718 C 46.2237,51.8584 11.1297,52.2863 7,52.0608"
+       id="path10" />
+  </g>
+</g></svg>

@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 1.327680052984972) scale(0.37503518298810407)">
+  
+  <g
+     id="line"
+     transform="translate(-4.0037502,-6.6142998)">
+    <line
+       x1="36"
+       x2="36"
+       y1="7.6142998"
+       y2="10.0312"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line2" />
+    <rect
+       x="27.940201"
+       y="32.651402"
+       width="16.119699"
+       height="3.5527"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect4" />
+    <rect
+       x="31.770901"
+       y="20.232901"
+       width="8.4581003"
+       height="12.4186"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect6" />
+    <line
+       x1="40.229099"
+       x2="31.770901"
+       y1="23.233299"
+       y2="23.233299"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line8" />
+    <line
+       x1="41.135502"
+       x2="30.8645"
+       y1="20.232901"
+       y2="20.232901"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line10" />
+    <rect
+       x="33.348999"
+       y="14.0294"
+       width="5.2691998"
+       height="6.2034001"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect12" />
+    <line
+       x1="27.940201"
+       x2="27.035101"
+       y1="32.651402"
+       y2="31.0403"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line14" />
+    <line
+       x1="44.059799"
+       x2="44.964901"
+       y1="32.651402"
+       y2="31.0403"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line16" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="32.731,14.029 36,10.031 39.269,14.029 "
+       id="polygon18" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="41.224 59.486 38.942 40.197 33.058 40.197 30.776 59.486"
+       id="polyline20" />
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="36,36.204 29.605,36.204 26.051,62.528 36,62.528 45.949,62.528 42.395,36.204 "
+       id="polygon22" />
+    <line
+       x1="5.0040002"
+       x2="66.997498"
+       y1="62.527599"
+       y2="62.527599"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.0005"
+       id="line24" />
+  </g>
+</g></svg>

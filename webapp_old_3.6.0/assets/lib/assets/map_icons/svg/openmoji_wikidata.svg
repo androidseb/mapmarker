@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 4.5) scale(0.375)">
+  
+  <g
+     id="line-supplement"
+     transform="translate(-4,-16)">
+    <rect
+       x="8"
+       y="20"
+       width="3.027"
+       height="32"
+       fill="#000"
+       id="rect2" />
+    <rect
+       x="12.5406"
+       y="20"
+       width="6.0541"
+       height="32"
+       fill="#000"
+       id="rect4" />
+    <rect
+       x="20.108101"
+       y="20"
+       width="6.0541"
+       height="32"
+       fill="#000"
+       id="rect6" />
+    <rect
+       x="36.756802"
+       y="20"
+       width="6.0541"
+       height="32"
+       fill="#000"
+       id="rect8" />
+    <rect
+       x="48.864799"
+       y="20"
+       width="6.0541"
+       height="32"
+       fill="#000"
+       id="rect10" />
+    <rect
+       x="27.675699"
+       y="20"
+       width="3.027"
+       height="32"
+       fill="#000"
+       id="rect12" />
+    <rect
+       x="32.216202"
+       y="20"
+       width="3.027"
+       height="32"
+       fill="#000"
+       id="rect14" />
+    <rect
+       x="44.324299"
+       y="20"
+       width="3.027"
+       height="32"
+       fill="#000"
+       id="rect16" />
+    <rect
+       x="56.4324"
+       y="20"
+       width="3.027"
+       height="32"
+       fill="#000"
+       id="rect18" />
+    <rect
+       x="60.973"
+       y="20"
+       width="3.027"
+       height="32"
+       fill="#000"
+       id="rect20" />
+  </g>
+  <g
+     id="line"
+     transform="translate(-4,-16)">
+    <rect
+       x="5"
+       y="17"
+       width="62"
+       height="38"
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect23" />
+  </g>
+</g></svg>

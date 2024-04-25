@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.5)">
+  
+  <g
+     id="line"
+     transform="translate(-12.002701,-12)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 27.2671,22.3665 c -0.2383,1.5436 -1.039,2.9427 -2.2496,3.9289 -1.1065,1.1138 -2.5889,1.7724 -4.156,1.8514"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 44.7329,22.3665 c 0.2383,1.5436 1.039,2.9427 2.2496,3.9289 1.1065,1.1138 2.5889,1.7724 4.156,1.8514"
+       id="path4" />
+    <circle
+       cx="36.002701"
+       cy="36"
+       r="23"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 30.0432,46.0186 C 31.3264,45.1995 33.913,44.9805 36,44.9805 c 2.087,0 4.6737,0.219 5.9568,1.0381"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 28.669,42.8384 c 1.8323,1.6694 1.8323,4.2345 0,5.9854"
+       id="path10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 43.3308,42.8384 c -1.8323,1.6694 -1.8323,4.2345 0,5.9854"
+       id="path12" />
+    <path
+       d="m 30,33 c 0,1.6568 -1.3448,3 -3,3 -1.6553,0 -3,-1.3433 -3,-3 0,-1.6552 1.3447,-3 3,-3 1.6552,0 3,1.3448 3,3"
+       id="path14" />
+    <path
+       d="m 48,33 c 0,1.6568 -1.3447,3 -3,3 -1.6553,0 -3,-1.3433 -3,-3 0,-1.6552 1.3447,-3 3,-3 1.6553,0 3,1.3448 3,3"
+       id="path16" />
+  </g>
+</g></svg>

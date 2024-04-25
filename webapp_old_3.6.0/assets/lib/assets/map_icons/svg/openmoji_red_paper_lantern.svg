@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(5.4947976453011504 0.0) scale(0.3745435075434545)">
+  
+  <g
+     id="line"
+     transform="translate(-18.125,-3.972)">
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="26.84 7.481 26.84 4.972 44.146 4.972 44.146 7.481"
+       id="polyline2" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="44.146 64.657 44.146 67.05 26.84 67.05 26.84 64.657"
+       id="polyline4" />
+    <rect
+       x="19.125"
+       y="9.8710003"
+       rx="11"
+       width="32.736698"
+       height="52.264301"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect6" />
+    <g
+       id="g14">
+      <rect
+         x="31.3396"
+         y="31.6894"
+         width="8.3073997"
+         height="8.9338999"
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1.5"
+         id="rect8" />
+      <rect
+         x="31.3396"
+         y="42.539101"
+         width="8.3073997"
+         height="8.9338999"
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1.5"
+         id="rect10" />
+      <rect
+         x="31.3396"
+         y="20.839701"
+         width="8.3073997"
+         height="8.9338999"
+         fill="none"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1.5"
+         id="rect12" />
+    </g>
+  </g>
+</g></svg>

@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.4707349938510242)">
+  
+  <g
+     id="line"
+     transform="translate(-10.5915,-10.6165)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 30.5935,17.7283 c 0,0 -2.7695,7.5391 -8.4622,10.3085"
+       id="path2" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="50.518 23.498 27.355 23.498 27.355 42.038"
+       id="polyline4" />
+    <line
+       x1="22.1313"
+       x2="50.518101"
+       y1="42.422501"
+       y2="42.422501"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line6" />
+    <line
+       x1="22.1313"
+       x2="50.518101"
+       y1="32.960201"
+       y2="32.960201"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line8" />
+    <line
+       x1="33.5952"
+       x2="33.5952"
+       y1="23.073"
+       y2="42.422501"
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line10" />
+    <line
+       x1="39.825001"
+       x2="39.825001"
+       y1="23.073"
+       y2="42.422501"
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line12" />
+    <line
+       x1="45.979301"
+       x2="45.979301"
+       y1="23.073"
+       y2="42.422501"
+       fill="none"
+       stroke="#000"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line14" />
+    <line
+       x1="26.0434"
+       x2="23.739401"
+       y1="46.926102"
+       y2="50.763699"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line16" />
+    <line
+       x1="33.035198"
+       x2="32.637001"
+       y1="47.6744"
+       y2="52.132702"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line18" />
+    <line
+       x1="40.639801"
+       x2="40.953499"
+       y1="47.671001"
+       y2="52.136101"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line20" />
+    <line
+       x1="47.905399"
+       x2="50.175701"
+       y1="47.124401"
+       y2="50.981899"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line22" />
+    <rect
+       x="11.5915"
+       y="11.6165"
+       rx="1.6991"
+       width="48.9841"
+       height="48.9841"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect24" />
+  </g>
+</g></svg>

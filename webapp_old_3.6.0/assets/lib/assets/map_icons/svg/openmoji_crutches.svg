@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.713768083680101 0.0) scale(0.5423934494058328)">
+  
+  <g
+     id="line"
+     transform="translate(-15.19159,-13.717911)">
+    <polygon
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="40.401,41.634 44.301,47.155 39.993,50.199 35.665,44.073 36.036,43.134 "
+       id="polygon2" />
+    <rect
+       x="27.7554"
+       y="42.138199"
+       width="7.7660999"
+       height="5.2754002"
+       transform="rotate(-54.6611,31.638448,44.775879)"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 53.8248,25.6409 -10.7522,-7.5227 1.455,-2.08 c 0.7017,-1.003 1.7967,-1.4059 2.36,-0.8684 l 2.8557,2.7241 a 8.09,8.09 0 0 0 2.0054,1.4029 l 3.5378,1.7492 c 0.698,0.3451 0.6949,1.5119 -0.0068,2.5148 z"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 29.0712,17.9523 18.1575,25.4348 16.71,23.3239 c -0.698,-1.018 -0.69,-2.1945 0.0171,-2.5359 l 3.5841,-1.73 a 8.1611,8.1611 0 0 0 2.0354,-1.3955 l 2.9056,-2.7194 c 0.5733,-0.5366 1.6735,-0.12 2.3715,0.8981 z"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 43.0451,18.8925 32.8855,32.77 a 3.961,3.961 0 0 0 -0.7877,2.412 l -0.365,4.9012 -4.492,6.3351 4.3033,3.0513 4.492,-6.3351 4.8032,-1.66 a 3.9617,3.9617 0 0 0 2.0593,-1.4789 L 53.008,26.1866"
+       id="path10" />
+    <line
+       x1="35.888599"
+       x2="29.2805"
+       y1="28.667601"
+       y2="19.057301"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line12" />
+    <polyline
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       points="35.494 43.898 39.87 50.059 44.171 47.005 40.401 41.634"
+       id="polyline14" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 19.1061,26.0533 9.7445,14.1716 a 4.0339,4.0339 0 0 0 1.6732,1.4093"
+       id="path16" />
+    <rect
+       x="24.127199"
+       y="49.4235"
+       rx="0.79960001"
+       width="6.7909002"
+       height="2.2909"
+       transform="rotate(-54.2322,27.522646,50.569008)"
+       id="rect18" />
+    <rect
+       x="22.3979"
+       y="53.602901"
+       rx="1.1751"
+       width="3.4168999"
+       height="3.4168999"
+       transform="rotate(35.7678,24.106393,55.311299)"
+       id="rect20" />
+    <rect
+       x="40.602798"
+       y="50.006599"
+       rx="0.79960001"
+       width="6.7909002"
+       height="2.2909"
+       transform="rotate(-123.0299,43.998213,51.152093)"
+       id="rect22" />
+    <rect
+       x="45.475601"
+       y="54.3438"
+       rx="1.1751"
+       width="3.4168999"
+       height="3.4168999"
+       transform="rotate(-33.0299,47.183975,56.052266)"
+       id="rect24" />
+    <line
+       x1="39.514599"
+       x2="49.0658"
+       y1="24.6038"
+       y2="31.6584"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line26" />
+    <line
+       x1="21.5103"
+       x2="31.638399"
+       y1="29.549801"
+       y2="22.486601"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="line28" />
+  </g>
+</g></svg>

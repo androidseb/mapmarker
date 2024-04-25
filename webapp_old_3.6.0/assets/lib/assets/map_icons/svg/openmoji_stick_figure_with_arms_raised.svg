@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(6.446283173553719 0.0) scale(0.39669421487603307)">
+  
+  <g
+     id="line"
+     transform="translate(-21.000006,-4)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 29.5,63.5 3,-28.5 h 3"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="M 41,63.5 38,35 h -2.5"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-width="2"
+       d="M 32.5,35 30,19.5"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-width="2"
+       d="M 38,35 40,19.5"
+       id="path8" />
+    <circle
+       cx="35"
+       cy="11"
+       r="3"
+       fill="none"
+       stroke="#000"
+       stroke-width="2"
+       id="circle10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 23,5 -1,10.5 8,4"
+       id="path12" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-width="2"
+       d="M 30,19.5 H 40.5"
+       id="path14" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       d="m 47,5 1,10.5 -8,4"
+       id="path16" />
+  </g>
+</g></svg>

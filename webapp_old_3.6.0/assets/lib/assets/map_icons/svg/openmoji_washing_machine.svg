@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(2.9579768905382604 0.0) scale(0.4531422497919841)">
+  
+  <g
+     id="line"
+     transform="translate(-16,-11.0675)">
+    <circle
+       cx="36.023899"
+       cy="45.015499"
+       r="12"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle2" />
+    <circle
+       cx="36.023899"
+       cy="45.015499"
+       r="7"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="M 53.9081,63.031 H 18.009 c -0.5523,0 -1,-0.4477 -1,-1 V 13.0675 c 0,-0.5523 0.4477,-1 1,-1 h 35.8991 c 0.5523,0 1,0.4477 1,1 V 62.031 c 0,0.5523 -0.4477,1 -1,1 z"
+       id="path6" />
+    <rect
+       x="17"
+       y="17.0086"
+       width="16"
+       height="9.9500999"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="rect8" />
+    <line
+       x1="37"
+       x2="44"
+       y1="19"
+       y2="19"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line10" />
+    <line
+       x1="37"
+       x2="44"
+       y1="23"
+       y2="23"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line12" />
+    <line
+       x1="23"
+       x2="27"
+       y1="21"
+       y2="21"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="line14" />
+    <circle
+       cx="49"
+       cy="21"
+       r="2"
+       fill="#000"
+       stroke="none"
+       id="circle16" />
+  </g>
+</g></svg>

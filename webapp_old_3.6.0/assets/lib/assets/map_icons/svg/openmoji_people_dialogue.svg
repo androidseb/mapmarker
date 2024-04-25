@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(0.0 3.999520284512643) scale(0.3995964076282954)">
+  
+  <g
+     id="line"
+     transform="translate(-6.0196,-15.9935)">
+    <circle
+       cx="13.0196"
+       cy="20.122299"
+       r="3"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 7.0196,33.1223 c 0,0 1,-4.3112 3,-5.3112 2,-1 4,-1 6,0 2,1 3,5.3112 3,5.3112"
+       id="path4" />
+    <circle
+       cx="59.0802"
+       cy="42.036301"
+       r="3"
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="circle6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 53.0802,55.0363 c 0,0 1,-4.3112 3,-5.3112 2,-1 4,-1 6,0 2,1 3,5.3112 3,5.3112"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 16.0497,54.9455 c -1.6613,0 -3.0081,-1.3468 -3.0081,-3.0081 v -8.862 l -0.0015,-3.4078 c -1e-4,-0.2111 0.2466,-0.326 0.4082,-0.1901 l 3.7794,3.3007 c 0.1356,0.1142 0.3072,0.1768 0.4845,0.1768 h 23.2796 c 1.6613,0 3.0081,1.3468 3.0081,3.0081 v 5.9742 c 0,1.6613 -1.3468,3.0081 -3.0081,3.0081 z"
+       id="path10" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       d="m 58.6474,32.468 c 0.1623,0.1367 0.4103,0.0212 0.4102,-0.191 l -0.0014,-3.2289 h 5e-4 v -9.0304 c 0,-1.6702 -1.354,-3.0242 -3.0242,-3.0242 H 31.1218 c -1.6702,0 -3.0242,1.354 -3.0242,3.0242 v 6.0062 c 0,1.6702 1.354,3.0242 3.0242,3.0242 h 23.3303 c 0.1782,0 0.3507,0.063 0.487,0.1777 z"
+       id="path12" />
+  </g>
+</g></svg>

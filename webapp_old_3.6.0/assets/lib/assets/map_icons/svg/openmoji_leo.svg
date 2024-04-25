@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="scale(0.48)">
+  
+  <g
+     id="line"
+     transform="translate(-11.12,-10.96)">
+    <rect
+       x="12.12"
+       y="11.96"
+       width="48"
+       height="48"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="rect2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="3"
+       d="m 34.44,37.72 c -0.735,-3.912 -1.132,-7.879 -1.186,-11.86 0,-5.93 9.487,-8.301 11.86,-2.372 1.888,7.085 -11.79,27.93 -2.372,28.46 4.744,0 3.988,-5.356 3.988,-5.356"
+       id="path4" />
+    <circle
+       cx="29.129999"
+       cy="39.220001"
+       r="5.5"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="3"
+       paint-order="normal"
+       id="circle6" />
+  </g>
+</g></svg>

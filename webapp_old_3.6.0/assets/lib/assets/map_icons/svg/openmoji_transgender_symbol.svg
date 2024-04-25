@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(1.270551508844953 0.0) scale(0.4802689506123429)">
+  
+  <g
+     id="line"
+     transform="translate(-13.659,-11.02)">
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="1.8"
+       d="m 25.09,19.8 1.855,-1.856 2.692,2.668 -1.851,1.882 m -2.701,2.68 -2.016,2.006 -2.692,-2.692 2.012,-2.009"
+       paint-order="normal"
+       id="path2" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="1.8"
+       d="M 57.44,11.95 H 45.05 l -3.77,3.768 h 9.695 l -8.269,8.263 m 2.692,2.689 8.27,-8.259 v 9.686 l 3.77,-3.768 v -12.38"
+       id="path4" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="1.8"
+       d="m 14.56,11.92 v 8.147 l 3.37,3.368 V 17.98 l 4.502,4.498 m 2.697,2.695 1.564,1.563 m 2.691,-2.69 -1.555,-1.554 m -2.696,-2.694 -4.508,-4.51 h 6.128 l -3.37,-3.368 h -8.824"
+       id="path6" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="1.8"
+       d="m 38.19,44.65 v 6.619 h 5.669 v 3.578 H 38.19 v 5.245 h -3.739 v -5.245 h -5.669 v -3.578 h 5.669 V 44.65"
+       id="path8" />
+    <path
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="1.8"
+       d="m 29.38,24.05 c 1.868,-1.332 4.155,-2.115 6.624,-2.115 2.405,0 4.637,0.7432 6.478,2.012 m 2.865,2.836 c 1.309,1.857 2.077,4.121 2.077,6.565 0,5.506 -3.902,10.1 -9.094,11.18 m -3.88,0.1325 c -5.573,-0.757 -9.868,-5.531 -9.868,-11.31 0,-2.461 0.7792,-4.739 2.105,-6.603"
+       paint-order="normal"
+       id="path10" />
+    <circle
+       cx="36.009998"
+       cy="33.34"
+       r="7.7160001"
+       transform="translate(-0.037)"
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="1.8"
+       id="circle12" />
+  </g>
+</g></svg>

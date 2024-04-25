@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(11.428571428571429 0.0) scale(0.5714285714285714)">
+  
+  <g
+     id="line"
+     transform="translate(-35,-15)">
+    <path
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-width="2"
+       d="M 36,16 V 56"
+       id="path2" />
+  </g>
+</g></svg>
