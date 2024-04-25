@@ -1,9 +1,0 @@
-<svg fill="#000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <defs>
-        <path d="M0 0h24v24H0V0z" id="a"/>
-    </defs>
-    <clipPath id="b">
-        <use overflow="visible" xlink:href="#a"/>
-    </clipPath>
-    <path clip-path="url(#b)" d="M4 9h16v2H4zm0 4h10v2H4z"/>
-</svg>
