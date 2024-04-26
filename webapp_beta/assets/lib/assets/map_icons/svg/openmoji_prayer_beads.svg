@@ -1,34 +1,138 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"> <g transform="translate(2.597823811772848 0.0) scale(0.400478759007101)">
-  
-  <g
-     id="line-supplement"
-     transform="translate(-13.022743,-7.063508)">
-    <circle
-       id="xx_1_"
-       cx="40.466499"
-       cy="54"
-       r="1.95" />
-  </g>
-  <g
-     id="line"
-     transform="translate(-13.022743,-7.063508)">
-    <polyline
-       fill="none"
-       stroke="#000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-miterlimit="10"
-       stroke-width="2"
-       points="41.7833,58.045 42.4051,65.9918 35.281,64.8074 38.124,57.4366"
-       id="polyline4" />
-    <path
-       fill="none"
-       stroke="#000"
-       stroke-dasharray="0, 6.7346, 0, 0, 0, 0"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="4"
-       d="m 47.6095,12.8474 c 1.1383,11.1934 -2.5564,14.3792 7.9682,15.4424 10.5246,1.0632 0.6967,20.0417 -13.9754,20.0417 -14.6721,0 -16.3637,-10.2514 -12.1898,-14.4253 C 33.5863,29.7324 26.294,27.6455 25.1023,29.7324 23.9106,31.8193 7.1995,29.8848 15.1676,19.1082 23.1357,8.3316 46.4711,1.654 47.6095,12.8474 Z"
-       id="path6" />
-  </g>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+   <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="14.229384"
+     cy="1.2584521"
+     r="0.77499998" />
+  <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="15.742243"
+     cy="3.162586"
+     r="0.77499998" />
+  <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="15.8598"
+     cy="5.7479229"
+     r="0.77499998" />
+  <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="16.231098"
+     cy="8.2439661"
+     r="0.77499998" />
+  <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="18.592903"
+     cy="9.0233059"
+     r="0.77499998" />
+  <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="20.404333"
+     cy="10.501253"
+     r="0.77499998" />
+  <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="11.714931"
+     cy="1.066992"
+     r="0.77499998" />
+  <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="9.23874"
+     cy="1.6399802"
+     r="0.77499998" />
+  <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="6.8698478"
+     cy="2.7014916"
+     r="0.77499998" />
+  <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="4.7818484"
+     cy="4.137414"
+     r="0.77499998" />
+  <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="3.0834572"
+     cy="6.0461149"
+     r="0.77499998" />
+  <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="2.8439751"
+     cy="8.4778042"
+     r="0.77499998" />
+  <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="4.979723"
+     cy="9.7329473"
+     r="0.77499998" />
+  <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="7.3908806"
+     cy="9.417738"
+     r="0.77499998" />
+  <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="9.3097296"
+     cy="10.393639"
+     r="0.77499998" />
+  <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="8.0822163"
+     cy="12.624994"
+     r="0.77499998" />
+  <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="8.7551527"
+     cy="15.014947"
+     r="0.77499998" />
+  <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="19.766479"
+     cy="12.923479"
+     r="0.77499998" />
+  <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="18.105234"
+     cy="14.856953"
+     r="0.77499998" />
+  <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="10.932813"
+     cy="16.32398"
+     r="0.77499998" />
+  <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="13.456853"
+     cy="16.686916"
+     r="0.77499998" />
+  <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="15.928779"
+     cy="16.19685"
+     r="0.77499998" />
+  <circle
+     style="fill:#000;fill-opacity:0.99933;stroke-width:0"
+     cx="13.026114"
+     cy="18.790606"
+     r="0.77499998" />
+
+   <g transform="translate(2.597823811772848 1.0) scale(0.38)">
+      <g transform="translate(-13.022743,-7.063508)">
+         <polyline
+            fill="none"
+            stroke="#000"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-miterlimit="10"
+            stroke-width="2"
+            points="41.7833,58.045 42.4051,65.9918 35.281,64.8074 38.124,57.4366" />
+         <path
+            fill="none"
+            stroke="#000"
+            stroke-dasharray="0, 6.7346, 0, 0, 0, 0"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="0"
+            d="m 47.6095,12.8474 c 1.1383,11.1934 -2.5564,14.3792 7.9682,15.4424 10.5246,1.0632 0.6967,20.0417 -13.9754,20.0417 -14.6721,0 -16.3637,-10.2514 -12.1898,-14.4253 C 33.5863,29.7324 26.294,27.6455 25.1023,29.7324 23.9106,31.8193 7.1995,29.8848 15.1676,19.1082 23.1357,8.3316 46.4711,1.654 47.6095,12.8474 Z" />
+      </g>
+   </g>
+</svg>
