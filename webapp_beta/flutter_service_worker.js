@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"index.html": "c5d3334a74b56d5315caecd4e4dfa4b7",
-"/": "c5d3334a74b56d5315caecd4e4dfa4b7",
+const RESOURCES = {"index.html": "8accc17d54a5ec400db39ab270a500be",
+"/": "8accc17d54a5ec400db39ab270a500be",
 "icons/Icon-512.png": "1f4d3a3b30ec92695adfc87857c068c5",
 "icons/Icon-maskable-512.png": "1e2a172095fc13520c7aa906543038fb",
 "icons/Icon-192.png": "3c328cfe2fa69d19b6bb97ed8a9476fd",
@@ -2635,10 +2635,10 @@ const RESOURCES = {"index.html": "c5d3334a74b56d5315caecd4e4dfa4b7",
 "assets/AssetManifest.bin": "44363b0d820b3bee050f01c4954ee0c1",
 "assets/AssetManifest.bin.json": "94bc62e11b7cfd3517c81c647742ad6f",
 "manifest.json": "2aed15af34ca38d309f25b7ad208b6ea",
-"version.json": "8f7b4dc2abbbb5880e8661ae5626b370",
+"version.json": "dfba1ce86a0a9e320a3178d12b838094",
 "favicon.png": "08b885e38ecdf53b6a25c93bbbf679ba",
 "flutter.js": "c71a09214cb6f5f8996a531350400a9a",
-"main.dart.js": "a9befc7c565f72916c1b70ce4ffcd076"};
+"main.dart.js": "6e12e726e67f2a15b2cabafc12a269f7"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
