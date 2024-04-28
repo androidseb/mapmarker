@@ -129,12 +129,14 @@
 				<a style="display:inline-block;" href="#devices_android_User_interface_description"><b>User interface description</b></a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Main_interface">Main interface</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Main_menu_interface">Main menu interface</a><br>
-				<a style="display:inline-block;" href="#devices_android_Using_markers_lines_and_polygons"><b>Using markers, lines and polygons</b></a><br>
-				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Creating_markers">Creating markers</a><br>
-				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Creating_lines">Creating lines</a><br>
-				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Creating_polygons">Creating polygons</a><br>
-				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Editing_markers_lines_and_polygons">Editing markers, lines and polygons</a><br>
-				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Deleting_markers_lines_and_polygons">Deleting markers, lines and polygons</a><br>
+				<a style="display:inline-block;" href="#devices_android_Editing_Points_Of_Interest"><b>Editing Points Of Interest</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Creating_a_Marker">Creating a Marker</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Creating_a_Line">Creating a Line</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Creating_a_Polygon">Creating a Polygon</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Creating_a_Circle">Creating a Circle</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Creating_a_Track">Creating a Track</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Editing_a_POI">Editing a POI</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Deleting_a_POI">Deleting a POI</a><br>
 				<a style="display:inline-block;" href="#devices_android_Using_the_organizer"><b>Using the organizer</b></a><br>
 				<a style="display:inline-block;" href="#devices_android_Using_map_folders"><b>Using map folders</b></a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_android_Create_a_folder">Create a folder</a><br>
@@ -226,38 +228,60 @@
 				<img class="screenshot-image" src="images/app_screenshot_2.jpg" />
 
 
-				<a name="devices_android_Using_markers_lines_and_polygons"></a>
-				<h1>Using markers, lines and polygons</h1>
+				<a name="devices_android_Editing_Points_Of_Interest"></a>
+				<h1>Editing Points Of Interest</h1>
+				<p>Currently, you can create and edit different types of Points Of Interest (a.k.a. POIs):
+					<ul>
+						<li>Marker: a single location point on the map</li>
+						<li>Line: a line path on the map</li>
+						<li>Polygon: a line-delimited surface on the map</li>
+						<li>Circle: a circle-delimited surface on the map</li>
+						<li>Track: a line created from device GPS location over time</li>
+					</ul>
+				</p>
 
-
-				<a name="devices_android_Creating_markers"></a>
-				<h2>Creating markers</h2>
+				<a name="devices_android_Creating_a_Marker"></a>
+				<h2>Creating a Marker</h2>
 				<p>To create a new marker, click on the add button from the main map interface, then move the map around to place the target
 					where you want to place the marker. When the target is at the desired location, click &ldquo;OK&rdquo; to place the
 					marker.
 				</p>
 
-				<a name="devices_android_Creating_lines"></a>
-				<h2>Creating lines</h2>
+				<a name="devices_android_Creating_a_Line"></a>
+				<h2>Creating a Line</h2>
 				<p>To create a new line, click on the add button from the main map interface and then click the line button on the left.
 					Place new points with the &ldquo;+&rdquo; button, move from one point to another with the arrow buttons and click the
 					save button when you&rsquo;re done.</p>
 
-				<a name="devices_android_Creating_polygons"></a>
-				<h2>Creating polygons</h2>
+				<a name="devices_android_Creating_a_Polygon"></a>
+				<h2>Creating a Polygon</h2>
 				<p>To create a new polygon, click on the add button from the main map interface and then click the polygon button on the
 					left. Place new points with the &ldquo;+&rdquo; button, move from one point to another with the arrow buttons and click
 					the save button when you&rsquo;re done.</p>
 
-				<a name="devices_android_Editing_markers_lines_and_polygons"></a>
-				<h2>Editing markers, lines and polygons</h2>
-				<p>To edit a marker, a line or a polygon, start by selecting it (by clicking on it for example) and hit the edit button
-					of the info window showing up. This will open the marker edit page. From there you will be able to edit all the attributes
-					of the marker. Note: if you&rsquo;re editing a line or polygon, you will have the option to edit the points of the line
-					or polygons from this page by clicking the &ldquo;edit&rdquo; button in the &ldquo;Coordinates&rdquo; section.</p>
+				<a name="devices_android_Creating_a_Circle"></a>
+				<h2>Creating a Circle</h2>
+				<p>To create a new circle, click on the add button from the main map interface and then click the circle button on the
+					left. Click the cicle center button to start placing the circle center, click the circle edge point button to start placing
+					the outside boundary of the circle, long-click the circle edge point button to enter the circle radius manually, and click
+					the save button when you&rsquo;re done.</p>
 
-				<a name="devices_android_Deleting_markers_lines_and_polygons"></a>
-				<h2>Deleting markers, lines and polygons</h2>
+				<a name="devices_android_Creating_a_Track"></a>
+				<h2>Creating a Track</h2>
+				<p>To create a new track, click on the add button from the main map interface and then click the steps icon button on the
+					left. The GPS track recording will start, and a the track recording details will be displayed at the bottom of the screen.
+					Once you want to finish the track recording, click the "stop" button in the bottom track recording panel.
+				</p>
+
+				<a name="devices_android_Editing_a_POI"></a>
+				<h2>Editing a POI</h2>
+				<p>To edit a POI, start by selecting it (by clicking on it for example) and hit the edit button
+					of the info window showing up. This will open the marker edit page. From there you will be able to edit all its attributes.
+					Note: if you&rsquo;re editing a line, polygon, circle or track, you will have the option to edit the coordinates
+					by clicking the &ldquo;edit&rdquo; button in the &ldquo;Coordinates&rdquo; section.</p>
+
+				<a name="devices_android_Deleting_a_POI"></a>
+				<h2>Deleting a POI</h2>
 				<p>To delete a POI:</p>
 				<ul>
 					<li>select the POI (by clicking it for example)</li>
@@ -929,12 +953,14 @@
 				<a style="display:inline-block;" href="#devices_ios_User_interface_description"><b>User interface description</b></a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Main_interface">Main interface</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Main_menu_interface">Main menu interface</a><br>
-				<a style="display:inline-block;" href="#devices_ios_Using_markers_lines_and_polygons"><b>Using markers, lines and polygons</b></a><br>
-				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Creating_markers">Creating markers</a><br>
-				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Creating_lines">Creating lines</a><br>
-				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Creating_polygons">Creating polygons</a><br>
-				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Editing_markers_lines_and_polygons">Editing markers, lines and polygons</a><br>
-				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Deleting_markers_lines_and_polygons">Deleting markers, lines and polygons</a><br>
+				<a style="display:inline-block;" href="#devices_ios_Editing_Points_Of_Interest"><b>Editing Points Of Interest</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Creating_a_Marker">Creating a Marker</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Creating_a_Line">Creating a Line</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Creating_a_Polygon">Creating a Polygon</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Creating_a_Circle">Creating a Circle</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Creating_a_Track">Creating a Track</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Editing_a_POI">Editing a POI</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Deleting_a_POI">Deleting a POI</a><br>
 				<a style="display:inline-block;" href="#devices_ios_Using_the_organizer"><b>Using the organizer</b></a><br>
 				<a style="display:inline-block;" href="#devices_ios_Using_map_folders"><b>Using map folders</b></a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_ios_Create_a_folder">Create a folder</a><br>
@@ -1017,38 +1043,60 @@
 				<img class="screenshot-image" src="images/app_screenshot_2.jpg" />
 
 
-				<a name="devices_ios_Using_markers_lines_and_polygons"></a>
-				<h1>Using markers, lines and polygons</h1>
+				<a name="devices_ios_Editing_Points_Of_Interest"></a>
+				<h1>Editing Points Of Interest</h1>
+				<p>Currently, you can create and edit different types of Points Of Interest (a.k.a. POIs):
+					<ul>
+						<li>Marker: a single location point on the map</li>
+						<li>Line: a line path on the map</li>
+						<li>Polygon: a line-delimited surface on the map</li>
+						<li>Circle: a circle-delimited surface on the map</li>
+						<li>Track: a line created from device GPS location over time</li>
+					</ul>
+				</p>
 
-
-				<a name="devices_ios_Creating_markers"></a>
-				<h2>Creating markers</h2>
+				<a name="devices_ios_Creating_a_Marker"></a>
+				<h2>Creating a Marker</h2>
 				<p>To create a new marker, click on the add button from the main map interface, then move the map around to place the target
 					where you want to place the marker. When the target is at the desired location, click &ldquo;OK&rdquo; to place the
 					marker.
 				</p>
 
-				<a name="devices_ios_Creating_lines"></a>
-				<h2>Creating lines</h2>
+				<a name="devices_ios_Creating_a_Line"></a>
+				<h2>Creating a Line</h2>
 				<p>To create a new line, click on the add button from the main map interface and then click the line button on the left.
 					Place new points with the &ldquo;+&rdquo; button, move from one point to another with the arrow buttons and click the
 					save button when you&rsquo;re done.</p>
 
-				<a name="devices_ios_Creating_polygons"></a>
-				<h2>Creating polygons</h2>
+				<a name="devices_ios_Creating_a_Polygon"></a>
+				<h2>Creating a Polygon</h2>
 				<p>To create a new polygon, click on the add button from the main map interface and then click the polygon button on the
 					left. Place new points with the &ldquo;+&rdquo; button, move from one point to another with the arrow buttons and click
 					the save button when you&rsquo;re done.</p>
 
-				<a name="devices_ios_Editing_markers_lines_and_polygons"></a>
-				<h2>Editing markers, lines and polygons</h2>
-				<p>To edit a marker, a line or a polygon, start by selecting it (by clicking on it for example) and hit the edit button
-					of the info window showing up. This will open the marker edit page. From there you will be able to edit all the attributes
-					of the marker. Note: if you&rsquo;re editing a line or polygon, you will have the option to edit the points of the line
-					or polygons from this page by clicking the &ldquo;edit&rdquo; button in the &ldquo;Coordinates&rdquo; section.</p>
+				<a name="devices_ios_Creating_a_Circle"></a>
+				<h2>Creating a Circle</h2>
+				<p>To create a new circle, click on the add button from the main map interface and then click the circle button on the
+					left. Click the cicle center button to start placing the circle center, click the circle edge point button to start placing
+					the outside boundary of the circle, long-click the circle edge point button to enter the circle radius manually, and click
+					the save button when you&rsquo;re done.</p>
 
-				<a name="devices_ios_Deleting_markers_lines_and_polygons"></a>
-				<h2>Deleting markers, lines and polygons</h2>
+				<a name="devices_ios_Creating_a_Track"></a>
+				<h2>Creating a Track</h2>
+				<p>To create a new track, click on the add button from the main map interface and then click the steps icon button on the
+					left. The GPS track recording will start, and a the track recording details will be displayed at the bottom of the screen.
+					Once you want to finish the track recording, click the "stop" button in the bottom track recording panel.
+				</p>
+
+				<a name="devices_ios_Editing_a_POI"></a>
+				<h2>Editing a POI</h2>
+				<p>To edit a POI, start by selecting it (by clicking on it for example) and hit the edit button
+					of the info window showing up. This will open the marker edit page. From there you will be able to edit all its attributes.
+					Note: if you&rsquo;re editing a line, polygon, circle or track, you will have the option to edit the coordinates
+					by clicking the &ldquo;edit&rdquo; button in the &ldquo;Coordinates&rdquo; section.</p>
+
+				<a name="devices_ios_Deleting_a_POI"></a>
+				<h2>Deleting a POI</h2>
 				<p>To delete a POI:</p>
 				<ul>
 					<li>select the POI (by clicking it for example)</li>
@@ -1572,12 +1620,14 @@
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_How_to_open_the_Web_App">How to open the Web App</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Main_interface">Main interface</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Main_menu_interface">Main menu interface</a><br>
-				<a style="display:inline-block;" href="#devices_web_Using_markers_lines_and_polygons"><b>Using markers, lines and polygons</b></a><br>
-				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Creating_markers">Creating markers</a><br>
-				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Creating_lines">Creating lines</a><br>
-				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Creating_polygons">Creating polygons</a><br>
-				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Editing_markers_lines_and_polygons">Editing markers, lines and polygons</a><br>
-				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Deleting_markers_lines_and_polygons">Deleting markers, lines and polygons</a><br>
+				<a style="display:inline-block;" href="#devices_web_Editing_Points_Of_Interest"><b>Editing Points Of Interest</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Creating_a_Marker">Creating a Marker</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Creating_a_Line">Creating a Line</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Creating_a_Polygon">Creating a Polygon</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Creating_a_Circle">Creating a Circle</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Creating_a_Track">Creating a Track</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Editing_a_POI">Editing a POI</a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Deleting_a_POI">Deleting a POI</a><br>
 				<a style="display:inline-block;" href="#devices_web_Using_the_organizer"><b>Using the organizer</b></a><br>
 				<a style="display:inline-block;" href="#devices_web_Using_map_folders"><b>Using map folders</b></a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Create_a_folder">Create a folder</a><br>
@@ -1665,38 +1715,60 @@
 				<img class="screenshot-image" src="images/app_screenshot_2.jpg" />
 
 
-				<a name="devices_web_Using_markers_lines_and_polygons"></a>
-				<h1>Using markers, lines and polygons</h1>
+				<a name="devices_web_Editing_Points_Of_Interest"></a>
+				<h1>Editing Points Of Interest</h1>
+				<p>Currently, you can create and edit different types of Points Of Interest (a.k.a. POIs):
+					<ul>
+						<li>Marker: a single location point on the map</li>
+						<li>Line: a line path on the map</li>
+						<li>Polygon: a line-delimited surface on the map</li>
+						<li>Circle: a circle-delimited surface on the map</li>
+						<li>Track: a line created from device GPS location over time</li>
+					</ul>
+				</p>
 
-
-				<a name="devices_web_Creating_markers"></a>
-				<h2>Creating markers</h2>
+				<a name="devices_web_Creating_a_Marker"></a>
+				<h2>Creating a Marker</h2>
 				<p>To create a new marker, click on the add button from the main map interface, then move the map around to place the target
 					where you want to place the marker. When the target is at the desired location, click &ldquo;OK&rdquo; to place the
 					marker.
 				</p>
 
-				<a name="devices_web_Creating_lines"></a>
-				<h2>Creating lines</h2>
+				<a name="devices_web_Creating_a_Line"></a>
+				<h2>Creating a Line</h2>
 				<p>To create a new line, click on the add button from the main map interface and then click the line button on the left.
 					Place new points with the &ldquo;+&rdquo; button, move from one point to another with the arrow buttons and click the
 					save button when you&rsquo;re done.</p>
 
-				<a name="devices_web_Creating_polygons"></a>
-				<h2>Creating polygons</h2>
+				<a name="devices_web_Creating_a_Polygon"></a>
+				<h2>Creating a Polygon</h2>
 				<p>To create a new polygon, click on the add button from the main map interface and then click the polygon button on the
 					left. Place new points with the &ldquo;+&rdquo; button, move from one point to another with the arrow buttons and click
 					the save button when you&rsquo;re done.</p>
 
-				<a name="devices_web_Editing_markers_lines_and_polygons"></a>
-				<h2>Editing markers, lines and polygons</h2>
-				<p>To edit a marker, a line or a polygon, start by selecting it (by clicking on it for example) and hit the edit button
-					of the info window showing up. This will open the marker edit page. From there you will be able to edit all the attributes
-					of the marker. Note: if you&rsquo;re editing a line or polygon, you will have the option to edit the points of the line
-					or polygons from this page by clicking the &ldquo;edit&rdquo; button in the &ldquo;Coordinates&rdquo; section.</p>
+				<a name="devices_web_Creating_a_Circle"></a>
+				<h2>Creating a Circle</h2>
+				<p>To create a new circle, click on the add button from the main map interface and then click the circle button on the
+					left. Click the cicle center button to start placing the circle center, click the circle edge point button to start placing
+					the outside boundary of the circle, long-click the circle edge point button to enter the circle radius manually, and click
+					the save button when you&rsquo;re done.</p>
 
-				<a name="devices_web_Deleting_markers_lines_and_polygons"></a>
-				<h2>Deleting markers, lines and polygons</h2>
+				<a name="devices_web_Creating_a_Track"></a>
+				<h2>Creating a Track</h2>
+				<p>To create a new track, click on the add button from the main map interface and then click the steps icon button on the
+					left. The GPS track recording will start, and a the track recording details will be displayed at the bottom of the screen.
+					Once you want to finish the track recording, click the "stop" button in the bottom track recording panel.
+				</p>
+
+				<a name="devices_web_Editing_a_POI"></a>
+				<h2>Editing a POI</h2>
+				<p>To edit a POI, start by selecting it (by clicking on it for example) and hit the edit button
+					of the info window showing up. This will open the marker edit page. From there you will be able to edit all its attributes.
+					Note: if you&rsquo;re editing a line, polygon, circle or track, you will have the option to edit the coordinates
+					by clicking the &ldquo;edit&rdquo; button in the &ldquo;Coordinates&rdquo; section.</p>
+
+				<a name="devices_web_Deleting_a_POI"></a>
+				<h2>Deleting a POI</h2>
 				<p>To delete a POI:</p>
 				<ul>
 					<li>select the POI (by clicking it for example)</li>
