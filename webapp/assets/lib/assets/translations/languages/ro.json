@@ -500,5 +500,15 @@
     "speed": "Viteză",
     "altitude": "Altitudine",
     "x_hours_y_minutes_z_seconds": "%1$s ore %2$s minute %3$s secunde",
+    "circle_radius": "Raza cercului",
+    "enter_circle_radius_with_units_x": "Introduceți raza cercului (%s)",
+    "use_premium_code_title": "Utilizați codul premium",
+    "use_premium_code_description": "Activați premium dintr-un cod generat de pe alt dispozitiv",
+    "hint_enter_premium_code": "Introdu codul premium",
+    "premium_activation_failed_reason_x": "Nu s-a activat premium:\n%s",
+    "hint_for_guest_premium_access": "Ați activat accesul premium pentru oaspeți pe acest dispozitiv",
+    "generate_premium_code_title": "Generați codul premium",
+    "generate_premium_code_description": "Generați un cod premium pentru a activa premium pe unul dintre celelalte dispozitive ale dvs",
+    "premium_code_generated_hint_message_x": "Cod premium generat cu succes: %s\nUtilizați acest cod de pe celălalt dispozitiv pentru a activa premium acolo.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

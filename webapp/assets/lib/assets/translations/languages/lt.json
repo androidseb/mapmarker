@@ -500,5 +500,15 @@
     "speed": "Greitis",
     "altitude": "Aukštis virš jūros lygio",
     "x_hours_y_minutes_z_seconds": "%1$s valandos %2$s minutės %3$s sekundės",
+    "circle_radius": "Apskritimo spindulys",
+    "enter_circle_radius_with_units_x": "Įveskite apskritimo spindulį (%s)",
+    "use_premium_code_title": "Naudokite aukščiausios kokybės kodą",
+    "use_premium_code_description": "Suaktyvinkite priemoką iš kodo, sugeneruoto iš kito įrenginio",
+    "hint_enter_premium_code": "Įveskite aukščiausios kokybės kodą",
+    "premium_activation_failed_reason_x": "Nepavyko suaktyvinti priemokos:\n%s",
+    "hint_for_guest_premium_access": "Šiame įrenginyje suaktyvinote aukščiausios klasės svečio prieigą",
+    "generate_premium_code_title": "Sukurkite aukščiausios kokybės kodą",
+    "generate_premium_code_description": "Sugeneruokite aukščiausios kokybės kodą, kad suaktyvintumėte priemoką viename iš kitų įrenginių",
+    "premium_code_generated_hint_message_x": "Sėkmingai sugeneruotas aukščiausios kokybės kodas: %s\nNaudokite šį kodą iš kito įrenginio, kad suaktyvintumėte priemoką.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

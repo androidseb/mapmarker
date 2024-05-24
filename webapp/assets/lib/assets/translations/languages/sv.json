@@ -500,5 +500,15 @@
     "speed": "Fart",
     "altitude": "Höjd över havet",
     "x_hours_y_minutes_z_seconds": "%1$s timmar %2$s minuter %3$s sekunder",
+    "circle_radius": "Cirkelradie",
+    "enter_circle_radius_with_units_x": "Ange cirkelradie (%s)",
+    "use_premium_code_title": "Använd premiumkod",
+    "use_premium_code_description": "Aktivera premien från en kod som genereras från en annan enhet",
+    "hint_enter_premium_code": "Ange premiumkod",
+    "premium_activation_failed_reason_x": "Det gick inte att aktivera premien:\n%s",
+    "hint_for_guest_premium_access": "Du har aktiverat gästpremiumåtkomsten på den här enheten",
+    "generate_premium_code_title": "Skapa premiumkod",
+    "generate_premium_code_description": "Skapa en premiumkod för att aktivera premium på en av dina andra enheter",
+    "premium_code_generated_hint_message_x": "Premiumkoden har skapats: %s\nAnvänd den här koden från din andra enhet för att aktivera premien där.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

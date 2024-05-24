@@ -500,5 +500,15 @@
     "speed": "Kecepatan",
     "altitude": "Ketinggian",
     "x_hours_y_minutes_z_seconds": "%1$s jam %2$s menit %3$s detik",
+    "circle_radius": "Jari-jari lingkaran",
+    "enter_circle_radius_with_units_x": "Masukkan radius lingkaran (%s)",
+    "use_premium_code_title": "Gunakan kode premium",
+    "use_premium_code_description": "Aktifkan premium dari kode yang dihasilkan dari perangkat lain",
+    "hint_enter_premium_code": "Masukkan kode premium",
+    "premium_activation_failed_reason_x": "Gagal mengaktifkan premium:\n%s",
+    "hint_for_guest_premium_access": "Anda telah mengaktifkan akses premium tamu di perangkat ini",
+    "generate_premium_code_title": "Hasilkan kode premium",
+    "generate_premium_code_description": "Hasilkan kode premium untuk mengaktifkan premium di salah satu perangkat Anda yang lain",
+    "premium_code_generated_hint_message_x": "Kode premium berhasil dibuat: %s\nGunakan kode ini dari perangkat Anda yang lain untuk mengaktifkan premium di sana.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

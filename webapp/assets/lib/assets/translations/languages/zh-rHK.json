@@ -500,5 +500,15 @@
     "speed": "速度",
     "altitude": "高度",
     "x_hours_y_minutes_z_seconds": "%1$s小時%2$s分鐘%3$s秒",
+    "circle_radius": "圓半徑",
+    "enter_circle_radius_with_units_x": "輸入圓半徑 (%s)",
+    "use_premium_code_title": "使用進階代碼",
+    "use_premium_code_description": "使用其他裝置產生的程式碼啟動進階版",
+    "hint_enter_premium_code": "輸入高級代碼",
+    "premium_activation_failed_reason_x": "啟動溢價失敗：\n%s",
+    "hint_for_guest_premium_access": "您已在此裝置上啟動訪客進階存取權限",
+    "generate_premium_code_title": "產生高階程式碼",
+    "generate_premium_code_description": "產生高級代碼以在您的其他設備之一上啟動高級功能",
+    "premium_code_generated_hint_message_x": "高階程式碼成功產生：%s\n使用您其他裝置上的此代碼來啟動那裡的高級服務。",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

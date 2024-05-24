@@ -500,5 +500,15 @@
     "speed": "Sebesség",
     "altitude": "Magasság",
     "x_hours_y_minutes_z_seconds": "%1$s óra %2$s perc %3$s másodperc",
+    "circle_radius": "A kör sugara",
+    "enter_circle_radius_with_units_x": "Írja be a kör sugarát (%s)",
+    "use_premium_code_title": "Használjon prémium kódot",
+    "use_premium_code_description": "Aktiválja a prémiumot egy másik eszközről generált kódból",
+    "hint_enter_premium_code": "Írja be a prémium kódot",
+    "premium_activation_failed_reason_x": "Nem sikerült aktiválni a prémiumot:\n%s",
+    "hint_for_guest_premium_access": "Aktiválta a vendég prémium hozzáférést ezen az eszközön",
+    "generate_premium_code_title": "Prémium kód generálása",
+    "generate_premium_code_description": "Generáljon prémium kódot a prémium aktiválásához az egyik másik eszközén",
+    "premium_code_generated_hint_message_x": "A prémium kód sikeresen generálva: %s\nHasználja ezt a kódot a másik eszközéről a prémium aktiválásához.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

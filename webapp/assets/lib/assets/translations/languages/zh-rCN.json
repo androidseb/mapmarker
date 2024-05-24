@@ -500,5 +500,15 @@
     "speed": "速度",
     "altitude": "高度",
     "x_hours_y_minutes_z_seconds": "%1$s小时%2$s分钟%3$s秒",
+    "circle_radius": "圆半径",
+    "enter_circle_radius_with_units_x": "输入圆半径 (%s)",
+    "use_premium_code_title": "使用高级代码",
+    "use_premium_code_description": "使用另一台设备生成的代码激活高级版",
+    "hint_enter_premium_code": "输入高级代码",
+    "premium_activation_failed_reason_x": "无法激活高级版：\n%s",
+    "hint_for_guest_premium_access": "您已在此设备上激活访客高级访问权限",
+    "generate_premium_code_title": "生成高级代码",
+    "generate_premium_code_description": "生成高级代码以在您的其他设备上激活高级版",
+    "premium_code_generated_hint_message_x": "已成功生成高级版代码：%s\n使用您其他设备上的此代码即可激活高级版。",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

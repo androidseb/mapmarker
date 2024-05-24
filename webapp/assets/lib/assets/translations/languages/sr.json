@@ -500,5 +500,15 @@
     "speed": "Брзина",
     "altitude": "Домет",
     "x_hours_y_minutes_z_seconds": "%1$s сата %2$s минута %3$s секунди",
+    "circle_radius": "Радијус круга",
+    "enter_circle_radius_with_units_x": "Унесите радијус круга (%s)",
+    "use_premium_code_title": "Користите премиум код",
+    "use_premium_code_description": "Активирајте премиум из кода генерисаног са другог уређаја",
+    "hint_enter_premium_code": "Унесите премиум код",
+    "premium_activation_failed_reason_x": "Активирање премије није успело:\n%s",
+    "hint_for_guest_premium_access": "Активирали сте премијум приступ за госте на овом уређају",
+    "generate_premium_code_title": "Генеришите премиум код",
+    "generate_premium_code_description": "Генеришите премиум код да бисте активирали премиум на неком од ваших других уређаја",
+    "premium_code_generated_hint_message_x": "Премиум код је успешно генерисан: %s\nКористите овај код са свог другог уређаја да активирате премиум тамо.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

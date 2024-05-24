@@ -500,5 +500,15 @@
     "speed": "Rýchlosť",
     "altitude": "Nadmorská výška",
     "x_hours_y_minutes_z_seconds": "%1$s hodiny %2$s minúty %3$s sekúnd",
+    "circle_radius": "Polomer kruhu",
+    "enter_circle_radius_with_units_x": "Zadajte polomer kruhu (%s)",
+    "use_premium_code_title": "Použite prémiový kód",
+    "use_premium_code_description": "Aktivujte prémium z kódu vygenerovaného z iného zariadenia",
+    "hint_enter_premium_code": "Zadajte prémiový kód",
+    "premium_activation_failed_reason_x": "Nepodarilo sa aktivovať prémiu:\n%s",
+    "hint_for_guest_premium_access": "Na tomto zariadení ste aktivovali prémiový prístup pre hostí",
+    "generate_premium_code_title": "Vygenerujte prémiový kód",
+    "generate_premium_code_description": "Vygenerujte prémiový kód na aktiváciu prémie na jednom z vašich ďalších zariadení",
+    "premium_code_generated_hint_message_x": "Prémiový kód bol úspešne vygenerovaný: %s\nPoužite tento kód zo svojho druhého zariadenia na aktiváciu prémie tam.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

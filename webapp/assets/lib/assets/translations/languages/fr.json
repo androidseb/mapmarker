@@ -500,5 +500,15 @@
     "speed": "Vitesse",
     "altitude": "Altitude",
     "x_hours_y_minutes_z_seconds": "%1$s heures %2$s minutes %3$s secondes",
+    "circle_radius": "Rayon cercle",
+    "enter_circle_radius_with_units_x": "Entrez le rayon du cercle (%s)",
+    "use_premium_code_title": "Utiliser code premium",
+    "use_premium_code_description": "Activer l'accès premium sur cet appareil avec une code généré depuis un autre appareil",
+    "hint_enter_premium_code": "Entrez le code premium",
+    "premium_activation_failed_reason_x": "Activation premium échouée:\n%s",
+    "hint_for_guest_premium_access": "Vous avez activé l'accès premium invité sur cet appareil",
+    "generate_premium_code_title": "Générer code premium",
+    "generate_premium_code_description": "Générer un code premium à activer sur un de vos autres appareils",
+    "premium_code_generated_hint_message_x": "Code premium généré avec succès: %s\nUtilisez ce code depuis votre autre appareil pour y activer l'accès premium.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

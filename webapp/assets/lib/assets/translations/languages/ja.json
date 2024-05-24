@@ -500,5 +500,15 @@
     "speed": "スピード",
     "altitude": "高度",
     "x_hours_y_minutes_z_seconds": "%1$s時間 %2$s分 %3$s秒",
+    "circle_radius": "円の半径",
+    "enter_circle_radius_with_units_x": "円の半径を入力してください (%s)",
+    "use_premium_code_title": "プレミアムコードを使用する",
+    "use_premium_code_description": "別のデバイスから生成されたコードからプレミアムを有効化する",
+    "hint_enter_premium_code": "プレミアムコードを入力",
+    "premium_activation_failed_reason_x": "プレミアムの有効化に失敗しました:\n%s",
+    "hint_for_guest_premium_access": "このデバイスでゲストプレミアムアクセスを有効にしました",
+    "generate_premium_code_title": "プレミアムコードを生成する",
+    "generate_premium_code_description": "他のデバイスでプレミアムを有効にするには、プレミアムコードを生成してください",
+    "premium_code_generated_hint_message_x": "プレミアム コードが正常に生成されました: %s\n他のデバイスからこのコードを使用して、そこでプレミアムをアクティブ化します。",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
