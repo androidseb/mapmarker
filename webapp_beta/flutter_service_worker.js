@@ -3,13 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"index.html": "7fe9e9bc6b4b398644e31d8eefd1e84e",
-"/": "7fe9e9bc6b4b398644e31d8eefd1e84e",
+const RESOURCES = {"index.html": "a2144a12daf3aa5c8fbc18af8f273806",
+"/": "a2144a12daf3aa5c8fbc18af8f273806",
 "icons/Icon-512.png": "1f4d3a3b30ec92695adfc87857c068c5",
 "icons/Icon-maskable-512.png": "1e2a172095fc13520c7aa906543038fb",
 "icons/Icon-192.png": "3c328cfe2fa69d19b6bb97ed8a9476fd",
 "icons/Icon-maskable-192.png": "205fcad2f4dbee4698f90b92a1bb1573",
-"flutter_bootstrap.js": "285bd6bacff07b5931963878e6ab3dd5",
+"flutter_bootstrap.js": "de103a8e6efcc55d47fd51da934cee3f",
 "canvaskit/canvaskit.js.symbols": "74a84c23f5ada42fe063514c587968c6",
 "canvaskit/skwasm.wasm": "4051bfc27ba29bf420d17aa0c3a98bce",
 "canvaskit/chromium/canvaskit.js.symbols": "ee7e331f7f5bbf5ec937737542112372",
@@ -2636,10 +2636,10 @@ const RESOURCES = {"index.html": "7fe9e9bc6b4b398644e31d8eefd1e84e",
 "assets/AssetManifest.bin": "44363b0d820b3bee050f01c4954ee0c1",
 "assets/AssetManifest.bin.json": "94bc62e11b7cfd3517c81c647742ad6f",
 "manifest.json": "2aed15af34ca38d309f25b7ad208b6ea",
-"version.json": "5e93476d4dd7191e7389a25a2f3f3485",
+"version.json": "f15ffe877c43c7fdced76fcd003c3141",
 "favicon.png": "08b885e38ecdf53b6a25c93bbbf679ba",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"main.dart.js": "33c28eabbd23cebcd760ddbf78d93024"};
+"main.dart.js": "2ab123dfbf39bfb15b79a976aab13c6c"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
