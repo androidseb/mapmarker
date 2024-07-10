@@ -510,5 +510,13 @@
     "generate_premium_code_title": "Sukurkite aukščiausios kokybės kodą",
     "generate_premium_code_description": "Sugeneruokite aukščiausios kokybės kodą, kad suaktyvintumėte priemoką viename iš kitų įrenginių",
     "premium_code_generated_hint_message_x": "Sėkmingai sugeneruotas aukščiausios kokybės kodas: %s\nNaudokite šį kodą iš kito įrenginio, kad suaktyvintumėte priemoką.",
+    "recovery_safe_setup_title": "Atkūrimas: saugi sąranka",
+    "recovery_safe_setup_description": "Sukuria naują tuščią žemėlapį ir pritaiko saugius nustatymus, kad išvengtų tolesnių gedimų",
+    "recovery_safe_setup_applied_message": "Saugi sąranka buvo pritaikyta ir įsigalios kitą kartą paleidus, dabar galite išeiti iš programos ir ją nutraukti.",
+    "recovery_export_data_title": "Atkūrimas: eksportuoti duomenis",
+    "recovery_export_data_description": "Eksportuokite vietoje pasiekiamus žemėlapio duomenis",
+    "recovery_export_partial_warning_message": "Įspėjimas: atkūrimo eksportavimas bus dalinis, trūksta bent vieno debesies medijos failo, jis nebus atsisiųstas ir eksportavimo metu bus pakeistas tuščiu failu.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

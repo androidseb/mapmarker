@@ -510,5 +510,13 @@
     "generate_premium_code_title": "Generer premium-kode",
     "generate_premium_code_description": "Generer en premiumkode for å aktivere premiumen på en av de andre enhetene dine",
     "premium_code_generated_hint_message_x": "Premium-koden ble generert: %s\nBruk denne koden fra den andre enheten for å aktivere premien der.",
+    "recovery_safe_setup_title": "Gjenoppretting: trygt oppsett",
+    "recovery_safe_setup_description": "Oppretter et nytt tomt kart og bruker sikre innstillinger for å forhindre ytterligere krasj",
+    "recovery_safe_setup_applied_message": "Det sikre oppsettet ble brukt og vil tre i kraft ved neste lansering, du kan nå avslutte appen og avslutte den.",
+    "recovery_export_data_title": "Gjenoppretting: eksporter data",
+    "recovery_export_data_description": "Eksporter lokalt tilgjengelig kartdata",
+    "recovery_export_partial_warning_message": "Advarsel: gjenopprettingseksporten vil være delvis, minst én skymediefil mangler, vil ikke bli lastet ned og vil bli erstattet med en tom fil under eksporten.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

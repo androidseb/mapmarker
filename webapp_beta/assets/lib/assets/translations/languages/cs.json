@@ -510,5 +510,13 @@
     "generate_premium_code_title": "Vygenerujte prémiový kód",
     "generate_premium_code_description": "Vygenerujte prémiový kód pro aktivaci prémie na jednom ze svých dalších zařízení",
     "premium_code_generated_hint_message_x": "Prémiový kód byl úspěšně vygenerován: %s\nPoužijte tento kód ze svého druhého zařízení k aktivaci prémie tam.",
+    "recovery_safe_setup_title": "Obnova: bezpečné nastavení",
+    "recovery_safe_setup_description": "Vytvoří novou prázdnou mapu a použije bezpečná nastavení, aby se zabránilo dalším haváriím",
+    "recovery_safe_setup_applied_message": "Bezpečné nastavení bylo použito a bude účinné při příštím spuštění. Nyní můžete aplikaci ukončit a ukončit ji.",
+    "recovery_export_data_title": "Obnova: export dat",
+    "recovery_export_data_description": "Exportujte lokálně dostupná mapová data",
+    "recovery_export_partial_warning_message": "Upozornění: Export pro obnovení bude částečný, chybí alespoň jeden soubor cloudového média, nebude stažen a během exportu bude nahrazen prázdným souborem.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

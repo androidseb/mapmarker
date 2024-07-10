@@ -510,5 +510,13 @@
     "generate_premium_code_title": "Hasilkan kode premium",
     "generate_premium_code_description": "Hasilkan kode premium untuk mengaktifkan premium di salah satu perangkat Anda yang lain",
     "premium_code_generated_hint_message_x": "Kode premium berhasil dibuat: %s\nGunakan kode ini dari perangkat Anda yang lain untuk mengaktifkan premium di sana.",
+    "recovery_safe_setup_title": "Pemulihan: pengaturan yang aman",
+    "recovery_safe_setup_description": "Membuat peta kosong baru dan menerapkan pengaturan aman untuk mencegah kerusakan lebih lanjut",
+    "recovery_safe_setup_applied_message": "Penyiapan aman telah diterapkan dan akan efektif pada peluncuran berikutnya, Anda sekarang dapat keluar dari aplikasi dan menghentikannya.",
+    "recovery_export_data_title": "Pemulihan: ekspor data",
+    "recovery_export_data_description": "Ekspor data peta yang tersedia secara lokal",
+    "recovery_export_partial_warning_message": "Peringatan: ekspor pemulihan akan bersifat parsial, setidaknya satu file media cloud hilang, tidak akan diunduh dan akan diganti dengan file kosong selama ekspor.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

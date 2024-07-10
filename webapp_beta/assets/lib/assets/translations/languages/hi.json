@@ -510,5 +510,13 @@
     "generate_premium_code_title": "प्रीमियम कोड जनरेट करें",
     "generate_premium_code_description": "अपने किसी अन्य डिवाइस पर प्रीमियम सक्रिय करने के लिए प्रीमियम कोड जनरेट करें",
     "premium_code_generated_hint_message_x": "प्रीमियम कोड सफलतापूर्वक जनरेट किया गया: %s\nप्रीमियम को सक्रिय करने के लिए अपने अन्य डिवाइस से इस कोड का उपयोग करें।",
+    "recovery_safe_setup_title": "पुनर्प्राप्ति: सुरक्षित सेटअप",
+    "recovery_safe_setup_description": "एक नया खाली मानचित्र बनाता है और आगे की दुर्घटनाओं को रोकने के लिए सुरक्षित सेटिंग्स लागू करता है",
+    "recovery_safe_setup_applied_message": "सुरक्षित सेटअप लागू किया गया है और यह अगले लॉन्च पर प्रभावी होगा, अब आप ऐप से बाहर निकल सकते हैं और इसे समाप्त कर सकते हैं।",
+    "recovery_export_data_title": "पुनर्प्राप्ति: डेटा निर्यात करें",
+    "recovery_export_data_description": "स्थानीय रूप से उपलब्ध मानचित्र डेटा निर्यात करें",
+    "recovery_export_partial_warning_message": "चेतावनी: पुनर्प्राप्ति निर्यात आंशिक होगा, कम से कम एक क्लाउड मीडिया फ़ाइल गायब होगी, डाउनलोड नहीं होगी और निर्यात के दौरान उसे एक खाली फ़ाइल से प्रतिस्थापित कर दिया जाएगा।",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

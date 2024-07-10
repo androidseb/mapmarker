@@ -510,5 +510,13 @@
     "generate_premium_code_title": "Ģenerējiet premium kodu",
     "generate_premium_code_description": "Ģenerējiet premium kodu, lai aktivizētu piemaksu kādā no citām ierīcēm",
     "premium_code_generated_hint_message_x": "Premium kods veiksmīgi ģenerēts: %s\nIzmantojiet šo kodu no savas citas ierīces, lai tur aktivizētu premium.",
+    "recovery_safe_setup_title": "Atkopšana: droša iestatīšana",
+    "recovery_safe_setup_description": "Izveido jaunu tukšu karti un lieto drošus iestatījumus, lai novērstu turpmākas avārijas",
+    "recovery_safe_setup_applied_message": "Drošā iestatīšana tika lietota un stāsies spēkā nākamajā palaišanas reizē. Tagad varat iziet no lietotnes un pārtraukt to.",
+    "recovery_export_data_title": "Atkopšana: eksportēt datus",
+    "recovery_export_data_description": "Eksportējiet lokāli pieejamos kartes datus",
+    "recovery_export_partial_warning_message": "Brīdinājums: atkopšanas eksportēšana būs daļēja, trūkst vismaz viena mākoņa multivides faila, tas netiks lejupielādēts un eksportēšanas laikā tiks aizstāts ar tukšu failu.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

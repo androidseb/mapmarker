@@ -510,5 +510,13 @@
     "generate_premium_code_title": "Generar código premium",
     "generate_premium_code_description": "Genera un código premium para activar la prima en uno de tus otros dispositivos",
     "premium_code_generated_hint_message_x": "Código premium generado exitosamente: %s\nUtilice este código desde su otro dispositivo para activar la prima allí.",
+    "recovery_safe_setup_title": "Recuperación: configuración segura",
+    "recovery_safe_setup_description": "Crea un nuevo mapa vacío y aplica configuraciones seguras para evitar más fallas",
+    "recovery_safe_setup_applied_message": "La configuración segura se aplicó y será efectiva en el próximo inicio. Ahora puede salir de la aplicación y finalizarla.",
+    "recovery_export_data_title": "Recuperación: exportar datos",
+    "recovery_export_data_description": "Exportar datos de mapas disponibles localmente",
+    "recovery_export_partial_warning_message": "Advertencia: la exportación de recuperación será parcial, falta al menos un archivo multimedia en la nube, no se descargará y será reemplazado por un archivo vacío durante la exportación.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

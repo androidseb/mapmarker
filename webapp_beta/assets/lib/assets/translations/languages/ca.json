@@ -510,5 +510,13 @@
     "generate_premium_code_title": "Generar codi premium",
     "generate_premium_code_description": "Genereu un codi premium per activar-lo en un dels vostres altres dispositius",
     "premium_code_generated_hint_message_x": "Codi Premium generat correctament: %s\nUtilitzeu aquest codi des del vostre altre dispositiu per activar-hi el premium.",
+    "recovery_safe_setup_title": "Recuperació: configuració segura",
+    "recovery_safe_setup_description": "Crea un mapa buit nou i aplica una configuració segura per evitar més bloquejos",
+    "recovery_safe_setup_applied_message": "S'ha aplicat la configuració segura i serà efectiva el proper llançament, ara podeu sortir de l'aplicació i finalitzar-la.",
+    "recovery_export_data_title": "Recuperació: exportació de dades",
+    "recovery_export_data_description": "Exporta les dades del mapa disponibles localment",
+    "recovery_export_partial_warning_message": "Avís: l'exportació de recuperació serà parcial, falta almenys un fitxer multimèdia al núvol, no es baixarà i es substituirà per un fitxer buit durant l'exportació.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

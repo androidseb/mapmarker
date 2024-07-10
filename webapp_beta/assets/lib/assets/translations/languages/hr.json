@@ -510,5 +510,13 @@
     "generate_premium_code_title": "Generirajte premium kod",
     "generate_premium_code_description": "Generirajte premium kod za aktivaciju premium na jednom od vaših drugih uređaja",
     "premium_code_generated_hint_message_x": "Premium kod uspješno generiran: %s\nUpotrijebite ovaj kod sa svog drugog uređaja da tamo aktivirate premium.",
+    "recovery_safe_setup_title": "Oporavak: sigurno postavljanje",
+    "recovery_safe_setup_description": "Stvara novu praznu kartu i primjenjuje sigurne postavke za sprječavanje daljnjih padova",
+    "recovery_safe_setup_applied_message": "Sigurno postavljanje je primijenjeno i stupit će na snagu pri sljedećem pokretanju, sada možete izaći iz aplikacije i prekinuti je.",
+    "recovery_export_data_title": "Oporavak: izvoz podataka",
+    "recovery_export_data_description": "Izvezite lokalno dostupne podatke karte",
+    "recovery_export_partial_warning_message": "Upozorenje: izvoz za oporavak bit će djelomičan, nedostaje barem jedna medijska datoteka u oblaku, neće se preuzeti i bit će zamijenjena praznom datotekom tijekom izvoza.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

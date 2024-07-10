@@ -510,5 +510,13 @@
     "generate_premium_code_title": "프리미엄 코드 생성",
     "generate_premium_code_description": "다른 기기 중 하나에서 프리미엄을 활성화하려면 프리미엄 코드를 생성하세요.",
     "premium_code_generated_hint_message_x": "프리미엄 코드가 성공적으로 생성되었습니다: %s\n다른 기기에서 이 코드를 사용하여 해당 기기에서 프리미엄을 활성화하세요.",
+    "recovery_safe_setup_title": "복구: 안전한 설정",
+    "recovery_safe_setup_description": "새로운 빈 지도를 생성하고 추가 충돌을 방지하기 위해 안전한 설정을 적용합니다.",
+    "recovery_safe_setup_applied_message": "안전 설정이 적용되었으며 다음 실행 시 적용됩니다. 이제 앱을 종료하고 종료할 수 있습니다.",
+    "recovery_export_data_title": "복구: 데이터 내보내기",
+    "recovery_export_data_description": "로컬에서 사용 가능한 지도 데이터 내보내기",
+    "recovery_export_partial_warning_message": "경고: 복구 내보내기는 부분적이며 하나 이상의 클라우드 미디어 파일이 누락되어 다운로드되지 않으며 내보내기 중에 빈 파일로 대체됩니다.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

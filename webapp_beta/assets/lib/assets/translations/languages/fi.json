@@ -510,5 +510,13 @@
     "generate_premium_code_title": "Luo premium-koodi",
     "generate_premium_code_description": "Luo premium-koodi aktivoidaksesi premium toisessa laitteessasi",
     "premium_code_generated_hint_message_x": "Premium-koodi luotu onnistuneesti: %s\nKäytä tätä koodia toisesta laitteestasi aktivoidaksesi premium siellä.",
+    "recovery_safe_setup_title": "Palautus: turvallinen asennus",
+    "recovery_safe_setup_description": "Luo uuden tyhjän kartan ja käyttää turvallisia asetuksia estääkseen uudet kaatumiset",
+    "recovery_safe_setup_applied_message": "Turvallinen asennus otettiin käyttöön ja se tulee voimaan seuraavan käynnistyksen yhteydessä. Voit nyt poistua sovelluksesta ja lopettaa sen.",
+    "recovery_export_data_title": "Palautus: vie tiedot",
+    "recovery_export_data_description": "Vie paikallisesti saatavilla olevat karttatiedot",
+    "recovery_export_partial_warning_message": "Varoitus: palautuksen vienti on osittainen, ainakin yksi pilvimediatiedosto puuttuu, sitä ei ladata ja se korvataan tyhjällä tiedostolla viennin aikana.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

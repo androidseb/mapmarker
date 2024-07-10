@@ -510,5 +510,11 @@
     "generate_premium_code_title": "Generate premium code",
     "generate_premium_code_description": "Generate a premium code to activate the premium on one of your other devices",
     "premium_code_generated_hint_message_x": "Premium code successfully generated: %s\nUse this code from your other device to activate the premium there.",
+    "recovery_safe_setup_title": "Recovery: safe setup",
+    "recovery_safe_setup_description": "Creates a new empty map and applies safe settings to prevent further crashes",
+    "recovery_safe_setup_applied_message": "The safe setup was applied and will be effective on next launch, you can now exit the app and terminate it.",
+    "recovery_export_data_title": "Recovery: export data",
+    "recovery_export_data_description": "Export locally available map data",
+    "recovery_export_partial_warning_message": "Warning: the recovery export will be partial, at least one cloud media file is missing, will not be downloaded and will be replaced with an empty file during the export.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

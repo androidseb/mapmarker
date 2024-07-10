@@ -510,5 +510,13 @@
     "generate_premium_code_title": "Prémium kód generálása",
     "generate_premium_code_description": "Generáljon prémium kódot a prémium aktiválásához az egyik másik eszközén",
     "premium_code_generated_hint_message_x": "A prémium kód sikeresen generálva: %s\nHasználja ezt a kódot a másik eszközéről a prémium aktiválásához.",
+    "recovery_safe_setup_title": "Helyreállítás: biztonságos beállítás",
+    "recovery_safe_setup_description": "Új üres térképet hoz létre, és biztonságos beállításokat alkalmaz a további összeomlások elkerülése érdekében",
+    "recovery_safe_setup_applied_message": "A biztonságos beállítást alkalmazták, és a következő indításkor lép érvénybe. Most már kiléphet az alkalmazásból, és leállíthatja azt.",
+    "recovery_export_data_title": "Helyreállítás: adatok exportálása",
+    "recovery_export_data_description": "Exportálja a helyileg elérhető térképadatokat",
+    "recovery_export_partial_warning_message": "Figyelmeztetés: a helyreállítási exportálás részleges lesz, legalább egy felhőalapú médiafájl hiányzik, nem töltődik le, és az exportálás során egy üres fájlra cseréli.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

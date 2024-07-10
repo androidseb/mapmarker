@@ -510,5 +510,13 @@
     "generate_premium_code_title": "產生高階程式碼",
     "generate_premium_code_description": "產生高級代碼以在您的其他設備之一上啟動高級功能",
     "premium_code_generated_hint_message_x": "高階程式碼成功產生：%s\n使用您其他裝置上的此代碼來啟動那裡的高級服務。",
+    "recovery_safe_setup_title": "恢復：安全設定",
+    "recovery_safe_setup_description": "創建新的空地圖並應用安全設定以防止進一步崩潰",
+    "recovery_safe_setup_applied_message": "安全性設定已套用，並將在下次啟動時生效，您現在可以退出應用程式並終止它。",
+    "recovery_export_data_title": "恢復：導出數據",
+    "recovery_export_data_description": "導出本地可用的地圖數據",
+    "recovery_export_partial_warning_message": "警告：恢復匯出將是部分的，至少遺失一個雲端媒體文件，將不會被下載，並在匯出過程中被替換為空文件。",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

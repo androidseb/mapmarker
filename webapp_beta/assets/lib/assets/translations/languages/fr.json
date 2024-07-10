@@ -510,5 +510,13 @@
     "generate_premium_code_title": "Générer code premium",
     "generate_premium_code_description": "Générer un code premium à activer sur un de vos autres appareils",
     "premium_code_generated_hint_message_x": "Code premium généré avec succès: %s\nUtilisez ce code depuis votre autre appareil pour y activer l'accès premium.",
+    "recovery_safe_setup_title": "Récupération: réglages stables",
+    "recovery_safe_setup_description": "Créé une nouvelle carte vide et applique des réglages stables pour éviter des crashs supplémentaires",
+    "recovery_safe_setup_applied_message": "Les réglages stables ont été appliqués et seront effectifs lors du prochain lancement, vous pouvez maintenant quitter l'application et la terminer.",
+    "recovery_export_data_title": "Récupération: exporter données",
+    "recovery_export_data_description": "Exporter les données de carte disponibles localement",
+    "recovery_export_partial_warning_message": "Attention: l'exportation de récupération sera partielle, au moins un fichier média cloud est manquant, ne sera pas téléchargé et sera remplacé avec un fichier vide.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
