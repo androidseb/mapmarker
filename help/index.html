@@ -1690,6 +1690,7 @@
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_How_to_import_your_markers_from_a_KML_KMZ_or_CSV_file">How to import your markers from a KML, KMZ or CSV file?</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Migrating_your_data_to_a_new_device">Migrating your data to a new device</a><br>
 				<a style="display:inline-block;" href="#devices_web_FAQ"><b>FAQ</b></a><br>
+				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Compatible_web_browsers">Compatible web browsers</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_I_want_to_try_early_features_how_can_I_use_the_beta">I want to try early features, how can I use the beta?</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_How_can_I_help_with_translations">How can I help with translations?</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_I_have_a_feature_idea_how_should_I_submit_the_idea">I have a feature idea, how should I submit the idea?</a><br>
@@ -1705,7 +1706,6 @@
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Collecting_a_log_file">Collecting a log file</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Problems_importing_CSV_files">Problems importing CSV files</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Cloud_sync_error_404_file_not_found">Cloud sync error: 404 file not found</a><br>
-				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Various_browser_issues">Various browser issues</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_Images_not_displaying_white_squares_instead">Images not displaying (white squares instead)</a><br>
 				<a style="display:inline-block; margin-left: 16px;" href="#devices_web_KMZ_archive_size_limitations">KMZ archive size limitations</a><br>
 
@@ -2018,6 +2018,15 @@
 				<a name="devices_web_FAQ"></a>
 				<h1>FAQ</h1>
 
+				<a name="devices_web_Compatible_web_browsers"></a>
+				<h2>Compatible web browsers</h2>
+				<p>
+					For the Map Marker web app, only browsers using the Chromium engine are fully tested for compatibility (e.g. Google Chrome).<br>
+					Note that iOS browsers (even Google Chrome on iOS) are not compatible.<br>
+					For performance reasons, the Map Marker web app makes specific use of some <a href="https://developer.mozilla.org/en-US/docs/Web/API/File_System_API/Origin_private_file_system">origin file system</a> browser feature which is not fully supported by all browsers.<br>
+					Using other browsers will likely not work fully and you might bump into error messages (e.g. "Null check operator used on a null value").
+				</p>
+
 				<a name="devices_web_I_want_to_try_early_features_how_can_I_use_the_beta"></a>
 				<h2>I want to try early features, how can I use the beta?</h2>
 				<p>
@@ -2298,13 +2307,6 @@
 						<li>Import the data from the KMZ file</li>
 						<li>Sync your cloud map</li>
 					</ol>
-				</p>
-
-				<a name="devices_web_Various_browser_issues"></a>
-				<h2>Various browser issues</h2>
-				<p>
-					Right now, the only officially supported browser is Google Chrome.
-					The app is built with best effort support for other browsers as well without any guarantee.
 				</p>
 
 				<a name="devices_web_Images_not_displaying_white_squares_instead"></a>
