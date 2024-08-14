@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "Achtung: Der Wiederherstellungsexport erfolgt teilweise, mindestens eine Cloud-Mediendatei fehlt, wird nicht heruntergeladen und beim Export durch eine leere Datei ersetzt.",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Textanzeigegröße",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

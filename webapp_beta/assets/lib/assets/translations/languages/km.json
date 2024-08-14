@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "ការព្រមាន៖ ការនាំចេញការងើបឡើងវិញនឹងមានផ្នែកមួយ យ៉ាងហោចណាស់ឯកសារប្រព័ន្ធផ្សព្វផ្សាយពពកមួយត្រូវបានបាត់ នឹងមិនទាញយកទេ ហើយនឹងត្រូវបានជំនួសដោយឯកសារទទេកំឡុងពេលនាំចេញ។",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "ទំហំបង្ហាញអត្ថបទ",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

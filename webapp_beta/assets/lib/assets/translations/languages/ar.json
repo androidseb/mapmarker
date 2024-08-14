@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "تحذير: سيكون تصدير الاسترداد جزئيًا، وهناك ملف وسائط سحابي واحد على الأقل مفقود، ولن يتم تنزيله وسيتم استبداله بملف فارغ أثناء التصدير.",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "حجم عرض النص",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

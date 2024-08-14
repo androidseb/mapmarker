@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "Внимание: экспорт восстановления будет частичным, как минимум один облачный медиа-файл отсутствует, не будет загружен и при экспорте будет заменен пустым файлом.",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Размер текстового дисплея",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

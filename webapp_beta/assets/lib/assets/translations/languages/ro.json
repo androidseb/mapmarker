@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "Atenție: exportul de recuperare va fi parțial, cel puțin un fișier media cloud lipsește, nu va fi descărcat și va fi înlocuit cu un fișier gol în timpul exportului.",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Dimensiunea de afișare a textului",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

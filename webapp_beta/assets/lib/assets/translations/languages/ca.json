@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "Avís: l'exportació de recuperació serà parcial, falta almenys un fitxer multimèdia al núvol, no es baixarà i es substituirà per un fitxer buit durant l'exportació.",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Mida de visualització del text",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

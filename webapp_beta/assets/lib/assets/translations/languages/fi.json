@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "Varoitus: palautuksen vienti on osittainen, ainakin yksi pilvimediatiedosto puuttuu, sitä ei ladata ja se korvataan tyhjällä tiedostolla viennin aikana.",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Tekstin näytön koko",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

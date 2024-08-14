@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "Предупреждение: експортирането за възстановяване ще бъде частично, поне един облачен медиен файл липсва, няма да бъде изтеглен и ще бъде заменен с празен файл по време на експортирането.",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Размер на дисплея на текста",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

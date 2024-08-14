@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "Waarschuwing: de herstelexport zal gedeeltelijk zijn, er ontbreekt ten minste één cloudmediabestand, wordt niet gedownload en wordt tijdens de export vervangen door een leeg bestand.",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Tekstweergavegrootte",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

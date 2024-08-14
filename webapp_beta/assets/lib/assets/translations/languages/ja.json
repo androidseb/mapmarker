@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "警告: 回復エクスポートは部分的であり、少なくとも 1 つのクラウド メディア ファイルが欠落しているため、ダウンロードされず、エクスポート中に空のファイルに置き換えられます。",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "テキスト表示サイズ",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

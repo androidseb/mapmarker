@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "Advarsel: gjenopprettingseksporten vil være delvis, minst én skymediefil mangler, vil ikke bli lastet ned og vil bli erstattet med en tom fil under eksporten.",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Tekstvisningsstørrelse",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

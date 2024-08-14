@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "Įspėjimas: atkūrimo eksportavimas bus dalinis, trūksta bent vieno debesies medijos failo, jis nebus atsisiųstas ir eksportavimo metu bus pakeistas tuščiu failu.",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Teksto rodymo dydis",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

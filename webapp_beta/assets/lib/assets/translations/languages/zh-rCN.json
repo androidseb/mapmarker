@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "警告：恢复导出将是部分的，至少缺少一个云媒体文件，将不会被下载，并且在导出期间将被替换为空文件。",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "文字显示大小",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

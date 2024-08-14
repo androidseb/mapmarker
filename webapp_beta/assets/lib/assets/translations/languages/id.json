@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "Peringatan: ekspor pemulihan akan bersifat parsial, setidaknya satu file media cloud hilang, tidak akan diunduh dan akan diganti dengan file kosong selama ekspor.",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Ukuran tampilan teks",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

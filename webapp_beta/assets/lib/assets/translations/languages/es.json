@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "Advertencia: la exportación de recuperación será parcial, falta al menos un archivo multimedia en la nube, no se descargará y será reemplazado por un archivo vacío durante la exportación.",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Tamaño de visualización del texto",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

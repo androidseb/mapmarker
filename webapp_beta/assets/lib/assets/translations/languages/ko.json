@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "경고: 복구 내보내기는 부분적이며 하나 이상의 클라우드 미디어 파일이 누락되어 다운로드되지 않으며 내보내기 중에 빈 파일로 대체됩니다.",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "텍스트 표시 크기",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "Attention: l'exportation de récupération sera partielle, au moins un fichier média cloud est manquant, ne sera pas téléchargé et sera remplacé avec un fichier vide.",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Taille d'affichage du texte",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

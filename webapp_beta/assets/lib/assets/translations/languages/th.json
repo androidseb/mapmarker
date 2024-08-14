@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "คำเตือน: การส่งออกการกู้คืนจะเป็นบางส่วน ไฟล์สื่อบนคลาวด์อย่างน้อยหนึ่งไฟล์หายไป จะไม่ถูกดาวน์โหลด และจะถูกแทนที่ด้วยไฟล์เปล่าระหว่างการส่งออก",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "ขนาดการแสดงข้อความ",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "Cảnh báo: quá trình xuất khôi phục sẽ chỉ một phần, ít nhất một tệp phương tiện trên đám mây bị thiếu, sẽ không được tải xuống và sẽ được thay thế bằng một tệp trống trong quá trình xuất.",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Kích thước hiển thị văn bản",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "Opozorilo: obnovitveni izvoz bo delen, manjka vsaj ena medijska datoteka v oblaku, ne bo prenesena in bo med izvozom nadomeščena s prazno datoteko.",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Velikost prikaza besedila",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

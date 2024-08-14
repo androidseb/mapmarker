@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "Προειδοποίηση: η εξαγωγή ανάκτησης θα είναι μερική, λείπει τουλάχιστον ένα αρχείο πολυμέσων cloud, δεν θα γίνει λήψη και θα αντικατασταθεί με ένα κενό αρχείο κατά την εξαγωγή.",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Μέγεθος εμφάνισης κειμένου",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

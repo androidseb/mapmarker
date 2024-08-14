@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "Попередження: експорт відновлення буде частковим, принаймні один хмарний медіа-файл відсутній, не буде завантажений і замінений порожнім файлом під час експорту.",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Розмір відображення тексту",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

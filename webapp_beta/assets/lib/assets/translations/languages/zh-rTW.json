@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "警告：恢復匯出將是部分的，至少遺失一個雲端媒體文件，將不會被下載，並在匯出過程中被替換為空文件。",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "文字顯示尺寸",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

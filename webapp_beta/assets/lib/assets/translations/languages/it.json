@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "Attenzione: l'esportazione del ripristino sarà parziale, manca almeno un file multimediale cloud, non verrà scaricato e verrà sostituito con un file vuoto durante l'esportazione.",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Dimensione visualizzazione testo",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "चेतावनी: पुनर्प्राप्ति निर्यात आंशिक होगा, कम से कम एक क्लाउड मीडिया फ़ाइल गायब होगी, डाउनलोड नहीं होगी और निर्यात के दौरान उसे एक खाली फ़ाइल से प्रतिस्थापित कर दिया जाएगा।",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "पाठ प्रदर्शन आकार",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

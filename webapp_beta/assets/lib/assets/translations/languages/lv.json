@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "Brīdinājums: atkopšanas eksportēšana būs daļēja, trūkst vismaz viena mākoņa multivides faila, tas netiks lejupielādēts un eksportēšanas laikā tiks aizstāts ar tukšu failu.",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Teksta displeja izmērs",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

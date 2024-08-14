@@ -518,5 +518,6 @@
     "recovery_export_partial_warning_message": "Uyarı: Kurtarma dışa aktarımı kısmi olacak, en az bir bulut medya dosyası eksik olacak, indirilmeyecek ve dışa aktarma sırasında boş bir dosyayla değiştirilecektir.",
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Metin görüntüleme boyutu",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
