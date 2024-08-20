@@ -519,5 +519,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Величина приказа текста",
+    "browser_compatibility_warning_message": "Чини се да ваш претраживач није Гоогле Цхроме – само је Гоогле Цхроме тестиран као потпуно компатибилан",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

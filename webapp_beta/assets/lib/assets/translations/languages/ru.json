@@ -519,5 +519,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Размер текстового дисплея",
+    "browser_compatibility_warning_message": "Похоже, ваш браузер не является Google Chrome — только Google Chrome протестирован как полностью совместимый.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -519,5 +519,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "גודל תצוגת טקסט",
+    "browser_compatibility_warning_message": "נראה שהדפדפן שלך אינו Google Chrome - רק Google Chrome נבדק כתואם מלא",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

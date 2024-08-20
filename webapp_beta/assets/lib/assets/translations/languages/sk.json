@@ -519,5 +519,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Veľkosť zobrazenia textu",
+    "browser_compatibility_warning_message": "Zdá sa, že váš prehliadač nie je Google Chrome – iba Google Chrome je testovaný ako plne kompatibilný",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

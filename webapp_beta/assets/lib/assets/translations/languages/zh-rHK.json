@@ -519,5 +519,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "文字顯示尺寸",
+    "browser_compatibility_warning_message": "您的瀏覽器似乎不是 Google Chrome - 只有 Google Chrome 經測試完全相容",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

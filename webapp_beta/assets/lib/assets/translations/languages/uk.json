@@ -519,5 +519,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Розмір відображення тексту",
+    "browser_compatibility_warning_message": "Схоже, ваш веб-переглядач не є Google Chrome – лише Google Chrome перевірено як повністю сумісний",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

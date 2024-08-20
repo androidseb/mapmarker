@@ -519,5 +519,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Kích thước hiển thị văn bản",
+    "browser_compatibility_warning_message": "Có vẻ như trình duyệt của bạn không phải là Google Chrome - chỉ có Google Chrome được kiểm tra là hoàn toàn tương thích",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

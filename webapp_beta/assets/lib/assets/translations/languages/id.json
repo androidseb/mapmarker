@@ -519,5 +519,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Ukuran tampilan teks",
+    "browser_compatibility_warning_message": "Sepertinya browser Anda bukan Google Chrome - hanya Google Chrome yang diuji sebagai sepenuhnya kompatibel",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

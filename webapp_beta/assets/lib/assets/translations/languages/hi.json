@@ -519,5 +519,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "पाठ प्रदर्शन आकार",
+    "browser_compatibility_warning_message": "ऐसा लगता है कि आपका ब्राउज़र Google Chrome नहीं है - केवल Google Chrome को ही पूर्णतः संगत के रूप में परखा गया है",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

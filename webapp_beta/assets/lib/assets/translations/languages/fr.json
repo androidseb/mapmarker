@@ -519,5 +519,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Taille d'affichage du texte",
+    "browser_compatibility_warning_message": "Il semble que votre navigateur ne soit pas Google Chrome - seulement Google Chrome est testé comme pleinement compatible.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

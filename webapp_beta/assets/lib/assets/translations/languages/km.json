@@ -519,5 +519,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "ទំហំបង្ហាញអត្ថបទ",
+    "browser_compatibility_warning_message": "វាហាក់ដូចជាកម្មវិធីរុករករបស់អ្នកមិនមែនជា Google Chrome ទេ មានតែ Google Chrome ប៉ុណ្ណោះដែលត្រូវបានសាកល្បងថាត្រូវគ្នាយ៉ាងពេញលេញ",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

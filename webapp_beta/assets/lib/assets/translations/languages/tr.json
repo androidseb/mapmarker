@@ -519,5 +519,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Metin görüntüleme boyutu",
+    "browser_compatibility_warning_message": "Tarayıcınızın Google Chrome olmadığı anlaşılıyor - yalnızca Google Chrome tam uyumlu olarak test edildi",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

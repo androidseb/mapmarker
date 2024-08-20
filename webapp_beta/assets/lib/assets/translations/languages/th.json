@@ -519,5 +519,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "ขนาดการแสดงข้อความ",
+    "browser_compatibility_warning_message": "ดูเหมือนว่าเบราว์เซอร์ของคุณไม่ใช่ Google Chrome - มีเพียง Google Chrome เท่านั้นที่ได้รับการทดสอบว่าเข้ากันได้อย่างสมบูรณ์",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

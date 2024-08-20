@@ -519,5 +519,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Szöveg megjelenítési mérete",
+    "browser_compatibility_warning_message": "Úgy tűnik, az Ön böngészője nem a Google Chrome – csak a Google Chrome teljes kompatibilitását teszteltük",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

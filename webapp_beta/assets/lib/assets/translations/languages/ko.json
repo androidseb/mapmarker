@@ -519,5 +519,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "텍스트 표시 크기",
+    "browser_compatibility_warning_message": "귀하의 브라우저가 Google Chrome이 아닌 것 같습니다. Google Chrome만 완벽하게 호환되는 것으로 테스트되었습니다.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
