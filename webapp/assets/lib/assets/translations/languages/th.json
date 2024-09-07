@@ -510,5 +510,15 @@
     "generate_premium_code_title": "สร้างรหัสพรีเมี่ยม",
     "generate_premium_code_description": "สร้างรหัสพรีเมียมเพื่อเปิดใช้งานพรีเมียมบนอุปกรณ์อื่นของคุณ",
     "premium_code_generated_hint_message_x": "สร้างรหัสพรีเมี่ยมเรียบร้อยแล้ว: %s\nใช้รหัสนี้จากอุปกรณ์อื่นของคุณเพื่อเปิดใช้งานพรีเมียมที่นั่น",
+    "recovery_safe_setup_title": "การกู้คืน: การตั้งค่าที่ปลอดภัย",
+    "recovery_safe_setup_description": "สร้างแผนที่เปล่าใหม่และใช้การตั้งค่าที่ปลอดภัยเพื่อป้องกันการขัดข้องเพิ่มเติม",
+    "recovery_safe_setup_applied_message": "ใช้การตั้งค่าที่ปลอดภัยแล้ว และจะมีผลในการเปิดตัวครั้งถัดไป คุณสามารถออกจากแอปและยุติแอปได้แล้ว",
+    "recovery_export_data_title": "การกู้คืน: ส่งออกข้อมูล",
+    "recovery_export_data_description": "ส่งออกข้อมูลแผนที่ที่มีอยู่ในท้องถิ่น",
+    "recovery_export_partial_warning_message": "คำเตือน: การส่งออกการกู้คืนจะเป็นบางส่วน ไฟล์สื่อบนคลาวด์อย่างน้อยหนึ่งไฟล์หายไป จะไม่ถูกดาวน์โหลด และจะถูกแทนที่ด้วยไฟล์เปล่าระหว่างการส่งออก",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "ขนาดการแสดงข้อความ",
+    "browser_compatibility_warning_message": "ดูเหมือนว่าเบราว์เซอร์ของคุณไม่ใช่ Google Chrome - มีเพียง Google Chrome เท่านั้นที่ได้รับการทดสอบว่าเข้ากันได้อย่างสมบูรณ์",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

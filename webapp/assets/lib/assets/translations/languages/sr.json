@@ -510,5 +510,15 @@
     "generate_premium_code_title": "Генеришите премиум код",
     "generate_premium_code_description": "Генеришите премиум код да бисте активирали премиум на неком од ваших других уређаја",
     "premium_code_generated_hint_message_x": "Премиум код је успешно генерисан: %s\nКористите овај код са свог другог уређаја да активирате премиум тамо.",
+    "recovery_safe_setup_title": "Опоравак: безбедно подешавање",
+    "recovery_safe_setup_description": "Прави нову празну мапу и примењује безбедна подешавања да спречи даље рушење",
+    "recovery_safe_setup_applied_message": "Безбедно подешавање је примењено и биће ефективно при следећем покретању, сада можете изаћи из апликације и прекинути је.",
+    "recovery_export_data_title": "Опоравак: извоз података",
+    "recovery_export_data_description": "Извезите локално доступне податке мапе",
+    "recovery_export_partial_warning_message": "Упозорење: извоз за опоравак ће бити делимичан, недостаје најмање једна медијска датотека у облаку, неће бити преузета и биће замењена празном датотеком током извоза.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Величина приказа текста",
+    "browser_compatibility_warning_message": "Чини се да ваш претраживач није Гоогле Цхроме – само је Гоогле Цхроме тестиран као потпуно компатибилан",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

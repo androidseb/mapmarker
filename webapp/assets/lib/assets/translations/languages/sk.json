@@ -510,5 +510,15 @@
     "generate_premium_code_title": "Vygenerujte prémiový kód",
     "generate_premium_code_description": "Vygenerujte prémiový kód na aktiváciu prémie na jednom z vašich ďalších zariadení",
     "premium_code_generated_hint_message_x": "Prémiový kód bol úspešne vygenerovaný: %s\nPoužite tento kód zo svojho druhého zariadenia na aktiváciu prémie tam.",
+    "recovery_safe_setup_title": "Obnova: bezpečné nastavenie",
+    "recovery_safe_setup_description": "Vytvorí novú prázdnu mapu a použije bezpečné nastavenia, aby sa zabránilo ďalším zlyhaniam",
+    "recovery_safe_setup_applied_message": "Bezpečné nastavenie bolo použité a bude účinné pri ďalšom spustení. Teraz môžete aplikáciu ukončiť a ukončiť ju.",
+    "recovery_export_data_title": "Obnova: export údajov",
+    "recovery_export_data_description": "Exportujte lokálne dostupné mapové údaje",
+    "recovery_export_partial_warning_message": "Upozornenie: Export obnovy bude čiastočný, chýba aspoň jeden súbor cloudového média, nestiahne sa a počas exportu bude nahradený prázdnym súborom.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Veľkosť zobrazenia textu",
+    "browser_compatibility_warning_message": "Zdá sa, že váš prehliadač nie je Google Chrome – iba Google Chrome je testovaný ako plne kompatibilný",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

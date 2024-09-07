@@ -510,5 +510,15 @@
     "generate_premium_code_title": "Generați codul premium",
     "generate_premium_code_description": "Generați un cod premium pentru a activa premium pe unul dintre celelalte dispozitive ale dvs",
     "premium_code_generated_hint_message_x": "Cod premium generat cu succes: %s\nUtilizați acest cod de pe celălalt dispozitiv pentru a activa premium acolo.",
+    "recovery_safe_setup_title": "Recuperare: configurare sigură",
+    "recovery_safe_setup_description": "Creează o nouă hartă goală și aplică setări sigure pentru a preveni alte blocări",
+    "recovery_safe_setup_applied_message": "Configurarea sigură a fost aplicată și va fi efectivă la următoarea lansare, acum puteți să părăsiți aplicația și să o închideți.",
+    "recovery_export_data_title": "Recuperare: export date",
+    "recovery_export_data_description": "Exportați datele de hartă disponibile local",
+    "recovery_export_partial_warning_message": "Atenție: exportul de recuperare va fi parțial, cel puțin un fișier media cloud lipsește, nu va fi descărcat și va fi înlocuit cu un fișier gol în timpul exportului.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Dimensiunea de afișare a textului",
+    "browser_compatibility_warning_message": "Se pare că browserul dvs. nu este Google Chrome - doar Google Chrome este testat ca fiind pe deplin compatibil",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

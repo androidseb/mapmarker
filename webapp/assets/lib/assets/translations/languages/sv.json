@@ -510,5 +510,15 @@
     "generate_premium_code_title": "Skapa premiumkod",
     "generate_premium_code_description": "Skapa en premiumkod för att aktivera premium på en av dina andra enheter",
     "premium_code_generated_hint_message_x": "Premiumkoden har skapats: %s\nAnvänd den här koden från din andra enhet för att aktivera premien där.",
+    "recovery_safe_setup_title": "Återställning: säker installation",
+    "recovery_safe_setup_description": "Skapar en ny tom karta och tillämpar säkra inställningar för att förhindra ytterligare krascher",
+    "recovery_safe_setup_applied_message": "Den säkra installationen tillämpades och kommer att träda i kraft vid nästa lansering, du kan nu avsluta appen och avsluta den.",
+    "recovery_export_data_title": "Återställning: exportera data",
+    "recovery_export_data_description": "Exportera lokalt tillgänglig kartdata",
+    "recovery_export_partial_warning_message": "Varning: återställningsexporten kommer att vara partiell, minst en molnmediafil saknas, kommer inte att laddas ner och kommer att ersättas med en tom fil under exporten.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Textvisningsstorlek",
+    "browser_compatibility_warning_message": "Det verkar som om din webbläsare inte är Google Chrome - bara Google Chrome testas som fullt kompatibel",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

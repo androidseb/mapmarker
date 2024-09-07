@@ -510,5 +510,15 @@
     "generate_premium_code_title": "إنشاء رمز مميز",
     "generate_premium_code_description": "أنشئ رمزًا مميزًا لتفعيل الاشتراك المميز على أحد أجهزتك الأخرى",
     "premium_code_generated_hint_message_x": "تم إنشاء الرمز المميز بنجاح: %s\nاستخدم هذا الرمز من جهازك الآخر لتفعيل الإصدار المميز هناك.",
+    "recovery_safe_setup_title": "الاسترداد: الإعداد الآمن",
+    "recovery_safe_setup_description": "إنشاء خريطة فارغة جديدة وتطبيق الإعدادات الآمنة لمنع المزيد من الأعطال",
+    "recovery_safe_setup_applied_message": "تم تطبيق الإعداد الآمن وسيصبح فعالاً عند التشغيل التالي، ويمكنك الآن الخروج من التطبيق وإنهائه.",
+    "recovery_export_data_title": "الاسترداد: تصدير البيانات",
+    "recovery_export_data_description": "تصدير بيانات الخرائط المتوفرة محليًا",
+    "recovery_export_partial_warning_message": "تحذير: سيكون تصدير الاسترداد جزئيًا، وهناك ملف وسائط سحابي واحد على الأقل مفقود، ولن يتم تنزيله وسيتم استبداله بملف فارغ أثناء التصدير.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "حجم عرض النص",
+    "browser_compatibility_warning_message": "يبدو أن متصفحك ليس Google Chrome - تم اختبار Google Chrome فقط باعتباره متوافقًا تمامًا",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

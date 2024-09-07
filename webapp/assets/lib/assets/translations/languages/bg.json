@@ -510,5 +510,15 @@
     "generate_premium_code_title": "Генерирайте премиум код",
     "generate_premium_code_description": "Генерирайте премиум код, за да активирате премиум на едно от другите ви устройства",
     "premium_code_generated_hint_message_x": "Успешно генериран премиум код: %s\nИзползвайте този код от другото си устройство, за да активирате премията там.",
+    "recovery_safe_setup_title": "Възстановяване: безопасна настройка",
+    "recovery_safe_setup_description": "Създава нова празна карта и прилага безопасни настройки за предотвратяване на по-нататъшни сривове",
+    "recovery_safe_setup_applied_message": "Безопасната настройка беше приложена и ще влезе в сила при следващото стартиране, сега можете да излезете от приложението и да го прекратите.",
+    "recovery_export_data_title": "Възстановяване: експортиране на данни",
+    "recovery_export_data_description": "Експортирайте локално налични картографски данни",
+    "recovery_export_partial_warning_message": "Предупреждение: експортирането за възстановяване ще бъде частично, поне един облачен медиен файл липсва, няма да бъде изтеглен и ще бъде заменен с празен файл по време на експортирането.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Размер на дисплея на текста",
+    "browser_compatibility_warning_message": "Изглежда, че вашият браузър не е Google Chrome - само Google Chrome е тестван като напълно съвместим",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

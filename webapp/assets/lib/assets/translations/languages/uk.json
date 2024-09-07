@@ -510,5 +510,15 @@
     "generate_premium_code_title": "Створіть преміум-код",
     "generate_premium_code_description": "Створіть преміум-код, щоб активувати преміум-код на одному з ваших інших пристроїв",
     "premium_code_generated_hint_message_x": "Преміум-код успішно створено: %s\nВикористовуйте цей код з іншого пристрою, щоб активувати там преміум.",
+    "recovery_safe_setup_title": "Відновлення: безпечне налаштування",
+    "recovery_safe_setup_description": "Створює нову порожню карту та застосовує безпечні налаштування, щоб запобігти подальшим збоям",
+    "recovery_safe_setup_applied_message": "Безпечне налаштування було застосовано та почне діяти під час наступного запуску, тепер ви можете вийти з програми та завершити її роботу.",
+    "recovery_export_data_title": "Відновлення: експорт даних",
+    "recovery_export_data_description": "Експортуйте локально доступні картографічні дані",
+    "recovery_export_partial_warning_message": "Попередження: експорт відновлення буде частковим, принаймні один хмарний медіа-файл відсутній, не буде завантажений і замінений порожнім файлом під час експорту.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Розмір відображення тексту",
+    "browser_compatibility_warning_message": "Схоже, ваш веб-переглядач не є Google Chrome – лише Google Chrome перевірено як повністю сумісний",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

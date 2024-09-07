@@ -510,5 +510,15 @@
     "generate_premium_code_title": "បង្កើតលេខកូដបុព្វលាភ",
     "generate_premium_code_description": "បង្កើតលេខកូដបុព្វលាភ ដើម្បីដំណើរការបុព្វលាភនៅលើឧបករណ៍មួយក្នុងចំណោមឧបករណ៍ផ្សេងទៀតរបស់អ្នក។",
     "premium_code_generated_hint_message_x": "លេខកូដពិសេសបានបង្កើតដោយជោគជ័យ៖ %s\nប្រើលេខកូដនេះពីឧបករណ៍ផ្សេងទៀតរបស់អ្នក ដើម្បីបើកដំណើរការបុព្វលាភនៅទីនោះ។",
+    "recovery_safe_setup_title": "ការងើបឡើងវិញ៖ ការដំឡើងសុវត្ថិភាព",
+    "recovery_safe_setup_description": "បង្កើតផែនទីទទេថ្មី និងអនុវត្តការកំណត់សុវត្ថិភាពដើម្បីការពារការគាំងបន្ថែមទៀត",
+    "recovery_safe_setup_applied_message": "ការដំឡើងសុវត្ថិភាពត្រូវបានអនុវត្ត ហើយនឹងមានប្រសិទ្ធភាពនៅពេលបើកដំណើរការលើកក្រោយ ឥឡូវនេះអ្នកអាចចេញពីកម្មវិធី ហើយបិទវាបាន។",
+    "recovery_export_data_title": "ការងើបឡើងវិញ៖ ទិន្នន័យនាំចេញ",
+    "recovery_export_data_description": "នាំចេញទិន្នន័យផែនទីដែលមានក្នុងមូលដ្ឋាន",
+    "recovery_export_partial_warning_message": "ការព្រមាន៖ ការនាំចេញការងើបឡើងវិញនឹងមានផ្នែកមួយ យ៉ាងហោចណាស់ឯកសារប្រព័ន្ធផ្សព្វផ្សាយពពកមួយត្រូវបានបាត់ នឹងមិនទាញយកទេ ហើយនឹងត្រូវបានជំនួសដោយឯកសារទទេកំឡុងពេលនាំចេញ។",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "ទំហំបង្ហាញអត្ថបទ",
+    "browser_compatibility_warning_message": "វាហាក់ដូចជាកម្មវិធីរុករករបស់អ្នកមិនមែនជា Google Chrome ទេ មានតែ Google Chrome ប៉ុណ្ណោះដែលត្រូវបានសាកល្បងថាត្រូវគ្នាយ៉ាងពេញលេញ",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

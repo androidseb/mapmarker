@@ -510,5 +510,15 @@
     "generate_premium_code_title": "Premiumcode genereren",
     "generate_premium_code_description": "Genereer een premiumcode om de premium op een van uw andere apparaten te activeren",
     "premium_code_generated_hint_message_x": "Premiumcode succesvol gegenereerd: %s\nGebruik deze code vanaf uw andere apparaat om daar de premium te activeren.",
+    "recovery_safe_setup_title": "Herstel: veilige installatie",
+    "recovery_safe_setup_description": "Creëert een nieuwe lege kaart en past veilige instellingen toe om verdere crashes te voorkomen",
+    "recovery_safe_setup_applied_message": "De veilige installatie is toegepast en wordt van kracht bij de volgende start. U kunt nu de app afsluiten en beëindigen.",
+    "recovery_export_data_title": "Herstel: gegevens exporteren",
+    "recovery_export_data_description": "Exporteer lokaal beschikbare kaartgegevens",
+    "recovery_export_partial_warning_message": "Waarschuwing: de herstelexport zal gedeeltelijk zijn, er ontbreekt ten minste één cloudmediabestand, wordt niet gedownload en wordt tijdens de export vervangen door een leeg bestand.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Tekstweergavegrootte",
+    "browser_compatibility_warning_message": "Het lijkt erop dat uw browser niet Google Chrome is - alleen Google Chrome is getest als volledig compatibel",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

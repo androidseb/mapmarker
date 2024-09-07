@@ -510,5 +510,15 @@
     "generate_premium_code_title": "Tạo mã cao cấp",
     "generate_premium_code_description": "Tạo mã cao cấp để kích hoạt phí bảo hiểm trên một trong các thiết bị khác của bạn",
     "premium_code_generated_hint_message_x": "Mã cao cấp được tạo thành công: %s\nSử dụng mã này từ thiết bị khác của bạn để kích hoạt phí bảo hiểm ở đó.",
+    "recovery_safe_setup_title": "Phục hồi: thiết lập an toàn",
+    "recovery_safe_setup_description": "Tạo bản đồ trống mới và áp dụng cài đặt an toàn để ngăn chặn sự cố tiếp theo",
+    "recovery_safe_setup_applied_message": "Thiết lập an toàn đã được áp dụng và sẽ có hiệu lực vào lần khởi chạy tiếp theo, giờ đây bạn có thể thoát khỏi ứng dụng và chấm dứt nó.",
+    "recovery_export_data_title": "Phục hồi: xuất dữ liệu",
+    "recovery_export_data_description": "Xuất dữ liệu bản đồ có sẵn tại địa phương",
+    "recovery_export_partial_warning_message": "Cảnh báo: quá trình xuất khôi phục sẽ chỉ một phần, ít nhất một tệp phương tiện trên đám mây bị thiếu, sẽ không được tải xuống và sẽ được thay thế bằng một tệp trống trong quá trình xuất.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Kích thước hiển thị văn bản",
+    "browser_compatibility_warning_message": "Có vẻ như trình duyệt của bạn không phải là Google Chrome - chỉ có Google Chrome được kiểm tra là hoàn toàn tương thích",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -510,5 +510,15 @@
     "generate_premium_code_title": "Generer premium-kode",
     "generate_premium_code_description": "Generer en premium-kode for at aktivere præmien på en af dine andre enheder",
     "premium_code_generated_hint_message_x": "Premium-kode blev genereret: %s\nBrug denne kode fra din anden enhed til at aktivere præmien der.",
+    "recovery_safe_setup_title": "Gendannelse: sikker opsætning",
+    "recovery_safe_setup_description": "Opretter et nyt tomt kort og anvender sikre indstillinger for at forhindre yderligere nedbrud",
+    "recovery_safe_setup_applied_message": "Den sikre opsætning blev anvendt og træder i kraft ved næste lancering. Du kan nu afslutte appen og afslutte den.",
+    "recovery_export_data_title": "Gendannelse: eksporter data",
+    "recovery_export_data_description": "Eksporter lokalt tilgængelige kortdata",
+    "recovery_export_partial_warning_message": "Advarsel: gendannelseseksporten vil være delvis, mindst én cloud-mediefil mangler, vil ikke blive downloadet og vil blive erstattet med en tom fil under eksporten.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Tekstvisningsstørrelse",
+    "browser_compatibility_warning_message": "Det ser ud til, at din browser ikke er Google Chrome - kun Google Chrome er testet som fuldt kompatibel",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

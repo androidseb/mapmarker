@@ -510,5 +510,15 @@
     "generate_premium_code_title": "生成高级代码",
     "generate_premium_code_description": "生成高级代码以在您的其他设备上激活高级版",
     "premium_code_generated_hint_message_x": "已成功生成高级版代码：%s\n使用您其他设备上的此代码即可激活高级版。",
+    "recovery_safe_setup_title": "恢复：安全设置",
+    "recovery_safe_setup_description": "创建一个新的空白地图并应用安全设置以防止进一步崩溃",
+    "recovery_safe_setup_applied_message": "安全设置已应用并将在下次启动时生效，您现在可以退出应用程序并终止它。",
+    "recovery_export_data_title": "恢复：导出数据",
+    "recovery_export_data_description": "导出本地可用的地图数据",
+    "recovery_export_partial_warning_message": "警告：恢复导出将是部分的，至少缺少一个云媒体文件，将不会被下载，并且在导出期间将被替换为空文件。",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "文字显示大小",
+    "browser_compatibility_warning_message": "您的浏览器似乎不是 Google Chrome - 只有 Google Chrome 经过测试可完全兼容",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

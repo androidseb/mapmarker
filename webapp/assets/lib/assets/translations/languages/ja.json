@@ -510,5 +510,15 @@
     "generate_premium_code_title": "プレミアムコードを生成する",
     "generate_premium_code_description": "他のデバイスでプレミアムを有効にするには、プレミアムコードを生成してください",
     "premium_code_generated_hint_message_x": "プレミアム コードが正常に生成されました: %s\n他のデバイスからこのコードを使用して、そこでプレミアムをアクティブ化します。",
+    "recovery_safe_setup_title": "回復: 安全なセットアップ",
+    "recovery_safe_setup_description": "新しい空のマップを作成し、さらなるクラッシュを防ぐために安全な設定を適用します",
+    "recovery_safe_setup_applied_message": "安全なセットアップが適用され、次回の起動時に有効になります。これでアプリを終了して終了できます。",
+    "recovery_export_data_title": "回復: データのエクスポート",
+    "recovery_export_data_description": "ローカルで利用可能な地図データをエクスポートする",
+    "recovery_export_partial_warning_message": "警告: 回復エクスポートは部分的であり、少なくとも 1 つのクラウド メディア ファイルが欠落しているため、ダウンロードされず、エクスポート中に空のファイルに置き換えられます。",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "テキスト表示サイズ",
+    "browser_compatibility_warning_message": "お使いのブラウザは Google Chrome ではないようです。完全に互換性があるとテストされているのは Google Chrome のみです。",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

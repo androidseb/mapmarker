@@ -510,5 +510,15 @@
     "generate_premium_code_title": "צור קוד פרימיום",
     "generate_premium_code_description": "צור קוד פרימיום כדי להפעיל את הפרימיום באחד מהמכשירים האחרים שלך",
     "premium_code_generated_hint_message_x": "קוד פרימיום נוצר בהצלחה: %s\nהשתמש בקוד זה מהמכשיר השני שלך כדי להפעיל את הפרימיום שם.",
+    "recovery_safe_setup_title": "שחזור: הגדרה בטוחה",
+    "recovery_safe_setup_description": "יוצר מפה ריקה חדשה ומחיל הגדרות בטוחות כדי למנוע קריסות נוספות",
+    "recovery_safe_setup_applied_message": "ההגדרה הבטוחה הוחלה ותיכנס לתוקף בהשקה הבאה, כעת תוכל לצאת מהאפליקציה ולסיים אותה.",
+    "recovery_export_data_title": "שחזור: ייצוא נתונים",
+    "recovery_export_data_description": "ייצא נתוני מפה זמינים מקומית",
+    "recovery_export_partial_warning_message": "אזהרה: ייצוא השחזור יהיה חלקי, חסר לפחות קובץ מדיה בענן אחד, לא יוריד ויוחלף בקובץ ריק במהלך הייצוא.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "גודל תצוגת טקסט",
+    "browser_compatibility_warning_message": "נראה שהדפדפן שלך אינו Google Chrome - רק Google Chrome נבדק כתואם מלא",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

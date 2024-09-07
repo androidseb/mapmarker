@@ -510,5 +510,15 @@
     "generate_premium_code_title": "Ustvari premium kodo",
     "generate_premium_code_description": "Ustvarite premium kodo, da aktivirate premium na eni od vaših drugih naprav",
     "premium_code_generated_hint_message_x": "Premium koda je bila uspešno ustvarjena: %s\nUporabite to kodo iz svoje druge naprave, da tam aktivirate premium.",
+    "recovery_safe_setup_title": "Obnovitev: varna nastavitev",
+    "recovery_safe_setup_description": "Ustvari nov prazen zemljevid in uporabi varne nastavitve za preprečevanje nadaljnjih zrušitev",
+    "recovery_safe_setup_applied_message": "Varna nastavitev je bila uporabljena in bo veljala ob naslednjem zagonu, zdaj lahko zapustite aplikacijo in jo prekinete.",
+    "recovery_export_data_title": "Obnovitev: izvoz podatkov",
+    "recovery_export_data_description": "Izvozite lokalno razpoložljive zemljevidne podatke",
+    "recovery_export_partial_warning_message": "Opozorilo: obnovitveni izvoz bo delen, manjka vsaj ena medijska datoteka v oblaku, ne bo prenesena in bo med izvozom nadomeščena s prazno datoteko.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Velikost prikaza besedila",
+    "browser_compatibility_warning_message": "Zdi se, da vaš brskalnik ni Google Chrome – samo Google Chrome je preizkušen kot popolnoma združljiv",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

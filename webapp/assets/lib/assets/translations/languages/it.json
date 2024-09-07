@@ -510,5 +510,15 @@
     "generate_premium_code_title": "Genera codice premium",
     "generate_premium_code_description": "Genera un codice premium per attivare il premium su uno dei tuoi altri dispositivi",
     "premium_code_generated_hint_message_x": "Codice Premium generato con successo: %s\nUsa questo codice dall'altro tuo dispositivo per attivare lì il premium.",
+    "recovery_safe_setup_title": "Ripristino: configurazione sicura",
+    "recovery_safe_setup_description": "Crea una nuova mappa vuota e applica impostazioni sicure per prevenire ulteriori arresti anomali",
+    "recovery_safe_setup_applied_message": "La configurazione sicura è stata applicata e sarà effettiva al prossimo avvio, ora puoi uscire dall'app e chiuderla.",
+    "recovery_export_data_title": "Recupero: esportare i dati",
+    "recovery_export_data_description": "Esporta i dati cartografici disponibili localmente",
+    "recovery_export_partial_warning_message": "Attenzione: l'esportazione del ripristino sarà parziale, manca almeno un file multimediale cloud, non verrà scaricato e verrà sostituito con un file vuoto durante l'esportazione.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Dimensione visualizzazione testo",
+    "browser_compatibility_warning_message": "Sembra che il tuo browser non sia Google Chrome: solo Google Chrome è stato testato come pienamente compatibile",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

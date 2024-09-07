@@ -510,5 +510,15 @@
     "generate_premium_code_title": "Premium kod oluştur",
     "generate_premium_code_description": "Premium'u diğer cihazlarınızdan birinde etkinleştirmek için premium kodu oluşturun",
     "premium_code_generated_hint_message_x": "Premium kodu başarıyla oluşturuldu: %s\nPremium'u orada etkinleştirmek için diğer cihazınızdaki bu kodu kullanın.",
+    "recovery_safe_setup_title": "Kurtarma: güvenli kurulum",
+    "recovery_safe_setup_description": "Yeni bir boş harita oluşturur ve daha fazla çökmeyi önlemek için güvenli ayarları uygular",
+    "recovery_safe_setup_applied_message": "Güvenli kurulum uygulandı ve bir sonraki başlatmada etkili olacak. Artık uygulamadan çıkıp uygulamayı sonlandırabilirsiniz.",
+    "recovery_export_data_title": "Kurtarma: verileri dışa aktarma",
+    "recovery_export_data_description": "Yerel olarak mevcut harita verilerini dışa aktarın",
+    "recovery_export_partial_warning_message": "Uyarı: Kurtarma dışa aktarımı kısmi olacak, en az bir bulut medya dosyası eksik olacak, indirilmeyecek ve dışa aktarma sırasında boş bir dosyayla değiştirilecektir.",
+    "search_source_tomtom": "Tomtom Places Search",
+    "short_search_source_tomtom": "Tomtom",
+    "text_display_size": "Metin görüntüleme boyutu",
+    "browser_compatibility_warning_message": "Tarayıcınızın Google Chrome olmadığı anlaşılıyor - yalnızca Google Chrome tam uyumlu olarak test edildi",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
