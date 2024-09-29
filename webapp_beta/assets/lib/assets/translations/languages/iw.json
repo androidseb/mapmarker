@@ -465,7 +465,6 @@
     "file_export_save_as_forced_web": "הקובץ המיוצא גדול ויש לשמור אותו באמצעות 'שמור בשם'.",
     "unconstrained": "ללא הגבלה",
     "x_seconds": "%s שניות",
-    "x_minutes": "%s דקות",
     "x_minutes_y_seconds": "%1$s דקות %2$s שניות",
     "location_track_recording": "הקלטת מסלול מיקום",
     "setting_minimum_location_accuracy": "דיוק מיקום מינימלי",
@@ -473,8 +472,6 @@
     "setting_minimum_time_interval": "מרווח זמן מינימלי",
     "starting_new_track_recording": "מתחיל הקלטת רצועה חדשה",
     "ongoing_track_recording": "הקלטת מסלול מתמשכת",
-    "time_started_x": "שעת התחלה: %s",
-    "ongoing_track_recordings": "הקלטות רצועות מתמשכות",
     "finish_track_recording_confirmation_message": "האם ברצונך לסיים ולשמור את המסלול הזה?",
     "track_x": "רצועה %s",
     "grant_permission_confirmation_message": "האם אתה רוצה להעניק את ההרשאה הזו?",
@@ -519,6 +516,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "גודל תצוגת טקסט",
-    "browser_compatibility_warning_message": "נראה שהדפדפן שלך אינו Google Chrome - רק Google Chrome נבדק כתואם מלא",
+    "browser_compatibility_warning_message_x": "נראה שהדפדפן שלך אינו תואם לחלוטין - רק Google Chrome נבדק כתואם מלא\nראה את פרטי התאימות למטה:\n\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

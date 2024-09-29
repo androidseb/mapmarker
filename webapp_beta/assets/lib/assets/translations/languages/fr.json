@@ -465,7 +465,6 @@
     "file_export_save_as_forced_web": "Le fichier exporté est volumineux et doit être enregistré avec 'Enregistrer sous'.",
     "unconstrained": "Sans contraintes",
     "x_seconds": "%s secondes",
-    "x_minutes": "%s minutes",
     "x_minutes_y_seconds": "%1$s minutes %2$s secondes",
     "location_track_recording": "Tracé de localisation",
     "setting_minimum_location_accuracy": "Précision de position minimum",
@@ -473,8 +472,6 @@
     "setting_minimum_time_interval": "Intervalle de temps minimum",
     "starting_new_track_recording": "Démarrage d'un nouveau tracé de localisation",
     "ongoing_track_recording": "Tracé de localisation en cours",
-    "time_started_x": "Heure de démarrage: %s",
-    "ongoing_track_recordings": "Tracés de localisation en cours",
     "finish_track_recording_confirmation_message": "Voulez-vous terminer et sauvegarder ce tracé ?",
     "track_x": "Tracé %s",
     "grant_permission_confirmation_message": "Voulez-vous donner cette permission ?",
@@ -519,6 +516,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Taille d'affichage du texte",
-    "browser_compatibility_warning_message": "Il semble que votre navigateur ne soit pas Google Chrome - seulement Google Chrome est testé comme pleinement compatible.",
+    "browser_compatibility_warning_message_x": "Il semble que votre navigateur ne soit pas entièrement compatible - seul Google Chrome est testé comme pleinement compatible.\nDétails de compatibilité:\n\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

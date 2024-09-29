@@ -465,7 +465,6 @@
     "file_export_save_as_forced_web": "Den eksporterede fil er stor og skal gemmes med 'Gem som'.",
     "unconstrained": "Ubegrænset",
     "x_seconds": "%s sekunder",
-    "x_minutes": "%s minutter",
     "x_minutes_y_seconds": "%1$s minutter %2$s sekunder",
     "location_track_recording": "Optagelse af stedspor",
     "setting_minimum_location_accuracy": "Minimum placeringsnøjagtighed",
@@ -473,8 +472,6 @@
     "setting_minimum_time_interval": "Minimum tidsinterval",
     "starting_new_track_recording": "Starter ny sporoptagelse",
     "ongoing_track_recording": "Løbende sporoptagelse",
-    "time_started_x": "Starttidspunkt: %s",
-    "ongoing_track_recordings": "Løbende sporoptagelser",
     "finish_track_recording_confirmation_message": "Vil du afslutte og gemme dette spor?",
     "track_x": "Spor %s",
     "grant_permission_confirmation_message": "Vil du give denne tilladelse?",
@@ -519,6 +516,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Tekstvisningsstørrelse",
-    "browser_compatibility_warning_message": "Det ser ud til, at din browser ikke er Google Chrome - kun Google Chrome er testet som fuldt kompatibel",
+    "browser_compatibility_warning_message_x": "Det ser ud til, at din browser ikke er fuldt kompatibel - kun Google Chrome er testet som fuldt kompatibel\nSe kompatibilitetsdetaljer nedenfor:\n\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

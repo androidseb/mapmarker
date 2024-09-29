@@ -465,7 +465,6 @@
     "file_export_save_as_forced_web": "Wyeksportowany plik jest duży i należy go zapisać za pomocą opcji „Zapisz jako”.",
     "unconstrained": "Niewymuszony",
     "x_seconds": "%s sekund",
-    "x_minutes": "%s minut",
     "x_minutes_y_seconds": "%1$s minuty %2$s sekundy",
     "location_track_recording": "Nagrywanie ścieżki lokalizacji",
     "setting_minimum_location_accuracy": "Minimalna dokładność lokalizacji",
@@ -473,8 +472,6 @@
     "setting_minimum_time_interval": "Minimalny odstęp czasu",
     "starting_new_track_recording": "Rozpoczynanie nagrywania nowego utworu",
     "ongoing_track_recording": "Trwa nagrywanie ścieżki",
-    "time_started_x": "Czas rozpoczęcia: %s",
-    "ongoing_track_recordings": "Bieżące nagrania utworów",
     "finish_track_recording_confirmation_message": "Czy chcesz zakończyć i zapisać ten utwór?",
     "track_x": "Utwór %s",
     "grant_permission_confirmation_message": "Czy chcesz udzielić tego pozwolenia?",
@@ -519,6 +516,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Rozmiar wyświetlanego tekstu",
-    "browser_compatibility_warning_message": "Wygląda na to, że Twoja przeglądarka nie jest Google Chrome — tylko Google Chrome został przetestowany pod kątem pełnej zgodności",
+    "browser_compatibility_warning_message_x": "Wygląda na to, że Twoja przeglądarka nie jest w pełni zgodna — tylko Google Chrome jest testowany jako w pełni zgodny\nZobacz szczegóły zgodności poniżej:\n\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

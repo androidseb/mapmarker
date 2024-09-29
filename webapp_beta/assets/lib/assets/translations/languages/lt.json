@@ -465,7 +465,6 @@
     "file_export_save_as_forced_web": "Eksportuotas failas yra didelis ir turi būti išsaugotas naudojant „Išsaugoti kaip“.",
     "unconstrained": "Nesuvaržytas",
     "x_seconds": "%s sekundės",
-    "x_minutes": "%s minutės",
     "x_minutes_y_seconds": "%1$s minutės %2$s sekundės",
     "location_track_recording": "Vietos takelio įrašymas",
     "setting_minimum_location_accuracy": "Minimalus vietos nustatymo tikslumas",
@@ -473,8 +472,6 @@
     "setting_minimum_time_interval": "Minimalus laiko intervalas",
     "starting_new_track_recording": "Pradedamas naujo takelio įrašymas",
     "ongoing_track_recording": "Vykdomas takelio įrašymas",
-    "time_started_x": "Pradžios laikas: %s",
-    "ongoing_track_recordings": "Vykdomi takelių įrašai",
     "finish_track_recording_confirmation_message": "Ar norite užbaigti ir išsaugoti šį takelį?",
     "track_x": "Takelis %s",
     "grant_permission_confirmation_message": "Ar norite suteikti šį leidimą?",
@@ -519,6 +516,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Teksto rodymo dydis",
-    "browser_compatibility_warning_message": "Panašu, kad jūsų naršyklė nėra „Google Chrome“ – tik „Google Chrome“ išbandyta kaip visiškai suderinama",
+    "browser_compatibility_warning_message_x": "Panašu, kad jūsų naršyklė nėra visiškai suderinama – tik „Google Chrome“ išbandyta kaip visiškai suderinama\nŽr. toliau pateiktą suderinamumo informaciją:\n\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

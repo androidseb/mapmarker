@@ -465,7 +465,6 @@
     "file_export_save_as_forced_web": "エクスポートされたファイルは大きいため、「名前を付けて保存」を使用して保存する必要があります。",
     "unconstrained": "制約なし",
     "x_seconds": "%s秒",
-    "x_minutes": "%s分",
     "x_minutes_y_seconds": "%1$s分%2$s秒",
     "location_track_recording": "ロケーショントラック録音",
     "setting_minimum_location_accuracy": "最小位置精度",
@@ -473,8 +472,6 @@
     "setting_minimum_time_interval": "最小時間間隔",
     "starting_new_track_recording": "新しいトラックの録音を開始します",
     "ongoing_track_recording": "進行中のトラック録音",
-    "time_started_x": "開始時刻: %s",
-    "ongoing_track_recordings": "進行中のトラック録音",
     "finish_track_recording_confirmation_message": "このトラックを終了して保存しますか?",
     "track_x": "トラック%s",
     "grant_permission_confirmation_message": "この許可を与えますか?",
@@ -519,6 +516,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "テキスト表示サイズ",
-    "browser_compatibility_warning_message": "お使いのブラウザは Google Chrome ではないようです。完全に互換性があるとテストされているのは Google Chrome のみです。",
+    "browser_compatibility_warning_message_x": "お使いのブラウザは完全に互換性がないようです。完全に互換性があるとテストされているのは Google Chrome のみです\n互換性の詳細は以下をご覧ください:\n\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

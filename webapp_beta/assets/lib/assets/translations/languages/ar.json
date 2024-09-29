@@ -465,7 +465,6 @@
     "file_export_save_as_forced_web": "الملف الذي تم تصديره كبير ويجب حفظه باستخدام \"حفظ باسم\".",
     "unconstrained": "غير مقيد",
     "x_seconds": "%s ثواني",
-    "x_minutes": "%s دقائق",
     "x_minutes_y_seconds": "%1$s دقائق %2$s ثواني",
     "location_track_recording": "تسجيل مسار الموقع",
     "setting_minimum_location_accuracy": "الحد الأدنى من دقة الموقع",
@@ -473,8 +472,6 @@
     "setting_minimum_time_interval": "الحد الأدنى للفاصل الزمني",
     "starting_new_track_recording": "بدء تسجيل المسار الجديد",
     "ongoing_track_recording": "تسجيل المسار المستمر",
-    "time_started_x": "وقت البدء: %s",
-    "ongoing_track_recordings": "تسجيلات المسار المستمر",
     "finish_track_recording_confirmation_message": "هل تريد إنهاء هذا المسار وحفظه؟",
     "track_x": "المسار %s",
     "grant_permission_confirmation_message": "هل تريد منح هذا الإذن؟",
@@ -519,6 +516,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "حجم عرض النص",
-    "browser_compatibility_warning_message": "يبدو أن متصفحك ليس Google Chrome - تم اختبار Google Chrome فقط باعتباره متوافقًا تمامًا",
+    "browser_compatibility_warning_message_x": "يبدو أن متصفحك غير متوافق تمامًا - تم اختبار Google Chrome فقط باعتباره متوافقًا تمامًا\nراجع تفاصيل التوافق أدناه:\n\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

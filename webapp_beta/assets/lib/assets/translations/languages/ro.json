@@ -465,7 +465,6 @@
     "file_export_save_as_forced_web": "Fișierul exportat este mare și trebuie salvat cu „Salvare ca”.",
     "unconstrained": "Neconstrâns",
     "x_seconds": "%s secunde",
-    "x_minutes": "%s minute",
     "x_minutes_y_seconds": "%1$s minute %2$s secunde",
     "location_track_recording": "Înregistrarea locației",
     "setting_minimum_location_accuracy": "Precizie minimă a locației",
@@ -473,8 +472,6 @@
     "setting_minimum_time_interval": "Interval de timp minim",
     "starting_new_track_recording": "Începe o nouă înregistrare a piesei",
     "ongoing_track_recording": "Înregistrare în curs de desfășurare",
-    "time_started_x": "Ora de începere: %s",
-    "ongoing_track_recordings": "Înregistrări în curs de desfășurare",
     "finish_track_recording_confirmation_message": "Doriți să finalizați și să salvați această piesă?",
     "track_x": "Piesa %s",
     "grant_permission_confirmation_message": "Doriți să acordați această permisiune?",
@@ -519,6 +516,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Dimensiunea de afișare a textului",
-    "browser_compatibility_warning_message": "Se pare că browserul dvs. nu este Google Chrome - doar Google Chrome este testat ca fiind pe deplin compatibil",
+    "browser_compatibility_warning_message_x": "Se pare că browserul dvs. nu este pe deplin compatibil - doar Google Chrome este testat ca fiind pe deplin compatibil\nVedeți mai jos detaliile de compatibilitate:\n\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

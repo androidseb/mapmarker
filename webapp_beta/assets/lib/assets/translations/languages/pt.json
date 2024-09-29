@@ -465,7 +465,6 @@
     "file_export_save_as_forced_web": "O arquivo exportado é grande e deve ser salvo com ‘Salvar como’.",
     "unconstrained": "Irrestrito",
     "x_seconds": "%s segundos",
-    "x_minutes": "%s minutos",
     "x_minutes_y_seconds": "%1$s minutos %2$s segundos",
     "location_track_recording": "Gravação de rastreamento de localização",
     "setting_minimum_location_accuracy": "Precisão mínima de localização",
@@ -473,8 +472,6 @@
     "setting_minimum_time_interval": "Intervalo mínimo de tempo",
     "starting_new_track_recording": "Iniciando a gravação de uma nova trilha",
     "ongoing_track_recording": "Gravação de trilha contínua",
-    "time_started_x": "Hora de início: %s",
-    "ongoing_track_recordings": "Gravações de trilhas em andamento",
     "finish_track_recording_confirmation_message": "Quer terminar e salvar esta faixa?",
     "track_x": "Faixa %s",
     "grant_permission_confirmation_message": "Deseja conceder esta permissão?",
@@ -519,6 +516,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Tamanho de exibição do texto",
-    "browser_compatibility_warning_message": "Parece que seu navegador não é o Google Chrome - apenas o Google Chrome foi testado como totalmente compatível",
+    "browser_compatibility_warning_message_x": "Parece que seu navegador não é totalmente compatível - apenas o Google Chrome foi testado como totalmente compatível\nVeja os detalhes de compatibilidade abaixo:\n\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

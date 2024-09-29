@@ -465,7 +465,6 @@
     "file_export_save_as_forced_web": "Az exportált fájl nagy, és a „Mentés másként” paranccsal kell menteni.",
     "unconstrained": "Kötetlen",
     "x_seconds": "%s másodperc",
-    "x_minutes": "%s perc",
     "x_minutes_y_seconds": "%1$s perc %2$s másodperc",
     "location_track_recording": "Helyszín pálya rögzítése",
     "setting_minimum_location_accuracy": "Minimális helymeghatározási pontosság",
@@ -473,8 +472,6 @@
     "setting_minimum_time_interval": "Minimális időintervallum",
     "starting_new_track_recording": "Új szám rögzítésének indítása",
     "ongoing_track_recording": "Folyamatban lévő pálya rögzítése",
-    "time_started_x": "Kezdés időpontja: %s",
-    "ongoing_track_recordings": "Folyamatban lévő pályafelvételek",
     "finish_track_recording_confirmation_message": "Be szeretné fejezni és elmenteni ezt a számot?",
     "track_x": "%s. szám",
     "grant_permission_confirmation_message": "Meg akarja adni ezt az engedélyt?",
@@ -519,6 +516,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Szöveg megjelenítési mérete",
-    "browser_compatibility_warning_message": "Úgy tűnik, az Ön böngészője nem a Google Chrome – csak a Google Chrome teljes kompatibilitását teszteltük",
+    "browser_compatibility_warning_message_x": "Úgy tűnik, az Ön böngészője nem teljesen kompatibilis – csak a Google Chrome-ot teszteltük teljesen kompatibilisként\nLásd alább a kompatibilitási részleteket:\n\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

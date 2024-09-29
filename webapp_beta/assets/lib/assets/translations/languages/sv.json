@@ -465,7 +465,6 @@
     "file_export_save_as_forced_web": "Den exporterade filen är stor och måste sparas med 'Spara som'.",
     "unconstrained": "Otvungen",
     "x_seconds": "%s sekunder",
-    "x_minutes": "%s minuter",
     "x_minutes_y_seconds": "%1$s minuter %2$s sekunder",
     "location_track_recording": "Platsspårinspelning",
     "setting_minimum_location_accuracy": "Minsta platsnoggrannhet",
@@ -473,8 +472,6 @@
     "setting_minimum_time_interval": "Minsta tidsintervall",
     "starting_new_track_recording": "Startar ny spårinspelning",
     "ongoing_track_recording": "Pågående spårinspelning",
-    "time_started_x": "Starttid: %s",
-    "ongoing_track_recordings": "Pågående spårinspelningar",
     "finish_track_recording_confirmation_message": "Vill du avsluta och spara det här spåret?",
     "track_x": "Spår %s",
     "grant_permission_confirmation_message": "Vill du ge detta tillstånd?",
@@ -519,6 +516,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Textvisningsstorlek",
-    "browser_compatibility_warning_message": "Det verkar som om din webbläsare inte är Google Chrome - bara Google Chrome testas som fullt kompatibel",
+    "browser_compatibility_warning_message_x": "Det verkar som om din webbläsare inte är helt kompatibel - bara Google Chrome testas som helt kompatibel\nSe kompatibilitetsdetaljer nedan:\n\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

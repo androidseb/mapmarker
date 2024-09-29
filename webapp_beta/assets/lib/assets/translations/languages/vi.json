@@ -465,7 +465,6 @@
     "file_export_save_as_forced_web": "Tệp đã xuất có dung lượng lớn và phải được lưu bằng 'Save as'.",
     "unconstrained": "Không bị giới hạn",
     "x_seconds": "%s giây",
-    "x_minutes": "%s phút",
     "x_minutes_y_seconds": "%1$s phút %2$s giây",
     "location_track_recording": "Ghi theo dõi vị trí",
     "setting_minimum_location_accuracy": "Độ chính xác vị trí tối thiểu",
@@ -473,8 +472,6 @@
     "setting_minimum_time_interval": "Khoảng thời gian tối thiểu",
     "starting_new_track_recording": "Bắt đầu ghi bản nhạc mới",
     "ongoing_track_recording": "Ghi âm theo dõi liên tục",
-    "time_started_x": "Thời gian bắt đầu: %s",
-    "ongoing_track_recordings": "Bản ghi theo dõi đang diễn ra",
     "finish_track_recording_confirmation_message": "Bạn có muốn hoàn thành và lưu bản nhạc này không?",
     "track_x": "Theo dõi %s",
     "grant_permission_confirmation_message": "Bạn có muốn cấp quyền này không?",
@@ -519,6 +516,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Kích thước hiển thị văn bản",
-    "browser_compatibility_warning_message": "Có vẻ như trình duyệt của bạn không phải là Google Chrome - chỉ có Google Chrome được kiểm tra là hoàn toàn tương thích",
+    "browser_compatibility_warning_message_x": "Có vẻ như trình duyệt của bạn không hoàn toàn tương thích - chỉ có Google Chrome được kiểm tra là hoàn toàn tương thích\nXem chi tiết về khả năng tương thích bên dưới:\n\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

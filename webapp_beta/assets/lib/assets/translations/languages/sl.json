@@ -465,7 +465,6 @@
     "file_export_save_as_forced_web": "Izvožena datoteka je velika in jo je treba shraniti s funkcijo »Shrani kot«.",
     "unconstrained": "Brez omejitev",
     "x_seconds": "%s sekund",
-    "x_minutes": "%s minut",
     "x_minutes_y_seconds": "%1$s minute %2$s sekunde",
     "location_track_recording": "Snemanje lokacijske sledi",
     "setting_minimum_location_accuracy": "Minimalna natančnost lokacije",
@@ -473,8 +472,6 @@
     "setting_minimum_time_interval": "Minimalni časovni interval",
     "starting_new_track_recording": "Začetek novega snemanja skladbe",
     "ongoing_track_recording": "Snemanje proge v teku",
-    "time_started_x": "Začetek: %s",
-    "ongoing_track_recordings": "Snemanja prog v teku",
     "finish_track_recording_confirmation_message": "Ali želite dokončati in shraniti to skladbo?",
     "track_x": "Skladba %s",
     "grant_permission_confirmation_message": "Ali želite podeliti to dovoljenje?",
@@ -519,6 +516,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Velikost prikaza besedila",
-    "browser_compatibility_warning_message": "Zdi se, da vaš brskalnik ni Google Chrome – samo Google Chrome je preizkušen kot popolnoma združljiv",
+    "browser_compatibility_warning_message_x": "Zdi se, da vaš brskalnik ni popolnoma združljiv - samo Google Chrome je preizkušen kot popolnoma združljiv\nSpodaj si oglejte podrobnosti o združljivosti:\n\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -465,7 +465,6 @@
     "file_export_save_as_forced_web": "Eksportētais fails ir liels, un tas ir jāsaglabā, izmantojot “Saglabāt kā”.",
     "unconstrained": "Neierobežots",
     "x_seconds": "%s sekundes",
-    "x_minutes": "%s minūtes",
     "x_minutes_y_seconds": "%1$s minūtes %2$s sekundes",
     "location_track_recording": "Atrašanās vietas ieraksts",
     "setting_minimum_location_accuracy": "Minimālā atrašanās vietas precizitāte",
@@ -473,8 +472,6 @@
     "setting_minimum_time_interval": "Minimālais laika intervāls",
     "starting_new_track_recording": "Tiek sākta jauna ieraksta ierakstīšana",
     "ongoing_track_recording": "Notiek trases ierakstīšana",
-    "time_started_x": "Sākuma laiks: %s",
-    "ongoing_track_recordings": "Notiek trases ieraksti",
     "finish_track_recording_confirmation_message": "Vai vēlaties pabeigt un saglabāt šo ierakstu?",
     "track_x": "Trase %s",
     "grant_permission_confirmation_message": "Vai vēlaties piešķirt šo atļauju?",
@@ -519,6 +516,6 @@
     "search_source_tomtom": "Tomtom Places Search",
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Teksta displeja izmērs",
-    "browser_compatibility_warning_message": "Šķiet, ka jūsu pārlūkprogramma nav Google Chrome — tikai Google Chrome ir pārbaudīta kā pilnībā saderīga",
+    "browser_compatibility_warning_message_x": "Šķiet, ka jūsu pārlūkprogramma nav pilnībā saderīga — tikai Google Chrome ir pārbaudīta kā pilnībā saderīga\nSkatiet tālāk sniegto informāciju par saderību:\n\n%s",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
