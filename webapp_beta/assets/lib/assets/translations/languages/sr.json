@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "Увоз датотеке...",
-    "show_warning_icon_for_sync": "Показују икону упозорења за синхронизацију",
     "general": "општи",
     "toilets": "toaleti",
     "food": "Храна",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Величина приказа текста",
     "browser_compatibility_warning_message_x": "Чини се да ваш претраживач није у потпуности компатибилан – само је Гоогле Цхроме тестиран као потпуно компатибилан\nПогледајте детаље о компатибилности у наставку:\n\n%s",
+    "show_data_backup_reminder": "Прикажи подсетник за резервну копију података",
+    "display_all_editing_shape_points": "Прикажи све тачке облика за уређивање (спорије)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "फ़ाइल आयात कर रहा है...",
-    "show_warning_icon_for_sync": "सिंक के लिए चेतावनी आइकन दिखाएँ",
     "general": "सामान्य",
     "toilets": "प्रसाधन",
     "food": "भोजन",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "पाठ प्रदर्शन आकार",
     "browser_compatibility_warning_message_x": "ऐसा लगता है कि आपका ब्राउज़र पूरी तरह से संगत नहीं है - केवल Google Chrome को पूरी तरह से संगत के रूप में परीक्षण किया गया है\nसंगतता विवरण नीचे देखें:\n\n%s",
+    "show_data_backup_reminder": "डेटा बैकअप अनुस्मारक दिखाएं",
+    "display_all_editing_shape_points": "सभी संपादन आकार बिंदु प्रदर्शित करें (धीमा)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "Importerer fil...",
-    "show_warning_icon_for_sync": "Vis advarselsikon for synkronisering",
     "general": "Generell",
     "toilets": "toaletter",
     "food": "Mat",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Tekstvisningsstørrelse",
     "browser_compatibility_warning_message_x": "Det ser ut til at nettleseren din ikke er fullstendig kompatibel - bare Google Chrome er testet som fullt kompatibel\nSe kompatibilitetsdetaljer nedenfor:\n\n%s",
+    "show_data_backup_reminder": "Vis påminnelse om sikkerhetskopiering av data",
+    "display_all_editing_shape_points": "Vis alle redigeringsformpunkter (tregere)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

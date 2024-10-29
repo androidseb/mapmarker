@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "ファイルをインポートします…",
-    "show_warning_icon_for_sync": "同期の警告アイコンを表示する。",
     "general": "一般的な",
     "toilets": "トイレ",
     "food": "フード",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "テキスト表示サイズ",
     "browser_compatibility_warning_message_x": "お使いのブラウザは完全に互換性がないようです。完全に互換性があるとテストされているのは Google Chrome のみです\n互換性の詳細は以下をご覧ください:\n\n%s",
+    "show_data_backup_reminder": "データバックアップリマインダーを表示",
+    "display_all_editing_shape_points": "編集中のシェイプポイントをすべて表示（低速）",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

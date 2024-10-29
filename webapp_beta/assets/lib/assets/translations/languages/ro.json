@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "Se importă fișierul...",
-    "show_warning_icon_for_sync": "Afișați pictograma de avertizare pentru sincronizare",
     "general": "General",
     "toilets": "wC",
     "food": "Alimente",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Dimensiunea de afișare a textului",
     "browser_compatibility_warning_message_x": "Se pare că browserul dvs. nu este pe deplin compatibil - doar Google Chrome este testat ca fiind pe deplin compatibil\nVedeți mai jos detaliile de compatibilitate:\n\n%s",
+    "show_data_backup_reminder": "Afișează memento pentru copierea de rezervă a datelor",
+    "display_all_editing_shape_points": "Afișează toate punctele de formă de editare (mai lent)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

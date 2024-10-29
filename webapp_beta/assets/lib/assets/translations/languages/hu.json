@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "Fájl importálása...",
-    "show_warning_icon_for_sync": "Itt található figyelmeztető ikon szinkron",
     "general": "Tábornok",
     "toilets": "WC",
     "food": "Élelmiszer",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Szöveg megjelenítési mérete",
     "browser_compatibility_warning_message_x": "Úgy tűnik, az Ön böngészője nem teljesen kompatibilis – csak a Google Chrome-ot teszteltük teljesen kompatibilisként\nLásd alább a kompatibilitási részleteket:\n\n%s",
+    "show_data_backup_reminder": "Adatmentési emlékeztető megjelenítése",
+    "display_all_editing_shape_points": "Az összes szerkesztett alakzati pont megjelenítése (lassabb)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

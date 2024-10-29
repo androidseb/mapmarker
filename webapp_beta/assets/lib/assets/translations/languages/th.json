@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "การนำเข้าแฟ้ม...",
-    "show_warning_icon_for_sync": "แสดงไอคอนคำเตือนสำหรับการซิงค์",
     "general": "ทั่วไป",
     "toilets": "ห้องน้ำ",
     "food": "อาหาร",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "ขนาดการแสดงข้อความ",
     "browser_compatibility_warning_message_x": "ดูเหมือนว่าเบราว์เซอร์ของคุณจะไม่เข้ากันได้อย่างสมบูรณ์ - มีเพียง Google Chrome เท่านั้นที่ได้รับการทดสอบว่าเข้ากันได้อย่างสมบูรณ์\nดูรายละเอียดความเข้ากันได้ด้านล่าง:\n\n%s",
+    "show_data_backup_reminder": "แสดงการแจ้งเตือนการสำรองข้อมูล",
+    "display_all_editing_shape_points": "แสดงจุดแก้ไขรูปร่างทั้งหมด (ช้าลง)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

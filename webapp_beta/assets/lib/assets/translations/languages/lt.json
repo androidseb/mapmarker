@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "Byla importuojama…",
-    "show_warning_icon_for_sync": "Rodyti įspėjimo piktogramą sinchronizacijai",
     "general": "Bendras",
     "toilets": "Tualetai",
     "food": "Maistas",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Teksto rodymo dydis",
     "browser_compatibility_warning_message_x": "Panašu, kad jūsų naršyklė nėra visiškai suderinama – tik „Google Chrome“ išbandyta kaip visiškai suderinama\nŽr. toliau pateiktą suderinamumo informaciją:\n\n%s",
+    "show_data_backup_reminder": "Rodyti duomenų atsarginės kopijos priminimą",
+    "display_all_editing_shape_points": "Rodyti visus redaguojamus formos taškus (lėčiau)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

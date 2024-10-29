@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "جاري استيراد الملف…",
-    "show_warning_icon_for_sync": "اظهار ايقونة تحذير المزامنة",
     "general": "عام",
     "toilets": "مراحيض",
     "food": "طعام",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "حجم عرض النص",
     "browser_compatibility_warning_message_x": "يبدو أن متصفحك غير متوافق تمامًا - تم اختبار Google Chrome فقط باعتباره متوافقًا تمامًا\nراجع تفاصيل التوافق أدناه:\n\n%s",
+    "show_data_backup_reminder": "إظهار تذكير النسخ الاحتياطي للبيانات",
+    "display_all_editing_shape_points": "عرض جميع نقاط شكل التحرير (أبطأ)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "L'importazione di file...",
-    "show_warning_icon_for_sync": "Mostra icona di avviso per la sincronizzazione",
     "general": "Generale",
     "toilets": "Servizi igienici",
     "food": "Cibo",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Dimensione visualizzazione testo",
     "browser_compatibility_warning_message_x": "Sembra che il tuo browser non sia completamente compatibile: solo Google Chrome è stato testato come completamente compatibile\nVedi i dettagli sulla compatibilità qui sotto:\n\n%s",
+    "show_data_backup_reminder": "Mostra promemoria backup dati",
+    "display_all_editing_shape_points": "Visualizza tutti i punti di forma modificati (più lento)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

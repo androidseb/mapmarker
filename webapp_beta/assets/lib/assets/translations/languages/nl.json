@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "Importeren van bestanden...",
-    "show_warning_icon_for_sync": "Toon waarschuwingspictogram voor synchronisatie",
     "general": "Algemeen",
     "toilets": "Toiletten",
     "food": "Eten",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Tekstweergavegrootte",
     "browser_compatibility_warning_message_x": "Het lijkt erop dat uw browser niet volledig compatibel is - alleen Google Chrome is getest als volledig compatibel\nZie compatibiliteitsdetails hieronder:\n\n%s",
+    "show_data_backup_reminder": "Herinnering voor gegevensback-up weergeven",
+    "display_all_editing_shape_points": "Alle bewerkingsvormpunten weergeven (langzamer)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "Uvažanje datoteke...",
-    "show_warning_icon_for_sync": "Prikaži opozorilno ikono za sinhronizacijo",
     "general": "Splošno",
     "toilets": "Stranišča",
     "food": "Hrana",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Velikost prikaza besedila",
     "browser_compatibility_warning_message_x": "Zdi se, da vaš brskalnik ni popolnoma združljiv - samo Google Chrome je preizkušen kot popolnoma združljiv\nSpodaj si oglejte podrobnosti o združljivosti:\n\n%s",
+    "show_data_backup_reminder": "Pokaži opomnik za varnostno kopiranje podatkov",
+    "display_all_editing_shape_points": "Prikaži vse urejevalne točke oblike (počasneje)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

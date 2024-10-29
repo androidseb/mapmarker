@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "Εισαγωγή αρχείου...",
-    "show_warning_icon_for_sync": "Εμφάνιση εικονίδιο προειδοποίησης για συγχρονισμό",
     "general": "Γενικός",
     "toilets": "τουαλέτες",
     "food": "Τροφή",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Μέγεθος εμφάνισης κειμένου",
     "browser_compatibility_warning_message_x": "Φαίνεται ότι το πρόγραμμα περιήγησής σας δεν είναι πλήρως συμβατό - μόνο το Google Chrome έχει δοκιμαστεί ως πλήρως συμβατό\nΔείτε παρακάτω λεπτομέρειες συμβατότητας:\n\n%s",
+    "show_data_backup_reminder": "Εμφάνιση υπενθύμισης δημιουργίας αντιγράφων ασφαλείας δεδομένων",
+    "display_all_editing_shape_points": "Εμφάνιση όλων των σημείων σχήματος επεξεργασίας (πιο αργά)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "파일을 가져 오는 중...",
-    "show_warning_icon_for_sync": "동기화에 대한 경고 아이콘 표시",
     "general": "일반",
     "toilets": "화장실",
     "food": "식품",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "텍스트 표시 크기",
     "browser_compatibility_warning_message_x": "귀하의 브라우저가 완벽하게 호환되지 않는 것 같습니다. Google Chrome만 완벽하게 호환되는 것으로 테스트되었습니다.\n아래의 호환성 세부 정보를 참조하세요.\n\n%s",
+    "show_data_backup_reminder": "데이터 백업 알림 표시",
+    "display_all_editing_shape_points": "모든 편집 모양 포인트 표시(느림)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

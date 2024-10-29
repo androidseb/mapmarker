@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "La importació d'arxius...",
-    "show_warning_icon_for_sync": "Mostra icona d'advertència per a la sincronització",
     "general": "General",
     "toilets": "banys",
     "food": "menjar",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Mida de visualització del text",
     "browser_compatibility_warning_message_x": "Sembla que el vostre navegador no és totalment compatible; només es prova Google Chrome com a totalment compatible\nVegeu els detalls de compatibilitat a continuació:\n\n%s",
+    "show_data_backup_reminder": "Mostra el recordatori de còpia de seguretat de dades",
+    "display_all_editing_shape_points": "Mostra tots els punts de forma d'edició (més lent)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

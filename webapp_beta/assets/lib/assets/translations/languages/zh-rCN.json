@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "正在导入文件…",
-    "show_warning_icon_for_sync": "同步显示警告图标",
     "general": "通用",
     "toilets": "洗手间",
     "food": "餐饮",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "文字显示大小",
     "browser_compatibility_warning_message_x": "您的浏览器似乎不完全兼容 - 只有 Google Chrome 经过测试可视为完全兼容\n请参阅下面的兼容性详细信息：\n\n%s",
+    "show_data_backup_reminder": "显示数据备份提醒",
+    "display_all_editing_shape_points": "显示所有编辑形状点（较慢）",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

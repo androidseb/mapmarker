@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "Nhập khẩu tập tin...",
-    "show_warning_icon_for_sync": "Hiển thị biểu tượng cảnh báo cho đồng bộ",
     "general": "Chung",
     "toilets": "nhà vệ sinh",
     "food": "Món ăn",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Kích thước hiển thị văn bản",
     "browser_compatibility_warning_message_x": "Có vẻ như trình duyệt của bạn không hoàn toàn tương thích - chỉ có Google Chrome được kiểm tra là hoàn toàn tương thích\nXem chi tiết về khả năng tương thích bên dưới:\n\n%s",
+    "show_data_backup_reminder": "Hiển thị lời nhắc sao lưu dữ liệu",
+    "display_all_editing_shape_points": "Hiển thị tất cả các điểm chỉnh sửa hình dạng (chậm hơn)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

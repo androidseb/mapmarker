@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "Імпорт файлу...",
-    "show_warning_icon_for_sync": "Показувати значок попередження для синхронізації",
     "general": "загальний",
     "toilets": "туалети",
     "food": "харчування",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Розмір відображення тексту",
     "browser_compatibility_warning_message_x": "Схоже, ваш веб-переглядач не повністю сумісний – лише Google Chrome перевірено як повністю сумісний\nПерегляньте деталі сумісності нижче:\n\n%s",
+    "show_data_backup_reminder": "Показати нагадування про резервне копіювання даних",
+    "display_all_editing_shape_points": "Показати всі точки форми для редагування (повільніше)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "Mengimpor file...",
-    "show_warning_icon_for_sync": "Tampilkan ikon peringatan untuk sinkronisasi",
     "general": "Umum",
     "toilets": "Kamar Kecil",
     "food": "Makanan",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Ukuran tampilan teks",
     "browser_compatibility_warning_message_x": "Tampaknya browser Anda tidak sepenuhnya kompatibel - hanya Google Chrome yang diuji sebagai sepenuhnya kompatibel\nLihat detail kompatibilitas di bawah ini:\n\n%s",
+    "show_data_backup_reminder": "Tampilkan pengingat pencadangan data",
+    "display_all_editing_shape_points": "Menampilkan semua titik bentuk pengeditan (lebih lambat)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

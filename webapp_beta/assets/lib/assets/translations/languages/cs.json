@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "Import souboru...",
-    "show_warning_icon_for_sync": "Zobrazit ikonu varování pro synchronizaci",
     "general": "Generál",
     "toilets": "toalety",
     "food": "Jídlo",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Velikost zobrazení textu",
     "browser_compatibility_warning_message_x": "Zdá se, že váš prohlížeč není plně kompatibilní – jako plně kompatibilní je testován pouze Google Chrome\nPodrobnosti o kompatibilitě naleznete níže:\n\n%s",
+    "show_data_backup_reminder": "Zobrazit připomínku zálohování dat",
+    "display_all_editing_shape_points": "Zobrazit všechny body tvaru pro úpravy (pomalejší)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

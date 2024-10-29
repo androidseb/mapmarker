@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "ייבוא ​​קובץ...",
-    "show_warning_icon_for_sync": "צג סמל אזהרה עבור סנכרון",
     "general": "כללי",
     "toilets": "שֵׁרוּתִים",
     "food": "מזון",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "גודל תצוגת טקסט",
     "browser_compatibility_warning_message_x": "נראה שהדפדפן שלך אינו תואם לחלוטין - רק Google Chrome נבדק כתואם מלא\nראה את פרטי התאימות למטה:\n\n%s",
+    "show_data_backup_reminder": "הצג תזכורת לגיבוי נתונים",
+    "display_all_editing_shape_points": "הצג את כל נקודות הצורה העריכה (איט יותר)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

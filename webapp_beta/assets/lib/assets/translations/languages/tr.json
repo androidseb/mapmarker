@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "dosyasını içe...",
-    "show_warning_icon_for_sync": "Senkronizasyon için uyarı simgesi göster",
     "general": "Genel",
     "toilets": "tuvaletler",
     "food": "Gıda",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Metin görüntüleme boyutu",
     "browser_compatibility_warning_message_x": "Tarayıcınızın tam uyumlu olmadığı anlaşılıyor - yalnızca Google Chrome tam uyumlu olarak test edildi\nAşağıda uyumluluk ayrıntılarına bakın:\n\n%s",
+    "show_data_backup_reminder": "Veri yedekleme hatırlatıcısını göster",
+    "display_all_editing_shape_points": "Tüm düzenleme şekil noktalarını görüntüle (daha yavaş)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

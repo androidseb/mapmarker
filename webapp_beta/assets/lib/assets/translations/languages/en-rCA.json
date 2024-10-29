@@ -213,7 +213,6 @@
     "export_choice_kmz": "KMZ",
     "export_choice_kml": "KML",
     "importing_file": "Importing file…",
-    "show_warning_icon_for_sync": "Show warning icon for sync",
     "general": "General",
     "toilets": "Washrooms",
     "food": "Food",
@@ -517,5 +516,7 @@
     "short_search_source_tomtom": "Tomtom",
     "text_display_size": "Text display size",
     "browser_compatibility_warning_message_x": "It seems your browser is not fully compatible - only Google Chrome is tested as fully compatible\nSee compatibility details below:\n\n%s",
+    "show_data_backup_reminder": "Show data backup reminder",
+    "display_all_editing_shape_points": "Display all editing shape points (slower)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
