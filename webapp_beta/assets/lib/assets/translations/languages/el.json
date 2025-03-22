@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "Αυτό περιορίζει την εφαρμογή να έχει πρόσβαση μόνο σε έναν φάκελο Dropbox που είναι αφιερωμένος στην εφαρμογή. Εάν έχετε αμφιβολίες, επιλέξτε αυτήν την επιλογή, μπορείτε εύκολα να αλλάξετε γνώμη αργότερα.",
     "sync_option_dropbox_full_title": "Dropbox - πλήρης πρόσβαση",
     "sync_option_dropbox_full_description": "Αυτό παρέχει στην εφαρμογή πλήρη πρόσβαση στο Dropbox σας. Επιλέξτε αυτήν την επιλογή εάν θέλετε η εφαρμογή να βρίσκει αρχεία σε ολόκληρο το Dropbox σας.",
-    "enter_access_code_hint_text": "Εισαγάγετε τον κωδικό πρόσβασης",
     "offline_map_files": "Αρχεία χάρτη εκτός σύνδεσης",
     "x_files": "%s αρχεία",
     "clear_offline_map_files_action": "Εκκαθάριση αρχείων χάρτη εκτός σύνδεσης",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "Φαίνεται ότι το πρόγραμμα περιήγησής σας δεν είναι πλήρως συμβατό - μόνο το Google Chrome έχει δοκιμαστεί ως πλήρως συμβατό\nΔείτε παρακάτω λεπτομέρειες συμβατότητας:\n\n%s",
     "show_data_backup_reminder": "Εμφάνιση υπενθύμισης δημιουργίας αντιγράφων ασφαλείας δεδομένων",
     "display_all_editing_shape_points": "Εμφάνιση όλων των σημείων σχήματος επεξεργασίας (πιο αργά)",
+    "sync_option_webdav_title": "Διακομιστής WebDAV",
+    "sync_option_webdav_description": "Αυτό σας επιτρέπει να συγχρονίζετε με έναν διακομιστή WebDAV διαμορφώνοντας τα διαπιστευτήρια πρόσβασης.",
+    "enter_configuration_values_title": "Εισαγάγετε τιμές διαμόρφωσης",
+    "required_hint_text": "Υποχρεούμαι",
+    "access_code_hint_text": "Κωδικός πρόσβασης",
+    "server_url_hint_text": "URL διακομιστή",
+    "username_hint_text": "Όνομα χρήστη",
+    "password_hint_text": "Σύνθημα",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

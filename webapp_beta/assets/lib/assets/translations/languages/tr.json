@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "Bu, uygulamayı yalnızca uygulamaya özel bir Dropbox klasörüne erişecek şekilde sınırlar. Şüpheniz varsa, bu seçeneği seçin, daha sonra fikrinizi kolayca değiştirebilirsiniz.",
     "sync_option_dropbox_full_title": "Dropbox - tam erişim",
     "sync_option_dropbox_full_description": "Bu, uygulamaya Dropbox cihazınıza tam erişim sağlar. Uygulamanın tüm Dropbox dosyanızdaki dosyaları bulmasını istiyorsanız bu seçeneği belirleyin.",
-    "enter_access_code_hint_text": "Erişim kodunu giriniz",
     "offline_map_files": "Çevrimdışı harita dosyaları",
     "x_files": "%s dosya",
     "clear_offline_map_files_action": "Çevrimdışı harita dosyalarını temizle",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "Tarayıcınızın tam uyumlu olmadığı anlaşılıyor - yalnızca Google Chrome tam uyumlu olarak test edildi\nAşağıda uyumluluk ayrıntılarına bakın:\n\n%s",
     "show_data_backup_reminder": "Veri yedekleme hatırlatıcısını göster",
     "display_all_editing_shape_points": "Tüm düzenleme şekil noktalarını görüntüle (daha yavaş)",
+    "sync_option_webdav_title": "WebDAV sunucusu",
+    "sync_option_webdav_description": "Bu, erişim kimlik bilgilerini yapılandırarak bir WebDAV sunucusuyla senkronizasyon yapmanıza olanak tanır.",
+    "enter_configuration_values_title": "Yapılandırma değerlerini girin",
+    "required_hint_text": "Gerekli",
+    "access_code_hint_text": "Erişim kodu",
+    "server_url_hint_text": "Sunucu URL'si",
+    "username_hint_text": "Kullanıcı adı",
+    "password_hint_text": "Şifre",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

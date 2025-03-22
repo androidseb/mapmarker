@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "应用程序限制仅可访问专用的 Dropbox 文件夹。如果有疑问，请选择此选项，您以后可以轻松改变主意。",
     "sync_option_dropbox_full_title": "Dropbox - 完全访问",
     "sync_option_dropbox_full_description": "应用程序对您的 Dropbox 的有完全访问权限。如果您希望应用在整个 Dropbox 中查找文件，请选择此选项。",
-    "enter_access_code_hint_text": "输入访问代码",
     "offline_map_files": "离线地图文件",
     "x_files": "%s 个文件",
     "clear_offline_map_files_action": "清除离线地图文件",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "您的浏览器似乎不完全兼容 - 只有 Google Chrome 经过测试可视为完全兼容\n请参阅下面的兼容性详细信息：\n\n%s",
     "show_data_backup_reminder": "显示数据备份提醒",
     "display_all_editing_shape_points": "显示所有编辑形状点（较慢）",
+    "sync_option_webdav_title": "WebDAV 服务器",
+    "sync_option_webdav_description": "这使您可以通过配置访问凭据同步到 WebDAV 服务器。",
+    "enter_configuration_values_title": "输入配置值",
+    "required_hint_text": "必需的",
+    "access_code_hint_text": "访问代码",
+    "server_url_hint_text": "服务器 URL",
+    "username_hint_text": "用户名",
+    "password_hint_text": "密码",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "នេះកំណត់ឱ្យកម្មវិធីចូលប្រើតែថត Dropbox ដែលឧទ្ទិសដល់កម្មវិធីប៉ុណ្ណោះ។ ប្រសិនបើមានការសង្ស័យ ជ្រើសរើសជម្រើសនេះ អ្នកអាចផ្លាស់ប្តូរចិត្តបានយ៉ាងងាយស្រួលនៅពេលក្រោយ។",
     "sync_option_dropbox_full_title": "Dropbox - ការចូលប្រើពេញលេញ",
     "sync_option_dropbox_full_description": "វាផ្តល់ឱ្យកម្មវិធីនូវការចូលដំណើរការពេញលេញទៅកាន់ Dropbox របស់អ្នក។ ជ្រើសរើសជម្រើសនេះប្រសិនបើអ្នកចង់ឱ្យកម្មវិធីស្វែងរកឯកសារនៅក្នុង Dropbox ទាំងមូលរបស់អ្នក។",
-    "enter_access_code_hint_text": "បញ្ចូលលេខកូដចូល",
     "offline_map_files": "ឯកសារផែនទីក្រៅបណ្តាញ",
     "x_files": "%s ឯកសារ",
     "clear_offline_map_files_action": "សម្អាតឯកសារផែនទីក្រៅបណ្តាញ",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "វាហាក់ដូចជាកម្មវិធីរុករករបស់អ្នកមិនឆបគ្នាពេញលេញទេ - មានតែ Google Chrome ប៉ុណ្ណោះដែលត្រូវបានសាកល្បងថាត្រូវគ្នាយ៉ាងពេញលេញ\nសូមមើលព័ត៌មានលម្អិតអំពីភាពឆបគ្នាខាងក្រោម៖\n\n%s",
     "show_data_backup_reminder": "បង្ហាញការរំលឹកការបម្រុងទុកទិន្នន័យ",
     "display_all_editing_shape_points": "បង្ហាញចំណុចកែទម្រង់ទាំងអស់ (យឺតជាង)",
+    "sync_option_webdav_title": "ម៉ាស៊ីនមេ WebDAV",
+    "sync_option_webdav_description": "វាអនុញ្ញាតឱ្យអ្នកធ្វើសមកាលកម្មទៅម៉ាស៊ីនមេ WebDAV ដោយកំណត់រចនាសម្ព័ន្ធការចូលប្រើព័ត៌មានសម្ងាត់។",
+    "enter_configuration_values_title": "បញ្ចូលតម្លៃកំណត់រចនាសម្ព័ន្ធ",
+    "required_hint_text": "ទាមទារ",
+    "access_code_hint_text": "លេខកូដចូលប្រើ",
+    "server_url_hint_text": "URL ម៉ាស៊ីនមេ",
+    "username_hint_text": "ឈ្មោះអ្នកប្រើប្រាស់",
+    "password_hint_text": "ពាក្យសម្ងាត់",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

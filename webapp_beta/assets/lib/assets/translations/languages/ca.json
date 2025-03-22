@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "Això limita l'aplicació a accedir només a una carpeta Dropbox dedicada a l'aplicació. En cas de dubte, trieu aquesta opció, podeu canviar d'opinió fàcilment més endavant.",
     "sync_option_dropbox_full_title": "Dropbox - accés complet",
     "sync_option_dropbox_full_description": "Això permet que l'aplicació tingui accés complet al vostre Dropbox. Trieu aquesta opció si voleu que l'aplicació trobi fitxers a tot el vostre Dropbox.",
-    "enter_access_code_hint_text": "Introduïu el codi d'accés",
     "offline_map_files": "Fitxers de mapes fora de línia",
     "x_files": "%s fitxers",
     "clear_offline_map_files_action": "Esborra els fitxers de mapes fora de línia",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "Sembla que el vostre navegador no és totalment compatible; només es prova Google Chrome com a totalment compatible\nVegeu els detalls de compatibilitat a continuació:\n\n%s",
     "show_data_backup_reminder": "Mostra el recordatori de còpia de seguretat de dades",
     "display_all_editing_shape_points": "Mostra tots els punts de forma d'edició (més lent)",
+    "sync_option_webdav_title": "Servidor WebDAV",
+    "sync_option_webdav_description": "Això us permet sincronitzar amb un servidor WebDAV configurant les credencials d'accés.",
+    "enter_configuration_values_title": "Introduïu els valors de configuració",
+    "required_hint_text": "Obligatori",
+    "access_code_hint_text": "Codi d'accés",
+    "server_url_hint_text": "URL del servidor",
+    "username_hint_text": "Nom d'usuari",
+    "password_hint_text": "Contrasenya",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "Tai apriboja, kad programa galėtų pasiekti tik programai skirtą Dropbox aplanką. Jei abejojate, pasirinkite šią parinktį, nes vėliau galėsite lengvai apsigalvoti.",
     "sync_option_dropbox_full_title": "Dropbox – visa prieiga",
     "sync_option_dropbox_full_description": "Tai suteikia programai visišką prieigą prie jūsų Dropbox. Pasirinkite šią parinktį, jei norite, kad programa rastų failus visame Dropbox.",
-    "enter_access_code_hint_text": "Įveskite prieigos kodą",
     "offline_map_files": "Žemėlapio failai neprisijungus",
     "x_files": "%s failai",
     "clear_offline_map_files_action": "Išvalykite žemėlapio failus neprisijungus",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "Panašu, kad jūsų naršyklė nėra visiškai suderinama – tik „Google Chrome“ išbandyta kaip visiškai suderinama\nŽr. toliau pateiktą suderinamumo informaciją:\n\n%s",
     "show_data_backup_reminder": "Rodyti duomenų atsarginės kopijos priminimą",
     "display_all_editing_shape_points": "Rodyti visus redaguojamus formos taškus (lėčiau)",
+    "sync_option_webdav_title": "WebDAV serveris",
+    "sync_option_webdav_description": "Tai leidžia sinchronizuoti su WebDAV serveriu konfigūruojant prieigos kredencialus.",
+    "enter_configuration_values_title": "Įveskite konfigūracijos reikšmes",
+    "required_hint_text": "Reikalingas",
+    "access_code_hint_text": "Prieigos kodas",
+    "server_url_hint_text": "Serverio URL",
+    "username_hint_text": "Vartotojo vardas",
+    "password_hint_text": "Slaptažodis",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

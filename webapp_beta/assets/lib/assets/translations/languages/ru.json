@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "Это ограничивает доступ приложения только к папке Dropbox, выделенной для приложения. Если вы сомневаетесь, выберите этот вариант, вы можете легко передумать позже.",
     "sync_option_dropbox_full_title": "Dropbox - полный доступ",
     "sync_option_dropbox_full_description": "Это предоставляет приложению полный доступ к вашему Dropbox. Выберите этот вариант, если вы хотите, чтобы приложение нашло файлы во всем вашем каталоге Dropbox.",
-    "enter_access_code_hint_text": "Введите код доступа",
     "offline_map_files": "Автономные файлы карт",
     "x_files": "%s файлов",
     "clear_offline_map_files_action": "Очистить файлы автономных карт",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "Похоже, ваш браузер не полностью совместим - только Google Chrome протестирован как полностью совместимый\nСм. подробности совместимости ниже:\n\n%s",
     "show_data_backup_reminder": "Показать напоминание о резервном копировании данных",
     "display_all_editing_shape_points": "Отображение всех точек формы редактирования (медленнее)",
+    "sync_option_webdav_title": "WebDAV-сервер",
+    "sync_option_webdav_description": "Это позволяет вам синхронизироваться с сервером WebDAV, настроив учетные данные доступа.",
+    "enter_configuration_values_title": "Введите значения конфигурации",
+    "required_hint_text": "Необходимый",
+    "access_code_hint_text": "Код доступа",
+    "server_url_hint_text": "URL-адрес сервера",
+    "username_hint_text": "Имя пользователя",
+    "password_hint_text": "Пароль",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

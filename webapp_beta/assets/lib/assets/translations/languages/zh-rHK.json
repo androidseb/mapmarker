@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "這將應用程序限制為僅訪問應用程序專用的 Dropbox 文件夾。如果有疑問，請選擇此選項，您以後可以輕鬆改變主意。",
     "sync_option_dropbox_full_title": "Dropbox - 完全訪問",
     "sync_option_dropbox_full_description": "這將授予應用程序對您的 Dropbox 的完全訪問權限。如果您希望應用在整個 Dropbox 中查找文件，請選擇此選項。",
-    "enter_access_code_hint_text": "輸入訪問代碼",
     "offline_map_files": "離線地圖文件",
     "x_files": "%s 個文件",
     "clear_offline_map_files_action": "清除離線地圖文件",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "您的瀏覽器似乎不完全相容 - 只有 Google Chrome 經測試完全相容\n請參閱下面的相容性詳細資訊：\n\n%s",
     "show_data_backup_reminder": "顯示資料備份提醒",
     "display_all_editing_shape_points": "顯示所有編輯形狀點（較慢）",
+    "sync_option_webdav_title": "WebDAV 伺服器",
+    "sync_option_webdav_description": "這使您可以透過設定存取憑證同步到 WebDAV 伺服器。",
+    "enter_configuration_values_title": "輸入配置值",
+    "required_hint_text": "必需的",
+    "access_code_hint_text": "訪問代碼",
+    "server_url_hint_text": "伺服器 URL",
+    "username_hint_text": "使用者名稱",
+    "password_hint_text": "密碼",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

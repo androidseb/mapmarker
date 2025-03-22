@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "Це обмежує програму доступом лише до спеціальної папки Dropbox. Якщо ви сумніваєтеся, виберіть цей варіант, ви зможете легко змінити свою думку пізніше.",
     "sync_option_dropbox_full_title": "Dropbox - повний доступ",
     "sync_option_dropbox_full_description": "Це надає програмі повний доступ до вашого Dropbox. Виберіть цей параметр, якщо ви хочете, щоб програма знаходила файли у всьому вашому Dropbox.",
-    "enter_access_code_hint_text": "Введіть код доступу",
     "offline_map_files": "Офлайн-файли карт",
     "x_files": "%s файлів",
     "clear_offline_map_files_action": "Очистіть файли офлайн-карт",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "Схоже, ваш веб-переглядач не повністю сумісний – лише Google Chrome перевірено як повністю сумісний\nПерегляньте деталі сумісності нижче:\n\n%s",
     "show_data_backup_reminder": "Показати нагадування про резервне копіювання даних",
     "display_all_editing_shape_points": "Показати всі точки форми для редагування (повільніше)",
+    "sync_option_webdav_title": "Сервер WebDAV",
+    "sync_option_webdav_description": "Це дає змогу синхронізуватися із сервером WebDAV, налаштувавши облікові дані доступу.",
+    "enter_configuration_values_title": "Введіть значення конфігурації",
+    "required_hint_text": "Обов'язковий",
+    "access_code_hint_text": "Код доступу",
+    "server_url_hint_text": "URL-адреса сервера",
+    "username_hint_text": "Ім'я користувача",
+    "password_hint_text": "Пароль",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

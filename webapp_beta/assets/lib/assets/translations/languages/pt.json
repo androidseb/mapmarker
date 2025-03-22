@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "Isso limita o aplicativo a acessar apenas uma pasta Dropbox dedicada ao aplicativo. Em caso de dúvida, escolha esta opção, você pode facilmente mudar de ideia mais tarde.",
     "sync_option_dropbox_full_title": "Dropbox - acesso total",
     "sync_option_dropbox_full_description": "Isso concede ao aplicativo acesso total ao seu Dropbox. Escolha esta opção se quiser que o aplicativo encontre arquivos em todo o seu Dropbox.",
-    "enter_access_code_hint_text": "Digite o código de acesso",
     "offline_map_files": "Arquivos de mapa offline",
     "x_files": "%s arquivos",
     "clear_offline_map_files_action": "Limpar arquivos de mapa offline",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "Parece que seu navegador não é totalmente compatível - apenas o Google Chrome foi testado como totalmente compatível\nVeja os detalhes de compatibilidade abaixo:\n\n%s",
     "show_data_backup_reminder": "Mostrar lembrete de backup de dados",
     "display_all_editing_shape_points": "Exibir todos os pontos de forma de edição (mais lento)",
+    "sync_option_webdav_title": "Servidor WebDAV",
+    "sync_option_webdav_description": "Isso permite que você sincronize com um servidor WebDAV configurando credenciais de acesso.",
+    "enter_configuration_values_title": "Insira valores de configuração",
+    "required_hint_text": "Obrigatório",
+    "access_code_hint_text": "Código de acesso",
+    "server_url_hint_text": "URL do servidor",
+    "username_hint_text": "Nome de usuário",
+    "password_hint_text": "Senha",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

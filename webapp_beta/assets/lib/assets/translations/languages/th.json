@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "สิ่งนี้จำกัดให้แอปเข้าถึงได้เฉพาะโฟลเดอร์ Dropbox เฉพาะแอปเท่านั้น หากไม่แน่ใจ ให้เลือกตัวเลือกนี้ คุณสามารถเปลี่ยนใจในภายหลังได้อย่างง่ายดาย",
     "sync_option_dropbox_full_title": "Dropbox - การเข้าถึงแบบเต็ม",
     "sync_option_dropbox_full_description": "สิ่งนี้ทำให้แอปเข้าถึง Dropbox ของคุณได้อย่างเต็มที่ เลือกตัวเลือกนี้หากคุณต้องการให้แอปค้นหาไฟล์ใน Dropbox ทั้งหมดของคุณ",
-    "enter_access_code_hint_text": "ใส่รหัสเข้าใช้",
     "offline_map_files": "ไฟล์แผนที่ออฟไลน์",
     "x_files": "%s ไฟล์",
     "clear_offline_map_files_action": "ล้างไฟล์แผนที่ออฟไลน์",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "ดูเหมือนว่าเบราว์เซอร์ของคุณจะไม่เข้ากันได้อย่างสมบูรณ์ - มีเพียง Google Chrome เท่านั้นที่ได้รับการทดสอบว่าเข้ากันได้อย่างสมบูรณ์\nดูรายละเอียดความเข้ากันได้ด้านล่าง:\n\n%s",
     "show_data_backup_reminder": "แสดงการแจ้งเตือนการสำรองข้อมูล",
     "display_all_editing_shape_points": "แสดงจุดแก้ไขรูปร่างทั้งหมด (ช้าลง)",
+    "sync_option_webdav_title": "เซิร์ฟเวอร์ WebDAV",
+    "sync_option_webdav_description": "สิ่งนี้ช่วยให้คุณสามารถซิงค์กับเซิร์ฟเวอร์ WebDAV โดยการกำหนดค่าข้อมูลรับรองการเข้าถึง",
+    "enter_configuration_values_title": "ป้อนค่าการกำหนดค่า",
+    "required_hint_text": "ที่จำเป็น",
+    "access_code_hint_text": "รหัสเข้าใช้งาน",
+    "server_url_hint_text": "URL ของเซิร์ฟเวอร์",
+    "username_hint_text": "ชื่อผู้ใช้",
+    "password_hint_text": "รหัสผ่าน",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

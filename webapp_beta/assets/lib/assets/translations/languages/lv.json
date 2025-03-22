@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "Tādējādi lietotne var piekļūt tikai lietotnei paredzētai mapei Dropbox. Ja rodas šaubas, izvēlieties šo opciju, jo vēlāk varēsiet viegli pārdomāt.",
     "sync_option_dropbox_full_title": "Dropbox - pilna piekļuve",
     "sync_option_dropbox_full_description": "Tādējādi lietotnei tiek piešķirta pilnīga piekļuve jūsu Dropbox. Izvēlieties šo opciju, ja vēlaties, lai lietotne atrastu failus visā jūsu Dropbox.",
-    "enter_access_code_hint_text": "Ievadiet piekļuves kodu",
     "offline_map_files": "Bezsaistes karšu faili",
     "x_files": "%s faili",
     "clear_offline_map_files_action": "Notīrīt bezsaistes karšu failus",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "Šķiet, ka jūsu pārlūkprogramma nav pilnībā saderīga — tikai Google Chrome ir pārbaudīta kā pilnībā saderīga\nSkatiet tālāk sniegto informāciju par saderību:\n\n%s",
     "show_data_backup_reminder": "Rādīt datu dublēšanas atgādinājumu",
     "display_all_editing_shape_points": "Parādīt visus rediģēšanas formas punktus (lēnāk)",
+    "sync_option_webdav_title": "WebDAV serveris",
+    "sync_option_webdav_description": "Tas ļauj sinhronizēt ar WebDAV serveri, konfigurējot piekļuves akreditācijas datus.",
+    "enter_configuration_values_title": "Ievadiet konfigurācijas vērtības",
+    "required_hint_text": "Obligāti",
+    "access_code_hint_text": "Piekļuves kods",
+    "server_url_hint_text": "Servera URL",
+    "username_hint_text": "Lietotājvārds",
+    "password_hint_text": "Parole",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
