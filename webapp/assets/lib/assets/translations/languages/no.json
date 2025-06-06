@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "Dette begrenser appen til kun å få tilgang til en app-dedikert Dropbox-mappe. Hvis du er i tvil, velg dette alternativet, du kan enkelt ombestemme deg senere.",
     "sync_option_dropbox_full_title": "Dropbox - full tilgang",
     "sync_option_dropbox_full_description": "Dette gir appen full tilgang til din Dropbox. Velg dette alternativet hvis du vil at appen skal finne filer i hele Dropbox.",
-    "enter_access_code_hint_text": "Skriv inn tilgangskode",
     "offline_map_files": "Frakoblet kartfiler",
     "x_files": "%s filer",
     "clear_offline_map_files_action": "Slett kartfiler uten nett",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "Det ser ut til at nettleseren din ikke er fullstendig kompatibel - bare Google Chrome er testet som fullt kompatibel\nSe kompatibilitetsdetaljer nedenfor:\n\n%s",
     "show_data_backup_reminder": "Vis påminnelse om sikkerhetskopiering av data",
     "display_all_editing_shape_points": "Vis alle redigeringsformpunkter (tregere)",
+    "sync_option_webdav_title": "WebDAV-server",
+    "sync_option_webdav_description": "Dette lar deg synkronisere til en WebDAV-server ved å konfigurere tilgangslegitimasjon.",
+    "enter_configuration_values_title": "Angi konfigurasjonsverdier",
+    "required_hint_text": "Obligatorisk",
+    "access_code_hint_text": "Tilgangskode",
+    "server_url_hint_text": "Server URL",
+    "username_hint_text": "Brukernavn",
+    "password_hint_text": "Passord",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

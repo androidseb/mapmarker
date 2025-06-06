@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "Dadurch wird die App darauf beschränkt, nur auf einen App-spezifischen Dropbox-Ordner zuzugreifen. Wählen Sie im Zweifelsfall diese Option, Sie können Ihre Meinung später leicht ändern.",
     "sync_option_dropbox_full_title": "Dropbox - Vollzugriff",
     "sync_option_dropbox_full_description": "Dadurch erhält die App vollen Zugriff auf Ihr Dropbox. Wählen Sie diese Option, wenn die App Dateien in Ihrem gesamten Dropbox finden soll.",
-    "enter_access_code_hint_text": "Geben Sie den Zugangscode ein",
     "offline_map_files": "Offline-Kartendateien",
     "x_files": "%s Dateien",
     "clear_offline_map_files_action": "Offline-Kartendateien löschen",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "Ihr Browser scheint nicht vollständig kompatibel zu sein – nur Google Chrome wurde als vollständig kompatibel getestet.\nSiehe Kompatibilitätsdetails unten:\n\n%s",
     "show_data_backup_reminder": "Datensicherungserinnerung anzeigen",
     "display_all_editing_shape_points": "Alle Bearbeitungsformpunkte anzeigen (langsamer)",
+    "sync_option_webdav_title": "WebDAV-Server",
+    "sync_option_webdav_description": "Dadurch können Sie durch Konfigurieren der Zugangsdaten eine Synchronisierung mit einem WebDAV-Server durchführen.",
+    "enter_configuration_values_title": "Konfigurationswerte eingeben",
+    "required_hint_text": "Erforderlich",
+    "access_code_hint_text": "Zugangscode",
+    "server_url_hint_text": "Server-URL",
+    "username_hint_text": "Benutzername",
+    "password_hint_text": "Passwort",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

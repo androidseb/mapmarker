@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "Điều này giới hạn ứng dụng chỉ có thể truy cập vào thư mục Dropbox dành riêng cho ứng dụng. Nếu nghi ngờ, hãy chọn tùy chọn này, bạn có thể dễ dàng thay đổi quyết định sau đó.",
     "sync_option_dropbox_full_title": "Dropbox - toàn quyền truy cập",
     "sync_option_dropbox_full_description": "Điều này cấp cho ứng dụng đầy đủ quyền truy cập vào Dropbox của bạn. Chọn tùy chọn này nếu bạn muốn ứng dụng tìm các tệp trong toàn bộ Dropbox của bạn.",
-    "enter_access_code_hint_text": "Nhập mã truy cập",
     "offline_map_files": "Tệp bản đồ ngoại tuyến",
     "x_files": "%s tệp",
     "clear_offline_map_files_action": "Xóa tệp bản đồ ngoại tuyến",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "Có vẻ như trình duyệt của bạn không hoàn toàn tương thích - chỉ có Google Chrome được kiểm tra là hoàn toàn tương thích\nXem chi tiết về khả năng tương thích bên dưới:\n\n%s",
     "show_data_backup_reminder": "Hiển thị lời nhắc sao lưu dữ liệu",
     "display_all_editing_shape_points": "Hiển thị tất cả các điểm chỉnh sửa hình dạng (chậm hơn)",
+    "sync_option_webdav_title": "Máy chủ WebDAV",
+    "sync_option_webdav_description": "Tính năng này cho phép bạn đồng bộ hóa với máy chủ WebDAV bằng cách cấu hình thông tin đăng nhập.",
+    "enter_configuration_values_title": "Nhập giá trị cấu hình",
+    "required_hint_text": "Yêu cầu",
+    "access_code_hint_text": "Mã truy cập",
+    "server_url_hint_text": "URL máy chủ",
+    "username_hint_text": "Tên người dùng",
+    "password_hint_text": "Mật khẩu",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

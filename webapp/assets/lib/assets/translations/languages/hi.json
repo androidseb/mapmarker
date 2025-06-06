@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "यह ऐप को केवल ऐप-समर्पित Dropbox फ़ोल्डर तक पहुंचने के लिए सीमित करता है। यदि संदेह है, तो इस विकल्प को चुनें, आप बाद में आसानी से अपना विचार बदल सकते हैं।",
     "sync_option_dropbox_full_title": "Dropbox - पूर्ण पहुंच",
     "sync_option_dropbox_full_description": "यह ऐप को आपके Dropbox तक पूर्ण पहुंच प्रदान करता है। इस विकल्प को चुनें यदि आप चाहते हैं कि ऐप आपके संपूर्ण Dropbox.",
-    "enter_access_code_hint_text": "एक्सेस कोड दर्ज करें",
     "offline_map_files": "ऑफ़लाइन मानचित्र फ़ाइलें",
     "x_files": "%s फ़ाइलें",
     "clear_offline_map_files_action": "ऑफ़लाइन मानचित्र फ़ाइलें साफ़ करें",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "ऐसा लगता है कि आपका ब्राउज़र पूरी तरह से संगत नहीं है - केवल Google Chrome को पूरी तरह से संगत के रूप में परीक्षण किया गया है\nसंगतता विवरण नीचे देखें:\n\n%s",
     "show_data_backup_reminder": "डेटा बैकअप अनुस्मारक दिखाएं",
     "display_all_editing_shape_points": "सभी संपादन आकार बिंदु प्रदर्शित करें (धीमा)",
+    "sync_option_webdav_title": "WebDAV सर्वर",
+    "sync_option_webdav_description": "यह आपको एक्सेस क्रेडेंशियल कॉन्फ़िगर करके WebDAV सर्वर से सिंक करने की अनुमति देता है।",
+    "enter_configuration_values_title": "कॉन्फ़िगरेशन मान दर्ज करें",
+    "required_hint_text": "आवश्यक",
+    "access_code_hint_text": "एक्सेस कोड",
+    "server_url_hint_text": "सर्वर यूआरएल",
+    "username_hint_text": "उपयोगकर्ता नाम",
+    "password_hint_text": "पासवर्ड",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

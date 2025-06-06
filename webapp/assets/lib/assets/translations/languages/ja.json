@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "これにより、アプリはアプリ専用のDropboxフォルダのみにアクセスするように制限されます。確信が持てない場合は、このオプションを選択してください。後で簡単に変更できます。",
     "sync_option_dropbox_full_title": "Dropbox - フルアクセス",
     "sync_option_dropbox_full_description": "これにより、アプリにDropboxへのフルアクセスが許可されます。アプリでDropbox全体のファイルを検索する場合は、このオプションを選択します。",
-    "enter_access_code_hint_text": "アクセスコードの入力",
     "offline_map_files": "オフラインマップファイル",
     "x_files": "%s ファイル",
     "clear_offline_map_files_action": "オフラインマップファイルのクリア",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "お使いのブラウザは完全に互換性がないようです。完全に互換性があるとテストされているのは Google Chrome のみです\n互換性の詳細は以下をご覧ください:\n\n%s",
     "show_data_backup_reminder": "データバックアップリマインダーを表示",
     "display_all_editing_shape_points": "編集中のシェイプポイントをすべて表示（低速）",
+    "sync_option_webdav_title": "WebDAV サーバー",
+    "sync_option_webdav_description": "これにより、アクセス資格情報を設定して WebDAV サーバーと同期できるようになります。",
+    "enter_configuration_values_title": "設定値を入力する",
+    "required_hint_text": "必須",
+    "access_code_hint_text": "アクセスコード",
+    "server_url_hint_text": "サーバーURL",
+    "username_hint_text": "ユーザー名",
+    "password_hint_text": "パスワード",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

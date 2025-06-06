@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "To omezuje aplikaci na přístup pouze ke složce Dropbox vyhrazené pro aplikaci. Pokud máte pochybnosti, vyberte tuto možnost, později můžete snadno změnit názor.",
     "sync_option_dropbox_full_title": "Dropbox - plný přístup",
     "sync_option_dropbox_full_description": "To aplikaci poskytuje plný přístup k vašemu Dropbox. Tuto možnost vyberte, pokud chcete, aby aplikace našla soubory v celém vašem Dropbox.",
-    "enter_access_code_hint_text": "Zadejte přístupový kód",
     "offline_map_files": "Offline mapové soubory",
     "x_files": "%s souborů",
     "clear_offline_map_files_action": "Vymažte offline mapové soubory",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "Zdá se, že váš prohlížeč není plně kompatibilní – jako plně kompatibilní je testován pouze Google Chrome\nPodrobnosti o kompatibilitě naleznete níže:\n\n%s",
     "show_data_backup_reminder": "Zobrazit připomínku zálohování dat",
     "display_all_editing_shape_points": "Zobrazit všechny body tvaru pro úpravy (pomalejší)",
+    "sync_option_webdav_title": "WebDAV server",
+    "sync_option_webdav_description": "To vám umožní synchronizovat se serverem WebDAV nakonfigurováním přístupových pověření.",
+    "enter_configuration_values_title": "Zadejte konfigurační hodnoty",
+    "required_hint_text": "Požadovaný",
+    "access_code_hint_text": "Přístupový kód",
+    "server_url_hint_text": "Adresa URL serveru",
+    "username_hint_text": "Uživatelské jméno",
+    "password_hint_text": "Heslo",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

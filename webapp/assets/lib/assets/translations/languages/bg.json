@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "Това ограничава приложението само за достъп до папка Dropbox, посветена на приложението. Ако се съмнявате, изберете тази опция, лесно можете да промените решението си по-късно.",
     "sync_option_dropbox_full_title": "Dropbox - пълен достъп",
     "sync_option_dropbox_full_description": "Това предоставя на приложението пълен достъп до вашия Dropbox. Изберете тази опция, ако искате приложението да намира файлове в целия ви Dropbox.",
-    "enter_access_code_hint_text": "Въведете код за достъп",
     "offline_map_files": "Офлайн файлове с карти",
     "x_files": "%s файла",
     "clear_offline_map_files_action": "Изчистете офлайн файловете с карти",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "Изглежда, че вашият браузър не е напълно съвместим - само Google Chrome е тестван като напълно съвместим\nВижте подробности за съвместимостта по-долу:\n\n%s",
     "show_data_backup_reminder": "Показване на напомняне за архивиране на данни",
     "display_all_editing_shape_points": "Показване на всички редактирани точки на формата (по-бавно)",
+    "sync_option_webdav_title": "WebDAV сървър",
+    "sync_option_webdav_description": "Това ви позволява да синхронизирате с WebDAV сървър чрез конфигуриране на идентификационни данни за достъп.",
+    "enter_configuration_values_title": "Въведете конфигурационни стойности",
+    "required_hint_text": "Задължително",
+    "access_code_hint_text": "Код за достъп",
+    "server_url_hint_text": "URL адрес на сървъра",
+    "username_hint_text": "Потребителско име",
+    "password_hint_text": "Парола",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

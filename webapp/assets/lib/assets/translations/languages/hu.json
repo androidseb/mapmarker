@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "Ez azt korlátozza, hogy az alkalmazás csak az alkalmazáshoz rendelt Dropbox mappához férhessen hozzá. Ha kétségei vannak, válassza ezt a lehetőséget, mert később könnyen meggondolhatja magát.",
     "sync_option_dropbox_full_title": "Dropbox - teljes hozzáférés",
     "sync_option_dropbox_full_description": "Ezzel az alkalmazás teljes hozzáférést biztosít a Dropbox-hez. Válassza ezt a lehetőséget, ha azt szeretné, hogy az alkalmazás megtalálja a fájlokat a teljes Dropbox-ben.",
-    "enter_access_code_hint_text": "Írja be a hozzáférési kódot",
     "offline_map_files": "Offline térképfájlok",
     "x_files": "%s fájl",
     "clear_offline_map_files_action": "Offline térképfájlok törlése",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "Úgy tűnik, az Ön böngészője nem teljesen kompatibilis – csak a Google Chrome-ot teszteltük teljesen kompatibilisként\nLásd alább a kompatibilitási részleteket:\n\n%s",
     "show_data_backup_reminder": "Adatmentési emlékeztető megjelenítése",
     "display_all_editing_shape_points": "Az összes szerkesztett alakzati pont megjelenítése (lassabb)",
+    "sync_option_webdav_title": "WebDAV szerver",
+    "sync_option_webdav_description": "Ez lehetővé teszi a WebDAV-kiszolgálóval való szinkronizálást a hozzáférési hitelesítő adatok konfigurálásával.",
+    "enter_configuration_values_title": "Adja meg a konfigurációs értékeket",
+    "required_hint_text": "Kívánt",
+    "access_code_hint_text": "Hozzáférési kód",
+    "server_url_hint_text": "Szerver URL",
+    "username_hint_text": "Felhasználónév",
+    "password_hint_text": "Jelszó",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

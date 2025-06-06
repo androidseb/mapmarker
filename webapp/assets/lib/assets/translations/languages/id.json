@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "Ini membatasi aplikasi untuk hanya mengakses folder Dropbox khusus aplikasi. Jika ragu, pilih opsi ini, Anda dapat dengan mudah berubah pikiran nanti.",
     "sync_option_dropbox_full_title": "Dropbox - akses penuh",
     "sync_option_dropbox_full_description": "Ini memberi aplikasi akses penuh ke Dropbox. Pilih opsi ini jika Anda ingin aplikasi menemukan file di seluruh Dropbox.",
-    "enter_access_code_hint_text": "Masukkan kode akses",
     "offline_map_files": "File peta offline",
     "x_files": "%s file",
     "clear_offline_map_files_action": "Hapus file peta offline",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "Tampaknya browser Anda tidak sepenuhnya kompatibel - hanya Google Chrome yang diuji sebagai sepenuhnya kompatibel\nLihat detail kompatibilitas di bawah ini:\n\n%s",
     "show_data_backup_reminder": "Tampilkan pengingat pencadangan data",
     "display_all_editing_shape_points": "Menampilkan semua titik bentuk pengeditan (lebih lambat)",
+    "sync_option_webdav_title": "Server WebDAV",
+    "sync_option_webdav_description": "Ini memungkinkan Anda untuk melakukan sinkronisasi ke server WebDAV dengan mengonfigurasi kredensial akses.",
+    "enter_configuration_values_title": "Masukkan nilai konfigurasi",
+    "required_hint_text": "Diperlukan",
+    "access_code_hint_text": "Kode akses",
+    "server_url_hint_text": "Alamat server",
+    "username_hint_text": "Nama belakang",
+    "password_hint_text": "Kata sandi",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

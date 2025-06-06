@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "Ogranicza to dostęp aplikacji tylko do folderu Dropbox dedykowanego aplikacji. Jeśli masz wątpliwości, wybierz tę opcję, później możesz łatwo zmienić zdanie.",
     "sync_option_dropbox_full_title": "Dropbox - pełny dostęp",
     "sync_option_dropbox_full_description": "Dzięki temu aplikacja ma pełny dostęp do Twojego Dropbox. Wybierz tę opcję, jeśli chcesz, aby aplikacja znajdowała pliki w całym Twoim Dropbox.",
-    "enter_access_code_hint_text": "Wpisz kod dostępu",
     "offline_map_files": "Pliki map offline",
     "x_files": "%s plików",
     "clear_offline_map_files_action": "Wyczyść pliki map offline",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "Wygląda na to, że Twoja przeglądarka nie jest w pełni zgodna — tylko Google Chrome jest testowany jako w pełni zgodny\nZobacz szczegóły zgodności poniżej:\n\n%s",
     "show_data_backup_reminder": "Pokaż przypomnienie o kopii zapasowej danych",
     "display_all_editing_shape_points": "Wyświetl wszystkie punkty kształtu edycji (wolniej)",
+    "sync_option_webdav_title": "Serwer WebDAV",
+    "sync_option_webdav_description": "Umożliwia synchronizację z serwerem WebDAV poprzez skonfigurowanie danych dostępowych.",
+    "enter_configuration_values_title": "Wprowadź wartości konfiguracji",
+    "required_hint_text": "Wymagany",
+    "access_code_hint_text": "Kod dostępu",
+    "server_url_hint_text": "Adres URL serwera",
+    "username_hint_text": "Nazwa użytkownika",
+    "password_hint_text": "Hasło",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

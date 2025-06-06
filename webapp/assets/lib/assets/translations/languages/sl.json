@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "To omejuje aplikacijo na dostop samo do mape Dropbox, namenjene aplikaciji. Če ste v dvomih, izberite to možnost, kasneje si boste zlahka premislili.",
     "sync_option_dropbox_full_title": "Dropbox - popoln dostop",
     "sync_option_dropbox_full_description": "To aplikaciji omogoči popoln dostop do vašega Dropbox. Izberite to možnost, če želite, da aplikacija najde datoteke v celotnem Dropbox.",
-    "enter_access_code_hint_text": "Vnesite kodo za dostop",
     "offline_map_files": "Datoteke zemljevidov brez povezave",
     "x_files": "%s datotek",
     "clear_offline_map_files_action": "Počisti datoteke zemljevidov brez povezave",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "Zdi se, da vaš brskalnik ni popolnoma združljiv - samo Google Chrome je preizkušen kot popolnoma združljiv\nSpodaj si oglejte podrobnosti o združljivosti:\n\n%s",
     "show_data_backup_reminder": "Pokaži opomnik za varnostno kopiranje podatkov",
     "display_all_editing_shape_points": "Prikaži vse urejevalne točke oblike (počasneje)",
+    "sync_option_webdav_title": "strežnik WebDAV",
+    "sync_option_webdav_description": "To vam omogoča sinhronizacijo s strežnikom WebDAV tako, da konfigurirate poverilnice za dostop.",
+    "enter_configuration_values_title": "Vnesite konfiguracijske vrednosti",
+    "required_hint_text": "Obvezno",
+    "access_code_hint_text": "Koda za dostop",
+    "server_url_hint_text": "URL strežnika",
+    "username_hint_text": "Uporabniško ime",
+    "password_hint_text": "Geslo",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

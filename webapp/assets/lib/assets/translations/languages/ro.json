@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "Acest lucru limitează aplicația să acceseze doar un folder Dropbox dedicat aplicației. Dacă aveți îndoieli, alegeți această opțiune, vă puteți răzgândi cu ușurință mai târziu.",
     "sync_option_dropbox_full_title": "Dropbox - acces complet",
     "sync_option_dropbox_full_description": "Acest lucru oferă aplicației acces deplin la Dropbox. Alegeți această opțiune dacă doriți ca aplicația să găsească fișiere în întregul dvs. Dropbox.",
-    "enter_access_code_hint_text": "Introduceți codul de acces",
     "offline_map_files": "Fișiere de hartă offline",
     "x_files": "%s fișiere",
     "clear_offline_map_files_action": "Ștergeți fișierele de hartă offline",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "Se pare că browserul dvs. nu este pe deplin compatibil - doar Google Chrome este testat ca fiind pe deplin compatibil\nVedeți mai jos detaliile de compatibilitate:\n\n%s",
     "show_data_backup_reminder": "Afișează memento pentru copierea de rezervă a datelor",
     "display_all_editing_shape_points": "Afișează toate punctele de formă de editare (mai lent)",
+    "sync_option_webdav_title": "Server WebDAV",
+    "sync_option_webdav_description": "Acest lucru vă permite să vă sincronizați cu un server WebDAV prin configurarea acreditărilor de acces.",
+    "enter_configuration_values_title": "Introduceți valorile de configurare",
+    "required_hint_text": "Necesar",
+    "access_code_hint_text": "Cod de acces",
+    "server_url_hint_text": "Adresa URL a serverului",
+    "username_hint_text": "Nume de utilizator",
+    "password_hint_text": "Parolă",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

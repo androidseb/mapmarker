@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "Dit beperkt de app om alleen toegang te krijgen tot een app-specifieke Dropbox-map. Kies bij twijfel deze optie, u kunt later gemakkelijk van gedachten veranderen.",
     "sync_option_dropbox_full_title": "Dropbox - volledige toegang",
     "sync_option_dropbox_full_description": "Dit geeft de app volledige toegang tot uw Dropbox. Kies deze optie als je wilt dat de app bestanden in je hele Dropbox vindt.",
-    "enter_access_code_hint_text": "Voer toegangscode in",
     "offline_map_files": "Offline kaartbestanden",
     "x_files": "%s bestanden",
     "clear_offline_map_files_action": "Offline kaartbestanden wissen",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "Het lijkt erop dat uw browser niet volledig compatibel is - alleen Google Chrome is getest als volledig compatibel\nZie compatibiliteitsdetails hieronder:\n\n%s",
     "show_data_backup_reminder": "Herinnering voor gegevensback-up weergeven",
     "display_all_editing_shape_points": "Alle bewerkingsvormpunten weergeven (langzamer)",
+    "sync_option_webdav_title": "WebDAV-server",
+    "sync_option_webdav_description": "Hiermee kunt u synchroniseren met een WebDAV-server door toegangsreferenties te configureren.",
+    "enter_configuration_values_title": "Voer configuratie-waarden in",
+    "required_hint_text": "Vereist",
+    "access_code_hint_text": "Toegangscode",
+    "server_url_hint_text": "Server-URL",
+    "username_hint_text": "Gebruikersnaam",
+    "password_hint_text": "Wachtwoord",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

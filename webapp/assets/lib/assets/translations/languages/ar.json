@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "هذا يحد من التطبيق للوصول فقط إلى مجلد Dropbox مخصص للتطبيق. إذا كنت في شك ، فاختر هذا الخيار ، يمكنك بسهولة تغيير رأيك لاحقًا.",
     "sync_option_dropbox_full_title": "Dropbox - الوصول الكامل",
     "sync_option_dropbox_full_description": "يمنح هذا التطبيق حق الوصول الكامل إلى Dropbox. حدد هذا الخيار إذا كنت تريد أن يعثر التطبيق على الملفات في Dropbox بالكامل.",
-    "enter_access_code_hint_text": "إدخال رمز الوصول",
     "offline_map_files": "ملفات الخرائط غير المتصلة بالإنترنت",
     "x_files": "%s ملفات",
     "clear_offline_map_files_action": "مسح ملفات الخرائط غير المتصلة بالإنترنت",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "يبدو أن متصفحك غير متوافق تمامًا - تم اختبار Google Chrome فقط باعتباره متوافقًا تمامًا\nراجع تفاصيل التوافق أدناه:\n\n%s",
     "show_data_backup_reminder": "إظهار تذكير النسخ الاحتياطي للبيانات",
     "display_all_editing_shape_points": "عرض جميع نقاط شكل التحرير (أبطأ)",
+    "sync_option_webdav_title": "خادم WebDAV",
+    "sync_option_webdav_description": "يتيح لك هذا المزامنة مع خادم WebDAV عن طريق تكوين بيانات اعتماد الوصول.",
+    "enter_configuration_values_title": "أدخل قيم التكوين",
+    "required_hint_text": "مطلوب",
+    "access_code_hint_text": "رمز الدخول",
+    "server_url_hint_text": "عنوان URL للخادم",
+    "username_hint_text": "اسم المستخدم",
+    "password_hint_text": "كلمة المرور",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -373,7 +373,6 @@
     "sync_option_dropbox_limited_description": "이렇게 하면 앱이 앱 전용 Dropbox 폴더에만 액세스하도록 제한됩니다. 확실하지 않은 경우 이 옵션을 선택하면 나중에 쉽게 마음이 바뀔 수 있습니다.",
     "sync_option_dropbox_full_title": "Dropbox - 전체 액세스",
     "sync_option_dropbox_full_description": "이렇게 하면 앱에 Dropbox에 대한 전체 액세스 권한이 부여됩니다. 앱이 전체 Dropbox에서 파일을 찾도록 하려면 이 옵션을 선택하십시오.",
-    "enter_access_code_hint_text": "액세스 코드 입력",
     "offline_map_files": "오프라인 지도 파일",
     "x_files": "%s 파일",
     "clear_offline_map_files_action": "오프라인 지도 파일 지우기",
@@ -518,5 +517,13 @@
     "browser_compatibility_warning_message_x": "귀하의 브라우저가 완벽하게 호환되지 않는 것 같습니다. Google Chrome만 완벽하게 호환되는 것으로 테스트되었습니다.\n아래의 호환성 세부 정보를 참조하세요.\n\n%s",
     "show_data_backup_reminder": "데이터 백업 알림 표시",
     "display_all_editing_shape_points": "모든 편집 모양 포인트 표시(느림)",
+    "sync_option_webdav_title": "WebDAV 서버",
+    "sync_option_webdav_description": "이렇게 하면 액세스 자격 증명을 구성하여 WebDAV 서버와 동기화할 수 있습니다.",
+    "enter_configuration_values_title": "구성 값을 입력하세요",
+    "required_hint_text": "필수의",
+    "access_code_hint_text": "액세스 코드",
+    "server_url_hint_text": "서버 URL",
+    "username_hint_text": "사용자 이름",
+    "password_hint_text": "비밀번호",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
