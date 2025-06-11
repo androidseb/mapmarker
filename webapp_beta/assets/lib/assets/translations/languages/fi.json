@@ -500,7 +500,7 @@
     "use_premium_code_title": "Käytä Premium-koodia",
     "use_premium_code_description": "Aktivoi Premium-versio toisella laitteella luodulla koodilla",
     "hint_enter_premium_code": "Anna Premium-koodi",
-    "premium_activation_failed_reason_x": "Premiumi-version aktivointi epäonnistui:\n%s",
+    "premium_activation_failed_reason_x": "Premium-version aktivointi epäonnistui:\n%s",
     "hint_for_guest_premium_access": "Olet aktivoinut Guest Premium -käyttöoikeuden tällä laitteella",
     "generate_premium_code_title": "Luo Premium-koodi",
     "generate_premium_code_description": "Luo Premium-koodi aktivoidaksesi Premium-version toisessa laitteessasi",
