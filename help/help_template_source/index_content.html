@@ -3,7 +3,7 @@
 				<h1>User interface description</h1>
 
 				<h2 class="devices_web">How to open the Web App</h2>
-				<p>The web app is meant to be opened from your computer's web browser. You can reach the web app from the home page by clicking "Launch the Web App" or by clicking <a href="https://www.mapmarker.app/webapp">here</a></p>
+				<p>The web app is meant to be opened from your computer's web browser. You can reach the web app from the home page by clicking "Launch the Web App" or by clicking <a href="https://www.mapmarker.app/webapp" target="_blank" rel="noopener">here</a></p>
 
 				<h2>Main interface</h2>
 
@@ -427,25 +427,7 @@
 					<li>Check the displayed result (success/failure)</li>
 				</ol>
 				<p>Below are the different third party sources that can be configured with instructions on how to obtain the configuration values, by increasing order of difficulty.
-				<b>"Here" Places Search API</b> seems like the best option because it's easy to setup.</p>
-				<b>"Here" Places Search API (easy)</b>
-				<p>Notes:</p>
-				<ul>
-					<li>You will need to use or create a free HERE account to retrieve the configuration values</li>
-					<li>There is no need for a credit card (you can skip the "billing details" step)</li>
-					<li>The free quota is plenty for a single user</li>
-					<li>The configuration value you will need to obtain is an <b>API key</b></li>
-				</ul>
-				<p>Steps:</p>
-				<ol>
-					<li>Create an account here (skip billing details): <a href="https://platform.here.com/sign-up?step=verify-identity">https://platform.here.com/sign-up?step=verify-identity</a></li>
-					<li>Navigate to the apps management page: <a href="https://platform.here.com/admin/apps">https://platform.here.com/admin/apps</a></li>
-					<li>Click the "Register new app" button at the top right</li>
-					<li>Under the "Register new app" prompt, enter "My App" as the app name, then click the "Register" button</li>
-					<li>On the next page, if no API key is already present, click "Create API key"</li>
-					<li>On the API key, click either the "Copy" or "View" buttons so you can copy the API key to the clipboard</li>
-					<li>Note that you can later come back to your app to view/copy the API key from the apps management page: <a href="https://platform.here.com/admin/apps">https://platform.here.com/admin/apps</a></li>
-				</ol>
+				<b>"Tomtom" Places Search API</b> seems like the best option because it's easy to setup and cannot accidentally cause billing on a credit card.</p>
 				<b>Tomtom places search API (easy)</b>
 				<p>Notes</p>
 				<ul>
@@ -456,33 +438,29 @@
 				</ul>
 				<p>Steps:</p>
 				<ol>
-					<li>Create an account here: https://developer.tomtom.com/user/register?destination=/how-to-get-tomtom-api-key</li>
+					<li>Create an account here: <a href="https://developer.tomtom.com/user/register?destination=/how-to-get-tomtom-api-key" target="_blank" rel="noopener">https://developer.tomtom.com/user/register?destination=/how-to-get-tomtom-api-key</a></li>
 					<li>Activate your account by clicking the "Activate account" button received in your registration email</li>
-					<li>Navigate to the apps section of your account: https://developer.tomtom.com/user/me/apps</li>
+					<li>Navigate to the apps section of your account: <a href="https://developer.tomtom.com/user/me/apps" target="_blank" rel="noopener">https://developer.tomtom.com/user/me/apps</a></li>
 					<li>You should see an API key called "My First API Key"</li>
 					<li>Under the "Key" column, click on the key to copy it to the clipboard</li>
 				</ol>
-				<b>"Google" Places Search API (very hard)</b>
-				<p>Notes:</p>
+				<b>Other places search APIs providers</b>
+				<p>Important notes:</p>
 				<ul>
-					<li>!!!FOR ADVANCED USERS ONLY!!!</li>
-					<li>You will need to use or create a free Google account to retrieve the configuration values</li>
-					<li>The free quota should be enough for a single user</li>
-					<li>The configuration value you will need to obtain is the <b>API key</b></li>
-					<li>To get a functional API key, you will need to give your credit card information to Google</li>
-					<li>Google may charge you on the API usage</li>
-					<li>There are ways to limit the usage to only the free quota, to avoid being charged, but they depend on your configuration</li>
+					<li>To get a functional API key, you will need to provide credit card information</li>
+					<li>The provider may charge you on the API usage</li>
+					<li>There are ways to limit the usage to only the free quota to avoid being charged, but they depend on your configuration</li>
 					<li>It is impossible to use the free quota without providing a credit card</li>
 					<li>It is impossible to guarantee no expenses due to an accidental bad configuration</li>
-					<li>I will not provide support for this, you will have to interact with Google directly: <a href="https://developers.google.com/places/web-service/support">https://developers.google.com/places/web-service/support</a></li>
+					<li>The free quota should be enough for a single user</li>
+					<li>I will not provide support for this, you will have to refer to the provider's documentation (see links below)</li>
+					<li>The configuration value you will need to obtain is the <b>API key</b></li>
 				</ul>
-				<p>Steps:</p>
-				<ol>
-					<li>Get an API key here: <a href="https://developers.google.com/places/web-service/get-api-key">https://developers.google.com/places/web-service/get-api-key</a></li>
-					<li>Enable billing for your google cloud console account</li>
-					<li>Set a limit on your Places API usage</li>
-					<li>Save the API key in a way that you can paste it into Map Marker</li>
-				</ol>
+				Providers (from easiest to hardest):
+				<ul>
+					<li>"Here" Places Search API (easy): see documentation <a href="https://www.here.com/docs/bundle/identity-and-access-management-developer-guide/page/topics/plat-using-apikeys.html" target="_blank" rel="noopener">here</a></li>
+					<li>"Google" Places Search API (difficult): see documentation <a href="https://developers.google.com/maps/documentation/places/web-service/get-api-key#creating-api-keys" target="_blank" rel="noopener">here</a></li>
+				</ul>
 
 				<h2 class="devices_android">How to use offline maps?</h2>
 				<ol>
@@ -705,7 +683,7 @@
 				</ol>
 				<p>
 					If these steps don't work you can send me your order number for confirmation and I will help you.
-					You can find your order number from the email you received when making the purchase, or from <a target="_blank" href="https://payments.google.com/">https://payments.google.com/</a> under the "Activity" tab.
+					You can find your order number from the email you received when making the purchase, or from <a href="https://payments.google.com/" target="_blank" rel="noopener">https://payments.google.com/</a> under the "Activity" tab.
 				</p>
 
 				<h2 class="devices_android">Problems with Google Play Services</h2>
@@ -779,7 +757,7 @@
 					In this case, you will need to find and fix the offending POI with the following steps:
 				</p>
 				<ol>
-					<li>From the device with the problematic app installed, click <a href="https://mapmarker.app/dl?dbCursorWindowSizeOverride=100">this</a></li>
+					<li>From the device with the problematic app installed, click <a href="https://mapmarker.app/dl?dbCursorWindowSizeOverride=100" target="_blank" rel="noopener">this</a></li>
 					<li>This should open Map Marker successfully and display a special message reading "sCursorWindowSize => 100MB"</li>
 					<li><a href="#devices_android_How_to_exportshare_your_markers">Export your markers as a CSV file (text only)</a></li>
 					<li><a href="#devices_android_How_to_exportshare_your_markers">Import your markers</a></li>
