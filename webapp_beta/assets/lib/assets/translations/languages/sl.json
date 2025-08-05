@@ -324,8 +324,6 @@
     "short_search_source_android_geocoder": "Android Geokodiranje",
     "search_source_ios_geocoder": "Integrated iOS Street Addresses Finder",
     "short_search_source_ios_geocoder": "iOS Geokodiranje",
-    "search_source_bing": "Microsoft Bing način iskanja",
-    "short_search_source_bing": "Bing",
     "confirmation_message_delete_sub_folder": "Ta mapa vsebuje tudi podmape. Ali želite izbrisati tudi njene podmape? Izbrisane bodo tudi vse povezane oznake!",
     "delete_folder_choice_folder_only": "Izbriši samo mapo",
     "delete_folder_choice_folder_plus_sub_folders": "Izbriši mapo in njene podmape",
@@ -525,5 +523,7 @@
     "server_url_hint_text": "URL strežnika",
     "username_hint_text": "Uporabniško ime",
     "password_hint_text": "Geslo",
+    "search_source_geoapify": "Geoapify",
+    "short_search_source_geoapify": "Geoapify Places Search API",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

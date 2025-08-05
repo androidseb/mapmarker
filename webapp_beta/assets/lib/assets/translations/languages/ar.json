@@ -324,8 +324,6 @@
     "short_search_source_android_geocoder": "Android Geocoder",
     "search_source_ios_geocoder": "Integrated iOS Street Addresses Finder",
     "short_search_source_ios_geocoder": "iOS Geocoder",
-    "search_source_bing": "Microsoft Bing Places Search",
-    "short_search_source_bing": "Bing",
     "confirmation_message_delete_sub_folder": "يحتوي هذا المجلد على مجلدات فرعية. هل تريد حذف المجلدات الفرعية أيضًا؟ سيتم حذف جميع العلامات المرتبطة بالمجلدات المحذوفة نهائيًا!",
     "delete_folder_choice_folder_only": "احذف المجلد فقط",
     "delete_folder_choice_folder_plus_sub_folders": "حذف المجلد + المجلدات الفرعية",
@@ -525,5 +523,7 @@
     "server_url_hint_text": "عنوان URL للخادم",
     "username_hint_text": "اسم المستخدم",
     "password_hint_text": "كلمة المرور",
+    "search_source_geoapify": "Geoapify",
+    "short_search_source_geoapify": "Geoapify Places Search API",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

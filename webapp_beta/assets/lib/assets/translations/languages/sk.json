@@ -324,8 +324,6 @@
     "short_search_source_android_geocoder": "Android Geocoder",
     "search_source_ios_geocoder": "Integrated iOS Street Addresses Finder",
     "short_search_source_ios_geocoder": "iOS Geocoder",
-    "search_source_bing": "Microsoft Bing Places Search",
-    "short_search_source_bing": "Bing",
     "confirmation_message_delete_sub_folder": "Tento priečinok má podpriečinky. Chcete tiež odstrániť podpriečinky? Všetky značky spojené s odstránenými priečinkami budú natrvalo odstránené!",
     "delete_folder_choice_folder_only": "Odstrániť iba priečinok",
     "delete_folder_choice_folder_plus_sub_folders": "Odstrániť priečinok + podpriečinky",
@@ -525,5 +523,7 @@
     "server_url_hint_text": "Adresa URL servera",
     "username_hint_text": "Používateľské meno",
     "password_hint_text": "heslo",
+    "search_source_geoapify": "Geoapify",
+    "short_search_source_geoapify": "Geoapify Places Search API",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

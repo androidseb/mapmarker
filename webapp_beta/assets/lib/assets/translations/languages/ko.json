@@ -324,8 +324,6 @@
     "short_search_source_android_geocoder": "Android Geocoder",
     "search_source_ios_geocoder": "Integrated iOS Street Addresses Finder",
     "short_search_source_ios_geocoder": "iOS Geocoder",
-    "search_source_bing": "Microsoft Bing Places Search",
-    "short_search_source_bing": "Bing",
     "confirmation_message_delete_sub_folder": "이 폴더에는 하위 폴더가 있습니다. 하위 폴더도 삭제 하시겠습니까? 삭제 된 폴더와 관련된 모든 마커가 영구적으로 삭제됩니다!",
     "delete_folder_choice_folder_only": "폴더 만 삭제",
     "delete_folder_choice_folder_plus_sub_folders": "폴더 + 하위 폴더 삭제",
@@ -525,5 +523,7 @@
     "server_url_hint_text": "서버 URL",
     "username_hint_text": "사용자 이름",
     "password_hint_text": "비밀번호",
+    "search_source_geoapify": "Geoapify",
+    "short_search_source_geoapify": "Geoapify Places Search API",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

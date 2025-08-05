@@ -324,8 +324,6 @@
     "short_search_source_android_geocoder": "Android Geocoder",
     "search_source_ios_geocoder": "Integrated iOS Street Addresses Finder",
     "short_search_source_ios_geocoder": "iOS Geocoder",
-    "search_source_bing": "Microsoft Bing Places Search",
-    "short_search_source_bing": "Bing",
     "confirmation_message_delete_sub_folder": "इस फ़ोल्डर में उप-फ़ोल्डर हैं। क्या आप उप-फ़ोल्डर्स को भी हटाना चाहते हैं? हटाए गए फ़ोल्डरों से संबंधित सभी मार्कर स्थायी रूप से हटा दिए जाएंगे!",
     "delete_folder_choice_folder_only": "केवल फ़ोल्डर हटाएं",
     "delete_folder_choice_folder_plus_sub_folders": "फ़ोल्डर + उप-फ़ोल्डर हटाएँ",
@@ -525,5 +523,7 @@
     "server_url_hint_text": "सर्वर यूआरएल",
     "username_hint_text": "उपयोगकर्ता नाम",
     "password_hint_text": "पासवर्ड",
+    "search_source_geoapify": "Geoapify",
+    "short_search_source_geoapify": "Geoapify Places Search API",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

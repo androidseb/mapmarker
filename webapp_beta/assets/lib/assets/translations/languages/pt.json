@@ -324,8 +324,6 @@
     "short_search_source_android_geocoder": "Android Geocoder",
     "search_source_ios_geocoder": "Integrated iOS Street Addresses Finder",
     "short_search_source_ios_geocoder": "iOS Geocoder",
-    "search_source_bing": "Microsoft Bing Places Search",
-    "short_search_source_bing": "Bing",
     "confirmation_message_delete_sub_folder": "Esta pasta possui subpastas. Você deseja excluir as subpastas também? Todos os marcadores associados às pastas excluídas serão excluídos permanentemente!",
     "delete_folder_choice_folder_only": "Excluir apenas pasta",
     "delete_folder_choice_folder_plus_sub_folders": "Excluir pasta + subpastas",
@@ -525,5 +523,7 @@
     "server_url_hint_text": "URL do servidor",
     "username_hint_text": "Nome de usuário",
     "password_hint_text": "Senha",
+    "search_source_geoapify": "Geoapify",
+    "short_search_source_geoapify": "Geoapify Places Search API",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

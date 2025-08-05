@@ -324,8 +324,6 @@
     "short_search_source_android_geocoder": "Android Geocoder",
     "search_source_ios_geocoder": "Integrated iOS Street Addresses Finder",
     "short_search_source_ios_geocoder": "iOS Geocoder",
-    "search_source_bing": "Microsoft Bing Places Search",
-    "short_search_source_bing": "Bing",
     "confirmation_message_delete_sub_folder": "Aquesta carpeta té subcarpetes. Voleu eliminar també les subcarpetes? Tots els marcadors associats a les carpetes suprimides se suprimiran permanentment.",
     "delete_folder_choice_folder_only": "Suprimeix només la carpeta",
     "delete_folder_choice_folder_plus_sub_folders": "Esborra carpeta + subcarpetes",
@@ -525,5 +523,7 @@
     "server_url_hint_text": "URL del servidor",
     "username_hint_text": "Nom d'usuari",
     "password_hint_text": "Contrasenya",
+    "search_source_geoapify": "Geoapify",
+    "short_search_source_geoapify": "Geoapify Places Search API",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

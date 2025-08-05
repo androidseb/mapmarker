@@ -324,8 +324,6 @@
     "short_search_source_android_geocoder": "Android Geocoder",
     "search_source_ios_geocoder": "Integrated iOS Street Addresses Finder",
     "short_search_source_ios_geocoder": "iOS Geocoder",
-    "search_source_bing": "Microsoft Bing Places Search",
-    "short_search_source_bing": "Bing",
     "confirmation_message_delete_sub_folder": "Denne mappen har undermapper. Vil du også slette undermappene? Alle markører tilknyttet de slettede mappene vil bli slettet permanent!",
     "delete_folder_choice_folder_only": "Slett bare mappen",
     "delete_folder_choice_folder_plus_sub_folders": "Slett mappe + undermapper",
@@ -525,5 +523,7 @@
     "server_url_hint_text": "Server URL",
     "username_hint_text": "Brukernavn",
     "password_hint_text": "Passord",
+    "search_source_geoapify": "Geoapify",
+    "short_search_source_geoapify": "Geoapify Places Search API",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

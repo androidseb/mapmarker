@@ -324,8 +324,6 @@
     "short_search_source_android_geocoder": "Android Geocoder",
     "search_source_ios_geocoder": "Integrated iOS Street Addresses Finder",
     "short_search_source_ios_geocoder": "iOS Geocoder",
-    "search_source_bing": "Microsoft Bing Places Search",
-    "short_search_source_bing": "Bing",
     "confirmation_message_delete_sub_folder": "此文件夾包含子文件夾。您是否也要刪除子文件夾？與已刪除文件夾關聯的所有標記將被永久刪除！",
     "delete_folder_choice_folder_only": "僅刪除文件夾",
     "delete_folder_choice_folder_plus_sub_folders": "刪除文件夾+子文件夾",
@@ -525,5 +523,7 @@
     "server_url_hint_text": "伺服器 URL",
     "username_hint_text": "使用者名稱",
     "password_hint_text": "密碼",
+    "search_source_geoapify": "Geoapify",
+    "short_search_source_geoapify": "Geoapify Places Search API",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

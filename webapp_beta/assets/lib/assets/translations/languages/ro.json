@@ -324,8 +324,6 @@
     "short_search_source_android_geocoder": "Android Geocoder",
     "search_source_ios_geocoder": "Integrated iOS Street Addresses Finder",
     "short_search_source_ios_geocoder": "iOS Geocoder",
-    "search_source_bing": "Microsoft Bing Places Search",
-    "short_search_source_bing": "Bing",
     "confirmation_message_delete_sub_folder": "Acest dosar are sub-foldere. Doriți să ștergeți și sub-dosarele? Toate marcajele asociate folderelor șterse vor fi șterse definitiv!",
     "delete_folder_choice_folder_only": "Ștergeți numai dosarul",
     "delete_folder_choice_folder_plus_sub_folders": "Ștergeți folderul + subdosarele",
@@ -525,5 +523,7 @@
     "server_url_hint_text": "Adresa URL a serverului",
     "username_hint_text": "Nume de utilizator",
     "password_hint_text": "Parolă",
+    "search_source_geoapify": "Geoapify",
+    "short_search_source_geoapify": "Geoapify Places Search API",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
