@@ -324,8 +324,6 @@
     "short_search_source_android_geocoder": "Android Geocoder",
     "search_source_ios_geocoder": "Integrated iOS Street Addresses Finder",
     "short_search_source_ios_geocoder": "iOS Geocoder",
-    "search_source_bing": "Microsoft Bing Places Search",
-    "short_search_source_bing": "Bing",
     "confirmation_message_delete_sub_folder": "ថតឯកសារនេះមានថតរង។ តើអ្នកចង់លុបថតរងផងដែរឬទេ? សញ្ញាសម្គាល់ទាំងអស់ដែលជាប់ទាក់ទងនឹងថតដែលបានលុបនឹងត្រូវបានលុបជារៀងរហូត!",
     "delete_folder_choice_folder_only": "លុបតែថតឯកសារប៉ុណ្ណោះ",
     "delete_folder_choice_folder_plus_sub_folders": "លុបថតឯកសារ + ថតរង",
@@ -525,5 +523,7 @@
     "server_url_hint_text": "URL ម៉ាស៊ីនមេ",
     "username_hint_text": "ឈ្មោះអ្នកប្រើប្រាស់",
     "password_hint_text": "ពាក្យសម្ងាត់",
+    "search_source_geoapify": "Geoapify",
+    "short_search_source_geoapify": "Geoapify Places Search API",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -324,8 +324,6 @@
     "short_search_source_android_geocoder": "Android Geocoder",
     "search_source_ios_geocoder": "Integrated iOS Street Addresses Finder",
     "short_search_source_ios_geocoder": "iOS Geocoder",
-    "search_source_bing": "Microsoft Bing Places Search",
-    "short_search_source_bing": "Bing",
     "confirmation_message_delete_sub_folder": "Tässä kansiossa on alikansioita. Haluatko poistaa myös alikansiot? Kaikki poistettuihin kansioihin tallennetut merkinnät poistetaan pysyvästi!",
     "delete_folder_choice_folder_only": "Poista vain kansio",
     "delete_folder_choice_folder_plus_sub_folders": "Poista kansio ja alikansiot",
@@ -500,7 +498,7 @@
     "use_premium_code_title": "Käytä Premium-koodia",
     "use_premium_code_description": "Aktivoi Premium-versio toisella laitteella luodulla koodilla",
     "hint_enter_premium_code": "Anna Premium-koodi",
-    "premium_activation_failed_reason_x": "Premiumi-version aktivointi epäonnistui:\n%s",
+    "premium_activation_failed_reason_x": "Premium-version aktivointi epäonnistui:\n%s",
     "hint_for_guest_premium_access": "Olet aktivoinut Guest Premium -käyttöoikeuden tällä laitteella",
     "generate_premium_code_title": "Luo Premium-koodi",
     "generate_premium_code_description": "Luo Premium-koodi aktivoidaksesi Premium-version toisessa laitteessasi",
@@ -525,5 +523,7 @@
     "server_url_hint_text": "Palvelimen URL-osoite",
     "username_hint_text": "Käyttäjätunnus",
     "password_hint_text": "Salasana",
+    "search_source_geoapify": "Geoapify",
+    "short_search_source_geoapify": "Geoapify Places Search API",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

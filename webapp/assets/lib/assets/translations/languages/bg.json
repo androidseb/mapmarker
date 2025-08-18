@@ -324,8 +324,6 @@
     "short_search_source_android_geocoder": "Android Geocoder",
     "search_source_ios_geocoder": "Integrated iOS Street Addresses Finder",
     "short_search_source_ios_geocoder": "iOS Geocoder",
-    "search_source_bing": "Microsoft Bing Places Search",
-    "short_search_source_bing": "Bing",
     "confirmation_message_delete_sub_folder": "Тази папка има подпапки. Искате ли да изтриете и подпапките? Всички маркери, свързани с изтритите папки, ще бъдат изтрити за постоянно!",
     "delete_folder_choice_folder_only": "Изтриване само на папка",
     "delete_folder_choice_folder_plus_sub_folders": "Изтриване на папка + подпапки",
@@ -525,5 +523,7 @@
     "server_url_hint_text": "URL адрес на сървъра",
     "username_hint_text": "Потребителско име",
     "password_hint_text": "Парола",
+    "search_source_geoapify": "Geoapify",
+    "short_search_source_geoapify": "Geoapify Places Search API",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

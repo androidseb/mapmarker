@@ -324,8 +324,6 @@
     "short_search_source_android_geocoder": "Android Geocoder",
     "search_source_ios_geocoder": "Integrated iOS Street Addresses Finder",
     "short_search_source_ios_geocoder": "iOS Geocoder",
-    "search_source_bing": "Microsoft Bing Places Search",
-    "short_search_source_bing": "Bing",
     "confirmation_message_delete_sub_folder": "Ennek a mappának vannak almappái. Törölni szeretné az almappákat is? A törölt mappákhoz társított összes jelölő véglegesen törlődik!",
     "delete_folder_choice_folder_only": "Csak mappa törlése",
     "delete_folder_choice_folder_plus_sub_folders": "Mappa + almappák törlése",
@@ -525,5 +523,7 @@
     "server_url_hint_text": "Szerver URL",
     "username_hint_text": "Felhasználónév",
     "password_hint_text": "Jelszó",
+    "search_source_geoapify": "Geoapify",
+    "short_search_source_geoapify": "Geoapify Places Search API",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

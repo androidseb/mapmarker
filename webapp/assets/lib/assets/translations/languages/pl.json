@@ -324,8 +324,6 @@
     "short_search_source_android_geocoder": "Android Geocoder",
     "search_source_ios_geocoder": "Integrated iOS Street Addresses Finder",
     "short_search_source_ios_geocoder": "iOS Geocoder",
-    "search_source_bing": "Microsoft Bing Places Search",
-    "short_search_source_bing": "Bing",
     "confirmation_message_delete_sub_folder": "Ten folder zawiera podfoldery. Czy chcesz usunąć również podfoldery? Wszystkie znaczniki powiązane z usuniętymi folderami zostaną trwale usunięte!",
     "delete_folder_choice_folder_only": "Usuń tylko folder",
     "delete_folder_choice_folder_plus_sub_folders": "Usuń folder + podfoldery",
@@ -525,5 +523,7 @@
     "server_url_hint_text": "Adres URL serwera",
     "username_hint_text": "Nazwa użytkownika",
     "password_hint_text": "Hasło",
+    "search_source_geoapify": "Geoapify",
+    "short_search_source_geoapify": "Geoapify Places Search API",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

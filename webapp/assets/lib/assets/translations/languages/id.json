@@ -324,8 +324,6 @@
     "short_search_source_android_geocoder": "Android Geocoder",
     "search_source_ios_geocoder": "Integrated iOS Street Addresses Finder",
     "short_search_source_ios_geocoder": "iOS Geocoder",
-    "search_source_bing": "Microsoft Bing Places Search",
-    "short_search_source_bing": "Bing",
     "confirmation_message_delete_sub_folder": "Folder ini memiliki sub-folder. Apakah Anda ingin menghapus sub-folder juga? Semua penanda yang terkait dengan folder yang dihapus akan dihapus secara permanen!",
     "delete_folder_choice_folder_only": "Hapus folder saja",
     "delete_folder_choice_folder_plus_sub_folders": "Hapus folder + sub-folder",
@@ -525,5 +523,7 @@
     "server_url_hint_text": "Alamat server",
     "username_hint_text": "Nama belakang",
     "password_hint_text": "Kata sandi",
+    "search_source_geoapify": "Geoapify",
+    "short_search_source_geoapify": "Geoapify Places Search API",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

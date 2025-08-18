@@ -324,8 +324,6 @@
     "short_search_source_android_geocoder": "Android Geocoder",
     "search_source_ios_geocoder": "Integrated iOS Street Addresses Finder",
     "short_search_source_ios_geocoder": "iOS Geocoder",
-    "search_source_bing": "Microsoft Bing Places Search",
-    "short_search_source_bing": "Bing",
     "confirmation_message_delete_sub_folder": "Thư mục này có các thư mục con. Bạn có muốn xóa cả các thư mục con không? Tất cả các điểm đánh dấu liên quan đến các thư mục đã xóa sẽ bị xóa vĩnh viễn!",
     "delete_folder_choice_folder_only": "Chỉ xóa thư mục",
     "delete_folder_choice_folder_plus_sub_folders": "Xóa thư mục + thư mục con",
@@ -525,5 +523,7 @@
     "server_url_hint_text": "URL máy chủ",
     "username_hint_text": "Tên người dùng",
     "password_hint_text": "Mật khẩu",
+    "search_source_geoapify": "Geoapify",
+    "short_search_source_geoapify": "Geoapify Places Search API",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
