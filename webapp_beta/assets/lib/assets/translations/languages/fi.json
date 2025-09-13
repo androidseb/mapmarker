@@ -525,5 +525,8 @@
     "password_hint_text": "Salasana",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
+    "use_native_google_maps_view_option_title": "Käytä natiivia Google Maps-näkymää",
+    "use_native_google_maps_view_option_description": "Tämä näyttötila saattaa olla hitaampi, mutta aiheuttaa vähemmän todennäköisesti sovellusten kaatumisia.",
+    "use_native_google_maps_view_option_desync_hint": "(nykyistä valintaa ei ole otettu käyttöön, vaatii sovelluksen täydellisen uudelleenkäynnistyksen)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

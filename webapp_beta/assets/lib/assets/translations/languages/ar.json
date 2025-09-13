@@ -525,5 +525,8 @@
     "password_hint_text": "كلمة المرور",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
+    "use_native_google_maps_view_option_title": "استخدم عرض Google Maps الأصلي",
+    "use_native_google_maps_view_option_description": "قد يكون وضع العرض هذا أبطأ ولكنه أقل عرضة للتسبب في تعطل التطبيق",
+    "use_native_google_maps_view_option_desync_hint": "(الاختيار الحالي غير مطبق، يتطلب إعادة تشغيل التطبيق بالكامل)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

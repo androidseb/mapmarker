@@ -525,5 +525,8 @@
     "password_hint_text": "비밀번호",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
+    "use_native_google_maps_view_option_title": "네이티브 Google Maps 뷰를 사용하세요",
+    "use_native_google_maps_view_option_description": "이 디스플레이 모드는 더 느릴 수 있지만 앱 충돌이 발생할 가능성은 적습니다.",
+    "use_native_google_maps_view_option_desync_hint": "(현재 선택 사항이 적용되지 않음, 앱을 완전히 다시 시작해야 함)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

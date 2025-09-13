@@ -525,5 +525,8 @@
     "password_hint_text": "Jelszó",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
+    "use_native_google_maps_view_option_title": "Natív Google Maps nézet használata",
+    "use_native_google_maps_view_option_description": "Ez a megjelenítési mód lassabb lehet, de kisebb valószínűséggel okoz alkalmazásösszeomlásokat.",
+    "use_native_google_maps_view_option_desync_hint": "(a jelenlegi választás nincs alkalmazva, teljes alkalmazás-újraindítást igényel)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -525,5 +525,8 @@
     "password_hint_text": "Lösenord",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
+    "use_native_google_maps_view_option_title": "Använd den inbyggda Google Maps-vyn",
+    "use_native_google_maps_view_option_description": "Det här visningsläget kan vara långsammare men det är mindre sannolikt att det orsakar appkrascher",
+    "use_native_google_maps_view_option_desync_hint": "(nuvarande val tillämpas inte, kräver en fullständig omstart av appen)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -525,5 +525,8 @@
     "password_hint_text": "Лозинка",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
+    "use_native_google_maps_view_option_title": "Користи изворни Google Maps приказ",
+    "use_native_google_maps_view_option_description": "Овај режим приказа може бити спорији, али је мања вероватноћа да ће изазвати падове апликације",
+    "use_native_google_maps_view_option_desync_hint": "(тренутни избор није примењен, захтева потпуно поновно покретање апликације)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

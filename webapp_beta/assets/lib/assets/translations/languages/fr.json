@@ -525,5 +525,8 @@
     "password_hint_text": "Mot de passe",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
+    "use_native_google_maps_view_option_title": "Utiliser la vue native Google Maps",
+    "use_native_google_maps_view_option_description": "Ce mode d'affichage peut être plus lent, mais il est moins susceptible de provoquer des plantages de l'application",
+    "use_native_google_maps_view_option_desync_hint": "(choix actuel non appliqué, nécessite un redémarrage complet de l'application)",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
