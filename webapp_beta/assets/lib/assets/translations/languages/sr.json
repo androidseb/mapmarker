@@ -528,5 +528,6 @@
     "use_native_google_maps_view_option_title": "Користи изворни Google Maps приказ",
     "use_native_google_maps_view_option_description": "Овај режим приказа може бити спорији, али је мања вероватноћа да ће изазвати падове апликације",
     "use_native_google_maps_view_option_desync_hint": "(тренутни избор није примењен, захтева потпуно поновно покретање апликације)",
+    "location_always_permission_asking_message": "Апликација ће морати да има дозволу за локацију „увек“ да би остала активна у позадини током снимања праћења.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

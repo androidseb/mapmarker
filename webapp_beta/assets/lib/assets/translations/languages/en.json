@@ -528,5 +528,6 @@
     "use_native_google_maps_view_option_title": "Use native Google Maps view",
     "use_native_google_maps_view_option_description": "This display mode might be slower but is less likely to cause app crashes",
     "use_native_google_maps_view_option_desync_hint": "(current choice not applied, requires a full app restart)",
+    "location_always_permission_asking_message": "The app will need to have the 'always' location permission in order to remain active in the background while recording a track.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

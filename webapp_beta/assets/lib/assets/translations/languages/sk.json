@@ -528,5 +528,6 @@
     "use_native_google_maps_view_option_title": "Použiť natívne zobrazenie Google Maps",
     "use_native_google_maps_view_option_description": "Tento režim zobrazenia môže byť pomalší, ale je menej pravdepodobné, že spôsobí zlyhanie aplikácie",
     "use_native_google_maps_view_option_desync_hint": "(aktuálna voľba sa nepoužila, vyžaduje sa úplný reštart aplikácie)",
+    "location_always_permission_asking_message": "Aplikácia bude potrebovať povolenie na prístup k polohe „vždy“, aby mohla počas zaznamenávania trasy zostať aktívna na pozadí.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

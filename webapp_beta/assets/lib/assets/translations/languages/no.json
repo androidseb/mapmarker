@@ -528,5 +528,6 @@
     "use_native_google_maps_view_option_title": "Bruk den opprinnelige Google Maps-visningen",
     "use_native_google_maps_view_option_description": "Denne visningsmodusen kan være tregere, men det er mindre sannsynlig at den forårsaker appkrasj",
     "use_native_google_maps_view_option_desync_hint": "(nåværende valg ikke brukt, krever en fullstendig omstart av appen)",
+    "location_always_permission_asking_message": "Appen må ha posisjonstillatelse «alltid» for å kunne være aktiv i bakgrunnen mens den spiller inn et spor.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

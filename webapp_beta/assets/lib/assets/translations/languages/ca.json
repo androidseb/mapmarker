@@ -528,5 +528,6 @@
     "use_native_google_maps_view_option_title": "Utilitza la vista nativa Google Maps",
     "use_native_google_maps_view_option_description": "Aquest mode de visualització pot ser més lent, però és menys probable que causi bloquejos de l'aplicació.",
     "use_native_google_maps_view_option_desync_hint": "(l'opció actual no s'ha aplicat, cal reiniciar completament l'aplicació)",
+    "location_always_permission_asking_message": "L'aplicació haurà de tenir el permís d'ubicació \"sempre\" per poder romandre activa en segon pla mentre grava una pista.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

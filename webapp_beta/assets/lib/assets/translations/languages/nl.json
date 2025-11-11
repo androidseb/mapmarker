@@ -528,5 +528,6 @@
     "use_native_google_maps_view_option_title": "Gebruik native Google Maps-weergave",
     "use_native_google_maps_view_option_description": "Deze weergavemodus is mogelijk trager, maar veroorzaakt minder vaak app-crashes",
     "use_native_google_maps_view_option_desync_hint": "(huidige keuze niet toegepast, vereist een volledige herstart van de app)",
+    "location_always_permission_asking_message": "De app moet de locatietoestemming 'altijd' hebben om op de achtergrond actief te blijven tijdens het opnemen van een nummer.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

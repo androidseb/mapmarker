@@ -528,5 +528,6 @@
     "use_native_google_maps_view_option_title": "네이티브 Google Maps 뷰를 사용하세요",
     "use_native_google_maps_view_option_description": "이 디스플레이 모드는 더 느릴 수 있지만 앱 충돌이 발생할 가능성은 적습니다.",
     "use_native_google_maps_view_option_desync_hint": "(현재 선택 사항이 적용되지 않음, 앱을 완전히 다시 시작해야 함)",
+    "location_always_permission_asking_message": "트랙을 녹음하는 동안 백그라운드에서 활성 상태를 유지하려면 앱에 '항상' 위치 권한이 필요합니다.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

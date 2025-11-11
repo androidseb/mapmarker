@@ -528,5 +528,6 @@
     "use_native_google_maps_view_option_title": "Yerel Google Maps görünümünü kullan",
     "use_native_google_maps_view_option_description": "Bu görüntüleme modu daha yavaş olabilir ancak uygulama çökmelerine neden olma olasılığı daha düşüktür",
     "use_native_google_maps_view_option_desync_hint": "(geçerli seçim uygulanmadı, uygulamanın tamamen yeniden başlatılmasını gerektirir)",
+    "location_always_permission_asking_message": "Bir parçayı kaydederken arka planda etkin kalabilmek için uygulamanın 'her zaman' konum iznine sahip olması gerekecektir.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

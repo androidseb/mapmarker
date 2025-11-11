@@ -528,5 +528,6 @@
     "use_native_google_maps_view_option_title": "استخدم عرض Google Maps الأصلي",
     "use_native_google_maps_view_option_description": "قد يكون وضع العرض هذا أبطأ ولكنه أقل عرضة للتسبب في تعطل التطبيق",
     "use_native_google_maps_view_option_desync_hint": "(الاختيار الحالي غير مطبق، يتطلب إعادة تشغيل التطبيق بالكامل)",
+    "location_always_permission_asking_message": "سوف يحتاج التطبيق إلى الحصول على إذن الموقع \"دائمًا\" ليظل نشطًا في الخلفية أثناء تسجيل المسار.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
