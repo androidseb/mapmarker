@@ -1,0 +1,27 @@
+# Implementation based on docs here:
+# https://docs.github.com/en/actions/tutorials/manage-your-work/close-inactive-issues
+# https://github.com/marketplace/actions/close-stale-issues
+name: Close inactive issues
+on:
+  schedule:
+    - cron: "30 1 * * *"
+  workflow_dispatch:
+
+jobs:
+  close-inactive-issues:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - uses: actions/stale@v9
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          days-before-issue-stale: 90
+          days-before-issue-close: 30
+          stale-issue-label: "Stale"
+          stale-issue-message: "This issue is stale because it has been open for 90 days with no activity, it will be closed automatically in 30 days if there is still no activity."
+          close-issue-message: "This issue was closed because it has been inactive for 30 days since being marked as stale, feel free to re-open it."
+          days-before-pr-stale: -1
+          days-before-pr-close: -1
+          any-of-issue-labels: "question"
+          remove-stale-when-updated: true
