@@ -525,5 +525,9 @@
     "password_hint_text": "Slaptažodis",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
+    "use_native_google_maps_view_option_title": "Naudoti natyvų Google Maps rodinį",
+    "use_native_google_maps_view_option_description": "Šis rodymo režimas gali būti lėtesnis, tačiau mažiau tikėtina, kad programos strigs.",
+    "use_native_google_maps_view_option_desync_hint": "(dabartinis pasirinkimas netaikomas, reikia visiškai paleisti programą iš naujo)",
+    "location_always_permission_asking_message": "Kad programa galėtų likti aktyvi fone įrašant maršrutą, jai reikės „visada“ vietos nustatymo leidimo.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

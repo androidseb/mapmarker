@@ -525,5 +525,9 @@
     "password_hint_text": "Hasło",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
+    "use_native_google_maps_view_option_title": "Użyj natywnego widoku Google Maps",
+    "use_native_google_maps_view_option_description": "Ten tryb wyświetlania może działać wolniej, ale jest mniej prawdopodobne, że spowoduje awarię aplikacji",
+    "use_native_google_maps_view_option_desync_hint": "(aktualny wybór nie został zastosowany, wymaga ponownego uruchomienia aplikacji)",
+    "location_always_permission_asking_message": "Aby aplikacja mogła działać w tle podczas nagrywania trasy, musi mieć ustawione stałe uprawnienie do dostępu do lokalizacji.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

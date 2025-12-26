@@ -525,5 +525,9 @@
     "password_hint_text": "Heslo",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
+    "use_native_google_maps_view_option_title": "Použít nativní zobrazení Google Maps",
+    "use_native_google_maps_view_option_description": "Tento režim zobrazení může být pomalejší, ale je méně pravděpodobné, že způsobí pády aplikace.",
+    "use_native_google_maps_view_option_desync_hint": "(aktuální volba se nepoužívá, vyžaduje úplný restart aplikace)",
+    "location_always_permission_asking_message": "Aplikace bude potřebovat oprávnění „vždy“ k přístupu k poloze, aby mohla zůstat aktivní na pozadí během nahrávání trasy.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

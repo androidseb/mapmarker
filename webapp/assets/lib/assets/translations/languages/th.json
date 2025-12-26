@@ -525,5 +525,9 @@
     "password_hint_text": "รหัสผ่าน",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
+    "use_native_google_maps_view_option_title": "ใช้มุมมองเนทีฟ Google Maps",
+    "use_native_google_maps_view_option_description": "โหมดการแสดงผลนี้อาจช้าลงแต่มีโอกาสทำให้แอปขัดข้องน้อยลง",
+    "use_native_google_maps_view_option_desync_hint": "(ตัวเลือกปัจจุบันไม่ถูกนำไปใช้ ต้องรีสตาร์ทแอปทั้งหมด)",
+    "location_always_permission_asking_message": "แอปจะต้องมีสิทธิ์ระบุตำแหน่ง \"เสมอ\" เพื่อให้ยังคงทำงานในพื้นหลังขณะบันทึกแทร็ก",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

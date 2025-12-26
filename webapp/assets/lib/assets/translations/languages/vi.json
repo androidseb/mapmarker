@@ -525,5 +525,9 @@
     "password_hint_text": "Mật khẩu",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
+    "use_native_google_maps_view_option_title": "Sử dụng chế độ xem Google Maps gốc",
+    "use_native_google_maps_view_option_description": "Chế độ hiển thị này có thể chậm hơn nhưng ít có khả năng gây ra sự cố ứng dụng",
+    "use_native_google_maps_view_option_desync_hint": "(lựa chọn hiện tại không được áp dụng, yêu cầu khởi động lại toàn bộ ứng dụng)",
+    "location_always_permission_asking_message": "Ứng dụng sẽ cần có quyền 'luôn luôn' truy cập vị trí để có thể hoạt động ở chế độ nền trong khi ghi lại một bản nhạc.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

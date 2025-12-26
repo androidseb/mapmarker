@@ -525,5 +525,9 @@
     "password_hint_text": "Parolă",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
+    "use_native_google_maps_view_option_title": "Folosește vizualizarea nativă Google Maps",
+    "use_native_google_maps_view_option_description": "Acest mod de afișare ar putea fi mai lent, dar este mai puțin probabil să provoace blocări ale aplicației",
+    "use_native_google_maps_view_option_desync_hint": "(opțiunea curentă nu este aplicată, necesită o repornire completă a aplicației)",
+    "location_always_permission_asking_message": "Aplicația va trebui să aibă permisiunea „întotdeauna” de acces la locație pentru a rămâne activă în fundal în timp ce înregistrează o pistă.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

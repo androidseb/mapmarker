@@ -525,5 +525,9 @@
     "password_hint_text": "ពាក្យសម្ងាត់",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
+    "use_native_google_maps_view_option_title": "ប្រើទិដ្ឋភាព Google Maps ដើម",
+    "use_native_google_maps_view_option_description": "របៀប​បង្ហាញ​នេះ​អាច​នឹង​យឺត​ជាង ប៉ុន្តែ​ទំនង​ជា​មិន​សូវ​បង្ក​ឱ្យ​កម្មវិធី​គាំង",
+    "use_native_google_maps_view_option_desync_hint": "(ជម្រើសបច្ចុប្បន្នមិនត្រូវបានអនុវត្តទេ ទាមទារឱ្យចាប់ផ្ដើមកម្មវិធីពេញលេញឡើងវិញ)",
+    "location_always_permission_asking_message": "កម្មវិធីនេះនឹងត្រូវមានការអនុញ្ញាតទីតាំង 'ជានិច្ច' ដើម្បីបន្តសកម្មភាពក្នុងផ្ទៃខាងក្រោយខណៈពេលកំពុងថតបទ។",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

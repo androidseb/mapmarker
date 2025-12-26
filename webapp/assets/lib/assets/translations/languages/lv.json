@@ -525,5 +525,9 @@
     "password_hint_text": "Parole",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
+    "use_native_google_maps_view_option_title": "Izmantot vietējo Google Maps skatu",
+    "use_native_google_maps_view_option_description": "Šis attēlošanas režīms varētu būt lēnāks, taču tas, visticamāk, neizraisīs lietotņu avārijas.",
+    "use_native_google_maps_view_option_desync_hint": "(pašreizējā izvēle netiek lietota, nepieciešama pilnīga lietotnes restartēšana)",
+    "location_always_permission_asking_message": "Lai lietotne saglabātu aktivitāti fonā maršruta ierakstīšanas laikā, tai būs nepieciešama atrašanās vietas atļauja “vienmēr”.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

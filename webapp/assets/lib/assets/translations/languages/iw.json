@@ -525,5 +525,9 @@
     "password_hint_text": "סִיסמָה",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
+    "use_native_google_maps_view_option_title": "השתמש בתצוגה מקורית Google Maps",
+    "use_native_google_maps_view_option_description": "מצב תצוגה זה עשוי להיות איטי יותר אך פחות סביר שיגרום לקריסות אפליקציות",
+    "use_native_google_maps_view_option_desync_hint": "(הבחירה הנוכחית לא יושמה, דורשת הפעלה מחדש מלאה של האפליקציה)",
+    "location_always_permission_asking_message": "האפליקציה תצטרך לקבל הרשאת מיקום 'תמיד' על מנת להישאר פעילה ברקע בזמן הקלטת רצועה.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -525,5 +525,9 @@
     "password_hint_text": "Σύνθημα",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
+    "use_native_google_maps_view_option_title": "Χρήση εγγενούς προβολής Google Maps",
+    "use_native_google_maps_view_option_description": "Αυτή η λειτουργία εμφάνισης μπορεί να είναι πιο αργή, αλλά είναι λιγότερο πιθανό να προκαλέσει σφάλματα εφαρμογής.",
+    "use_native_google_maps_view_option_desync_hint": "(η τρέχουσα επιλογή δεν έχει εφαρμοστεί, απαιτείται πλήρης επανεκκίνηση της εφαρμογής)",
+    "location_always_permission_asking_message": "Η εφαρμογή θα πρέπει να έχει την άδεια τοποθεσίας «πάντα» για να παραμένει ενεργή στο παρασκήνιο κατά την εγγραφή ενός ίχνους.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
