@@ -525,9 +525,6 @@
     "password_hint_text": "密碼",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
-    "use_native_google_maps_view_option_title": "使用原生Google Maps視圖",
-    "use_native_google_maps_view_option_description": "這種顯示模式可能比較慢，但不太可能導致應用程式崩潰",
-    "use_native_google_maps_view_option_desync_hint": "（目前選擇未應用，需要完全重新啟動應用程式）",
     "location_always_permission_asking_message": "該應用程式需要具有「始終」位置權限才能在記錄軌跡時保持在背景處於活動狀態。",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -525,9 +525,6 @@
     "password_hint_text": "Kata sandi",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
-    "use_native_google_maps_view_option_title": "Gunakan tampilan asli Google Maps",
-    "use_native_google_maps_view_option_description": "Mode tampilan ini mungkin lebih lambat tetapi kecil kemungkinannya menyebabkan aplikasi mogok",
-    "use_native_google_maps_view_option_desync_hint": "(pilihan saat ini tidak diterapkan, memerlukan restart aplikasi penuh)",
     "location_always_permission_asking_message": "Aplikasi perlu memiliki izin lokasi 'selalu' agar tetap aktif di latar belakang saat merekam trek.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

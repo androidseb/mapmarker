@@ -525,9 +525,6 @@
     "password_hint_text": "Adgangskode",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
-    "use_native_google_maps_view_option_title": "Brug den oprindelige Google Maps-visning",
-    "use_native_google_maps_view_option_description": "Denne visningstilstand er muligvis langsommere, men det er mindre sandsynligt, at den forårsager appnedbrud",
-    "use_native_google_maps_view_option_desync_hint": "(nuværende valg anvendes ikke, kræver en fuldstændig genstart af appen)",
     "location_always_permission_asking_message": "Appen skal have tilladelsen \"altid\" til placering for at kunne forblive aktiv i baggrunden, mens den optager et nummer.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
