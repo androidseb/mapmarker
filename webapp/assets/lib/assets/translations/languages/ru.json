@@ -525,9 +525,6 @@
     "password_hint_text": "Пароль",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
-    "use_native_google_maps_view_option_title": "Использовать собственный Google Maps вид",
-    "use_native_google_maps_view_option_description": "Этот режим отображения может быть медленнее, но он реже приводит к сбоям в работе приложения.",
-    "use_native_google_maps_view_option_desync_hint": "(текущий выбор не применен, требуется полный перезапуск приложения)",
     "location_always_permission_asking_message": "Приложению потребуется разрешение «всегда» на определение местоположения, чтобы оставаться активным в фоновом режиме во время записи трека.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

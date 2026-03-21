@@ -525,9 +525,6 @@
     "password_hint_text": "パスワード",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
-    "use_native_google_maps_view_option_title": "ネイティブGoogle Mapsビューを使用する",
-    "use_native_google_maps_view_option_description": "この表示モードは遅くなる可能性がありますが、アプリがクラッシュする可能性は低くなります。",
-    "use_native_google_maps_view_option_desync_hint": "(現在の選択は適用されません。アプリを完全に再起動する必要があります)",
     "location_always_permission_asking_message": "トラックを録音中にバックグラウンドでアクティブなままにするには、アプリに「常時」の位置情報の許可が必要です。",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

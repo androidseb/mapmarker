@@ -525,9 +525,6 @@
     "password_hint_text": "Contraseña",
     "search_source_geoapify": "Geoapify",
     "short_search_source_geoapify": "Geoapify Places Search API",
-    "use_native_google_maps_view_option_title": "Utilice la vista nativa Google Maps",
-    "use_native_google_maps_view_option_description": "Este modo de visualización puede ser más lento, pero es menos probable que provoque fallas en la aplicación.",
-    "use_native_google_maps_view_option_desync_hint": "(la opción actual no se aplica, requiere reiniciar completamente la aplicación)",
     "location_always_permission_asking_message": "La aplicación deberá tener el permiso de ubicación \"siempre\" para permanecer activa en segundo plano mientras se graba una pista.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
