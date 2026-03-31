@@ -524,6 +524,5 @@
     "sou_metric_option_2": "Metrijärjestelmä: Metrit / Kilometrit",
     "sou_imperial_option_2": "Imperial: Jalkaa / Mailia",
     "google_web_oauth_status_message": "Yhteyden muodostaminen Google-tilillesi tapahtuu kahdessa vaiheessa: todennuksen ja valtuutuksen avulla.\n\nSaatat nähdä kaksi ponnahdusikkunaa peräkkäin yhteyden muodostamisen aikana. Varmista tässä tapauksessa, että valitset saman Google-tilin molemmilla kerroilla.\n\n%1$s Vaihe 1/2 - todennus\n\n%2$s Vaihe 2/2 - valtuutus",
-    "google_oauth_local_device_cache_corruption_error_message": "Odottamaton Google todennusvirhe tapahtui. Laitteesi paikallinen välimuisti näyttää olevan vioittunut.\n\nTämä voi tapahtua, jos olet äskettäin peruuttanut/nollannut/poistanut yhteyden tämän sovelluksen ja Google-tilisi välillä.\nLaitteen välimuistin pitäisi päivittyä automaattisesti tunnin välein.\nOdota yksi tai kaksi tuntia ja yritä uudelleen.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

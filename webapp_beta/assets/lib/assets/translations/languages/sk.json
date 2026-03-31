@@ -524,6 +524,5 @@
     "sou_metric_option_2": "Metrické: metre / kilometre",
     "sou_imperial_option_2": "Imperiálne: Stopy / Míle",
     "google_web_oauth_status_message": "Pripojenie k vášmu účtu Google sa vykonáva v dvoch krokoch: overenie a autorizácia.\nPočas procesu pripájania sa môžu zobraziť dve kontextové okná za sebou – v takom prípade sa uistite, že ste oba razy vybrali rovnaký účet Google.\n\n%1$s Krok 1/2 – overenie\n\n%2$s Krok 2/2 – autorizácia",
-    "google_oauth_local_device_cache_corruption_error_message": "Vyskytla sa neočakávaná chyba overenia Google. Zdá sa, že lokálna vyrovnávacia pamäť vášho zariadenia je poškodená.\nMôže sa to stať, ak ste nedávno zrušili / obnovili / odstránili pripojenie medzi touto aplikáciou a vaším účtom Google.\nVyrovnávacia pamäť zariadenia by sa mala automaticky obnovovať každú hodinu.\nPočkajte jednu alebo dve hodiny a skúste to znova.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

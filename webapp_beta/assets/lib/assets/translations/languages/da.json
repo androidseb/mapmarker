@@ -524,6 +524,5 @@
     "sou_metric_option_2": "Metrisk: Meter / Kilometer",
     "sou_imperial_option_2": "Imperial: Fod / Mil",
     "google_web_oauth_status_message": "Forbindelse til din Google konto sker gennem to trin: godkendelse og autorisation.\n\nDu kan muligvis se to pop op-vinduer i træk under forbindelsesprocessen - i så fald skal du sørge for at vælge den samme Google konto begge gange.\n\n%1$s Trin 1/2 - godkendelse\n\n%2$s Trin 2/2 - autorisation",
-    "google_oauth_local_device_cache_corruption_error_message": "Der opstod en uventet Google godkendelsesfejl. Det ser ud til, at din enheds lokale cache er beskadiget.\n\nDette kan ske, hvis du for nylig har tilbagekaldt/nulstillet/slettet forbindelsen mellem denne app og din Google konto.\n\nEnhedens cache burde opdateres automatisk hver time.\nVent en eller to timer, og prøv igen.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -524,6 +524,5 @@
     "sou_metric_option_2": "מטרי: מטרים / קילומטרים",
     "sou_imperial_option_2": "אימפריאלי: רגל / מייל",
     "google_web_oauth_status_message": "התחברות לחשבון Google שלך מתבצעת בשני שלבים: אימות ואישור.\nייתכן שתראה שני חלונות קופצים ברצף במהלך תהליך החיבור - במקרה זה, ודא שאתה בוחר את אותו חשבון Google בשני המקרים.\n\n%1$s שלב 1/2 - אימות\n\n%2$s שלב 2/2 - אישור",
-    "google_oauth_local_device_cache_corruption_error_message": "אירעה שגיאת אימות בלתי צפויה מסוג Google, נראה שהמטמון המקומי של המכשיר שלך פגום.\nזה יכול לקרות אם לאחרונה ביטלת / איפסת / מחקת את החיבור בין אפליקציה זו לחשבון Google שלך.\nמטמון המכשיר אמור להתרענן אוטומטית כל שעה.\nאנא המתן שעה או שעתיים ונסה שוב.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

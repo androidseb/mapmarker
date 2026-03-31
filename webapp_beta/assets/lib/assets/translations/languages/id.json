@@ -524,6 +524,5 @@
     "sou_metric_option_2": "Sistem metrik: Meter / Kilometer",
     "sou_imperial_option_2": "Sistem Imperial: Kaki / Mil",
     "google_web_oauth_status_message": "Menghubungkan ke akun Google Anda dilakukan melalui dua langkah: autentikasi dan otorisasi.\nAnda mungkin melihat dua pop-up berturut-turut selama proses koneksi - dalam hal ini, pastikan Anda memilih akun Google yang sama di kedua kesempatan tersebut.\n\n%1$s Langkah 1/2 - autentikasi\n\n%2$s Langkah 2/2 - otorisasi",
-    "google_oauth_local_device_cache_corruption_error_message": "Terjadi kesalahan otentikasi Google yang tidak terduga, tampaknya cache lokal perangkat Anda rusak.\n\nIni dapat terjadi jika Anda baru-baru ini mencabut/mengatur ulang/menghapus koneksi antara aplikasi ini dan akun Google Anda.\nCache perangkat akan diperbarui secara otomatis setiap jam.\nHarap tunggu satu atau dua jam dan coba lagi.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

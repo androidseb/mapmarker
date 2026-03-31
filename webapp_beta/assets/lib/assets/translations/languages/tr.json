@@ -524,6 +524,5 @@
     "sou_metric_option_2": "Metrik: Metre / Kilometre",
     "sou_imperial_option_2": "İngiliz ölçü birimi: Fit / Mil",
     "google_web_oauth_status_message": "Google hesabınıza bağlanma işlemi iki adımda gerçekleştirilir: kimlik doğrulama ve yetkilendirme.\n\nBağlantı akışı sırasında art arda iki açılır pencere görebilirsiniz - bu durumda, lütfen her iki seferde de aynı Google hesabını seçtiğinizden emin olun.\n\n%1$s Adım 1/2 - kimlik doğrulama\n\n%2$s Adım 2/2 - yetkilendirme",
-    "google_oauth_local_device_cache_corruption_error_message": "Beklenmedik bir kimlik doğrulama hatası oluştu, cihazınızın yerel önbelleği bozulmuş gibi görünüyor.\nBu durum, bu uygulama ile hesabınız arasındaki bağlantıyı yakın zamanda iptal ettiyseniz/sıfırladıysanız/sildiyseniz meydana gelebilir.\nCihaz önbelleği her saat otomatik olarak yenilenmelidir.\nLütfen bir veya iki saat bekleyin ve tekrar deneyin.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

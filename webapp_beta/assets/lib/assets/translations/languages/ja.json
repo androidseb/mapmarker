@@ -524,6 +524,5 @@
     "sou_metric_option_2": "メートル法：メートル／キロメートル",
     "sou_imperial_option_2": "ヤード・ポンド法：フィート／マイル",
     "google_web_oauth_status_message": "Googleアカウントへの接続は、認証と承認の2つのステップで行われます。\n\n接続フロー中にポップアップが2つ連続して表示される場合があります。その場合は、両方のポップアップで同じGoogleアカウントを選択してください。\n\n%1$sステップ1/2 - 認証\n\n%2$sステップ2/2 - 承認",
-    "google_oauth_local_device_cache_corruption_error_message": "予期しない認証エラーが発生しました。デバイスのローカルキャッシュが破損しているようです。\n\nこのアプリとアカウント間の接続を最近取り消し/リセット/削除した場合に発生する可能性があります。\n\nデバイスのキャッシュは1時間ごとに自動的に更新されます。\n\n1～2時間待ってから、もう一度お試しください。",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

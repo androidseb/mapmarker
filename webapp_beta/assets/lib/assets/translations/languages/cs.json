@@ -524,6 +524,5 @@
     "sou_metric_option_2": "Metrické: metry / kilometry",
     "sou_imperial_option_2": "Imperiální: Stopy / Míle",
     "google_web_oauth_status_message": "Připojení k vašemu účtu Google probíhá ve dvou krocích: ověřování a autorizace.\nBěhem procesu připojování se mohou zobrazit dvě vyskakovací okna za sebou – v takovém případě se prosím ujistěte, že jste v obou krocích vybrali stejný účet Google.\n\n%1$s Krok 1/2 – ověřování\n\n%2$s Krok 2/2 – autorizace",
-    "google_oauth_local_device_cache_corruption_error_message": "Došlo k neočekávané chybě ověřování Google. Zdá se, že lokální mezipaměť vašeho zařízení je poškozena.\nK tomu může dojít, pokud jste nedávno zrušili / resetovali / smazali připojení mezi touto aplikací a vaším účtem Google.\nMezipaměť zařízení by se měla automaticky obnovovat každou hodinu.\nPočkejte prosím jednu nebo dvě hodiny a zkuste to znovu.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

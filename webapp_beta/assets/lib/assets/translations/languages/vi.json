@@ -524,6 +524,5 @@
     "sou_metric_option_2": "Hệ mét: Mét / Kilômét",
     "sou_imperial_option_2": "Hệ đo lường Anh: Feet / Dặm",
     "google_web_oauth_status_message": "Việc kết nối với tài khoản Google của bạn được thực hiện qua hai bước: xác thực và ủy quyền.\n\nBạn có thể thấy hai cửa sổ bật lên liên tiếp trong quá trình kết nối - trong trường hợp đó, vui lòng đảm bảo bạn chọn cùng một tài khoản Google cả hai lần.\n\n%1$s Bước 1/2 - xác thực\n\n%2$s Bước 2/2 - ủy quyền",
-    "google_oauth_local_device_cache_corruption_error_message": "Đã xảy ra lỗi xác thực Google không mong muốn, có vẻ như bộ nhớ cache cục bộ của thiết bị của bạn đã bị hỏng.\n\nĐiều này có thể xảy ra nếu gần đây bạn đã thu hồi/thiết lập lại/xóa kết nối giữa ứng dụng này và tài khoản Google của bạn.\n\nBộ nhớ cache của thiết bị sẽ được làm mới tự động mỗi giờ.\n\nVui lòng đợi một hoặc hai giờ và thử lại.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

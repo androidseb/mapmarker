@@ -524,6 +524,5 @@
     "sou_metric_option_2": "Metrică: Metri / Kilometri",
     "sou_imperial_option_2": "Imperial: Picioare / Mile",
     "google_web_oauth_status_message": "Conectarea la contul dvs. Google se face în doi pași: autentificare și autorizare.\n\nEste posibil să vedeți două ferestre pop-up la rând în timpul fluxului de conectare - în acest caz, asigurați-vă că selectați același cont Google de ambele ori.\n\n%1$s Pasul 1/2 - autentificare\n\n%2$s Pasul 2/2 - autorizare",
-    "google_oauth_local_device_cache_corruption_error_message": "A apărut o eroare de autentificare neașteptată Google, se pare că memoria cache locală a dispozitivului dvs. este coruptă.\n\nAcest lucru se poate întâmpla dacă ați revocat/resetat/șters recent conexiunea dintre această aplicație și contul dvs. Google.\n\nMemoria cache a dispozitivului ar trebui să se actualizeze automat la fiecare oră.\n\nVă rugăm să așteptați una sau două ore și să încercați din nou.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

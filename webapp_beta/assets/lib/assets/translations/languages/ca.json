@@ -524,6 +524,5 @@
     "sou_metric_option_2": "Mètrica: Metres / Quilòmetres",
     "sou_imperial_option_2": "Imperial: Peus / Milles",
     "google_web_oauth_status_message": "La connexió al vostre compte Google es fa mitjançant dos passos: autenticació i autorització.\nÉs possible que vegeu dues finestres emergents seguides durant el flux de connexió; en aquest cas, assegureu-vos de seleccionar el mateix compte Google les dues vegades.\n\n%1$s Pas 1/2: autenticació\n\n%2$s Pas 2/2: autorització",
-    "google_oauth_local_device_cache_corruption_error_message": "S'ha produït un error d'autenticació inesperat Google. Sembla que la memòria cau local del dispositiu està corrupta.\nAixò podria passar si recentment has revocat/restableix/eliminat la connexió entre aquesta aplicació i el teu compte Google.\nLa memòria cau del dispositiu s'hauria d'actualitzar automàticament cada hora.\nEspereu una o dues hores i torneu-ho a provar.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

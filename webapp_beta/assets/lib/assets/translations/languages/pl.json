@@ -524,6 +524,5 @@
     "sou_metric_option_2": "Metryka: metry / kilometry",
     "sou_imperial_option_2": "Imperialne: stopy / mile",
     "google_web_oauth_status_message": "Łączenie się z kontem Google odbywa się w dwóch etapach: uwierzytelniania i autoryzacji.\nPodczas łączenia mogą pojawić się dwa wyskakujące okienka z rzędu – w takim przypadku upewnij się, że za każdym razem wybierzesz to samo konto Google.\n\n%1$s Krok 1/2 – uwierzytelnianie\n\n%2$s Krok 2/2 – autoryzacja",
-    "google_oauth_local_device_cache_corruption_error_message": "Wystąpił nieoczekiwany błąd uwierzytelniania Google. Wygląda na to, że lokalna pamięć podręczna urządzenia jest uszkodzona.\nMogło się tak zdarzyć, jeśli niedawno odwołałeś/zresetowałeś/usunąłeś połączenie między tą aplikacją a Twoim kontem Google.\nPamięć podręczna urządzenia powinna być odświeżana automatycznie co godzinę.\nOdczekaj godzinę lub dwie i spróbuj ponownie.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

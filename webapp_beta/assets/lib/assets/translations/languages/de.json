@@ -524,6 +524,5 @@
     "sou_metric_option_2": "Metrisch: Meter / Kilometer",
     "sou_imperial_option_2": "Imperial: Fuß / Meilen",
     "google_web_oauth_status_message": "Die Verbindung zu Ihrem Google-Konto erfolgt in zwei Schritten: Authentifizierung und Autorisierung.\n\nWährend des Verbindungsvorgangs werden Ihnen möglicherweise zwei Pop-ups nacheinander angezeigt. Stellen Sie in diesem Fall bitte sicher, dass Sie beide Male dasselbe Google-Konto auswählen.\n\n%1$s Schritt 1/2 – Authentifizierung\n\n%2$s Schritt 2/2 – Autorisierung",
-    "google_oauth_local_device_cache_corruption_error_message": "Es ist ein unerwarteter Authentifizierungsfehler aufgetreten. Der lokale Cache Ihres Geräts scheint beschädigt zu sein.\n\nDies kann passieren, wenn Sie die Verbindung zwischen dieser App und Ihrem Konto kürzlich widerrufen, zurückgesetzt oder gelöscht haben.\n\nDer Gerätecache wird normalerweise stündlich automatisch aktualisiert. Bitte warten Sie ein bis zwei Stunden und versuchen Sie es dann erneut.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

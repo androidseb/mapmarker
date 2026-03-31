@@ -524,6 +524,5 @@
     "sou_metric_option_2": "Metrisch: Meters / Kilometers",
     "sou_imperial_option_2": "Imperiaal: Voet / Mijl",
     "google_web_oauth_status_message": "Verbinding maken met uw Google account gebeurt in twee stappen: authenticatie en autorisatie.\n\nHet kan zijn dat u tijdens het verbindingsproces twee pop-ups achter elkaar ziet. Zorg er in dat geval voor dat u beide keren hetzelfde Google account selecteert.\n\n%1$s Stap 1/2 - authenticatie\n\n%2$s Stap 2/2 - autorisatie",
-    "google_oauth_local_device_cache_corruption_error_message": "Er is een onverwachte authenticatiefout opgetreden. Het lijkt erop dat de lokale cache van uw apparaat beschadigd is.\n\nDit kan gebeuren als u onlangs de verbinding tussen deze app en uw account hebt ingetrokken, gereset of verwijderd.\n\nDe cache van uw apparaat wordt elk uur automatisch vernieuwd.\n\nWacht een of twee uur en probeer het opnieuw.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

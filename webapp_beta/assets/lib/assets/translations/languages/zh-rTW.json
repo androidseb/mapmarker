@@ -524,6 +524,5 @@
     "sou_metric_option_2": "公制：米/公里",
     "sou_imperial_option_2": "英制：英尺/英里",
     "google_web_oauth_status_message": "連接到您的Google帳戶需要兩個步驟：身份驗證和授權。\n\n在連接過程中，您可能會連續看到兩個彈出視窗 - 在這種情況下，請確保兩次都選擇同一個Google帳戶。\n\n%1$s 步驟 1/2 - 驗證\n\n%2$s 步驟 2/2 - 授權",
-    "google_oauth_local_device_cache_corruption_error_message": "發生意外的身份驗證錯誤，可能是您裝置的本機快取已損壞。\n\n如果您最近撤銷/重設/刪除了此應用程式與您的帳戶之間的連接，則可能會發生這種情況。\n\n設備快取應該每小時自動刷新一次。\n\n請等待一到兩個小時後再試一次。",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

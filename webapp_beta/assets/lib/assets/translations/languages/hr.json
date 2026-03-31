@@ -524,6 +524,5 @@
     "sou_metric_option_2": "Metrika: Metri / Kilometri",
     "sou_imperial_option_2": "Imperijalne: Stope / Milje",
     "google_web_oauth_status_message": "Povezivanje s vašim Google računom vrši se u dva koraka: autentifikacija i autorizacija. Tijekom povezivanja možete vidjeti dva skočna prozora zaredom - u tom slučaju, molimo vas da oba puta odaberete isti Google račun.\n\n%1$s Korak 1/2 - autentifikacija\n\n%2$s Korak 2/2 - autorizacija",
-    "google_oauth_local_device_cache_corruption_error_message": "Došlo je do neočekivane pogreške u autentifikaciji Google. Čini se da je lokalna predmemorija vašeg uređaja oštećena.\nTo se može dogoditi ako ste nedavno opozvali / resetirali / izbrisali vezu između ove aplikacije i vašeg Google računa.\nPredmemorija uređaja trebala bi se automatski osvježavati svaki sat.\nPričekajte jedan ili dva sata i pokušajte ponovno.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

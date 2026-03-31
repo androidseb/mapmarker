@@ -524,6 +524,5 @@
     "sou_metric_option_2": "Sistema metrico: metri / chilometri",
     "sou_imperial_option_2": "Sistema imperiale: Piedi / Miglia",
     "google_web_oauth_status_message": "La connessione al tuo account Google avviene in due fasi: autenticazione e autorizzazione.\n\nPotresti visualizzare due popup consecutivi durante la procedura di connessione: in tal caso, assicurati di selezionare lo stesso account Google entrambe le volte.\n\n%1$s Fase 1/2 - autenticazione\n\n%2$s Fase 2/2 - autorizzazione",
-    "google_oauth_local_device_cache_corruption_error_message": "Si è verificato un errore di autenticazione imprevisto (parola esclusa) sul tuo dispositivo. Sembra che la cache locale del dispositivo sia danneggiata.\n\nQuesto potrebbe accadere se di recente hai revocato/reimpostato/eliminato la connessione tra questa app e il tuo account (parola esclusa) sul tuo dispositivo.\n\nLa cache del dispositivo dovrebbe essere aggiornata automaticamente ogni ora.\nAttendi una o due ore e riprova.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

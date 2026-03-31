@@ -524,6 +524,5 @@
     "sou_metric_option_2": "Metrisk: Meter / Kilometer",
     "sou_imperial_option_2": "Imperial: Fot / Mil",
     "google_web_oauth_status_message": "Att ansluta till ditt Google-konto sker i två steg: autentisering och auktorisering.\n\nDu kan se två popup-fönster i rad under anslutningsflödet – i så fall, se till att du väljer samma Google-konto båda gångerna.\n\n%1$s Steg 1/2 - autentisering\n\n%2$s Steg 2/2 - auktorisering",
-    "google_oauth_local_device_cache_corruption_error_message": "Ett oväntat Google autentiseringsfel uppstod. Det verkar som att enhetens lokala cache är skadad.\nDetta kan hända om du nyligen återkallade/återställde/raderade anslutningen mellan den här appen och ditt Google konto.\nEnhetens cache bör uppdateras automatiskt varje timme.\nVänta en eller två timmar och försök igen.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -524,6 +524,5 @@
     "sou_metric_option_2": "Metrikus: Méter / Kilométer",
     "sou_imperial_option_2": "Angolszász: Láb / Mérföld",
     "google_web_oauth_status_message": "A Google fiókodhoz való csatlakozás két lépésben történik: hitelesítés és engedélyezés.\n\nA csatlakozási folyamat során két felugró ablak jelenhet meg egymás után – ebben az esetben kérjük, győződj meg róla, hogy mindkét alkalommal ugyanazt a Google fiókot választod ki.\n\n%1$s 1/2. lépés – hitelesítés\n\n%2$s 2/2. lépés – engedélyezés",
-    "google_oauth_local_device_cache_corruption_error_message": "Váratlan Google hitelesítési hiba történt, úgy tűnik, hogy az eszköz helyi gyorsítótára sérült.\n\nEz akkor fordulhat elő, ha nemrégiben visszavonta / alaphelyzetbe állította / törölte az alkalmazás és az Ön Google fiókja közötti kapcsolatot.\nAz eszköz gyorsítótára óránként automatikusan frissül.\nKérjük, várjon egy-két órát, és próbálja újra.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

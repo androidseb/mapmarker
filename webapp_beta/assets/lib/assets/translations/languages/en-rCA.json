@@ -524,6 +524,5 @@
     "sou_metric_option_2": "Metric: Meters / Kilometers",
     "sou_imperial_option_2": "Imperial: Feet / Miles",
     "google_web_oauth_status_message": "Connecting to your Google account is done through two steps: authentication and authorization.\nYou might see two popups in a row during the connection flow - in that case, please ensure you select the same Google account both times.\n\n\n%1$s Step 1/2 - authentication\n\n%2$s Step 2/2 - authorization",
-    "google_oauth_local_device_cache_corruption_error_message": "An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.\nThis could happen if you recently revoked / reset / deleted the connection between this app and your Google account.\nThe device cache should get refreshed automatically every hour.\nPlease wait one or two hours and try again.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

@@ -524,6 +524,5 @@
     "sou_metric_option_2": "Metrika: metri / kilometri",
     "sou_imperial_option_2": "Imperial: Stopala / Milje",
     "google_web_oauth_status_message": "Povezovanje z vašim računom Google poteka v dveh korakih: preverjanje pristnosti in avtorizacija. Med potekom povezave se lahko prikažeta dve pojavni okni zaporedoma – v tem primeru se prepričajte, da obakrat izberete isti račun Google.\n\n%1$s Korak 1/2 – preverjanje pristnosti\n\n%2$s Korak 2/2 – avtorizacija",
-    "google_oauth_local_device_cache_corruption_error_message": "Prišlo je do nepričakovane napake pri preverjanju pristnosti Google. Zdi se, da je lokalni predpomnilnik vaše naprave poškodovan.\nDo tega lahko pride, če ste pred kratkim preklicali/ponastavili/izbrisali povezavo med to aplikacijo in svojim računom Google.\nPredpomnilnik naprave bi se moral samodejno osvežiti vsako uro.\nPočakajte eno ali dve uri in poskusite znova.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

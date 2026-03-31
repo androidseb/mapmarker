@@ -524,6 +524,5 @@
     "sou_metric_option_2": "Metrisk: Meter / Kilometer",
     "sou_imperial_option_2": "Imperial: Fot / Miles",
     "google_web_oauth_status_message": "Tilkobling til Google-kontoen din gjøres gjennom to trinn: autentisering og autorisasjon.\n\nDu kan se to popup-vinduer på rad under tilkoblingsflyten – i så fall må du sørge for at du velger den samme Google-kontoen begge gangene.\n\n%1$s Trinn 1/2 – autentisering\n\n%2$s Trinn 2/2 – autorisasjon",
-    "google_oauth_local_device_cache_corruption_error_message": "En uventet Google autentiseringsfeil oppstod. Det ser ut til at den lokale hurtigbufferen på enheten din er ødelagt.\nDette kan skje hvis du nylig har tilbakekalt/tilbakestilt/slettet forbindelsen mellom denne appen og Google kontoen din.\nEnhetens hurtigbuffer skal oppdateres automatisk hver time.\nVent én eller to timer og prøv på nytt.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
