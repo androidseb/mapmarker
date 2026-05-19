@@ -524,5 +524,7 @@
     "sou_metric_option_2": "Sistema métrico: Metros / Kilómetros",
     "sou_imperial_option_2": "Sistema imperial: pies / millas",
     "google_web_oauth_status_message": "La conexión a su cuenta Google se realiza en dos pasos: autenticación y autorización.\n\nEs posible que vea dos ventanas emergentes seguidas durante el proceso de conexión; en ese caso, asegúrese de seleccionar la misma cuenta Google en ambas ocasiones.\n\n%1$s Paso 1/2 - Autenticación\n\n%2$s Paso 2/2 - Autorización",
+    "waiting_for_accurate_gps_location_title": "Esperando ubicación GPS",
+    "waiting_for_accurate_gps_location_message": "La grabación de la ruta está pendiente de una ubicación GPS suficientemente precisa. Puedes ajustar el umbral de precisión desde la configuración de la aplicación.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

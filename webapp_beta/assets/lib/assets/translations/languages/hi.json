@@ -524,5 +524,7 @@
     "sou_metric_option_2": "मीट्रिक: मीटर / किलोमीटर",
     "sou_imperial_option_2": "इंपीरियल: फीट / मील",
     "google_web_oauth_status_message": "आपके Google खाते से जुड़ने की प्रक्रिया दो चरणों में पूरी होती है: प्रमाणीकरण और प्राधिकरण।\n\nकनेक्शन प्रक्रिया के दौरान आपको एक साथ दो पॉपअप दिखाई दे सकते हैं - ऐसी स्थिति में, कृपया सुनिश्चित करें कि आप दोनों बार एक ही Google खाते का चयन करें।\n\n%1$s चरण 1/2 - प्रमाणीकरण\n\n%2$s चरण 2/2 - प्राधिकरण",
+    "waiting_for_accurate_gps_location_title": "जीपीएस लोकेशन का इंतजार है",
+    "waiting_for_accurate_gps_location_message": "ट्रैकिंग रिकॉर्डिंग के लिए पर्याप्त सटीक जीपीएस लोकेशन का इंतज़ार है। आप ऐप सेटिंग से सटीकता सीमा को समायोजित कर सकते हैं।",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

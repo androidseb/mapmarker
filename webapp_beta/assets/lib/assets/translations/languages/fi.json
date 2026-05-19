@@ -524,5 +524,7 @@
     "sou_metric_option_2": "Metrijärjestelmä: Metrit / Kilometrit",
     "sou_imperial_option_2": "Imperial: Jalkaa / Mailia",
     "google_web_oauth_status_message": "Yhteyden muodostaminen Google-tilillesi tapahtuu kahdessa vaiheessa: todennuksen ja valtuutuksen avulla.\n\nSaatat nähdä kaksi ponnahdusikkunaa peräkkäin yhteyden muodostamisen aikana. Varmista tässä tapauksessa, että valitset saman Google-tilin molemmilla kerroilla.\n\n%1$s Vaihe 1/2 - todennus\n\n%2$s Vaihe 2/2 - valtuutus",
+    "waiting_for_accurate_gps_location_title": "Odotetaan GPS-sijaintia",
+    "waiting_for_accurate_gps_location_message": "Reitin tallennus odottaa riittävän tarkkaa GPS-sijaintia. Voit säätää tarkkuuskynnystä sovelluksen asetuksista.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
