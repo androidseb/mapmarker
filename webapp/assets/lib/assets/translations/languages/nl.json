@@ -524,5 +524,7 @@
     "sou_metric_option_2": "Metrisch: Meters / Kilometers",
     "sou_imperial_option_2": "Imperiaal: Voet / Mijl",
     "google_web_oauth_status_message": "Verbinding maken met uw Google account gebeurt in twee stappen: authenticatie en autorisatie.\n\nHet kan zijn dat u tijdens het verbindingsproces twee pop-ups achter elkaar ziet. Zorg er in dat geval voor dat u beide keren hetzelfde Google account selecteert.\n\n%1$s Stap 1/2 - authenticatie\n\n%2$s Stap 2/2 - autorisatie",
+    "waiting_for_accurate_gps_location_title": "Wachten op GPS-locatie",
+    "waiting_for_accurate_gps_location_message": "De route-opname is afhankelijk van een voldoende nauwkeurige GPS-locatie. U kunt de nauwkeurigheidsdrempel aanpassen in de app-instellingen.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
