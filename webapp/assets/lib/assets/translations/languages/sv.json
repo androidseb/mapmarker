@@ -526,5 +526,6 @@
     "google_web_oauth_status_message": "Att ansluta till ditt Google-konto sker i två steg: autentisering och auktorisering.\n\nDu kan se två popup-fönster i rad under anslutningsflödet – i så fall, se till att du väljer samma Google-konto båda gångerna.\n\n%1$s Steg 1/2 - autentisering\n\n%2$s Steg 2/2 - auktorisering",
     "waiting_for_accurate_gps_location_title": "Väntar på GPS-position",
     "waiting_for_accurate_gps_location_message": "Spårregistreringen avvaktar med tillräckligt exakt GPS-positionering. Du kan justera noggrannhetsgränsen i appinställningarna.",
+    "failed_to_open_browser_popup_error_message": "Det gick inte att öppna popup-fönstret, troligtvis blockerat av din webbläsare. Kontrollera dina webbläsarinställningar för att tillåta popup-fönster på den här webbplatsen. De flesta webbläsare har en \"tillåt\"-knapp som visas runt adressfältet när popup-fönster blockeras.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

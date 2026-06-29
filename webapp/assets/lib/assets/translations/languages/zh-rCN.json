@@ -526,5 +526,6 @@
     "google_web_oauth_status_message": "连接到您的Google帐户需要两个步骤：身份验证和授权。\n\n连接过程中，您可能会连续看到两个弹出窗口 - 在这种情况下，请确保两次都选择同一个Google帐户。\n\n%1$s 步骤 1/2 - 身份验证\n\n%2$s 步骤 2/2 - 授权",
     "waiting_for_accurate_gps_location_title": "等待 GPS 定位",
     "waiting_for_accurate_gps_location_message": "轨迹记录需要 GPS 定位精度足够高才能进行。您可以在应用设置中调整精度阈值。",
+    "failed_to_open_browser_popup_error_message": "打开弹出窗口失败，很可能是被您的浏览器阻止了，请检查您的浏览器设置以允许此网站弹出窗口，大多数浏览器在阻止弹出窗口时，地址栏附近都会出现一个“允许”按钮。",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
