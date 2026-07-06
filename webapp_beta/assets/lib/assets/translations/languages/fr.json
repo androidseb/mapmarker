@@ -526,5 +526,6 @@
     "google_web_oauth_status_message": "La connexion à votre compte Google se fait en deux étapes: l'authentification et l'autorisation.\nVous pourriez voir deux popups lors du processus de connexion - dans ce cas, assurez-vous de sélectionner le même compte Google les deux fois.\n\n\n%1$s Étape 1/2 - authentification\n\n%2$s Étape 2/2 - autorisation",
     "waiting_for_accurate_gps_location_title": "En attente de position GPS",
     "waiting_for_accurate_gps_location_message": "Enregistrement du tracé en attente d'une position GPS suffisamment précise. Vous pouvez ajuster le seuil de précision depuis les réglages de l'application.",
+    "failed_to_open_browser_popup_error_message": "L'ouverture de la fenêtre popup a échoué, probablement bloquée par votre navigateur. Vérifiez les paramètres de votre navigateur pour autoriser les popups sur ce site. La plupart des navigateurs affichent un bouton 'Autoriser' autour de la barre d'adresse lors du bloquage d'une popup.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

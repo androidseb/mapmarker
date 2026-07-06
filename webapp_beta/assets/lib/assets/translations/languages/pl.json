@@ -526,5 +526,6 @@
     "google_web_oauth_status_message": "Łączenie się z kontem Google odbywa się w dwóch etapach: uwierzytelniania i autoryzacji.\nPodczas łączenia mogą pojawić się dwa wyskakujące okienka z rzędu – w takim przypadku upewnij się, że za każdym razem wybierzesz to samo konto Google.\n\n%1$s Krok 1/2 – uwierzytelnianie\n\n%2$s Krok 2/2 – autoryzacja",
     "waiting_for_accurate_gps_location_title": "Czekam na lokalizację GPS",
     "waiting_for_accurate_gps_location_message": "Rejestrowanie trasy oczekuje na wystarczająco dokładną lokalizację GPS. Próg dokładności można dostosować w ustawieniach aplikacji.",
+    "failed_to_open_browser_popup_error_message": "Nie udało się otworzyć okna pop-up, najprawdopodobniej zostało ono zablokowane przez Twoją przeglądarkę. Sprawdź ustawienia swojej przeglądarki, aby zezwolić na otwieranie okienek pop-up na tej stronie. Większość przeglądarek ma przycisk „zezwól” pojawiający się wokół paska adresu podczas blokowania okienek pop-up.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

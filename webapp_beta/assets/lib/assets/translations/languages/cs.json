@@ -526,5 +526,6 @@
     "google_web_oauth_status_message": "Připojení k vašemu účtu Google probíhá ve dvou krocích: ověřování a autorizace.\nBěhem procesu připojování se mohou zobrazit dvě vyskakovací okna za sebou – v takovém případě se prosím ujistěte, že jste v obou krocích vybrali stejný účet Google.\n\n%1$s Krok 1/2 – ověřování\n\n%2$s Krok 2/2 – autorizace",
     "waiting_for_accurate_gps_location_title": "Čekání na polohu GPS",
     "waiting_for_accurate_gps_location_message": "Záznam trasy probíhá z důvodu dostatečně přesné GPS polohy. Práh přesnosti můžete upravit v nastavení aplikace.",
+    "failed_to_open_browser_popup_error_message": "Otevírání vyskakovacího okna se nezdařilo, pravděpodobně je blokováno vaším prohlížečem. Zkontrolujte nastavení prohlížeče, zda na tomto webu povoluje vyskakovací okna. Většina prohlížečů má při blokování vyskakovacích oken tlačítko „Povolit“ zobrazené kolem adresního řádku.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }

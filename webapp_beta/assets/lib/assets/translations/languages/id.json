@@ -526,5 +526,6 @@
     "google_web_oauth_status_message": "Menghubungkan ke akun Google Anda dilakukan melalui dua langkah: autentikasi dan otorisasi.\nAnda mungkin melihat dua pop-up berturut-turut selama proses koneksi - dalam hal ini, pastikan Anda memilih akun Google yang sama di kedua kesempatan tersebut.\n\n%1$s Langkah 1/2 - autentikasi\n\n%2$s Langkah 2/2 - otorisasi",
     "waiting_for_accurate_gps_location_title": "Menunggu lokasi GPS",
     "waiting_for_accurate_gps_location_message": "Perekaman trek sedang berlangsung menunggu lokasi GPS yang cukup akurat. Anda dapat menyesuaikan ambang batas akurasi dari pengaturan aplikasi.",
+    "failed_to_open_browser_popup_error_message": "Pembukaan jendela pop-up gagal, kemungkinan besar diblokir oleh browser Anda. Periksa pengaturan browser Anda untuk mengizinkan pop-up di situs ini. Sebagian besar browser memiliki tombol 'izinkan' yang muncul di sekitar bilah alamat saat memblokir pop-up.",
     "_": "This entry is just so that the other lines entries can stay with a ',' at the end"
 }
