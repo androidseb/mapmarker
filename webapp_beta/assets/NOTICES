@@ -15668,6 +15668,7 @@ http
 http_parser
 matcher
 path
+pool
 source_span
 string_scanner
 
