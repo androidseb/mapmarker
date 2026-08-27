@@ -2033,6 +2033,8 @@ google_sign_in_web
 image_picker_for_web
 image_picker_macos
 image_picker_platform_interface
+in_app_purchase
+in_app_purchase_android
 
 Copyright 2013 The Flutter Authors
 
@@ -5590,8 +5592,6 @@ google_sign_in
 google_sign_in_platform_interface
 image_picker_linux
 image_picker_windows
-in_app_purchase
-in_app_purchase_android
 in_app_purchase_platform_interface
 in_app_purchase_storekit
 path_provider
@@ -15668,6 +15668,7 @@ http
 http_parser
 matcher
 path
+pool
 source_span
 string_scanner
 
